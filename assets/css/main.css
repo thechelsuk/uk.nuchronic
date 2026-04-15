@@ -198,6 +198,10 @@ code {
   color: var(--text);
 }
 
+.story-body {
+  min-width: 0;
+}
+
 .story-meta,
 .entry-meta {
   margin: 0;
@@ -205,8 +209,33 @@ code {
   font-size: 0.75rem;
 }
 
+.story-meta {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  white-space: nowrap;
+}
+
+.story-date,
+.story-author,
+.meta-separator {
+  flex: none;
+}
+
+.story-link-group {
+  display: flex;
+  align-items: center;
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
 .story-url {
-  overflow-wrap: anywhere;
+  display: block;
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .story-meta a,
@@ -353,6 +382,10 @@ code {
     padding-right: 8px;
   }
 
+  .story-meta {
+    gap: 0;
+  }
+
   .pagination {
     padding: 14px 12px 18px;
   }
@@ -370,5 +403,21 @@ code {
   .empty-state,
   .entry-card {
     padding: 24px 16px 28px;
+  }
+}
+
+@media (max-width: 540px) {
+  .story-meta {
+    flex-wrap: wrap;
+    row-gap: 2px;
+  }
+
+  .story-link-group {
+    flex-basis: 100%;
+    margin-top: 1px;
+  }
+
+  .story-link-group .meta-separator {
+    display: none;
   }
 }

@@ -1,8 +1,11 @@
 sources:
   - id: thechelsuk
     feed_url: https://thechels.uk/feed.xml
+  - id: the-me-association
+    feed_url: https://www.meassociation.org.uk/feed/
   - id: ladybugthoughts13
     feed_url: https://ladybugthoughts13.blogspot.com/feeds/posts/default
   - id: the-ensemblist
     feed_url: https://the-ensemblist.uk/feed.xml
-
+  - id: broken-battery
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0qxkaMaZ733kc-OIahuaYw

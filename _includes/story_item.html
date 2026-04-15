@@ -9,13 +9,15 @@
             {% endif %}
         </h2>
         <p class="story-meta">
-            <time
+            <time class="story-date"
                 datetime="{{ include.post.date | date_to_xmlschema }}">{{ include.post.date | date: "%b %-d, %Y" }}</time>
             <span class="meta-separator">·</span>
-            by {{ include.post.author | default: "anonymous" }}
+            <span class="story-author">by {{ include.post.author | default: "anonymous" }}</span>
             {% if include.post.link %}
-            <span class="meta-separator">·</span>
-            <a class="story-url" href="{{ include.post.link }}">{{ include.post.link }}</a>
+            <span class="story-link-group">
+                <span class="meta-separator">·</span>
+                <a class="story-url" href="{{ include.post.link }}">{{ include.post.link }}</a>
+            </span>
             {% endif %}
         </p>
     </div>
