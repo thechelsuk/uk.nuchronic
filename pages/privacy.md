@@ -4,7 +4,7 @@ title: Privacy
 permalink: /privacy
 ---
 
-Chronicle does not collect personal data about visitors. There are no user accounts, no comments, no analytics dashboard, and no advertising or tracking built into the site.
+Nuchronic does not collect personal data about visitors. There are no user accounts, no comments, no analytics dashboard, and no advertising or tracking built into the site.
 
 The only information this site collects is feed data that is already publicly available through submitted RSS or Atom feeds. That can include a post title, link, author name, and published date when those details are provided by the feed itself.
 
