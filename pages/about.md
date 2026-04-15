@@ -23,7 +23,7 @@ Feeds are checked every hour or so automatically, and new posts are added to the
 
 Create a GitHub issue in this repo with the feed URL and a brief description of the source. If your feed is accepted, it will be added to the webring and will start appearing on the homepage.
 
-If adding a GitHub issue is too much for you, you can also email the feed URL and a brief description to _chronicle<!--example.com-->@thechels.uk_.
+If adding a GitHub issue is too much for you, you can also email the feed URL and a brief description to _submission<!--example.com-->@thechels.uk_.
 
 Or by contacting [thechelsuk](https://links.thechels.uk) on social media.
 
