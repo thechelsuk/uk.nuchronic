@@ -25,8 +25,6 @@ footer_nav:
   notice: The web ring for the chronically ill indie web.
   year: 2026
   links:
-    - label: thechelsuk
-      url: https://thechels.uk
     - label: About
       url: "/about"
     - label: Terms
@@ -35,7 +33,7 @@ footer_nav:
       url: "/privacy"
     - label: Sponsor
       url: "https://github.com/sponsors/thechelsuk"
-    - label: Support with a ko-fi
+    - label: ko-fi
       url: "https://ko-fi.com/thechelsuk"
 defaults:
   - scope:
