@@ -9,3 +9,5 @@ sources:
     feed_url: https://the-ensemblist.uk/feed.xml
   - id: broken-battery
     feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UC0qxkaMaZ733kc-OIahuaYw
+  - id: Colleen-steckell
+    feed_url: https://colleensteckelmeiccinfo.substack.com/feed/
