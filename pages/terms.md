@@ -10,4 +10,4 @@ We try to show links and feed information as they appear in public feeds, but we
 
 We are not responsible for the content of any linked sites or feeds. We do not endorse any linked content, and we are not liable for any damages or losses that may arise from visiting or using those sites.
 
-If you want your site, feed, or pages removed, please email _chronicle<!--example.com-->@thechels.uk_ and the request will be reviewed.
+If you want your site, feed, or pages removed, please email _privacy<!--example.com-->@nuchronic.uk_ and the request will be reviewed.
