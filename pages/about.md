@@ -29,7 +29,7 @@ Or by contacting [thechelsuk](https://links.thechels.uk) on social media.
 
 ## Removals
 
-If you would like your feed removed from Chronicle, please email _chronicle<!--example.com-->@thechels.uk_ and your request will be actioned as soon as adequate spoons allow.
+If you would like your feed removed from Chronicle, please email _chronicle<!--example.com-->@nuchronic.uk_ and your request will be actioned as soon as adequate spoons allow.
 
 - We can remove an individual item, if it has also been removed from the source feed.
 - We can remove the feed entirely if you no longer want to be part of the webring that will stop future items being added.
