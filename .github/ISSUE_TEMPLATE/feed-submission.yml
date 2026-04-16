@@ -1,5 +1,5 @@
 name: Feed Submission
-description: Submit a feed for inclusion in CHRONICLE.
+description: Submit a feed for inclusion.
 title: "[Feed Submission] "
 body:
   - type: input

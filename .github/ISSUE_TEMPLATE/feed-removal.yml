@@ -1,0 +1,12 @@
+name: Feed Removal
+description: Submit a site/feed for removal.
+title: "[Feed removal] "
+body:
+  - type: input
+    id: feed_url
+    attributes:
+      label: Feed URL
+      description: A  URL to the site or RSS/Atom feed.
+      placeholder: https://example.com/feed.xml
+    validations:
+      required: true

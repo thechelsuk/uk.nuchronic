@@ -13,3 +13,5 @@ sources:
     feed_url: https://colleensteckelmeiccinfo.substack.com/feed/
   - id: hillary-johnson
     feed_url: https://hillaryjohnson.substack.com/feed
+  - id: Health-rising
+    feed_url: https://www.healthrising.org/feed
