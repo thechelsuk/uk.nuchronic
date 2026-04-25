@@ -50,7 +50,7 @@ jobs:
                   git config user.name "GitHub Action"
                   git config user.email "action@github.com"
                   git add -A
-                  git commit -m "chore: sync sources"
+                  git commit -m "Chore: sync sources $(date -u +%Y-%m-%dT%H:%M)"
                   git push origin HEAD:${GITHUB_REF_NAME}
     build:
         runs-on: ubuntu-latest
