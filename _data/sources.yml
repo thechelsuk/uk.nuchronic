@@ -17,4 +17,6 @@ sources:
     feed_url: https://www.healthrising.org/feed
   - id: brennan-day
     feed_url: https://brennan.day/feed.xml
- 
+  - id: type-by-error
+    feed_url: https://trialbyerror.org/feed/
+    
