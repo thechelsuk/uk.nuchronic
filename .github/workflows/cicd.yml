@@ -2,7 +2,7 @@ name: Pull and Deploy
 
 on:
     schedule:
-        - cron: "0 * * * *"
+        - cron: "7 * * * *"
     workflow_dispatch:
     push:
         branches: ["main"]
