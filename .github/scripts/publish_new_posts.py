@@ -392,11 +392,21 @@ def send_bridgy_fed_webmention(
     existing_record = existing if isinstance(existing, dict) else None
     verified, verified_targets, verification_errors = verify_bridgy_delivery(source_url, existing_record)
     if verified:
+        existing_verified_targets = normalize_targets((existing_record or {}).get("verified_targets"))
+        existing_verification_errors = (existing_record or {}).get("verification_errors")
+        if (
+            isinstance(existing_record, dict)
+            and existing_record.get("status") == "success"
+            and existing_verified_targets == verified_targets
+            and existing_verification_errors == (verification_errors or None)
+        ):
+            return False, 0
+
         updated_record = dict(existing_record or {})
         updated_record["target_url"] = BRIDGY_FED_TARGET
         updated_record["resolved_url"] = clean_url(str(updated_record.get("resolved_url", BRIDGY_FED_TARGET)).strip()) or BRIDGY_FED_TARGET
         updated_record["verified_targets"] = verified_targets
-        updated_record["verified_at"] = now_iso()
+        updated_record["verified_at"] = str(updated_record.get("verified_at") or now_iso())
         updated_record["status"] = "success"
         if verification_errors:
             updated_record["verification_errors"] = verification_errors
