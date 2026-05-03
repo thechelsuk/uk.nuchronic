@@ -73,6 +73,18 @@ body::before {
   opacity: 0.35;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 a {
   color: inherit;
   text-decoration: none;
@@ -192,8 +204,21 @@ code {
   letter-spacing: 0.01em;
 }
 
+.story-title-row {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
 .story-title a {
   color: var(--text);
+}
+
+.story-permalink {
+  flex: none;
+  color: var(--accent-soft);
+  font-family: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
+  font-size: 0.82rem;
 }
 
 .story-body {
@@ -237,6 +262,7 @@ code {
 }
 
 .story-meta a,
+.story-discuss,
 .entry-link a,
 .entry-kicker a {
   color: var(--accent-soft);
@@ -357,6 +383,92 @@ code {
 
 .entry-body p {
   margin: 0 0 1rem;
+}
+
+.entry-mentions {
+  max-width: 68ch;
+  margin-top: 28px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.entry-section-title,
+.mention-group-title {
+  margin: 0;
+  font-family: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.entry-section-title {
+  color: var(--text);
+}
+
+.mention-group {
+  margin-top: 18px;
+}
+
+.mention-group-title {
+  color: var(--text-faint);
+}
+
+.mention-list,
+.mention-people {
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.mention-list {
+  display: grid;
+  gap: 12px;
+}
+
+.mention-card {
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 8px;
+}
+
+.mention-list-compact {
+  gap: 8px;
+}
+
+.mention-card-compact {
+  padding: 10px 12px;
+}
+
+.mention-meta,
+.mention-source {
+  margin: 0;
+  color: var(--text-dim);
+  font-size: 0.78rem;
+}
+
+.mention-content {
+  margin: 10px 0 0;
+  color: var(--text);
+}
+
+.mention-source {
+  margin-top: 10px;
+}
+
+.mention-people {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.mention-people li {
+  padding: 6px 10px;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 999px;
+  font-size: 0.78rem;
 }
 
 @media (max-width: 720px) {

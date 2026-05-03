@@ -1,6 +1,6 @@
 title: Nuchronic
 description: Dark-mode Hacker News-style feed for the chronically ill indie web.
-url: ""
+url: "https://nuchronic.uk"
 baseurl: ""
 timezone: UTC
 markdown: kramdown
@@ -14,6 +14,12 @@ feed:
   path: feed.xml
 paginate: 30
 paginate_path: /page:num/
+webmentions:
+  username: nuchronic.uk
+  endpoint: https://webmention.io/nuchronic.uk/webmention
+rel_me:
+  - https://github.com/thechelsuk
+  - https://web.brid.gy/nuchronic.uk
 header_nav:
   links:
     - label: Home

@@ -2,28 +2,129 @@
 layout: default
 ---
 {% capture body %}{{ content | strip }}{% endcapture %}
+{% assign item_url = page.url | absolute_url %}
+{% assign mention = site.data.webmentions[page.slug] %}
 
-<article class="entry-card">
+<article class="entry-card h-entry">
+    <a class="u-url visually-hidden" href="{{ item_url }}">{{ item_url }}</a>
+    <span class="p-author h-card visually-hidden">
+        <a class="p-name u-url" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+        <img class="u-photo" src="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" alt="{{ site.title }}">
+    </span>
     <p class="entry-kicker"><a href="{{ '/' | relative_url }}">new</a></p>
-    <h1 class="entry-title">
+    <h1 class="entry-title p-name">
         {% if page.link %}
-        <a href="{{ page.link }}">{{ page.title }}</a>
+        <a class="u-bookmark-of" href="{{ page.link }}">{{ page.title }}</a>
         {% else %}
         {{ page.title }}
         {% endif %}
     </h1>
     <p class="entry-meta">
-        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+        <time class="dt-published"
+            datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
         <span class="meta-separator">·</span>
         by {{ page.author | default: "anonymous" }}
+        <span class="meta-separator">·</span>
+        <a href="{{ page.url | relative_url }}">permalink</a>
     </p>
     {% if page.link %}
     <p class="entry-link-label">Source</p>
     <p class="entry-link"><a href="{{ page.link }}">{{ page.link }}</a></p>
     {% endif %}
     {% if body != "" %}
-    <div class="entry-body">
+    <div class="entry-body e-content">
         {{ content }}
     </div>
+    {% endif %}
+    {% if mention and mention.count > 0 %}
+    <section class="entry-mentions">
+        <h2 class="entry-section-title">{{ mention.count }} mention{% unless mention.count == 1 %}s{% endunless %}</h2>
+
+        {% if mention.replies and mention.replies.size > 0 %}
+        <section class="mention-group">
+            <h3 class="mention-group-title">Replies</h3>
+            <ol class="mention-list">
+                {% for reply in mention.replies %}
+                <li class="mention-card">
+                    <p class="mention-meta">
+                        {% if reply.author_url %}
+                        <a href="{{ reply.author_url }}">{{ reply.author_name }}</a>
+                        {% else %}
+                        {{ reply.author_name }}
+                        {% endif %}
+                        {% if reply.published %}
+                        <span class="meta-separator">·</span>
+                        <time datetime="{{ reply.published }}">{{ reply.published | date: "%B %-d, %Y" }}</time>
+                        {% endif %}
+                    </p>
+                    {% if reply.content_text %}
+                    <p class="mention-content">{{ reply.content_text | escape | newline_to_br }}</p>
+                    {% endif %}
+                    {% if reply.url %}
+                    <p class="mention-source"><a href="{{ reply.url }}">Open mention</a></p>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ol>
+        </section>
+        {% endif %}
+
+        {% if mention.likes and mention.likes.size > 0 %}
+        <section class="mention-group">
+            <h3 class="mention-group-title">Reactions</h3>
+            <ul class="mention-people">
+                {% for reaction in mention.likes %}
+                <li>
+                    {% if reaction.author_url %}
+                    <a href="{{ reaction.author_url }}">{{ reaction.author_name }}</a>
+                    {% else %}
+                    {{ reaction.author_name }}
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+
+        {% if mention.reposts and mention.reposts.size > 0 %}
+        <section class="mention-group">
+            <h3 class="mention-group-title">Reposts</h3>
+            <ul class="mention-people">
+                {% for repost in mention.reposts %}
+                <li>
+                    {% if repost.author_url %}
+                    <a href="{{ repost.author_url }}">{{ repost.author_name }}</a>
+                    {% else %}
+                    {{ repost.author_name }}
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+
+        {% if mention.mentions and mention.mentions.size > 0 %}
+        <section class="mention-group">
+            <h3 class="mention-group-title">Mentions</h3>
+            <ul class="mention-list mention-list-compact">
+                {% for item in mention.mentions %}
+                <li class="mention-card mention-card-compact">
+                    <p class="mention-meta">
+                        {% if item.author_url %}
+                        <a href="{{ item.author_url }}">{{ item.author_name }}</a>
+                        {% else %}
+                        {{ item.author_name }}
+                        {% endif %}
+                        {% if item.url %}
+                        <span class="meta-separator">·</span>
+                        <a href="{{ item.url }}">Open mention</a>
+                        {% endif %}
+                    </p>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+        {% endif %}
+    </section>
     {% endif %}
 </article>

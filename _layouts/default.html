@@ -10,6 +10,14 @@
             {% include header.html %}
             <div class="content-shell">
                 <main class="content-main">
+                    {% if page.url == '/' %}
+                    <div class="visually-hidden site-h-card h-card">
+                        <a class="p-name u-url" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+                        <img class="u-photo" src="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}"
+                            alt="{{ site.title }}">
+                        <p class="p-note">{{ site.description }}</p>
+                    </div>
+                    {% endif %}
                     {{ content }}
                 </main>
                 {% include footer.html %}
