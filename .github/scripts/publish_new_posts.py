@@ -4,7 +4,6 @@ from __future__ import annotations
 import argparse
 from datetime import datetime, timezone
 from html.parser import HTMLParser
-import json
 from pathlib import Path
 import re
 import subprocess
@@ -24,18 +23,17 @@ from fetch_webmentions import derive_slug, load_site_url, read_front_matter  # n
 
 
 CACHE_DIR = ROOT / ".cache"
-BRIDGY_CACHE_FILE = CACHE_DIR / "bridgy_publish.yml"
+BRIDGY_CACHE_FILE = CACHE_DIR / "bridgy_fed_webmentions.yml"
 OUTGOING_WEBMENTIONS_FILE = CACHE_DIR / "outgoing_webmentions.yml"
 LOOKUPS_FILE = CACHE_DIR / "webmention_lookups.yml"
 BAD_URIS_FILE = CACHE_DIR / "webmention_bad_uris.yml"
-SYNDICATION_FILE = ROOT / "_data" / "syndication_links.yml"
 POSTS_DIR = ROOT / "_posts"
 
-BRIDGY_ENDPOINT = "https://brid.gy/publish/webmention"
-BRIDGY_TARGETS = ("bluesky", "mastodon")
+BRIDGY_FED_TARGET = "https://fed.brid.gy/"
 USER_AGENT = "nuchronic-outgoing/1.0"
 MAX_HTML_BYTES = 512 * 1024
 LINK_HEADER_SPLIT_RE = re.compile(r",\s*(?=<)")
+DEFAULT_RETRY_RECENT = 20
 
 
 class EndpointParser(HTMLParser):
@@ -130,6 +128,14 @@ def list_new_post_paths(before_sha: str, current_sha: str) -> list[Path]:
         if path.exists() and path.is_file():
             paths.append(path)
     return paths
+
+
+def list_recent_post_paths(limit: int) -> list[Path]:
+    if limit <= 0:
+        return []
+
+    posts = sorted((path for path in POSTS_DIR.glob("*.md") if path.is_file()), reverse=True)
+    return posts[:limit]
 
 
 def parse_link_headers(header_values: list[str], base_url: str) -> str:
@@ -259,61 +265,90 @@ def ensure_post_entry(cache: dict[str, Any], slug: str, source_url: str, contain
     return entry
 
 
-def publish_to_bridgy(slug: str, source_url: str, bridgy_cache: dict[str, Any], *, dry_run: bool) -> tuple[bool, int]:
-    post_entry = ensure_post_entry(bridgy_cache, slug, source_url, "networks")
-    failures = 0
-    changes = False
+def has_successful_bridgy_delivery(bridgy_cache: dict[str, Any], slug: str) -> bool:
+    post_entry = bridgy_cache["posts"].get(slug)
+    if not isinstance(post_entry, dict):
+        return False
 
-    for network in BRIDGY_TARGETS:
-        existing = post_entry["networks"].get(network)
-        if isinstance(existing, dict) and existing.get("status") == "success" and existing.get("url"):
+    bridgy_entry = post_entry.get("bridgy")
+    return isinstance(bridgy_entry, dict) and bridgy_entry.get("status") == "success"
+
+
+def collect_post_candidates(
+    before_sha: str,
+    current_sha: str,
+    bridgy_cache: dict[str, Any],
+    retry_recent: int,
+) -> list[tuple[Path, bool]]:
+    candidates: list[tuple[Path, bool]] = []
+    seen_slugs: set[str] = set()
+
+    for post_path in list_new_post_paths(before_sha, current_sha):
+        slug = derive_slug(post_path)
+        if slug in seen_slugs:
             continue
+        seen_slugs.add(slug)
+        candidates.append((post_path, True))
 
-        if dry_run:
-            print(f"Would publish {source_url} to {network} via Bridgy")
+    for post_path in list_recent_post_paths(retry_recent):
+        slug = derive_slug(post_path)
+        if slug in seen_slugs or has_successful_bridgy_delivery(bridgy_cache, slug):
             continue
+        seen_slugs.add(slug)
+        candidates.append((post_path, False))
 
-        target_url = f"https://brid.gy/publish/{network}"
-        response = post_form(BRIDGY_ENDPOINT, {"source": source_url, "target": target_url})
-        body_text = decode_body(response)
+    return candidates
 
-        payload: dict[str, Any] = {}
-        if body_text:
-            try:
-                parsed = json.loads(body_text)
-                if isinstance(parsed, dict):
-                    payload = parsed
-            except json.JSONDecodeError:
-                payload = {}
 
-        record = {
-            "status": "success" if 200 <= response["status"] < 300 else "failed",
-            "target": target_url,
-            "response_status": int(response["status"]),
-            "updated_at": now_iso(),
-        }
-        publish_url = str(payload.get("url", "")).strip() or str(response["headers"].get("Location", "")).strip()
-        publish_id = str(payload.get("id", "")).strip()
-        granary_message = str(payload.get("granary_message", "")).strip()
-        if publish_url:
-            record["url"] = publish_url
-        if publish_id:
-            record["id"] = publish_id
-        if granary_message:
-            record["granary_message"] = granary_message
+def send_bridgy_fed_webmention(
+    slug: str,
+    source_url: str,
+    bridgy_cache: dict[str, Any],
+    lookups_cache: dict[str, Any],
+    bad_uris_cache: dict[str, Any],
+    *,
+    dry_run: bool,
+) -> tuple[bool, int]:
+    post_entry = ensure_post_entry(bridgy_cache, slug, source_url, "bridgy")
+    existing = post_entry.get("bridgy")
+    if isinstance(existing, dict) and existing.get("status") == "success":
+        return False, 0
 
-        if record["status"] == "success":
-            record["sent_at"] = now_iso()
-            print(f"Published {source_url} to {network}: {publish_url or publish_id or response['status']}")
-        else:
-            failures += 1
-            record["error"] = excerpt(body_text) or f"HTTP {response['status']}"
-            print(f"Failed to publish {source_url} to {network}: {record['error']}")
+    if dry_run:
+        print(f"Would notify Bridgy Fed about {source_url}")
+        return False, 0
 
-        post_entry["networks"][network] = record
-        changes = True
+    resolved_url, endpoint, discovery_status = discover_webmention_endpoint(BRIDGY_FED_TARGET, lookups_cache, bad_uris_cache)
+    record: dict[str, Any] = {
+        "target_url": BRIDGY_FED_TARGET,
+        "resolved_url": resolved_url,
+        "updated_at": now_iso(),
+    }
 
-    return changes, failures
+    if not endpoint:
+        record["status"] = "failed"
+        record["reason"] = discovery_status
+        post_entry["bridgy"] = record
+        print(f"Failed to discover Bridgy Fed endpoint for {source_url}: {discovery_status}")
+        return True, 1
+
+    record["endpoint"] = endpoint
+    response = post_form(endpoint, {"source": source_url, "target": resolved_url})
+    body_text = decode_body(response)
+    record["response_status"] = int(response["status"])
+
+    if 200 <= response["status"] < 300:
+        record["status"] = "success"
+        record["sent_at"] = now_iso()
+        post_entry["bridgy"] = record
+        print(f"Notified Bridgy Fed about {source_url}")
+        return True, 0
+
+    record["status"] = "failed"
+    record["error"] = excerpt(body_text) or f"HTTP {response['status']}"
+    post_entry["bridgy"] = record
+    print(f"Failed to notify Bridgy Fed about {source_url}: {record['error']}")
+    return True, 1
 
 
 def send_outgoing_webmention(
@@ -372,65 +407,45 @@ def send_outgoing_webmention(
     return True, 1
 
 
-def build_public_syndication_data(bridgy_cache: dict[str, Any]) -> dict[str, Any]:
-    public_data: dict[str, Any] = {}
-    posts = bridgy_cache.get("posts", {})
-    if not isinstance(posts, dict):
-        return public_data
-
-    for slug, post_entry in posts.items():
-        if not isinstance(post_entry, dict):
-            continue
-
-        networks = post_entry.get("networks", {})
-        if not isinstance(networks, dict):
-            continue
-
-        public_entry: dict[str, Any] = {}
-        for network in BRIDGY_TARGETS:
-            details = networks.get(network)
-            if not isinstance(details, dict):
-                continue
-            if details.get("status") != "success" or not details.get("url"):
-                continue
-
-            network_entry: dict[str, Any] = {"url": str(details["url"]).strip()}
-            if details.get("id"):
-                network_entry["id"] = str(details["id"]).strip()
-            public_entry[network] = network_entry
-
-        if public_entry:
-            public_data[str(slug)] = public_entry
-
-    return public_data
-
-
-def process_posts(before_sha: str, current_sha: str, *, dry_run: bool) -> int:
+def process_posts(before_sha: str, current_sha: str, *, dry_run: bool, retry_recent: int) -> int:
     site_url = load_site_url()
-    new_posts = list_new_post_paths(before_sha, current_sha)
-    if not new_posts:
-        print("No new posts detected, skipping publication.")
-        return 0
-
     bridgy_cache = load_yaml_map(BRIDGY_CACHE_FILE, "posts")
     outgoing_cache = load_yaml_map(OUTGOING_WEBMENTIONS_FILE, "posts")
     lookups_cache = load_yaml_map(LOOKUPS_FILE, "targets")
     bad_uris_cache = load_yaml_map(BAD_URIS_FILE, "targets")
+    candidates = collect_post_candidates(before_sha, current_sha, bridgy_cache, retry_recent)
+    if not candidates:
+        print("No new or retryable posts detected, skipping publication.")
+        return 0
 
     any_changes = False
     failures = 0
+    new_post_count = 0
+    retry_count = 0
 
-    for post_path in new_posts:
+    for post_path, is_new in candidates:
+        if is_new:
+            new_post_count += 1
+        else:
+            retry_count += 1
+
         slug = derive_slug(post_path)
         source_url = f"{site_url}/item/{slug}/"
         front_matter = read_front_matter(post_path)
         source_link = clean_url(str(front_matter.get("link", "")).strip())
 
-        changed, publish_failures = publish_to_bridgy(slug, source_url, bridgy_cache, dry_run=dry_run)
+        changed, publish_failures = send_bridgy_fed_webmention(
+            slug,
+            source_url,
+            bridgy_cache,
+            lookups_cache,
+            bad_uris_cache,
+            dry_run=dry_run,
+        )
         any_changes = any_changes or changed
         failures += publish_failures
 
-        if source_link:
+        if is_new and source_link:
             changed, webmention_failures = send_outgoing_webmention(
                 slug,
                 source_url,
@@ -444,20 +459,20 @@ def process_posts(before_sha: str, current_sha: str, *, dry_run: bool) -> int:
             failures += webmention_failures
 
     if dry_run:
-        print(f"Dry run complete for {len(new_posts)} new post(s).")
+        print(f"Dry run complete for {len(candidates)} post(s).")
         return 0
-
-    public_data = build_public_syndication_data(bridgy_cache)
 
     wrote_any = False
     wrote_any = write_yaml(BRIDGY_CACHE_FILE, bridgy_cache) or wrote_any
     wrote_any = write_yaml(OUTGOING_WEBMENTIONS_FILE, outgoing_cache) or wrote_any
     wrote_any = write_yaml(LOOKUPS_FILE, lookups_cache) or wrote_any
     wrote_any = write_yaml(BAD_URIS_FILE, bad_uris_cache) or wrote_any
-    wrote_any = write_yaml(SYNDICATION_FILE, public_data) or wrote_any
 
     if wrote_any or any_changes:
-        print(f"Processed {len(new_posts)} new post(s).")
+        if retry_count:
+            print(f"Processed {len(candidates)} post(s): {new_post_count} new, {retry_count} retry.")
+        else:
+            print(f"Processed {len(candidates)} new post(s).")
     else:
         print("No publication state changed.")
 
@@ -465,12 +480,18 @@ def process_posts(before_sha: str, current_sha: str, *, dry_run: bool) -> int:
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Publish newly added posts to Bridgy and send outgoing source webmentions.")
+    parser = argparse.ArgumentParser(description="Notify Bridgy Fed about new posts and send outgoing source webmentions.")
     parser.add_argument("before_sha")
     parser.add_argument("current_sha")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--retry-recent",
+        type=int,
+        default=DEFAULT_RETRY_RECENT,
+        help="Also retry the most recent N posts that do not yet have a successful Bridgy Fed notification.",
+    )
     args = parser.parse_args()
-    return process_posts(args.before_sha, args.current_sha, dry_run=args.dry_run)
+    return process_posts(args.before_sha, args.current_sha, dry_run=args.dry_run, retry_recent=max(0, args.retry_recent))
 
 
 if __name__ == "__main__":

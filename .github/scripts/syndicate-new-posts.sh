@@ -5,6 +5,7 @@ before_sha="${1:?before sha is required}"
 current_sha="${2:?current sha is required}"
 python_bin="${PYTHON_BIN:-python3}"
 dry_run="${DRY_RUN:-false}"
+retry_recent="${RETRY_RECENT:-20}"
 
 is_truthy() {
     local lower_value
@@ -21,6 +22,7 @@ is_truthy() {
 }
 
 args=("$before_sha" "$current_sha")
+args+=("--retry-recent" "$retry_recent")
 if is_truthy "$dry_run"; then
     args+=("--dry-run")
 fi

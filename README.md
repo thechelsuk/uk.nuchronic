@@ -25,6 +25,12 @@ To dry-run outgoing publication for a commit range locally:
 python .github/scripts/publish_new_posts.py BEFORE_SHA AFTER_SHA --dry-run
 ```
 
+To re-notify Bridgy Fed for recent posts that missed an earlier send:
+
+```bash
+python .github/scripts/publish_new_posts.py HEAD HEAD --retry-recent 20 --dry-run
+```
+
 ## Content model
 
 - The homepage is the `new` feed.
@@ -37,12 +43,12 @@ python .github/scripts/publish_new_posts.py BEFORE_SHA AFTER_SHA --dry-run
 ## Automation
 
 - `.github/workflows/cicd.yml` syncs source feeds and deploys when new items land.
-- `.github/workflows/cicd.yml` also publishes every newly added post via Bridgy after deploy, sends an outgoing webmention to the linked source when that source supports it, and commits the resulting cache/data files for the follow-up deploy.
+- `.github/workflows/cicd.yml` also notifies Bridgy Fed about each newly added post after deploy, retries recent posts that missed an earlier Bridgy Fed notification, sends an outgoing webmention to the linked source when that source supports it, and commits the resulting cache files.
 - `.github/workflows/webmentions.yml` refreshes static webmention data every 3 hours and deploys when counts or mentions change.
-- Outgoing state is stored in `.cache/` and public syndication links are rendered from `_data/syndication_links.yml`.
+- Outgoing state is stored in `.cache/`.
 
 ## Identity Setup
 
 - The site publishes hidden `rel="me"` links for GitHub and Bridgy in the page head.
 - Bridgy syndication via `nuchronic.uk` has been set up in Bridgy Fed for the target networks.
-- Post detail pages now include hidden Bridgy publish backlinks so the publish endpoint can authorize new item URLs.
+- Post detail pages now include a hidden `u-bridgy-fed` link so a follow-up webmention can trigger Bridgy Fed immediately for new posts.
