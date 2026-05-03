@@ -1,0 +1,10 @@
+version: 1
+targets:
+  https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres:
+    resolved_url: https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres
+    reason: discovery-http-403
+    checked_at: '2026-05-03T13:23:29+00:00'
+  https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
+    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
+    reason: discovery-http-403
+    checked_at: '2026-05-03T13:23:30+00:00'

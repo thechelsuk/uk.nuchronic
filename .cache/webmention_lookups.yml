@@ -1,0 +1,6 @@
+version: 1
+targets:
+  https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/:
+    resolved_url: https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-03T13:23:31+00:00'

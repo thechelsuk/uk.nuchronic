@@ -1,0 +1,31 @@
+version: 1
+posts:
+  readers-remember-the-moment-there-s-something-wrong-d46558366c:
+    source_url: https://nuchronic.uk/item/readers-remember-the-moment-there-s-something-wrong-d46558366c/
+    targets:
+      https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres:
+        target_url: https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres
+        resolved_url: https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres
+        updated_at: '2026-05-03T13:23:29+00:00'
+        status: skipped
+        reason: discovery-http-403
+  news-2026-may-1-415dcfa08e:
+    source_url: https://nuchronic.uk/item/news-2026-may-1-415dcfa08e/
+    targets:
+      https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
+        target_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
+        resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
+        updated_at: '2026-05-03T13:23:30+00:00'
+        status: skipped
+        reason: discovery-http-403
+  announcing-my-new-radio-show-a-love-letter-to-public-access-television-91098c55ba:
+    source_url: https://nuchronic.uk/item/announcing-my-new-radio-show-a-love-letter-to-public-access-television-91098c55ba/
+    targets:
+      https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/:
+        target_url: https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/
+        resolved_url: https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/
+        updated_at: '2026-05-03T13:23:31+00:00'
+        endpoint: https://webmention.io/brennan.day/webmention
+        status: success
+        sent_at: '2026-05-03T13:23:31+00:00'
+        response_status: 201
