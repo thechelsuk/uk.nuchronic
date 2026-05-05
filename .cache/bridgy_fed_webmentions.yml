@@ -326,7 +326,21 @@ posts:
       updated_at: '2026-05-05T07:02:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-05T07:02:12+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-05T09:48:37+00:00'
+  news-bitsfrail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-c4d8a50701:
+    source_url: https://nuchronic.uk/item/news-bitsfrail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-c4d8a50701/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-05T09:48:36+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-05T09:48:36+00:00'
       verified_targets:
       - ap
