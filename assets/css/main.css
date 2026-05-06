@@ -559,12 +559,17 @@ code {
 }
 
 @media (max-width: 540px) {
-  .story-link-group {
-    flex-basis: 100%;
-    margin-top: 1px;
+  .story-meta {
+    flex-wrap: wrap;
+    white-space: normal;
   }
 
-  .story-link-group .meta-separator {
+  .meta-separator-author {
     display: none;
+  }
+
+  .story-byline {
+    flex-basis: 100%;
+    margin-top: 1px;
   }
 }

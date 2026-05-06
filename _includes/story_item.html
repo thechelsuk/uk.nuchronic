@@ -26,7 +26,7 @@ replace_first: 'www.', '' | split: '/' | first | split: '?' | first | split: '#'
             <a class="story-permalink" href="{{ include.post.url | relative_url }}"
                 aria-label="Open the item page for {{ include.post.title }}">more →</a>
             {% endif %}
-            <span class="meta-separator">·</span>
+            <span class="meta-separator meta-separator-author">·</span>
             <span class="story-byline">
                 <span class="story-author">by {{ include.post.author | default: "anonymous" }}</span>
                 {% if include.post.link %}
