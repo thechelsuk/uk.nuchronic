@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.4"
-gem "ffi", "< 1.17"
+gem "ffi", "< 1.18"
 gem "jekyll-sass-converter", "< 4.0"
 
 group :jekyll_plugins do
