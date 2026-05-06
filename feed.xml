@@ -30,7 +30,7 @@ permalink: /feed.xml
         <updated>{% if post.modified %}{{ updated_date }}{% else %}{{ build_date }}{% endif %}</updated>
         <author>
           <name>{{ post.author }}</name>
-          <uri>{{ post.link }}</uri>
+          <uri>{{ post.link | xml_escape }}</uri>
         </author>
         <content type="html"><![CDATA[
           <ul>

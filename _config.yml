@@ -2,6 +2,7 @@ title: Nuchronic
 description: Dark-mode Hacker News-style feed for the chronically ill indie web.
 url: "https://nuchronic.uk"
 baseurl: ""
+port: 5555
 timezone: UTC
 markdown: kramdown
 permalink: /item/:slug/
