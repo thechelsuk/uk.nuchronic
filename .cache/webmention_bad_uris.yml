@@ -12,22 +12,6 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/04/press-release-have-your-say-pip-review-launches-engagement-programme-for-disabled-people-to-get-involved/
     reason: no-endpoint
     checked_at: '2026-05-05T09:48:42+00:00'
-  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-    reason: no-endpoint
-    checked_at: '2026-05-06T07:12:16+00:00'
-  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-05-06T07:12:18+00:00'
-  https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
-    resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
-    reason: no-endpoint
-    checked_at: '2026-05-06T07:12:19+00:00'
-  https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
-    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
-    reason: discovery-http-403
-    checked_at: '2026-05-06T07:12:19+00:00'
   https://the-ensemblist.uk/15-minute-call:
     resolved_url: https://the-ensemblist.uk/15-minute-call
     reason: no-endpoint
@@ -36,3 +20,19 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/04/updated-booklet-doctors-how-to-establish-a-good-relationship/
     reason: no-endpoint
     checked_at: '2026-05-06T07:12:20+00:00'
+  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
+  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
+    reason: no-endpoint
+    checked_at: '2026-05-06T21:33:45+00:00'
+  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-05-06T21:33:46+00:00'
+  https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
+    resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
+    reason: no-endpoint
+    checked_at: '2026-05-06T21:33:47+00:00'
+  https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
+    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
+    reason: discovery-http-403
+    checked_at: '2026-05-06T21:33:47+00:00'

@@ -382,7 +382,21 @@ posts:
       updated_at: '2026-05-06T10:35:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-06T10:35:22+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-06T21:33:45+00:00'
+  release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667:
+    source_url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-06T21:33:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-06T21:33:43+00:00'
       verified_targets:
       - ap

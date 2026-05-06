@@ -72,26 +72,10 @@ targets:
     resolved_url: https://thechels.uk/2026-05-05-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-05T07:02:12+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-06T07:12:14+00:00'
   https://thechels.uk/2026-05-06-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-06-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-06T07:12:15+00:00'
-  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-    endpoint: ''
-    checked_at: '2026-05-06T07:12:16+00:00'
-  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-    endpoint: ''
-    checked_at: '2026-05-06T07:12:18+00:00'
-  https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
-    resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
-    endpoint: ''
-    checked_at: '2026-05-06T07:12:19+00:00'
   https://the-ensemblist.uk/15-minute-call:
     resolved_url: https://the-ensemblist.uk/15-minute-call
     endpoint: ''
@@ -108,3 +92,23 @@ targets:
     resolved_url: https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-06T10:35:22+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-06T21:33:43+00:00'
+  https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8:
+    resolved_url: https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-06T21:33:44+00:00'
+  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
+  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
+    endpoint: ''
+    checked_at: '2026-05-06T21:33:45+00:00'
+  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
+    endpoint: ''
+    checked_at: '2026-05-06T21:33:46+00:00'
+  https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
+    resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
+    endpoint: ''
+    checked_at: '2026-05-06T21:33:47+00:00'
