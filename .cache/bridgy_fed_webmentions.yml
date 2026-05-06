@@ -354,7 +354,21 @@ posts:
       updated_at: '2026-05-06T07:12:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-06T07:12:15+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-06T09:58:03+00:00'
+  pattern-recognition-b562ea7b60:
+    source_url: https://nuchronic.uk/item/pattern-recognition-b562ea7b60/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-06T09:58:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-06T09:58:01+00:00'
       verified_targets:
       - ap
