@@ -68,13 +68,16 @@ jobs:
               with:
                   fetch-depth: 0
                   ref: ${{ github.ref_name }}
-            - name: Setup Pages
-              uses: actions/configure-pages@v6
-            - name: Build with Jekyll
-              uses: actions/jekyll-build-pages@v1
+            - name: Set up Ruby
+              uses: ruby/setup-ruby@v1
               with:
-                  source: ./
-                  destination: ./_site
+                ruby-version: '3.2'
+            - name: Install Bundler
+              run: gem install bundler
+            - name: Install dependencies
+              run: bundle install --jobs 4 --retry 3
+            - name: Build with Jekyll
+              run: bundle exec jekyll build
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v5
 
