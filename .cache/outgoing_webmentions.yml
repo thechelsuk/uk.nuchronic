@@ -15,7 +15,7 @@ posts:
       https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
         target_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
         resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
-        updated_at: '2026-05-07T17:50:39+00:00'
+        updated_at: '2026-05-07T19:20:11+00:00'
         source_format_version: 2
         status: skipped
         reason: discovery-http-403
@@ -85,7 +85,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-        updated_at: '2026-05-07T17:50:39+00:00'
+        updated_at: '2026-05-07T19:20:11+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -131,7 +131,7 @@ posts:
       https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
         target_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
         resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
-        updated_at: '2026-05-07T17:50:39+00:00'
+        updated_at: '2026-05-07T19:20:11+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -277,7 +277,7 @@ posts:
       ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
       : target_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
         resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-        updated_at: '2026-05-07T17:50:39+00:00'
+        updated_at: '2026-05-07T19:20:11+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -335,11 +335,9 @@ posts:
       https://thechels.uk/2026-05-07-daily-rundown:
         target_url: https://thechels.uk/2026-05-07-daily-rundown
         resolved_url: https://thechels.uk/2026-05-07-daily-rundown
-        updated_at: '2026-05-07T17:50:39+00:00'
+        updated_at: '2026-05-07T19:20:10+00:00'
         source_format_version: 2
-        endpoint: https://brid.gy
-        status: failed
-        response_status: 405
-        error: <!doctype html> <html lang=en> <title>405 Method Not Allowed</title>
-          <h1>Method Not Allowed</h1> <p>The method is not allowed for the requested
-          URL.</p>
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-07T19:20:11+00:00'
+        response_status: 201

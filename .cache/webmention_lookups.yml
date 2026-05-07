@@ -1,118 +1,42 @@
 version: 1
 targets:
-  https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/:
-    resolved_url: https://brennan.day/announcing-my-new-radio-show-a-love-letter-to-public-access-television/
-    endpoint: https://webmention.io/brennan.day/webmention
-    checked_at: '2026-05-03T13:23:31+00:00'
-  https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5:
-    resolved_url: https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T15:03:37+00:00'
-  https://thechels.uk/cf-worker-x-redirect-release-62642408c50b:
-    resolved_url: https://thechels.uk/cf-worker-x-redirect-release-62642408c50b
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:44+00:00'
-  https://thechels.uk/2026-05-03-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-03-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:45+00:00'
-  https://brennan.day/writers-who-burned-all-their-words-feat-bix-frankonis/:
-    resolved_url: https://brennan.day/writers-who-burned-all-their-words-feat-bix-frankonis/
-    endpoint: https://webmention.io/brennan.day/webmention
-    checked_at: '2026-05-03T16:37:47+00:00'
-  https://thechels.uk/brand:
-    resolved_url: https://thechels.uk/brand
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:51+00:00'
-  https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe:
-    resolved_url: https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:51+00:00'
-  https://thechels.uk/2026-05-02-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-02-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:52+00:00'
-  https://brennan.day/dreamwidth-and-yearning-for-humanity-on-the-web/:
-    resolved_url: https://brennan.day/dreamwidth-and-yearning-for-humanity-on-the-web/
-    endpoint: https://webmention.io/brennan.day/webmention
-    checked_at: '2026-05-03T16:37:58+00:00'
-  https://thechels.uk/2026-05-01-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-01-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:37:59+00:00'
-  https://thechels.uk/2026-04-30-daily-rundown:
-    resolved_url: https://thechels.uk/2026-04-30-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:38:04+00:00'
-  https://brennan.day/video-games-that-secretly-teach-mathematics/:
-    resolved_url: https://brennan.day/video-games-that-secretly-teach-mathematics/
-    endpoint: https://webmention.io/brennan.day/webmention
-    checked_at: '2026-05-03T16:38:07+00:00'
-  https://thechels.uk/sourcefeed-a-pop-up-rss-service-launched:
-    resolved_url: https://thechels.uk/sourcefeed-a-pop-up-rss-service-launched
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-03T16:38:10+00:00'
-  https://thechels.uk/2026-05-04-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-04-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-04T09:02:47+00:00'
+  https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres:
+    resolved_url: https://hillaryjohnson.substack.com/p/readers-remember-the-moment-theres
+    reason: discovery-http-403
+    checked_at: '2026-05-03T13:23:29+00:00'
   https://meassociation.org.uk/2026/04/research-review-what-causes-long-covid-and-can-it-be-treated/:
     resolved_url: https://meassociation.org.uk/2026/04/research-review-what-causes-long-covid-and-can-it-be-treated/
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-04T09:02:54+00:00'
-  https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926:
-    resolved_url: https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-05T03:20:00+00:00'
   ? https://meassociation.org.uk/2026/04/press-release-have-your-say-pip-review-launches-engagement-programme-for-disabled-people-to-get-involved/
   : resolved_url: https://meassociation.org.uk/2026/04/press-release-have-your-say-pip-review-launches-engagement-programme-for-disabled-people-to-get-involved/
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-05T09:48:42+00:00'
-  https://thechels.uk/2026-05-05-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-05-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-05T07:02:12+00:00'
-  https://thechels.uk/2026-05-06-daily-rundown:
-    resolved_url: https://thechels.uk/2026-05-06-daily-rundown
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-06T07:12:15+00:00'
   https://the-ensemblist.uk/15-minute-call:
     resolved_url: https://the-ensemblist.uk/15-minute-call
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-06T07:12:19+00:00'
   https://meassociation.org.uk/2026/04/updated-booklet-doctors-how-to-establish-a-good-relationship/:
     resolved_url: https://meassociation.org.uk/2026/04/updated-booklet-doctors-how-to-establish-a-good-relationship/
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-06T07:12:20+00:00'
-  https://brennan.day/pattern-recognition/:
-    resolved_url: https://brennan.day/pattern-recognition/
-    endpoint: https://webmention.io/brennan.day/webmention
-    checked_at: '2026-05-06T09:58:02+00:00'
-  https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c:
-    resolved_url: https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-06T10:35:22+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-06T21:33:43+00:00'
-  https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8:
-    resolved_url: https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8
-    endpoint: https://webmention.io/thechels.uk/webmention
-    checked_at: '2026-05-06T21:33:44+00:00'
   ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-07T17:19:05+00:00'
   https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-    endpoint: ''
+    reason: no-endpoint
     checked_at: '2026-05-07T17:19:07+00:00'
   https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
     resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
-    endpoint: ''
+    reason: no-endpoint
+    checked_at: '2026-05-07T17:19:08+00:00'
+  https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
+    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
+    reason: discovery-http-403
     checked_at: '2026-05-07T17:19:08+00:00'
   https://thechels.uk/2026-05-07-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-07-daily-rundown
-    endpoint: https://brid.gy
-    checked_at: '2026-05-07T07:17:11+00:00'
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-07T19:20:10+00:00'
