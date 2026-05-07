@@ -23,16 +23,16 @@ targets:
   ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     reason: no-endpoint
-    checked_at: '2026-05-06T21:33:45+00:00'
+    checked_at: '2026-05-07T07:17:12+00:00'
   https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
     reason: no-endpoint
-    checked_at: '2026-05-06T21:33:46+00:00'
+    checked_at: '2026-05-07T07:17:13+00:00'
   https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
     resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
     reason: no-endpoint
-    checked_at: '2026-05-06T21:33:47+00:00'
+    checked_at: '2026-05-07T07:17:14+00:00'
   https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1:
     resolved_url: https://colleensteckelmeiccinfo.substack.com/p/news-2026-may-1
     reason: discovery-http-403
-    checked_at: '2026-05-06T21:33:47+00:00'
+    checked_at: '2026-05-07T07:17:14+00:00'
