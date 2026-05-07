@@ -769,10 +769,18 @@ daily-daily-rundown-for-2026-05-06-f07b939ec6:
   mentions: []
 pattern-recognition-b562ea7b60:
   target: https://nuchronic.uk/item/pattern-recognition-b562ea7b60/
-  count: 0
-  types: {}
+  count: 1
+  types:
+    like: 1
   replies: []
-  likes: []
+  likes:
+  - author_name: James
+    author_url: https://mastodon.social/@nonzerosumjames
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6e8596b5d519c03e0aa77f833ed8fda3c20964599edd5ea406810f0868dcd233.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/291835500
+    published: None
+    property: like-of
+    content_text: likes this.
   reposts: []
   mentions: []
 release-cf-worker-x-redirect-version-v1-0-4-999d53948a:
