@@ -19,4 +19,3 @@ sources:
     feed_url: https://brennan.day/feed.xml
   - id: type-by-error
     feed_url: https://trialbyerror.org/feed/
-    

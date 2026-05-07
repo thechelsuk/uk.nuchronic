@@ -1,7 +1,9 @@
 {% assign footer = site.footer_nav %}
 <footer class="site-footer">
-    <p class="footer-copy">&copy; {{ footer.year }} {{ footer.copyright }} by
-        <a href="https://thechels.uk">thechelsuk</a>.</p>
+    <p class="footer-copy h-card">&copy; {{ footer.year }}
+        <a class="p-name u-url" href="https://nuchronic.uk" rel="me">nuchronic.uk</a> by
+        <a href="https://thechels.uk">thechelsuk</a>.
+    </p>
     <p class="footer-notice">{{ footer.notice }}</p>
     {% if footer.links and footer.links.size > 0 %}
     <nav class="footer-nav" aria-label="Footer navigation">
@@ -15,6 +17,3 @@
     </nav>
     {% endif %}
 </footer>
-<div class="h-card visually-hidden">
-    <a href="https://nuchronic.uk/" class="h-card" rel="me">nuchronic.uk</a>
-</div>  
