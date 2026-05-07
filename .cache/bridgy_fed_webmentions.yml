@@ -416,3 +416,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-05-07T17:19:00+00:00'
+  is-the-matrix-under-attack-in-me-cfs-and-long-covid-9a8d4c3681:
+    source_url: https://nuchronic.uk/item/is-the-matrix-under-attack-in-me-cfs-and-long-covid-9a8d4c3681/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-07T19:22:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-07T19:22:15+00:00'
+      verified_targets:
+      - ap

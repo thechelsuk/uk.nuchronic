@@ -40,3 +40,11 @@ targets:
     resolved_url: https://thechels.uk/2026-05-07-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-07T19:20:10+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-07T19:22:14+00:00'
+  https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
+    endpoint: ''
+    checked_at: '2026-05-07T19:22:16+00:00'
