@@ -85,7 +85,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-        updated_at: '2026-05-07T19:22:16+00:00'
+        updated_at: '2026-05-07T20:37:56+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -277,7 +277,7 @@ posts:
       ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
       : target_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
         resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-        updated_at: '2026-05-07T19:22:16+00:00'
+        updated_at: '2026-05-07T20:37:56+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -347,7 +347,17 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-07T19:22:16+00:00'
+        updated_at: '2026-05-07T20:37:56+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  linked-rss-feed-discovery-in-well-known-is-better-than-guessing-b3ad4f781f:
+    source_url: https://nuchronic.uk/item/linked-rss-feed-discovery-in-well-known-is-better-than-guessing-b3ad4f781f/
+    targets:
+      https://thechels.uk/rss-feed-discovery:
+        target_url: https://thechels.uk/rss-feed-discovery
+        resolved_url: https://thechels.uk/rss-feed-discovery
+        updated_at: '2026-05-07T20:37:55+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint

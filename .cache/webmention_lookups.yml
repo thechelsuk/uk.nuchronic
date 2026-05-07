@@ -48,3 +48,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     endpoint: ''
     checked_at: '2026-05-07T19:22:16+00:00'
+  https://thechels.uk/rss-feed-discovery:
+    resolved_url: https://thechels.uk/rss-feed-discovery
+    endpoint: ''
+    checked_at: '2026-05-07T20:37:55+00:00'
