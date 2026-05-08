@@ -277,7 +277,7 @@ posts:
       ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
       : target_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
         resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-        updated_at: '2026-05-08T17:40:35+00:00'
+        updated_at: '2026-05-08T22:29:53+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-08T17:40:35+00:00'
+        updated_at: '2026-05-08T22:29:53+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -398,4 +398,16 @@ posts:
         endpoint: https://webmention.io/thechels.uk/webmention
         status: success
         sent_at: '2026-05-08T17:40:33+00:00'
+        response_status: 201
+  blog-plans-for-rss-with-netnewswire-329be8473d:
+    source_url: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
+    targets:
+      https://thechels.uk/plans-for-rss-with-netnewswire:
+        target_url: https://thechels.uk/plans-for-rss-with-netnewswire
+        resolved_url: https://thechels.uk/plans-for-rss-with-netnewswire
+        updated_at: '2026-05-08T22:29:52+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-08T22:29:52+00:00'
         response_status: 201

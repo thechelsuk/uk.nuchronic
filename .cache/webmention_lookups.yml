@@ -52,10 +52,6 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
     endpoint: ''
     checked_at: '2026-05-08T17:40:36+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-08T08:45:17+00:00'
   https://brennan.day/where-is-the-indigenous-cultural-revolution/:
     resolved_url: https://brennan.day/where-is-the-indigenous-cultural-revolution/
     endpoint: https://webmention.io/brennan.day/webmention
@@ -64,3 +60,11 @@ targets:
     resolved_url: https://thechels.uk/cloudflare-builds-for-revenue-not-humans
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-08T17:40:33+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-08T22:29:51+00:00'
+  https://thechels.uk/plans-for-rss-with-netnewswire:
+    resolved_url: https://thechels.uk/plans-for-rss-with-netnewswire
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-08T22:29:52+00:00'
