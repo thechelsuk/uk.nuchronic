@@ -20,14 +20,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/04/updated-booklet-doctors-how-to-establish-a-good-relationship/
     reason: no-endpoint
     checked_at: '2026-05-06T07:12:20+00:00'
-  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-    reason: no-endpoint
-    checked_at: '2026-05-07T17:19:05+00:00'
-  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-05-07T17:19:07+00:00'
   https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/:
     resolved_url: https://meassociation.org.uk/2026/05/research-pregnancy-in-me-cfs-stage-ii-funding/
     reason: no-endpoint
@@ -47,8 +39,20 @@ targets:
   https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     endpoint: ''
-    checked_at: '2026-05-07T19:22:16+00:00'
+    checked_at: '2026-05-08T06:50:45+00:00'
   https://thechels.uk/rss-feed-discovery:
     resolved_url: https://thechels.uk/rss-feed-discovery
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-08T06:50:43+00:00'
+  https://thechels.uk/2026-05-08-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-08-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-08T06:50:42+00:00'
+  ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
+  : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     endpoint: ''
-    checked_at: '2026-05-07T20:37:55+00:00'
+    checked_at: '2026-05-08T06:50:46+00:00'
+  https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
+    endpoint: ''
+    checked_at: '2026-05-08T06:50:47+00:00'

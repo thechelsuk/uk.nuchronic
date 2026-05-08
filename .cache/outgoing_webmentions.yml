@@ -85,7 +85,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
-        updated_at: '2026-05-07T20:37:56+00:00'
+        updated_at: '2026-05-08T06:50:47+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -277,7 +277,7 @@ posts:
       ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
       : target_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
         resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-        updated_at: '2026-05-07T20:37:56+00:00'
+        updated_at: '2026-05-08T06:50:46+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-07T20:37:56+00:00'
+        updated_at: '2026-05-08T06:50:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -357,7 +357,21 @@ posts:
       https://thechels.uk/rss-feed-discovery:
         target_url: https://thechels.uk/rss-feed-discovery
         resolved_url: https://thechels.uk/rss-feed-discovery
-        updated_at: '2026-05-07T20:37:55+00:00'
+        updated_at: '2026-05-08T06:50:43+00:00'
         source_format_version: 2
-        status: skipped
-        reason: no-endpoint
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-08T06:50:44+00:00'
+        response_status: 201
+  daily-daily-rundown-for-2026-05-08-806880f936:
+    source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
+    targets:
+      https://thechels.uk/2026-05-08-daily-rundown:
+        target_url: https://thechels.uk/2026-05-08-daily-rundown
+        resolved_url: https://thechels.uk/2026-05-08-daily-rundown
+        updated_at: '2026-05-08T06:50:42+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-08T06:50:42+00:00'
+        response_status: 201
