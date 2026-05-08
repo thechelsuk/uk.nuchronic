@@ -452,7 +452,21 @@ posts:
       updated_at: '2026-05-08T06:50:42+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-08T06:50:42+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-08T08:45:20+00:00'
+  where-is-the-indigenous-cultural-revolution-c0f1c4c28f:
+    source_url: https://nuchronic.uk/item/where-is-the-indigenous-cultural-revolution-c0f1c4c28f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-08T08:45:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-08T08:45:17+00:00'
       verified_targets:
       - ap
