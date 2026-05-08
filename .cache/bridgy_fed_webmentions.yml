@@ -466,7 +466,21 @@ posts:
       updated_at: '2026-05-08T08:45:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-08T08:45:17+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-08T17:40:34+00:00'
+  linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1:
+    source_url: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-08T17:40:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-08T17:40:33+00:00'
       verified_targets:
       - ap
