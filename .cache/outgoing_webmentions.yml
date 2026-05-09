@@ -277,7 +277,7 @@ posts:
       ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
       : target_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
         resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
-        updated_at: '2026-05-09T06:57:07+00:00'
+        updated_at: '2026-05-09T14:32:49+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-09T06:57:07+00:00'
+        updated_at: '2026-05-09T14:32:49+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -434,4 +434,16 @@ posts:
         endpoint: https://webmention.io/thechels.uk/webmention
         status: success
         sent_at: '2026-05-09T06:57:05+00:00'
+        response_status: 201
+  release-nnw-theme-bundle-version-v1-8-1-bb620f55be:
+    source_url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
+    targets:
+      https://thechels.uk/nnw-theme-bundle-release-0a6890489292:
+        target_url: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+        resolved_url: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+        updated_at: '2026-05-09T14:32:47+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-09T14:32:47+00:00'
         response_status: 201

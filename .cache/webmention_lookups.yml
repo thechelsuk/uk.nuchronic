@@ -35,7 +35,7 @@ targets:
   https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     endpoint: ''
-    checked_at: '2026-05-09T05:15:14+00:00'
+    checked_at: '2026-05-09T14:32:49+00:00'
   https://thechels.uk/rss-feed-discovery:
     resolved_url: https://thechels.uk/rss-feed-discovery
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -47,7 +47,7 @@ targets:
   ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     endpoint: ''
-    checked_at: '2026-05-09T05:15:15+00:00'
+    checked_at: '2026-05-09T14:32:49+00:00'
   https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
     endpoint: ''
@@ -60,10 +60,6 @@ targets:
     resolved_url: https://thechels.uk/cloudflare-builds-for-revenue-not-humans
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-08T17:40:33+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-08T22:29:51+00:00'
   https://thechels.uk/plans-for-rss-with-netnewswire:
     resolved_url: https://thechels.uk/plans-for-rss-with-netnewswire
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -76,3 +72,11 @@ targets:
     resolved_url: https://thechels.uk/2026-05-09-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-09T06:57:05+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-09T14:32:47+00:00'
+  https://thechels.uk/nnw-theme-bundle-release-0a6890489292:
+    resolved_url: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-09T14:32:47+00:00'
