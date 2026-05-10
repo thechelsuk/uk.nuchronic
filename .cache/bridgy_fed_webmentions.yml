@@ -550,7 +550,21 @@ posts:
       updated_at: '2026-05-10T07:08:43+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-10T07:08:43+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-10T08:47:42+00:00'
+  last-online-640-weeks-ago-why-i-m-loyal-to-the-indieweb-e165f79a06:
+    source_url: https://nuchronic.uk/item/last-online-640-weeks-ago-why-i-m-loyal-to-the-indieweb-e165f79a06/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-10T08:47:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-10T08:47:40+00:00'
       verified_targets:
       - ap

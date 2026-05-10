@@ -84,3 +84,7 @@ targets:
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     endpoint: ''
     checked_at: '2026-05-10T07:08:46+00:00'
+  https://brennan.day/last-online-640-weeks-ago-why-i-m-loyal-to-the-indieweb/:
+    resolved_url: https://brennan.day/last-online-640-weeks-ago-why-i-m-loyal-to-the-indieweb/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-10T08:47:41+00:00'
