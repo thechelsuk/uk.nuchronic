@@ -99,8 +99,12 @@ targets:
   https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     endpoint: ''
-    checked_at: '2026-05-11T07:32:49+00:00'
+    checked_at: '2026-05-11T15:15:40+00:00'
   https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
     resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
     endpoint: ''
     checked_at: '2026-05-11T13:18:47+00:00'
+  ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+  : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+    endpoint: ''
+    checked_at: '2026-05-11T15:15:38+00:00'

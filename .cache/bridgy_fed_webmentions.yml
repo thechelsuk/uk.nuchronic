@@ -620,7 +620,21 @@ posts:
       updated_at: '2026-05-11T13:18:45+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-11T13:18:46+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-11T15:15:39+00:00'
+  new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-cond-77ae2cdc01:
+    source_url: https://nuchronic.uk/item/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-cond-77ae2cdc01/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-11T15:15:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-11T15:15:29+00:00'
       verified_targets:
       - ap
