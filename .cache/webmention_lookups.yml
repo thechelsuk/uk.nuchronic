@@ -68,18 +68,10 @@ targets:
     resolved_url: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-09T14:32:47+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-10T07:08:43+00:00'
   https://thechels.uk/2026-05-10-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-10-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-10T07:08:43+00:00'
-  https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-    endpoint: ''
-    checked_at: '2026-05-10T18:31:34+00:00'
   ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     endpoint: ''
@@ -92,3 +84,19 @@ targets:
     resolved_url: https://brennan.day/last-online-620-weeks-ago-why-i-m-loyal-to-the-indieweb/
     endpoint: https://webmention.io/brennan.day/webmention
     checked_at: '2026-05-10T18:31:33+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-11T07:32:43+00:00'
+  https://thechels.uk/2026-05-11-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-11-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-11T07:32:44+00:00'
+  https://brennan.day/i-made-my-eleventy-build-5-faster-with-five-changes/:
+    resolved_url: https://brennan.day/i-made-my-eleventy-build-5-faster-with-five-changes/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-11T07:32:48+00:00'
+  https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
+    endpoint: ''
+    checked_at: '2026-05-11T07:32:49+00:00'

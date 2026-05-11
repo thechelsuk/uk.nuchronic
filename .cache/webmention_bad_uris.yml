@@ -32,11 +32,11 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/02/blood-vessels-long-covid/
     reason: no-endpoint
     checked_at: '2026-05-08T17:40:36+00:00'
-  https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-    reason: no-endpoint
-    checked_at: '2026-05-10T18:31:34+00:00'
   ? https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
   : resolved_url: https://trialbyerror.org/2026/05/04/news-bits-frail-furious-for-millions-missing-usual-suspects-at-psych-confab-long-covid-advocates-channel-act-up/
     reason: no-endpoint
     checked_at: '2026-05-10T18:31:35+00:00'
+  https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
+    reason: no-endpoint
+    checked_at: '2026-05-11T07:32:49+00:00'
