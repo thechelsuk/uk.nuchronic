@@ -592,10 +592,12 @@ posts:
       updated_at: '2026-05-11T07:32:43+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-11T07:32:43+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-11T13:18:48+00:00'
   i-made-my-eleventy-build-5-faster-with-five-changes-5843021baf:
     source_url: https://nuchronic.uk/item/i-made-my-eleventy-build-5-faster-with-five-changes-5843021baf/
     bridgy:
@@ -604,7 +606,21 @@ posts:
       updated_at: '2026-05-11T07:32:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-11T07:32:46+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-11T13:18:48+00:00'
+  the-equality-act-and-me-cfs-ask-an-expert-with-david-walton-ebfec12dbc:
+    source_url: https://nuchronic.uk/item/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton-ebfec12dbc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-11T13:18:45+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-11T13:18:46+00:00'
       verified_targets:
       - ap

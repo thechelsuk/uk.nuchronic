@@ -40,3 +40,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     reason: no-endpoint
     checked_at: '2026-05-11T07:32:49+00:00'
+  https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
+    resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
+    reason: no-endpoint
+    checked_at: '2026-05-11T13:18:47+00:00'

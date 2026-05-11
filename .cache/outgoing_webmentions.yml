@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-11T07:32:49+00:00'
+        updated_at: '2026-05-11T13:18:48+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -507,3 +507,13 @@ posts:
         status: success
         sent_at: '2026-05-11T07:32:48+00:00'
         response_status: 201
+  the-equality-act-and-me-cfs-ask-an-expert-with-david-walton-ebfec12dbc:
+    source_url: https://nuchronic.uk/item/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton-ebfec12dbc/
+    targets:
+      https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
+        target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
+        resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
+        updated_at: '2026-05-11T13:18:47+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
