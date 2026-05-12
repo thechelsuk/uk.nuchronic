@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-12T12:58:25+00:00'
+        updated_at: '2026-05-12T16:55:48+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -513,20 +513,20 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-12T12:58:25+00:00'
+        updated_at: '2026-05-12T16:55:46+00:00'
         source_format_version: 2
         status: skipped
-        reason: discovery-http-500
+        reason: no-endpoint
   new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-cond-77ae2cdc01:
     source_url: https://nuchronic.uk/item/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-cond-77ae2cdc01/
     targets:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-12T12:58:25+00:00'
+        updated_at: '2026-05-12T16:55:47+00:00'
         source_format_version: 2
         status: skipped
-        reason: discovery-http-500
+        reason: no-endpoint
   daily-daily-rundown-for-2026-05-12-952585fc6a:
     source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-12-952585fc6a/
     targets:
@@ -545,7 +545,7 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-12T12:58:25+00:00'
+        updated_at: '2026-05-12T16:55:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -555,7 +555,19 @@ posts:
       ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-05-12T12:58:23+00:00'
+        updated_at: '2026-05-12T16:55:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
+  linked-me-awareness-day-2026-66157d7abd:
+    source_url: https://nuchronic.uk/item/linked-me-awareness-day-2026-66157d7abd/
+    targets:
+      https://thechels.uk/me-awareness-day-2026:
+        target_url: https://thechels.uk/me-awareness-day-2026
+        resolved_url: https://thechels.uk/me-awareness-day-2026
+        updated_at: '2026-05-12T16:55:43+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-12T16:55:43+00:00'
+        response_status: 201

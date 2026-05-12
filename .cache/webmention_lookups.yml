@@ -103,7 +103,7 @@ targets:
   https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     endpoint: ''
-    checked_at: '2026-05-12T07:16:19+00:00'
+    checked_at: '2026-05-12T16:55:48+00:00'
   https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     endpoint: ''
@@ -112,3 +112,15 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     endpoint: ''
     checked_at: '2026-05-12T12:58:23+00:00'
+  https://thechels.uk/me-awareness-day-2026:
+    resolved_url: https://thechels.uk/me-awareness-day-2026
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-12T16:55:43+00:00'
+  https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
+    resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
+    endpoint: ''
+    checked_at: '2026-05-12T16:55:46+00:00'
+  ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+  : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+    endpoint: ''
+    checked_at: '2026-05-12T16:55:47+00:00'
