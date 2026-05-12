@@ -648,7 +648,21 @@ posts:
       updated_at: '2026-05-12T07:16:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-12T07:16:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-12T10:58:13+00:00'
+  government-announces-4-75-million-funding-for-sequence-me-research-project-f23dc2cfe4:
+    source_url: https://nuchronic.uk/item/government-announces-4-75-million-funding-for-sequence-me-research-project-f23dc2cfe4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-12T10:58:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-12T10:58:11+00:00'
       verified_targets:
       - ap
