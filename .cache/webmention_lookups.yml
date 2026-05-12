@@ -92,10 +92,6 @@ targets:
     resolved_url: https://brennan.day/i-made-my-eleventy-build-5-faster-with-five-changes/
     endpoint: https://webmention.io/brennan.day/webmention
     checked_at: '2026-05-11T07:32:48+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-12T07:16:11+00:00'
   https://thechels.uk/2026-05-12-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-12-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -107,11 +103,11 @@ targets:
   https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     endpoint: ''
-    checked_at: '2026-05-12T10:58:12+00:00'
+    checked_at: '2026-05-12T19:42:49+00:00'
   ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     endpoint: ''
-    checked_at: '2026-05-12T12:58:23+00:00'
+    checked_at: '2026-05-12T19:42:47+00:00'
   https://thechels.uk/me-awareness-day-2026:
     resolved_url: https://thechels.uk/me-awareness-day-2026
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -124,3 +120,11 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
     endpoint: ''
     checked_at: '2026-05-12T16:55:47+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-12T19:42:44+00:00'
+  https://thechels.uk/nnw-theme-bundle-release-d3670e80619f:
+    resolved_url: https://thechels.uk/nnw-theme-bundle-release-d3670e80619f
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-12T19:42:45+00:00'

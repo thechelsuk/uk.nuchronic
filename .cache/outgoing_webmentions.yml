@@ -513,7 +513,7 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-12T16:55:46+00:00'
+        updated_at: '2026-05-12T19:42:49+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -523,7 +523,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-12T16:55:47+00:00'
+        updated_at: '2026-05-12T19:42:49+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -545,7 +545,7 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-12T16:55:45+00:00'
+        updated_at: '2026-05-12T19:42:49+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -555,7 +555,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-05-12T16:55:45+00:00'
+        updated_at: '2026-05-12T19:42:47+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -570,4 +570,16 @@ posts:
         endpoint: https://webmention.io/thechels.uk/webmention
         status: success
         sent_at: '2026-05-12T16:55:43+00:00'
+        response_status: 201
+  release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a:
+    source_url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
+    targets:
+      https://thechels.uk/nnw-theme-bundle-release-d3670e80619f:
+        target_url: https://thechels.uk/nnw-theme-bundle-release-d3670e80619f
+        resolved_url: https://thechels.uk/nnw-theme-bundle-release-d3670e80619f
+        updated_at: '2026-05-12T19:42:45+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-12T19:42:45+00:00'
         response_status: 201
