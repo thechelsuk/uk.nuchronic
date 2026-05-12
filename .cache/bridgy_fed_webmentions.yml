@@ -662,7 +662,21 @@ posts:
       updated_at: '2026-05-12T10:58:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-12T10:58:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-12T12:58:25+00:00'
+  me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-08f36bc532:
+    source_url: https://nuchronic.uk/item/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-08f36bc532/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-12T12:58:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-12T12:58:22+00:00'
       verified_targets:
       - ap

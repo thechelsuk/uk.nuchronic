@@ -347,7 +347,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/:
         target_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
         resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
-        updated_at: '2026-05-12T10:58:13+00:00'
+        updated_at: '2026-05-12T12:58:25+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -513,7 +513,7 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-12T10:58:13+00:00'
+        updated_at: '2026-05-12T12:58:25+00:00'
         source_format_version: 2
         status: skipped
         reason: discovery-http-500
@@ -523,7 +523,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-12T10:58:13+00:00'
+        updated_at: '2026-05-12T12:58:25+00:00'
         source_format_version: 2
         status: skipped
         reason: discovery-http-500
@@ -545,7 +545,17 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-12T10:58:12+00:00'
+        updated_at: '2026-05-12T12:58:25+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-08f36bc532:
+    source_url: https://nuchronic.uk/item/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-08f36bc532/
+    targets:
+      ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
+      : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
+        resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
+        updated_at: '2026-05-12T12:58:23+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
