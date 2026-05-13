@@ -760,10 +760,12 @@ posts:
       updated_at: '2026-05-13T16:59:49+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-13T16:59:49+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-13T20:44:35+00:00'
   solving-the-me-cfs-and-long-covid-jigsaw-puzzle-precisionlifes-steven-gardner-ta-71051c4493:
     source_url: https://nuchronic.uk/item/solving-the-me-cfs-and-long-covid-jigsaw-puzzle-precisionlifes-steven-gardner-ta-71051c4493/
     bridgy:
@@ -772,7 +774,21 @@ posts:
       updated_at: '2026-05-13T16:59:52+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-13T16:59:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-13T20:44:34+00:00'
+  social-what-can-you-buy-with-a-5m-donation-3ea2cb09be:
+    source_url: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-13T20:44:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-13T20:44:32+00:00'
       verified_targets:
       - ap

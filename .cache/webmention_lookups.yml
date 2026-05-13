@@ -148,3 +148,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
     endpoint: ''
     checked_at: '2026-05-13T16:59:53+00:00'
+  https://thechels.uk/what-can-you-buy-with-a-5m-donation:
+    resolved_url: https://thechels.uk/what-can-you-buy-with-a-5m-donation
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-13T20:44:32+00:00'
