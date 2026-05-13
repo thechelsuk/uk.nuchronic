@@ -513,7 +513,7 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-12T21:37:55+00:00'
+        updated_at: '2026-05-13T07:21:15+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -523,7 +523,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-12T21:37:55+00:00'
+        updated_at: '2026-05-13T07:21:16+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -545,7 +545,7 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-12T21:37:55+00:00'
+        updated_at: '2026-05-13T07:21:14+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -555,7 +555,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-05-12T21:37:55+00:00'
+        updated_at: '2026-05-13T07:21:13+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -589,7 +589,31 @@ posts:
       https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
         target_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
         resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
-        updated_at: '2026-05-12T21:37:54+00:00'
+        updated_at: '2026-05-13T07:21:12+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
+  what-we-lose-with-cultural-extinction-the-red-thread-cut-1953ab90e6:
+    source_url: https://nuchronic.uk/item/what-we-lose-with-cultural-extinction-the-red-thread-cut-1953ab90e6/
+    targets:
+      https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/:
+        target_url: https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/
+        resolved_url: https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/
+        updated_at: '2026-05-13T07:21:09+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/brennan.day/webmention
+        status: success
+        sent_at: '2026-05-13T07:21:10+00:00'
+        response_status: 201
+  daily-daily-rundown-for-2026-05-13-4cbed17e2e:
+    source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+    targets:
+      https://thechels.uk/2026-05-13-daily-rundown:
+        target_url: https://thechels.uk/2026-05-13-daily-rundown
+        resolved_url: https://thechels.uk/2026-05-13-daily-rundown
+        updated_at: '2026-05-13T07:21:11+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-13T07:21:12+00:00'
+        response_status: 201

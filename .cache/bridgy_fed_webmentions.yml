@@ -718,7 +718,33 @@ posts:
       updated_at: '2026-05-12T21:37:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-12T21:37:54+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-13T07:21:12+00:00'
+  what-we-lose-with-cultural-extinction-the-red-thread-cut-1953ab90e6:
+    source_url: https://nuchronic.uk/item/what-we-lose-with-cultural-extinction-the-red-thread-cut-1953ab90e6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-13T07:21:02+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-13T07:21:03+00:00'
+      verified_targets:
+      - ap
+  daily-daily-rundown-for-2026-05-13-4cbed17e2e:
+    source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-13T07:21:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-13T07:21:11+00:00'
       verified_targets:
       - ap

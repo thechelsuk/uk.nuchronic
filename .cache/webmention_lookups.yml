@@ -103,23 +103,15 @@ targets:
   https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     endpoint: ''
-    checked_at: '2026-05-12T19:42:49+00:00'
+    checked_at: '2026-05-13T07:21:14+00:00'
   ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     endpoint: ''
-    checked_at: '2026-05-12T19:42:47+00:00'
+    checked_at: '2026-05-13T07:21:13+00:00'
   https://thechels.uk/me-awareness-day-2026:
     resolved_url: https://thechels.uk/me-awareness-day-2026
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-12T16:55:43+00:00'
-  https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
-    resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-    endpoint: ''
-    checked_at: '2026-05-12T16:55:46+00:00'
-  ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-  : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-    endpoint: ''
-    checked_at: '2026-05-12T16:55:47+00:00'
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
@@ -131,4 +123,20 @@ targets:
   https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
     resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
     endpoint: ''
-    checked_at: '2026-05-12T21:37:54+00:00'
+    checked_at: '2026-05-13T07:21:12+00:00'
+  https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/:
+    resolved_url: https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-13T07:21:09+00:00'
+  https://thechels.uk/2026-05-13-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-13-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-13T07:21:11+00:00'
+  https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
+    resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
+    endpoint: ''
+    checked_at: '2026-05-13T07:21:15+00:00'
+  ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+  : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
+    endpoint: ''
+    checked_at: '2026-05-13T07:21:16+00:00'
