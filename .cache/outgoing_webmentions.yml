@@ -513,7 +513,7 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-13T07:21:15+00:00'
+        updated_at: '2026-05-13T16:59:58+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -523,7 +523,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-13T07:21:16+00:00'
+        updated_at: '2026-05-13T16:59:59+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -545,7 +545,7 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-13T07:21:14+00:00'
+        updated_at: '2026-05-13T16:59:57+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -555,7 +555,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-05-13T07:21:13+00:00'
+        updated_at: '2026-05-13T16:59:56+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -589,7 +589,7 @@ posts:
       https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
         target_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
         resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
-        updated_at: '2026-05-13T07:21:12+00:00'
+        updated_at: '2026-05-13T16:59:55+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -617,3 +617,25 @@ posts:
         status: success
         sent_at: '2026-05-13T07:21:12+00:00'
         response_status: 201
+  social-film-club-5826e99d14:
+    source_url: https://nuchronic.uk/item/social-film-club-5826e99d14/
+    targets:
+      https://thechels.uk/film-club:
+        target_url: https://thechels.uk/film-club
+        resolved_url: https://thechels.uk/film-club
+        updated_at: '2026-05-13T16:59:49+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-05-13T16:59:50+00:00'
+        response_status: 201
+  solving-the-me-cfs-and-long-covid-jigsaw-puzzle-precisionlifes-steven-gardner-ta-71051c4493:
+    source_url: https://nuchronic.uk/item/solving-the-me-cfs-and-long-covid-jigsaw-puzzle-precisionlifes-steven-gardner-ta-71051c4493/
+    targets:
+      https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
+        target_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
+        resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
+        updated_at: '2026-05-13T16:59:53+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint

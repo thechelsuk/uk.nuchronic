@@ -40,23 +40,27 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/07/long-covid-me-cfs-matrix/
     reason: no-endpoint
     checked_at: '2026-05-12T16:55:48+00:00'
+  https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
+    reason: no-endpoint
+    checked_at: '2026-05-13T16:59:53+00:00'
   https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
     resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
     reason: no-endpoint
-    checked_at: '2026-05-13T07:21:12+00:00'
+    checked_at: '2026-05-13T16:59:55+00:00'
   ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     reason: no-endpoint
-    checked_at: '2026-05-13T07:21:13+00:00'
+    checked_at: '2026-05-13T16:59:56+00:00'
   https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     reason: no-endpoint
-    checked_at: '2026-05-13T07:21:14+00:00'
+    checked_at: '2026-05-13T16:59:57+00:00'
   https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
     resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
     reason: no-endpoint
-    checked_at: '2026-05-13T07:21:15+00:00'
+    checked_at: '2026-05-13T16:59:58+00:00'
   ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
   : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
     reason: no-endpoint
-    checked_at: '2026-05-13T07:21:16+00:00'
+    checked_at: '2026-05-13T16:59:59+00:00'
