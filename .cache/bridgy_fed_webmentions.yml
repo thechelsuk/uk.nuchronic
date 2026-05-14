@@ -830,7 +830,21 @@ posts:
       updated_at: '2026-05-14T09:10:28+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-14T09:10:28+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-14T15:02:03+00:00'
+  inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-f-a99c76f2a9:
+    source_url: https://nuchronic.uk/item/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-f-a99c76f2a9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-14T15:02:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-14T15:02:01+00:00'
       verified_targets:
       - ap

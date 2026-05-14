@@ -103,11 +103,11 @@ targets:
   https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:35+00:00'
+    checked_at: '2026-05-14T15:02:13+00:00'
   ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:34+00:00'
+    checked_at: '2026-05-14T15:02:10+00:00'
   https://thechels.uk/me-awareness-day-2026:
     resolved_url: https://thechels.uk/me-awareness-day-2026
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -119,7 +119,7 @@ targets:
   https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
     resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:33+00:00'
+    checked_at: '2026-05-14T15:02:04+00:00'
   https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/:
     resolved_url: https://brennan.day/what-we-lose-with-cultural-extinction-the-red-thread-cut/
     endpoint: https://webmention.io/brennan.day/webmention
@@ -131,11 +131,11 @@ targets:
   https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
     resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:36+00:00'
+    checked_at: '2026-05-14T15:02:17+00:00'
   ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
   : resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:37+00:00'
+    checked_at: '2026-05-14T15:02:20+00:00'
   https://thechels.uk/film-club:
     resolved_url: https://thechels.uk/film-club
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -143,7 +143,7 @@ targets:
   https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
     resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
     endpoint: ''
-    checked_at: '2026-05-14T03:20:32+00:00'
+    checked_at: '2026-05-14T15:02:04+00:00'
   https://thechels.uk/what-can-you-buy-with-a-5m-donation:
     resolved_url: https://thechels.uk/what-can-you-buy-with-a-5m-donation
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -164,3 +164,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
     endpoint: ''
     checked_at: '2026-05-14T09:10:29+00:00'
+  ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
+  : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
+    endpoint: ''
+    checked_at: '2026-05-14T15:02:02+00:00'
