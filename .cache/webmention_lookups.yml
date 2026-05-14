@@ -160,3 +160,7 @@ targets:
     resolved_url: https://thechels.uk/2026-05-14-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-14T07:17:53+00:00'
+  https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/:
+    resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
+    endpoint: ''
+    checked_at: '2026-05-14T09:10:29+00:00'

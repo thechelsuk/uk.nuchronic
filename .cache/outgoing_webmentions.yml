@@ -513,7 +513,7 @@ posts:
       https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/:
         target_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
         resolved_url: https://meassociation.org.uk/2026/05/the-equality-act-and-me-cfs-ask-an-expert-with-david-walton/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -523,7 +523,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
       : target_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
         resolved_url: https://meassociation.org.uk/2026/05/new-review-evaluates-safety-and-effectiveness-of-medication-across-multiple-conditions/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -545,7 +545,7 @@ posts:
       https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/:
         target_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
         resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -555,7 +555,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -589,7 +589,7 @@ posts:
       https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
         target_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
         resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -635,7 +635,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
         target_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
         resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
-        updated_at: '2026-05-14T07:17:54+00:00'
+        updated_at: '2026-05-14T09:10:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -675,3 +675,13 @@ posts:
         status: success
         sent_at: '2026-05-14T07:17:53+00:00'
         response_status: 201
+  dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in-6556a7124e:
+    source_url: https://nuchronic.uk/item/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in-6556a7124e/
+    targets:
+      https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/:
+        target_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
+        resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
+        updated_at: '2026-05-14T09:10:29+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
