@@ -788,7 +788,21 @@ posts:
       updated_at: '2026-05-13T20:44:32+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-13T20:44:32+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-14T03:20:33+00:00'
+  release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8:
+    source_url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-14T03:20:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-14T03:20:30+00:00'
       verified_targets:
       - ap
