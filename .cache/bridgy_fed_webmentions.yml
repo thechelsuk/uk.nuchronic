@@ -844,7 +844,33 @@ posts:
       updated_at: '2026-05-14T15:02:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-14T15:02:01+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-15T07:24:36+00:00'
+  on-being-a-river-e7cca679c4:
+    source_url: https://nuchronic.uk/item/on-being-a-river-e7cca679c4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-15T07:24:31+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-15T07:24:31+00:00'
+      verified_targets:
+      - ap
+  daily-daily-rundown-for-2026-05-15-4395524f85:
+    source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-15T07:24:35+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-15T07:24:35+00:00'
       verified_targets:
       - ap
