@@ -858,10 +858,12 @@ posts:
       updated_at: '2026-05-15T07:24:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-15T07:24:31+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-15T18:46:15+00:00'
   daily-daily-rundown-for-2026-05-15-4395524f85:
     source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
     bridgy:
@@ -870,7 +872,21 @@ posts:
       updated_at: '2026-05-15T07:24:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-15T07:24:35+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-15T18:46:14+00:00'
+  linked-no-in-advance-db5ef474ef:
+    source_url: https://nuchronic.uk/item/linked-no-in-advance-db5ef474ef/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-15T18:46:12+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-15T18:46:12+00:00'
       verified_targets:
       - ap
