@@ -886,7 +886,21 @@ posts:
       updated_at: '2026-05-15T18:46:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-15T18:46:12+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-15T22:29:20+00:00'
+  cleaning-house-refactoring-my-eleventy-config-into-modules-96ce700d38:
+    source_url: https://nuchronic.uk/item/cleaning-house-refactoring-my-eleventy-config-into-modules-96ce700d38/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-15T22:29:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-15T22:29:17+00:00'
       verified_targets:
       - ap

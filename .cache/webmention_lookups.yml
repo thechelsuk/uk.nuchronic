@@ -132,10 +132,6 @@ targets:
     resolved_url: https://thechels.uk/2026-05-14-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-14T07:17:53+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-15T07:24:31+00:00'
   https://brennan.day/on-being-a-river/:
     resolved_url: https://brennan.day/on-being-a-river/
     endpoint: https://webmention.io/brennan.day/webmention
@@ -180,3 +176,11 @@ targets:
     resolved_url: https://thechels.uk/no-in-advance
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-15T18:46:12+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-15T22:29:17+00:00'
+  https://brennan.day/cleaning-house-refactoring-my-eleventy-config-into-modules/:
+    resolved_url: https://brennan.day/cleaning-house-refactoring-my-eleventy-config-into-modules/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-15T22:29:20+00:00'
