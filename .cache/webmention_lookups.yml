@@ -196,3 +196,7 @@ targets:
     resolved_url: https://thechels.uk/cheltenham-open-data-release-d4c2b1123c28
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-16T13:40:18+00:00'
+  https://thechels.uk/cheltenham-open-data-release-9aec8e2e1fe6:
+    resolved_url: https://thechels.uk/cheltenham-open-data-release-9aec8e2e1fe6
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-16T15:30:48+00:00'
