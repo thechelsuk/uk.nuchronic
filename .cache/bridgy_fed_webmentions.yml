@@ -962,3 +962,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-05-16T15:52:36+00:00'
+  release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838:
+    source_url: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-16T17:29:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-16T17:29:24+00:00'
+      verified_targets:
+      - ap

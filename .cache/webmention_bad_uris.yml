@@ -52,10 +52,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     reason: no-endpoint
     checked_at: '2026-05-16T07:00:21+00:00'
-  https://www.youtube.com/watch?v=QjhojO2cEYQ:
-    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
-    reason: no-endpoint
-    checked_at: '2026-05-16T10:36:28+00:00'
   ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
   : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
     reason: no-endpoint
@@ -76,3 +72,7 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     reason: no-endpoint
     checked_at: '2026-05-16T13:40:24+00:00'
+  https://www.youtube.com/watch?v=QjhojO2cEYQ:
+    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
+    reason: no-endpoint
+    checked_at: '2026-05-16T17:29:25+00:00'
