@@ -942,7 +942,9 @@ posts:
       updated_at: '2026-05-16T13:40:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-16T13:40:18+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-16T13:50:31+00:00'
