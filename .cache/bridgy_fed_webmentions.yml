@@ -928,7 +928,21 @@ posts:
       updated_at: '2026-05-16T10:36:28+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-16T10:36:28+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-16T13:40:20+00:00'
+  release-cheltenham-open-data-version-newsletter-25962567977-693c1cf684:
+    source_url: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25962567977-693c1cf684/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-16T13:40:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-16T13:40:18+00:00'
       verified_targets:
       - ap
