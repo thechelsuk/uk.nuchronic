@@ -208,3 +208,7 @@ targets:
     resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
     endpoint: ''
     checked_at: '2026-05-17T07:13:09+00:00'
+  https://brennan.day/a-love-letter-to-everything/:
+    resolved_url: https://brennan.day/a-love-letter-to-everything/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-17T12:34:57+00:00'

@@ -984,7 +984,20 @@ posts:
       updated_at: '2026-05-17T07:13:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-17T07:13:04+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-17T12:34:59+00:00'
+  a-love-letter-to-everything-51f7292432:
+    source_url: https://nuchronic.uk/item/a-love-letter-to-everything-51f7292432/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-17T12:34:54+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-17T12:34:55+00:00'
+      verified_targets: []
