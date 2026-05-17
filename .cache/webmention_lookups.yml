@@ -160,22 +160,6 @@ targets:
     resolved_url: https://thechels.uk/2026-05-16-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-16T07:00:15+00:00'
-  ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
-  : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
-    endpoint: ''
-    checked_at: '2026-05-16T13:40:20+00:00'
-  https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/:
-    resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
-    endpoint: ''
-    checked_at: '2026-05-16T13:40:21+00:00'
-  https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
-    endpoint: ''
-    checked_at: '2026-05-16T13:40:22+00:00'
-  https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
-    resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
-    endpoint: ''
-    checked_at: '2026-05-16T13:40:23+00:00'
   ? https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/05/me-association-co-signs-long-covid-advocacys-open-letter-to-the-royal-college-of-psychiatrists/
     endpoint: ''
@@ -184,14 +168,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/government-announces-4-75-million-funding-for-sequence-me-research-project/
     endpoint: ''
     checked_at: '2026-05-16T07:00:21+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-16T10:36:28+00:00'
-  https://www.youtube.com/watch?v=QjhojO2cEYQ:
-    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
-    endpoint: ''
-    checked_at: '2026-05-16T17:29:25+00:00'
   https://thechels.uk/cheltenham-open-data-release-d4c2b1123c28:
     resolved_url: https://thechels.uk/cheltenham-open-data-release-d4c2b1123c28
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -204,3 +180,31 @@ targets:
     resolved_url: https://thechels.uk/cheltenham-open-data-release-a400aa248379
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-16T17:29:25+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-17T07:13:04+00:00'
+  https://thechels.uk/2026-05-17-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-17-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-17T07:13:05+00:00'
+  https://www.youtube.com/watch?v=QjhojO2cEYQ:
+    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
+    endpoint: ''
+    checked_at: '2026-05-17T07:13:05+00:00'
+  ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
+  : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
+    endpoint: ''
+    checked_at: '2026-05-17T07:13:07+00:00'
+  https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/:
+    resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
+    endpoint: ''
+    checked_at: '2026-05-17T07:13:07+00:00'
+  https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
+    endpoint: ''
+    checked_at: '2026-05-17T07:13:08+00:00'
+  https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/:
+    resolved_url: https://trialbyerror.org/2026/05/12/more-on-long-covid-panel-at-psychiatrists-gathering/
+    endpoint: ''
+    checked_at: '2026-05-17T07:13:09+00:00'
