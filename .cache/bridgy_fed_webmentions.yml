@@ -1026,7 +1026,20 @@ posts:
       updated_at: '2026-05-18T07:44:33+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-18T07:44:33+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-18T18:50:03+00:00'
+  r-slopcorecirclejerk-and-the-men-who-are-pro-ai-c500e4b58c:
+    source_url: https://nuchronic.uk/item/r-slopcorecirclejerk-and-the-men-who-are-pro-ai-c500e4b58c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-18T18:50:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-18T18:50:00+00:00'
+      verified_targets: []
