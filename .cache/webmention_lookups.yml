@@ -247,8 +247,12 @@ targets:
   https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
     resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
     endpoint: ''
-    checked_at: '2026-05-20T11:13:02+00:00'
+    checked_at: '2026-05-20T20:53:52+00:00'
   https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
     resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
     endpoint: ''
     checked_at: '2026-05-20T15:17:21+00:00'
+  https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
+    resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
+    endpoint: ''
+    checked_at: '2026-05-20T20:53:51+00:00'

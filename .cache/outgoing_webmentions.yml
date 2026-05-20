@@ -761,7 +761,7 @@ posts:
       https://www.youtube.com/watch?v=QjhojO2cEYQ:
         target_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
         resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
-        updated_at: '2026-05-20T15:17:24+00:00'
+        updated_at: '2026-05-20T20:53:52+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -831,7 +831,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
-        updated_at: '2026-05-20T15:17:24+00:00'
+        updated_at: '2026-05-20T20:53:52+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -913,7 +913,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
       : target_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
         resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-        updated_at: '2026-05-20T15:17:23+00:00'
+        updated_at: '2026-05-20T20:53:51+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -923,7 +923,7 @@ posts:
       https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
         target_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
         resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
-        updated_at: '2026-05-20T15:17:23+00:00'
+        updated_at: '2026-05-20T20:53:52+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -933,7 +933,17 @@ posts:
       https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
         target_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
         resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
-        updated_at: '2026-05-20T15:17:21+00:00'
+        updated_at: '2026-05-20T20:53:52+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  so-fnd-is-not-only-a-brain-software-issue-after-all-4f9350d107:
+    source_url: https://nuchronic.uk/item/so-fnd-is-not-only-a-brain-software-issue-after-all-4f9350d107/
+    targets:
+      https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
+        target_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
+        resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
+        updated_at: '2026-05-20T20:53:51+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint

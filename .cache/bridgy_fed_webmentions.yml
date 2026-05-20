@@ -1138,7 +1138,21 @@ posts:
       updated_at: '2026-05-20T15:17:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-20T15:17:13+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-20T20:53:52+00:00'
+  so-fnd-is-not-only-a-brain-software-issue-after-all-4f9350d107:
+    source_url: https://nuchronic.uk/item/so-fnd-is-not-only-a-brain-software-issue-after-all-4f9350d107/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-20T20:53:50+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-20T20:53:50+00:00'
       verified_targets:
       - ap
