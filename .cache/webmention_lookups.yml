@@ -211,11 +211,11 @@ targets:
   https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
     endpoint: ''
-    checked_at: '2026-05-20T07:31:54+00:00'
+    checked_at: '2026-05-20T15:17:24+00:00'
   https://www.youtube.com/watch?v=QjhojO2cEYQ:
     resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
     endpoint: ''
-    checked_at: '2026-05-20T07:31:55+00:00'
+    checked_at: '2026-05-20T15:17:24+00:00'
   ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
   : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
     endpoint: ''
@@ -239,7 +239,7 @@ targets:
   ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
   : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
     endpoint: ''
-    checked_at: '2026-05-20T07:31:52+00:00'
+    checked_at: '2026-05-20T15:17:23+00:00'
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
@@ -248,3 +248,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
     endpoint: ''
     checked_at: '2026-05-20T11:13:02+00:00'
+  https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
+    resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
+    endpoint: ''
+    checked_at: '2026-05-20T15:17:21+00:00'
