@@ -215,19 +215,19 @@ targets:
   https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
     endpoint: ''
-    checked_at: '2026-05-19T21:40:20+00:00'
+    checked_at: '2026-05-20T07:31:54+00:00'
   https://www.youtube.com/watch?v=QjhojO2cEYQ:
     resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
     endpoint: ''
-    checked_at: '2026-05-19T21:40:20+00:00'
+    checked_at: '2026-05-20T07:31:55+00:00'
   ? https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
   : resolved_url: https://meassociation.org.uk/2026/05/inspired-by-his-brother-dorset-man-to-run-100km-jurassic-coast-ultra-challenge-for-me/
     endpoint: ''
-    checked_at: '2026-05-19T21:40:23+00:00'
+    checked_at: '2026-05-20T07:31:58+00:00'
   https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/:
     resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
     endpoint: ''
-    checked_at: '2026-05-19T21:40:26+00:00'
+    checked_at: '2026-05-20T07:32:01+00:00'
   https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/:
     resolved_url: https://www.healthrising.org/blog/2026/05/13/precision-life-me-cfs-long-covid-jigsaw-puzzle/
     endpoint: ''
@@ -236,3 +236,11 @@ targets:
     resolved_url: https://brennan.day/manifestation-the-law-of-attraction-cancer-and-abuse/
     endpoint: https://webmention.io/brennan.day/webmention
     checked_at: '2026-05-20T01:16:44+00:00'
+  https://thechels.uk/2026-05-20-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-20-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-20T07:31:50+00:00'
+  ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+    endpoint: ''
+    checked_at: '2026-05-20T07:31:52+00:00'
