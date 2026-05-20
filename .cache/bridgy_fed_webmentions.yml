@@ -1068,7 +1068,21 @@ posts:
       updated_at: '2026-05-19T21:40:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-19T21:40:17+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-20T01:16:45+00:00'
+  manifestation-the-law-of-attraction-cancer-and-abuse-2eaf1d60b3:
+    source_url: https://nuchronic.uk/item/manifestation-the-law-of-attraction-cancer-and-abuse-2eaf1d60b3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-20T01:16:42+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-20T01:16:43+00:00'
       verified_targets:
       - ap
