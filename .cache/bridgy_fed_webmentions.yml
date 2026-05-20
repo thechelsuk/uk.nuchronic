@@ -1096,10 +1096,12 @@ posts:
       updated_at: '2026-05-20T07:31:49+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-20T07:31:50+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-20T11:13:03+00:00'
   research-testing-a-personalised-dysautonomia-management-protocol-in-patients-wit-c7a39ba4f5:
     source_url: https://nuchronic.uk/item/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-wit-c7a39ba4f5/
     bridgy:
@@ -1108,7 +1110,21 @@ posts:
       updated_at: '2026-05-20T07:31:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-20T07:31:51+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-20T11:13:03+00:00'
+  research-review-post-infectious-syndromes-including-me-cfs-3d7deeb023:
+    source_url: https://nuchronic.uk/item/research-review-post-infectious-syndromes-including-me-cfs-3d7deeb023/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-20T11:13:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-20T11:13:01+00:00'
       verified_targets:
       - ap

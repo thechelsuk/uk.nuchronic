@@ -204,10 +204,6 @@ targets:
     resolved_url: https://thechels.uk/2026-05-19-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-19T07:31:36+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-19T21:40:17+00:00'
   https://thechels.uk/its-happened-again:
     resolved_url: https://thechels.uk/its-happened-again
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -244,3 +240,11 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
     endpoint: ''
     checked_at: '2026-05-20T07:31:52+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-20T11:13:01+00:00'
+  https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
+    endpoint: ''
+    checked_at: '2026-05-20T11:13:02+00:00'
