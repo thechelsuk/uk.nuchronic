@@ -761,7 +761,7 @@ posts:
       https://www.youtube.com/watch?v=QjhojO2cEYQ:
         target_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
         resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -831,7 +831,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -913,7 +913,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
       : target_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
         resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -923,7 +923,7 @@ posts:
       https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
         target_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
         resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -933,7 +933,7 @@ posts:
       https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
         target_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
         resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -943,7 +943,7 @@ posts:
       https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
         target_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
         resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -965,7 +965,39 @@ posts:
       ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
       : target_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
         resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
-        updated_at: '2026-05-21T09:23:43+00:00'
+        updated_at: '2026-05-21T11:16:19+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service-33b74d0793:
+    source_url: https://nuchronic.uk/item/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service-33b74d0793/
+    targets:
+      https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/:
+        target_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
+        resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
+        updated_at: '2026-05-21T11:16:12+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  spice-our-antifragile-biology-3e5b8abfa2:
+    source_url: https://nuchronic.uk/item/spice-our-antifragile-biology-3e5b8abfa2/
+    targets:
+      https://brennan.day/spice-our-antifragile-biology/:
+        target_url: https://brennan.day/spice-our-antifragile-biology/
+        resolved_url: https://brennan.day/spice-our-antifragile-biology/
+        updated_at: '2026-05-21T11:16:16+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/brennan.day/webmention
+        status: success
+        sent_at: '2026-05-21T11:16:17+00:00'
+        response_status: 201
+  title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634:
+    source_url: https://nuchronic.uk/item/title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634/
+    targets:
+      https://www.youtube.com/watch?v=bmBey1dP6IQ:
+        target_url: https://www.youtube.com/watch?v=bmBey1dP6IQ
+        resolved_url: https://www.youtube.com/watch?v=bmBey1dP6IQ
+        updated_at: '2026-05-21T11:16:18+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint

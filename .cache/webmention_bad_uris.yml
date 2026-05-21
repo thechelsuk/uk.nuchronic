@@ -100,3 +100,11 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
     reason: no-endpoint
     checked_at: '2026-05-21T09:23:43+00:00'
+  https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/:
+    resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
+    reason: no-endpoint
+    checked_at: '2026-05-21T11:16:12+00:00'
+  https://www.youtube.com/watch?v=bmBey1dP6IQ:
+    resolved_url: https://www.youtube.com/watch?v=bmBey1dP6IQ
+    reason: no-endpoint
+    checked_at: '2026-05-21T11:16:18+00:00'

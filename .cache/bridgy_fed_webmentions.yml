@@ -1180,7 +1180,44 @@ posts:
       updated_at: '2026-05-21T09:23:39+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-21T09:23:40+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-21T11:16:19+00:00'
+  new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service-33b74d0793:
+    source_url: https://nuchronic.uk/item/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service-33b74d0793/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-21T11:16:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-21T11:16:11+00:00'
+      verified_targets:
+      - ap
+  spice-our-antifragile-biology-3e5b8abfa2:
+    source_url: https://nuchronic.uk/item/spice-our-antifragile-biology-3e5b8abfa2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-21T11:16:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-21T11:16:14+00:00'
+      verified_targets: []
+  title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634:
+    source_url: https://nuchronic.uk/item/title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-21T11:16:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-21T11:16:18+00:00'
       verified_targets:
       - ap
