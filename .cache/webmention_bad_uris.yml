@@ -72,27 +72,27 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/dr-charles-shepherd-interviewed-for-me-awareness-week-on-ucb-radio-listen-in/
     reason: no-endpoint
     checked_at: '2026-05-20T07:32:01+00:00'
-  https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
-    resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
-    reason: no-endpoint
-    checked_at: '2026-05-20T15:17:21+00:00'
-  ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-  : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-05-20T15:17:23+00:00'
-  https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-05-20T15:17:24+00:00'
-  https://www.youtube.com/watch?v=QjhojO2cEYQ:
-    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
-    reason: no-endpoint
-    checked_at: '2026-05-20T15:17:24+00:00'
   https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
     resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
     reason: no-endpoint
-    checked_at: '2026-05-20T20:53:51+00:00'
+    checked_at: '2026-05-21T07:35:47+00:00'
+  ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-05-21T07:35:48+00:00'
   https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
     resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
     reason: no-endpoint
-    checked_at: '2026-05-20T20:53:52+00:00'
+    checked_at: '2026-05-21T07:35:49+00:00'
+  https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
+    resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
+    reason: no-endpoint
+    checked_at: '2026-05-21T07:35:50+00:00'
+  https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-05-21T07:35:51+00:00'
+  https://www.youtube.com/watch?v=QjhojO2cEYQ:
+    resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
+    reason: no-endpoint
+    checked_at: '2026-05-21T07:35:51+00:00'
