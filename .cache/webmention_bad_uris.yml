@@ -96,3 +96,7 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
     reason: no-endpoint
     checked_at: '2026-05-21T07:35:51+00:00'
+  ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
+  : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
+    reason: no-endpoint
+    checked_at: '2026-05-21T09:23:43+00:00'

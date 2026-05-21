@@ -1166,7 +1166,21 @@ posts:
       updated_at: '2026-05-21T07:35:45+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-21T07:35:45+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-21T09:23:43+00:00'
+  update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-excee-20db032ce7:
+    source_url: https://nuchronic.uk/item/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-excee-20db032ce7/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-21T09:23:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-21T09:23:40+00:00'
       verified_targets:
       - ap
