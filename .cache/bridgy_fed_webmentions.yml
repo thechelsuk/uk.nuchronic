@@ -1208,10 +1208,12 @@ posts:
       updated_at: '2026-05-22T07:32:05+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T07:32:05+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-22T09:23:26+00:00'
   title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634:
     source_url: https://nuchronic.uk/item/title-bbc-morning-live-new-4-75m-me-cfs-genetics-study-e4771f5634/
     bridgy:
@@ -1234,10 +1236,12 @@ posts:
       updated_at: '2026-05-22T07:31:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T07:31:59+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-22T09:23:26+00:00'
   groundhog-day-savescumming-and-our-endless-numbered-days-fde20579c1:
     source_url: https://nuchronic.uk/item/groundhog-day-savescumming-and-our-endless-numbered-days-fde20579c1/
     bridgy:
@@ -1249,3 +1253,15 @@ posts:
       status: accepted
       accepted_at: '2026-05-22T07:32:01+00:00'
       verified_targets: []
+  update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6:
+    source_url: https://nuchronic.uk/item/update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-22T09:23:23+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-22T09:23:23+00:00'
+      verified_targets:
+      - ap
