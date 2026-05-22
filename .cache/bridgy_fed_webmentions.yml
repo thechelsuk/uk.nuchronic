@@ -1247,11 +1247,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-22T07:32:01+00:00'
+      updated_at: '2026-05-22T15:14:40+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-22T07:32:01+00:00'
+      accepted_at: '2026-05-22T15:14:40+00:00'
       verified_targets: []
   update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6:
     source_url: https://nuchronic.uk/item/update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6/
@@ -1261,7 +1261,21 @@ posts:
       updated_at: '2026-05-22T09:23:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T09:23:23+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-22T15:14:39+00:00'
+  social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-1cb62b53f4:
+    source_url: https://nuchronic.uk/item/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-1cb62b53f4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-22T15:14:37+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-22T15:14:37+00:00'
       verified_targets:
       - ap
