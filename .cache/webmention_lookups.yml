@@ -228,51 +228,59 @@ targets:
     resolved_url: https://thechels.uk/2026-05-20-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-20T07:31:50+00:00'
-  https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
-    endpoint: ''
-    checked_at: '2026-05-21T07:35:49+00:00'
-  https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
-    resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
-    endpoint: ''
-    checked_at: '2026-05-21T07:35:47+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-21T07:35:45+00:00'
   https://thechels.uk/2026-05-21-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-21-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-21T07:35:45+00:00'
-  ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-  : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
-    endpoint: ''
-    checked_at: '2026-05-21T07:35:48+00:00'
-  https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
-    resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
-    endpoint: ''
-    checked_at: '2026-05-21T07:35:50+00:00'
-  https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
-    endpoint: ''
-    checked_at: '2026-05-21T07:35:51+00:00'
   https://www.youtube.com/watch?v=QjhojO2cEYQ:
     resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
     endpoint: ''
     checked_at: '2026-05-21T07:35:51+00:00'
-  ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
-  : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
-    endpoint: ''
-    checked_at: '2026-05-21T09:23:43+00:00'
-  https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/:
-    resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
-    endpoint: ''
-    checked_at: '2026-05-21T11:16:12+00:00'
   https://brennan.day/spice-our-antifragile-biology/:
     resolved_url: https://brennan.day/spice-our-antifragile-biology/
     endpoint: https://webmention.io/brennan.day/webmention
     checked_at: '2026-05-21T11:16:16+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-22T07:31:59+00:00'
+  https://thechels.uk/2026-05-22-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-22-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T07:31:59+00:00'
+  https://brennan.day/groundhog-day-savescumming-and-our-endless-numbered-days/:
+    resolved_url: https://brennan.day/groundhog-day-savescumming-and-our-endless-numbered-days/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-22T07:32:03+00:00'
+  ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
+  : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:04+00:00'
   https://www.youtube.com/watch?v=bmBey1dP6IQ:
     resolved_url: https://www.youtube.com/watch?v=bmBey1dP6IQ
     endpoint: ''
-    checked_at: '2026-05-21T11:16:18+00:00'
+    checked_at: '2026-05-22T07:32:04+00:00'
+  https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/:
+    resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:07+00:00'
+  https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
+    resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:08+00:00'
+  ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:08+00:00'
+  https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:09+00:00'
+  https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
+    resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:10+00:00'
+  https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
+    endpoint: ''
+    checked_at: '2026-05-22T07:32:11+00:00'
