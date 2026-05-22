@@ -76,10 +76,6 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=QjhojO2cEYQ
     reason: no-endpoint
     checked_at: '2026-05-21T07:35:51+00:00'
-  https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
-    resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
-    reason: no-endpoint
-    checked_at: '2026-05-22T09:23:24+00:00'
   ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
   : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
     reason: no-endpoint
@@ -116,3 +112,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
     reason: no-endpoint
     checked_at: '2026-05-22T15:14:47+00:00'
+  https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
+    resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
+    reason: no-endpoint
+    checked_at: '2026-05-22T16:56:40+00:00'

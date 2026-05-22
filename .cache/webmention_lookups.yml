@@ -287,8 +287,12 @@ targets:
   https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
     resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
     endpoint: ''
-    checked_at: '2026-05-22T09:23:24+00:00'
+    checked_at: '2026-05-22T16:56:40+00:00'
   ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
   : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
     endpoint: ''
     checked_at: '2026-05-22T15:14:39+00:00'
+  https://thechels.uk/weaknotes-2026-05-22:
+    resolved_url: https://thechels.uk/weaknotes-2026-05-22
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T16:56:38+00:00'
