@@ -1303,7 +1303,21 @@ posts:
       updated_at: '2026-05-22T17:44:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T17:44:36+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-22T18:49:23+00:00'
+  blog-the-modern-web-in-the-ai-era-in-2026-1b71306648:
+    source_url: https://nuchronic.uk/item/blog-the-modern-web-in-the-ai-era-in-2026-1b71306648/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-22T18:49:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-22T18:49:21+00:00'
       verified_targets:
       - ap

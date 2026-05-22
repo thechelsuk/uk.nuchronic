@@ -300,3 +300,7 @@ targets:
     resolved_url: https://thechels.uk/monthly-mixtape-may-2026
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T17:44:36+00:00'
+  https://thechels.uk/modern-web-ai-2026:
+    resolved_url: https://thechels.uk/modern-web-ai-2026
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T18:49:22+00:00'
