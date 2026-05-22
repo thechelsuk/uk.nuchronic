@@ -296,3 +296,7 @@ targets:
     resolved_url: https://thechels.uk/weaknotes-2026-05-22
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T16:56:38+00:00'
+  https://thechels.uk/monthly-mixtape-may-2026:
+    resolved_url: https://thechels.uk/monthly-mixtape-may-2026
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T17:44:36+00:00'
