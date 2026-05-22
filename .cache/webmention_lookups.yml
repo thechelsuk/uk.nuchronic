@@ -240,10 +240,6 @@ targets:
     resolved_url: https://brennan.day/spice-our-antifragile-biology/
     endpoint: https://webmention.io/brennan.day/webmention
     checked_at: '2026-05-21T11:16:16+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-22T07:31:59+00:00'
   https://thechels.uk/2026-05-22-daily-rundown:
     resolved_url: https://thechels.uk/2026-05-22-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -304,3 +300,11 @@ targets:
     resolved_url: https://thechels.uk/modern-web-ai-2026
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T18:49:22+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-22T19:41:32+00:00'
+  https://thechels.uk/film-monthly-may-2026:
+    resolved_url: https://thechels.uk/film-monthly-may-2026
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T19:41:32+00:00'

@@ -1317,7 +1317,21 @@ posts:
       updated_at: '2026-05-22T18:49:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T18:49:21+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-22T19:41:35+00:00'
+  film-film-club-friday-for-may-2026-86e89577c0:
+    source_url: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-22T19:41:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-22T19:41:32+00:00'
       verified_targets:
       - ap
