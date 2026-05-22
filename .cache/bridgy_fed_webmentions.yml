@@ -1247,12 +1247,13 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-22T17:44:48+00:00'
+      updated_at: '2026-05-22T23:34:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-22T17:44:48+00:00'
-      verified_targets: []
+      accepted_at: '2026-05-22T23:34:00+00:00'
+      verified_targets:
+      - ap
   update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6:
     source_url: https://nuchronic.uk/item/update-can-we-reach-consensus-on-me-cfs-research-criteria-290fb8dda6/
     bridgy:
@@ -1331,7 +1332,21 @@ posts:
       updated_at: '2026-05-22T19:41:32+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-22T19:41:32+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-22T23:34:01+00:00'
+  release-boinc-thechelsuk-version-1-0-1-d479ee173f:
+    source_url: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-22T23:33:54+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-22T23:33:55+00:00'
       verified_targets:
       - ap

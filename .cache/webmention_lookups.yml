@@ -251,31 +251,31 @@ targets:
   ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
   : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:41+00:00'
+    checked_at: '2026-05-22T23:34:04+00:00'
   https://www.youtube.com/watch?v=bmBey1dP6IQ:
     resolved_url: https://www.youtube.com/watch?v=bmBey1dP6IQ
     endpoint: ''
-    checked_at: '2026-05-22T15:14:41+00:00'
+    checked_at: '2026-05-22T23:34:04+00:00'
   https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/:
     resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:42+00:00'
+    checked_at: '2026-05-22T23:34:05+00:00'
   https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/:
     resolved_url: https://trialbyerror.org/2026/05/20/so-fnd-is-not-only-a-brain-software-issue-after-all/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:43+00:00'
+    checked_at: '2026-05-22T23:34:05+00:00'
   ? https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
   : resolved_url: https://meassociation.org.uk/2026/05/research-testing-a-personalised-dysautonomia-management-protocol-in-patients-with-orthostatic-intolerance-and-a-diagnosis-of-me-cfs-or-long-covid/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:44+00:00'
+    checked_at: '2026-05-22T23:34:09+00:00'
   https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/:
     resolved_url: https://meassociation.org.uk/2026/05/research-review-post-infectious-syndromes-including-me-cfs/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:45+00:00'
+    checked_at: '2026-05-22T23:34:11+00:00'
   https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/:
     resolved_url: https://meassociation.org.uk/2026/05/a-step-forward-in-recognition-new-very-severe-me-cfs-snomed-ct-code/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:46+00:00'
+    checked_at: '2026-05-22T23:34:14+00:00'
   https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/:
     resolved_url: https://www.healthrising.org/blog/2026/05/17/blood-vessel-brain-fog-long-covid/
     endpoint: ''
@@ -283,11 +283,11 @@ targets:
   https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
     resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
     endpoint: ''
-    checked_at: '2026-05-22T16:56:40+00:00'
+    checked_at: '2026-05-22T23:33:58+00:00'
   ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
   : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
     endpoint: ''
-    checked_at: '2026-05-22T15:14:39+00:00'
+    checked_at: '2026-05-22T23:33:59+00:00'
   https://thechels.uk/weaknotes-2026-05-22:
     resolved_url: https://thechels.uk/weaknotes-2026-05-22
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -308,3 +308,7 @@ targets:
     resolved_url: https://thechels.uk/film-monthly-may-2026
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T19:41:32+00:00'
+  https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4:
+    resolved_url: https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-22T23:33:55+00:00'
