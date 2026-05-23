@@ -312,3 +312,7 @@ targets:
     resolved_url: https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T23:33:55+00:00'
+  https://thechels.uk/films:
+    resolved_url: https://thechels.uk/films
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-23T03:22:13+00:00'
