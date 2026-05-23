@@ -1362,7 +1362,21 @@ posts:
       updated_at: '2026-05-23T03:22:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-23T03:22:13+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-23T07:09:30+00:00'
+  daily-daily-rundown-for-2026-05-23-c24c40f420:
+    source_url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-23-c24c40f420/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-23T07:09:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-23T07:09:29+00:00'
       verified_targets:
       - ap
