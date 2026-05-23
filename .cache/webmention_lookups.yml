@@ -300,10 +300,6 @@ targets:
     resolved_url: https://thechels.uk/modern-web-ai-2026
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-22T18:49:22+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-22T19:41:32+00:00'
   https://thechels.uk/film-monthly-may-2026:
     resolved_url: https://thechels.uk/film-monthly-may-2026
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -320,3 +316,11 @@ targets:
     resolved_url: https://thechels.uk/2026-05-23-daily-rundown
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-05-23T07:09:29+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-05-23T08:53:23+00:00'
+  https://brennan.day/groundhog-day-groundhog-day-and-variations-on-a-theme/:
+    resolved_url: https://brennan.day/groundhog-day-groundhog-day-and-variations-on-a-theme/
+    endpoint: https://webmention.io/brennan.day/webmention
+    checked_at: '2026-05-23T08:53:26+00:00'
