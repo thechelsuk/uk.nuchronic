@@ -1387,9 +1387,21 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-23T08:53:23+00:00'
+      updated_at: '2026-05-23T19:36:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-23T08:53:24+00:00'
+      accepted_at: '2026-05-23T19:36:13+00:00'
       verified_targets: []
+  health-risings-quickie-summer-2026-donation-drive-is-on-0c5e1b84db:
+    source_url: https://nuchronic.uk/item/health-risings-quickie-summer-2026-donation-drive-is-on-0c5e1b84db/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-23T19:36:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-23T19:36:10+00:00'
+      verified_targets:
+      - ap
