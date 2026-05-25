@@ -1390,10 +1390,12 @@ posts:
       updated_at: '2026-05-24T07:21:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-24T07:21:04+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-25T05:45:11+00:00'
   health-risings-quickie-summer-2026-donation-drive-is-on-0c5e1b84db:
     source_url: https://nuchronic.uk/item/health-risings-quickie-summer-2026-donation-drive-is-on-0c5e1b84db/
     bridgy:
@@ -1416,7 +1418,21 @@ posts:
       updated_at: '2026-05-24T07:21:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-24T07:21:00+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-25T05:45:09+00:00'
+  introducing-writer-cli-a-bash-tool-i-built-from-scratch-to-blog-in-the-terminal-a2c1d06239:
+    source_url: https://nuchronic.uk/item/introducing-writer-cli-a-bash-tool-i-built-from-scratch-to-blog-in-the-terminal-a2c1d06239/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-25T05:45:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-25T05:45:07+00:00'
       verified_targets:
       - ap
