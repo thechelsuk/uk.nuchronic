@@ -1446,7 +1446,21 @@ posts:
       updated_at: '2026-05-25T07:54:40+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-25T07:54:40+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-25T20:39:59+00:00'
+  my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms-e43a0c2205:
+    source_url: https://nuchronic.uk/item/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms-e43a0c2205/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-25T20:39:56+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-25T20:39:58+00:00'
       verified_targets:
       - ap
