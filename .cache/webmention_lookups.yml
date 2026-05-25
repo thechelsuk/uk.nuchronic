@@ -336,3 +336,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
     endpoint: ''
     checked_at: '2026-05-25T05:45:16+00:00'
+  https://thechels.uk/2026-05-25-daily-rundown:
+    resolved_url: https://thechels.uk/2026-05-25-daily-rundown
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-25T07:54:41+00:00'
