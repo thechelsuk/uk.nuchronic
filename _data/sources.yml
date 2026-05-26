@@ -1,6 +1,6 @@
 sources:
   - id: thechelsuk
-    feed_url: https://thechels.uk/feed.xml
+    feed_url: https://thechels.uk/posts.xml
   - id: the-me-association
     feed_url: https://www.meassociation.org.uk/feed/
   - id: ladybugthoughts13
@@ -19,3 +19,6 @@ sources:
     feed_url: https://brennan.day/feed.xml
   - id: type-by-error
     feed_url: https://trialbyerror.org/feed/
+  - id: Alisha Whittam
+    feed_url: https://alishawhittam.com/feed/
+ 
