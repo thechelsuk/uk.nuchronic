@@ -1474,7 +1474,32 @@ posts:
       updated_at: '2026-05-26T07:30:45+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-26T07:30:45+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-26T13:21:23+00:00'
+  gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https-de260e499d:
+    source_url: https://nuchronic.uk/item/gemini-gophers-and-fingers-oh-my-alternative-internets-beyond-https-de260e499d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-26T13:21:18+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-26T13:21:18+00:00'
+      verified_targets: []
+  research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca:
+    source_url: https://nuchronic.uk/item/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-26T13:21:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-26T13:21:21+00:00'
       verified_targets:
       - ap
