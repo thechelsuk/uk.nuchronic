@@ -100,22 +100,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/new-provider-announced-for-kent-and-medway-me-cfs-and-long-covid-service/
     reason: no-endpoint
     checked_at: '2026-05-25T05:45:16+00:00'
-  https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
-    resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
-    reason: no-endpoint
-    checked_at: '2026-05-26T07:30:46+00:00'
-  https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
-    reason: no-endpoint
-    checked_at: '2026-05-26T07:30:47+00:00'
-  https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
-    resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
-    reason: no-endpoint
-    checked_at: '2026-05-26T07:30:49+00:00'
-  ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
-  : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
-    reason: no-endpoint
-    checked_at: '2026-05-26T07:30:50+00:00'
   ? https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
   : resolved_url: https://meassociation.org.uk/2026/05/update-ukmeb-steering-group-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
     reason: no-endpoint
@@ -128,3 +112,23 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
     reason: no-endpoint
     checked_at: '2026-05-26T13:21:22+00:00'
+  https://alishawhittam.com/me-heat-intolerance-heatwave-tips/:
+    resolved_url: https://alishawhittam.com/me-heat-intolerance-heatwave-tips/
+    reason: no-endpoint
+    checked_at: '2026-05-26T17:07:36+00:00'
+  https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
+    resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
+    reason: no-endpoint
+    checked_at: '2026-05-26T17:07:38+00:00'
+  https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
+    reason: no-endpoint
+    checked_at: '2026-05-26T17:07:39+00:00'
+  https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
+    resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
+    reason: no-endpoint
+    checked_at: '2026-05-26T17:07:41+00:00'
+  ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
+  : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
+    reason: no-endpoint
+    checked_at: '2026-05-26T17:07:42+00:00'
