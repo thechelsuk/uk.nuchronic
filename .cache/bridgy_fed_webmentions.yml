@@ -1485,12 +1485,13 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-26T17:07:38+00:00'
+      updated_at: '2026-05-27T09:25:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-26T17:07:38+00:00'
-      verified_targets: []
+      accepted_at: '2026-05-27T09:25:30+00:00'
+      verified_targets:
+      - ap
   research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca:
     source_url: https://nuchronic.uk/item/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca/
     bridgy:
@@ -1515,5 +1516,17 @@ posts:
       response_status: 202
       status: accepted
       accepted_at: '2026-05-26T17:07:34+00:00'
+      verified_targets:
+      - ap
+  oxford-me-cfs-research-highlights-and-final-report-20192026-78929aef01:
+    source_url: https://nuchronic.uk/item/oxford-me-cfs-research-highlights-and-final-report-20192026-78929aef01/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-27T09:25:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-27T09:25:22+00:00'
       verified_targets:
       - ap
