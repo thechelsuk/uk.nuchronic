@@ -1488,10 +1488,12 @@ posts:
       updated_at: '2026-05-27T09:25:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-27T09:25:30+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-27T20:53:04+00:00'
   research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca:
     source_url: https://nuchronic.uk/item/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid-01e7548aca/
     bridgy:
@@ -1526,7 +1528,21 @@ posts:
       updated_at: '2026-05-27T09:25:22+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-27T09:25:22+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-27T20:53:02+00:00'
+  my-exchange-with-an-fnd-physical-therapy-specialist-4f2c0a21d1:
+    source_url: https://nuchronic.uk/item/my-exchange-with-an-fnd-physical-therapy-specialist-4f2c0a21d1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-27T20:53:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-27T20:53:01+00:00'
       verified_targets:
       - ap

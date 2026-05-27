@@ -1031,7 +1031,7 @@ posts:
       https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
         target_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
         resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
-        updated_at: '2026-05-27T09:25:34+00:00'
+        updated_at: '2026-05-27T20:53:07+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1041,7 +1041,7 @@ posts:
       ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
       : target_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
         resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
-        updated_at: '2026-05-27T09:25:35+00:00'
+        updated_at: '2026-05-27T20:53:08+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1147,7 +1147,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
         target_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
         resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
-        updated_at: '2026-05-27T09:25:31+00:00'
+        updated_at: '2026-05-27T20:53:06+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1193,7 +1193,7 @@ posts:
       https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
         target_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
         resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
-        updated_at: '2026-05-27T09:25:30+00:00'
+        updated_at: '2026-05-27T20:53:05+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1227,7 +1227,7 @@ posts:
       https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
         target_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
         resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
-        updated_at: '2026-05-27T09:25:28+00:00'
+        updated_at: '2026-05-27T20:53:04+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1247,7 +1247,17 @@ posts:
       https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
         target_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
         resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
-        updated_at: '2026-05-27T09:25:25+00:00'
+        updated_at: '2026-05-27T20:53:03+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  my-exchange-with-an-fnd-physical-therapy-specialist-4f2c0a21d1:
+    source_url: https://nuchronic.uk/item/my-exchange-with-an-fnd-physical-therapy-specialist-4f2c0a21d1/
+    targets:
+      https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
+        target_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
+        resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
+        updated_at: '2026-05-27T20:53:02+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
