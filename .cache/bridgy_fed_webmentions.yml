@@ -1553,9 +1553,21 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-28T07:40:10+00:00'
+      updated_at: '2026-05-28T19:07:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-28T07:40:11+00:00'
+      accepted_at: '2026-05-28T19:07:22+00:00'
       verified_targets: []
+  geoffs-hyperadrenergic-pots-saga-and-a-blood-vessel-subset-shows-up-87bc823250:
+    source_url: https://nuchronic.uk/item/geoffs-hyperadrenergic-pots-saga-and-a-blood-vessel-subset-shows-up-87bc823250/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-28T19:07:19+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-28T19:07:19+00:00'
+      verified_targets:
+      - ap
