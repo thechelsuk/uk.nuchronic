@@ -1542,7 +1542,20 @@ posts:
       updated_at: '2026-05-27T20:53:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-27T20:53:01+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-28T07:40:15+00:00'
+  homelab-for-the-beginner-you-can-self-host-your-own-server-on-50-hardware-7c793f05ee:
+    source_url: https://nuchronic.uk/item/homelab-for-the-beginner-you-can-self-host-your-own-server-on-50-hardware-7c793f05ee/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-28T07:40:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-28T07:40:11+00:00'
+      verified_targets: []
