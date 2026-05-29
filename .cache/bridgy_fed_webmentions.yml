@@ -1553,12 +1553,13 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-05-28T19:07:21+00:00'
+      updated_at: '2026-05-29T13:27:02+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-05-28T19:07:22+00:00'
-      verified_targets: []
+      accepted_at: '2026-05-29T13:27:02+00:00'
+      verified_targets:
+      - ap
   geoffs-hyperadrenergic-pots-saga-and-a-blood-vessel-subset-shows-up-87bc823250:
     source_url: https://nuchronic.uk/item/geoffs-hyperadrenergic-pots-saga-and-a-blood-vessel-subset-shows-up-87bc823250/
     bridgy:
@@ -1567,7 +1568,22 @@ posts:
       updated_at: '2026-05-28T19:07:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-28T19:07:19+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-29T13:27:03+00:00'
+  i-was-no-longer-living-i-was-existing-c373bca658:
+    source_url: https://nuchronic.uk/item/i-was-no-longer-living-i-was-existing-c373bca658/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-29T13:26:58+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 502
+      status: failed
+      verified_targets:
+      - ap
+      error: <html> <head><title>502 Bad Gateway</title></head> <body> <center><h1>502
+        Bad Gateway</h1></center> <hr><center>nginx</center> </body> </html>
