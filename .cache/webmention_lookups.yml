@@ -343,40 +343,44 @@ targets:
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-05-29T13:26:58+00:00'
+    checked_at: '2026-05-30T12:40:41+00:00'
+  https://thechels.uk/weaknotes-2026-05-30:
+    resolved_url: https://thechels.uk/weaknotes-2026-05-30
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-05-30T12:40:41+00:00'
   https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-2/:
     resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-2/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:01+00:00'
+    checked_at: '2026-05-30T12:40:45+00:00'
   https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/:
     resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:05+00:00'
+    checked_at: '2026-05-30T12:40:46+00:00'
   https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
     resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:06+00:00'
+    checked_at: '2026-05-30T12:40:47+00:00'
   https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
     resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:07+00:00'
+    checked_at: '2026-05-30T12:40:48+00:00'
   https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
     resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:10+00:00'
+    checked_at: '2026-05-30T12:40:49+00:00'
   https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
     resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:10+00:00'
+    checked_at: '2026-05-30T12:40:49+00:00'
   https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
     resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:11+00:00'
+    checked_at: '2026-05-30T12:40:50+00:00'
   https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/:
     resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:14+00:00'
+    checked_at: '2026-05-30T12:40:51+00:00'
   ? https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
   : resolved_url: https://meassociation.org.uk/2026/05/social-care-institute-for-excellence-help-improve-transitions-from-childrens-to-adults-social-care-survey-workshops/
     endpoint: ''
-    checked_at: '2026-05-29T13:27:17+00:00'
+    checked_at: '2026-05-30T12:40:52+00:00'
