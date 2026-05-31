@@ -1584,10 +1584,12 @@ posts:
       updated_at: '2026-05-30T12:40:42+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-30T12:40:42+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-05-31T09:15:44+00:00'
   weaknotes-2026-05-30-8f67557826:
     source_url: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
     bridgy:
@@ -1596,7 +1598,21 @@ posts:
       updated_at: '2026-05-30T12:40:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-30T12:40:41+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-31T09:15:44+00:00'
+  announcing-fanfiction-lol-a-manifesto-on-human-creativity-and-ao3-325679e5fa:
+    source_url: https://nuchronic.uk/item/announcing-fanfiction-lol-a-manifesto-on-human-creativity-and-ao3-325679e5fa/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-31T09:15:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-31T09:15:41+00:00'
       verified_targets:
       - ap
