@@ -1612,7 +1612,21 @@ posts:
       updated_at: '2026-05-31T09:15:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-31T09:15:41+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-05-31T22:30:32+00:00'
+  interview-with-chris-ponting-about-sequence-me-long-covid-a0ddef5752:
+    source_url: https://nuchronic.uk/item/interview-with-chris-ponting-about-sequence-me-long-covid-a0ddef5752/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-05-31T22:30:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-05-31T22:30:31+00:00'
       verified_targets:
       - ap
