@@ -1626,7 +1626,21 @@ posts:
       updated_at: '2026-05-31T22:30:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-05-31T22:30:31+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-01T13:01:29+00:00'
+  gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitor-8941486fea:
+    source_url: https://nuchronic.uk/item/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitor-8941486fea/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-01T13:01:27+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-01T13:01:27+00:00'
       verified_targets:
       - ap
