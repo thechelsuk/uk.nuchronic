@@ -1,6 +1,6 @@
 ---
 title: I Was No Longer Living, I Was Existing
-link: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-2/
+link: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis/
 author: Alisha Whittam
 date: 2026-05-29 13:15:07 +0000
 ---
