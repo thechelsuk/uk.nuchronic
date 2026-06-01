@@ -1147,7 +1147,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
         target_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
         resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1193,7 +1193,7 @@ posts:
       https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
         target_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
         resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1227,7 +1227,7 @@ posts:
       https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
         target_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
         resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1247,7 +1247,7 @@ posts:
       https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
         target_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
         resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1257,7 +1257,7 @@ posts:
       https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
         target_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
         resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1279,7 +1279,7 @@ posts:
       https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/:
         target_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
         resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1296,7 +1296,7 @@ posts:
       https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/:
         target_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
         resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1330,7 +1330,7 @@ posts:
       https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
         target_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
         resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1340,7 +1340,17 @@ posts:
       https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
         target_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
         resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
-        updated_at: '2026-06-01T13:03:51+00:00'
+        updated_at: '2026-06-01T15:19:42+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  bbc-morning-live-covers-me-cfs-me-association-response-efb2df7751:
+    source_url: https://nuchronic.uk/item/bbc-morning-live-covers-me-cfs-me-association-response-efb2df7751/
+    targets:
+      https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
+        target_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
+        resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
+        updated_at: '2026-06-01T15:19:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint

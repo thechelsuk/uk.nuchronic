@@ -1646,3 +1646,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-06-01T13:03:51+00:00'
+  bbc-morning-live-covers-me-cfs-me-association-response-efb2df7751:
+    source_url: https://nuchronic.uk/item/bbc-morning-live-covers-me-cfs-me-association-response-efb2df7751/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-01T15:19:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-01T15:19:41+00:00'
+      verified_targets:
+      - ap

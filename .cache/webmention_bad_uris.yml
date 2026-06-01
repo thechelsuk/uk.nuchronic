@@ -160,3 +160,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
     reason: no-endpoint
     checked_at: '2026-06-01T13:01:37+00:00'
+  https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
+    resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
+    reason: no-endpoint
+    checked_at: '2026-06-01T15:19:42+00:00'
