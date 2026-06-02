@@ -124,59 +124,63 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
     reason: no-endpoint
     checked_at: '2026-05-31T22:30:39+00:00'
-  ? https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
-  : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:35+00:00'
-  https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/:
-    resolved_url: https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:36+00:00'
-  https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
-    resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:37+00:00'
-  https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
-    resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:39+00:00'
-  https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
-    resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:39+00:00'
-  https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/:
-    resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:39+00:00'
-  https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/:
-    resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:40+00:00'
-  https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
-    resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:42+00:00'
-  https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
-    resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:42+00:00'
-  https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
-    resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:43+00:00'
-  https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
-    resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
-    reason: no-endpoint
-    checked_at: '2026-06-02T09:42:43+00:00'
   https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
     resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
     reason: no-endpoint
     checked_at: '2026-06-02T09:42:44+00:00'
-  https://www.youtube.com/watch?v=HHzVXSVvi4o:
-    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
-    reason: no-endpoint
-    checked_at: '2026-06-02T11:41:00+00:00'
   ? https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
   : resolved_url: https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
     reason: no-endpoint
     checked_at: '2026-06-02T13:37:55+00:00'
+  https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:27+00:00'
+  ? https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+  : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:31+00:00'
+  https://www.youtube.com/watch?v=HHzVXSVvi4o:
+    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:31+00:00'
+  https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/:
+    resolved_url: https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:33+00:00'
+  https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
+    resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:36+00:00'
+  https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
+    resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:39+00:00'
+  https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
+    resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:39+00:00'
+  https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/:
+    resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:44+00:00'
+  https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/:
+    resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:45+00:00'
+  https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
+    resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:48+00:00'
+  https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
+    resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:48+00:00'
+  https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:51+00:00'
+  https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
+    resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
+    reason: no-endpoint
+    checked_at: '2026-06-02T17:45:51+00:00'
