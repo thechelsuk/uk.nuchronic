@@ -412,3 +412,7 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
     endpoint: ''
     checked_at: '2026-06-02T09:42:35+00:00'
+  https://www.youtube.com/watch?v=HHzVXSVvi4o:
+    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
+    endpoint: ''
+    checked_at: '2026-06-02T11:41:00+00:00'

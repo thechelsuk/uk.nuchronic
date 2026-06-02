@@ -1682,7 +1682,21 @@ posts:
       updated_at: '2026-06-02T09:42:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-02T09:42:34+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-02T11:41:01+00:00'
+  bbc-morning-live-explains-me-cfs-after-viewer-feedback-c05ce0fc54:
+    source_url: https://nuchronic.uk/item/bbc-morning-live-explains-me-cfs-after-viewer-feedback-c05ce0fc54/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-02T11:41:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-02T11:41:00+00:00'
       verified_targets:
       - ap

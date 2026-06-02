@@ -172,3 +172,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
     reason: no-endpoint
     checked_at: '2026-06-02T09:42:44+00:00'
+  https://www.youtube.com/watch?v=HHzVXSVvi4o:
+    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
+    reason: no-endpoint
+    checked_at: '2026-06-02T11:41:00+00:00'
