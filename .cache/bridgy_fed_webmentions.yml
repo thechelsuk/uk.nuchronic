@@ -1668,7 +1668,21 @@ posts:
       updated_at: '2026-06-01T23:39:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-01T23:39:31+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-02T09:42:36+00:00'
+  eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honou-0dd662fdd1:
+    source_url: https://nuchronic.uk/item/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honou-0dd662fdd1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-02T09:42:34+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-02T09:42:34+00:00'
       verified_targets:
       - ap

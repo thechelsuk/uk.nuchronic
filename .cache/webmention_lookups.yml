@@ -360,51 +360,55 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/05/update-can-we-reach-consensus-on-me-cfs-research-criteria/
     endpoint: ''
     checked_at: '2026-05-31T22:30:39+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-06-01T13:01:27+00:00'
   https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
     resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:32+00:00'
+    checked_at: '2026-06-02T09:42:37+00:00'
   https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
     resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:35+00:00'
+    checked_at: '2026-06-02T09:42:39+00:00'
   https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/:
     resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:35+00:00'
+    checked_at: '2026-06-02T09:42:39+00:00'
   https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/:
     resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:36+00:00'
+    checked_at: '2026-06-02T09:42:40+00:00'
   https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/:
     resolved_url: https://meassociation.org.uk/2026/05/oxford-me-cfs-research-highlights-and-final-report-2019-2026/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:37+00:00'
+    checked_at: '2026-06-02T09:42:42+00:00'
   https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/:
     resolved_url: https://trialbyerror.org/2026/05/27/my-exchange-with-an-fnd-physical-therapy-specialist/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:38+00:00'
+    checked_at: '2026-06-02T09:42:42+00:00'
   https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/:
     resolved_url: https://meassociation.org.uk/2026/05/research-effect-of-vagus-nerve-stimulation-on-fatigue-in-people-with-long-covid/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:39+00:00'
+    checked_at: '2026-06-02T09:42:43+00:00'
   https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/:
     resolved_url: https://trialbyerror.org/2026/05/25/my-request-for-correction-of-causal-claim-for-functional-neurological-symptoms/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:39+00:00'
+    checked_at: '2026-06-02T09:42:43+00:00'
   https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/:
     resolved_url: https://www.healthrising.org/blog/2026/05/23/health-rising-2026-summer-drive/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:40+00:00'
+    checked_at: '2026-06-02T09:42:44+00:00'
   https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
     resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:34+00:00'
+    checked_at: '2026-06-02T09:42:39+00:00'
   https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/:
     resolved_url: https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/
     endpoint: ''
-    checked_at: '2026-06-01T23:39:31+00:00'
+    checked_at: '2026-06-02T09:42:36+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-06-02T09:42:34+00:00'
+  ? https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+  : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+    endpoint: ''
+    checked_at: '2026-06-02T09:42:35+00:00'
