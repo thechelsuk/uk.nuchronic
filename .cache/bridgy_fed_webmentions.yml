@@ -1696,7 +1696,21 @@ posts:
       updated_at: '2026-06-02T11:41:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-02T11:41:00+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-02T13:37:55+00:00'
+  me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-fdaf23c3bb:
+    source_url: https://nuchronic.uk/item/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-fdaf23c3bb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-02T13:37:53+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-02T13:37:53+00:00'
       verified_targets:
       - ap

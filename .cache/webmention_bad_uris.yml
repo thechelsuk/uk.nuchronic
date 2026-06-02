@@ -176,3 +176,7 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
     reason: no-endpoint
     checked_at: '2026-06-02T11:41:00+00:00'
+  ? https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
+  : resolved_url: https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-06-02T13:37:55+00:00'
