@@ -1752,7 +1752,21 @@ posts:
       updated_at: '2026-06-04T09:33:57+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-04T09:33:58+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-04T13:26:47+00:00'
+  living-with-de-quervains-syndrome-my-experience-symptoms-and-treatment-f4dc8117e1:
+    source_url: https://nuchronic.uk/item/living-with-de-quervains-syndrome-my-experience-symptoms-and-treatment-f4dc8117e1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-04T13:26:45+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-04T13:26:45+00:00'
       verified_targets:
       - ap
