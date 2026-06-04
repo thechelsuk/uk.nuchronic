@@ -1738,7 +1738,21 @@ posts:
       updated_at: '2026-06-03T17:53:08+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-03T17:53:08+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-04T09:33:59+00:00'
+  me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-glouc-2fdbb2b1da:
+    source_url: https://nuchronic.uk/item/me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-glouc-2fdbb2b1da/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-04T09:33:57+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-04T09:33:58+00:00'
       verified_targets:
       - ap
