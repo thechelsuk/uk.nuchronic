@@ -1780,7 +1780,21 @@ posts:
       updated_at: '2026-06-05T17:46:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-05T17:46:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-05T19:44:41+00:00'
+  the-elephant-in-the-room-the-nih-long-covid-me-cfs-pots-and-post-infectious-illn-ab00ee4e8d:
+    source_url: https://nuchronic.uk/item/the-elephant-in-the-room-the-nih-long-covid-me-cfs-pots-and-post-infectious-illn-ab00ee4e8d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-05T19:44:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-05T19:44:39+00:00'
       verified_targets:
       - ap
