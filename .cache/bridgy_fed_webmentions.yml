@@ -1832,10 +1832,12 @@ posts:
       updated_at: '2026-06-08T09:51:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-08T09:51:18+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-08T11:47:02+00:00'
   all-about-me-living-with-myalgic-encephalomyelitis-me-cfs-094ec06f59:
     source_url: https://nuchronic.uk/item/all-about-me-living-with-myalgic-encephalomyelitis-me-cfs-094ec06f59/
     bridgy:
@@ -1846,3 +1848,15 @@ posts:
       - bsky
       verified_at: '2026-06-08T09:51:20+00:00'
       status: success
+  the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-03b2cce9e5:
+    source_url: https://nuchronic.uk/item/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-03b2cce9e5/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-08T11:47:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-08T11:47:01+00:00'
+      verified_targets:
+      - ap

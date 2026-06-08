@@ -216,3 +216,7 @@ targets:
     resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
     reason: no-endpoint
     checked_at: '2026-06-08T09:51:46+00:00'
+  ? https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
+  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
+    reason: no-endpoint
+    checked_at: '2026-06-08T11:47:02+00:00'
