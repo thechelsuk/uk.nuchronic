@@ -1808,10 +1808,12 @@ posts:
       updated_at: '2026-06-07T07:41:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-07T07:41:54+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-08T09:51:19+00:00'
   weaknotes-2026-06-05-1e1fda102a:
     source_url: https://nuchronic.uk/item/weaknotes-2026-06-05-1e1fda102a/
     bridgy:
@@ -1821,4 +1823,26 @@ posts:
       - ap
       - bsky
       verified_at: '2026-06-07T07:41:54+00:00'
+      status: success
+  carers-week-2026-daves-story-cd841a0b39:
+    source_url: https://nuchronic.uk/item/carers-week-2026-daves-story-cd841a0b39/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-08T09:51:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-08T09:51:18+00:00'
+      verified_targets:
+      - ap
+  all-about-me-living-with-myalgic-encephalomyelitis-me-cfs-094ec06f59:
+    source_url: https://nuchronic.uk/item/all-about-me-living-with-myalgic-encephalomyelitis-me-cfs-094ec06f59/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-08T09:51:20+00:00'
       status: success
