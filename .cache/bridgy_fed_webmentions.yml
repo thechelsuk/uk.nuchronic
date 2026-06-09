@@ -1870,10 +1870,12 @@ posts:
       updated_at: '2026-06-09T13:18:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-09T13:18:41+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-09T21:44:37+00:00'
   carers-week-2026-yvettes-story-42af81165c:
     source_url: https://nuchronic.uk/item/carers-week-2026-yvettes-story-42af81165c/
     bridgy:
@@ -1882,7 +1884,33 @@ posts:
       updated_at: '2026-06-09T13:18:44+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-09T13:18:44+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-09T21:44:41+00:00'
+  the-truth-according-to-wired-and-alan-levinovitz-8058a09506:
+    source_url: https://nuchronic.uk/item/the-truth-according-to-wired-and-alan-levinovitz-8058a09506/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-09T21:44:35+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-09T21:44:36+00:00'
+      verified_targets:
+      - ap
+  hitting-the-target-me-cfs-and-long-covid-t-cell-researchers-on-uncovering-the-pr-a2a2498d43:
+    source_url: https://nuchronic.uk/item/hitting-the-target-me-cfs-and-long-covid-t-cell-researchers-on-uncovering-the-pr-a2a2498d43/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-09T21:44:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-09T21:44:39+00:00'
       verified_targets:
       - ap
