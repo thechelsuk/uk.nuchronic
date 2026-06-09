@@ -1856,7 +1856,33 @@ posts:
       updated_at: '2026-06-08T11:47:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-08T11:47:01+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-09T13:18:46+00:00'
+  this-is-what-lockdown-looks-like-for-me-and-it-never-ends-e78801de7f:
+    source_url: https://nuchronic.uk/item/this-is-what-lockdown-looks-like-for-me-and-it-never-ends-e78801de7f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-09T13:18:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-09T13:18:41+00:00'
+      verified_targets:
+      - ap
+  carers-week-2026-yvettes-story-42af81165c:
+    source_url: https://nuchronic.uk/item/carers-week-2026-yvettes-story-42af81165c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-09T13:18:44+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-09T13:18:44+00:00'
       verified_targets:
       - ap

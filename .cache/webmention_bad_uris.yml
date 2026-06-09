@@ -148,75 +148,83 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/05/28/hyperadrenergic-pots-blood-vessels/
     reason: no-endpoint
     checked_at: '2026-06-07T07:42:12+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:19+00:00'
-  https://www.youtube.com/watch?v=ljOYGbJjp9c:
-    resolved_url: https://www.youtube.com/watch?v=ljOYGbJjp9c
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:19+00:00'
-  https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/:
-    resolved_url: https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:20+00:00'
-  https://www.healthrising.org/blog/2026/06/05/elephant-nih-long-covid-mecfs-pots/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/05/elephant-nih-long-covid-mecfs-pots/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:21+00:00'
-  https://www.youtube.com/watch?v=Ud-Avzv5XjY:
-    resolved_url: https://www.youtube.com/watch?v=Ud-Avzv5XjY
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:22+00:00'
-  ? https://meassociation.org.uk/2026/06/me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-gloucestershire-hospitals-nhs-foundation-trust/
-  : resolved_url: https://meassociation.org.uk/2026/06/me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-gloucestershire-hospitals-nhs-foundation-trust/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:27+00:00'
-  https://alishawhittam.com/living-with-de-quervains-syndrome/:
-    resolved_url: https://alishawhittam.com/living-with-de-quervains-syndrome/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:28+00:00'
-  https://www.youtube.com/watch?v=U11ibiXoTTA:
-    resolved_url: https://www.youtube.com/watch?v=U11ibiXoTTA
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:28+00:00'
-  ? https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
-  : resolved_url: https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:31+00:00'
-  https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:32+00:00'
-  ? https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
-  : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:35+00:00'
-  https://www.youtube.com/watch?v=HHzVXSVvi4o:
-    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:35+00:00'
-  https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/:
-    resolved_url: https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:38+00:00'
-  https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
-    resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:41+00:00'
-  https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
-    resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:45+00:00'
-  https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
-    resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-06-08T09:51:45+00:00'
   https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/:
     resolved_url: https://alishawhittam.com/living-with-severe-myalgic-encephalomyelitis-mecfs/
     reason: no-endpoint
     checked_at: '2026-06-08T09:51:46+00:00'
+  https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/:
+    resolved_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:43+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:45+00:00'
   ? https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
   : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
     reason: no-endpoint
-    checked_at: '2026-06-08T11:47:02+00:00'
+    checked_at: '2026-06-09T13:18:47+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:48+00:00'
+  https://www.youtube.com/watch?v=ljOYGbJjp9c:
+    resolved_url: https://www.youtube.com/watch?v=ljOYGbJjp9c
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:48+00:00'
+  https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/:
+    resolved_url: https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:50+00:00'
+  https://www.healthrising.org/blog/2026/06/05/elephant-nih-long-covid-mecfs-pots/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/05/elephant-nih-long-covid-mecfs-pots/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:51+00:00'
+  https://www.youtube.com/watch?v=Ud-Avzv5XjY:
+    resolved_url: https://www.youtube.com/watch?v=Ud-Avzv5XjY
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:51+00:00'
+  ? https://meassociation.org.uk/2026/06/me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-gloucestershire-hospitals-nhs-foundation-trust/
+  : resolved_url: https://meassociation.org.uk/2026/06/me-awareness-week-me-cfs-friendship-group-organise-an-information-stand-at-gloucestershire-hospitals-nhs-foundation-trust/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:52+00:00'
+  https://alishawhittam.com/living-with-de-quervains-syndrome/:
+    resolved_url: https://alishawhittam.com/living-with-de-quervains-syndrome/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:54+00:00'
+  https://www.youtube.com/watch?v=U11ibiXoTTA:
+    resolved_url: https://www.youtube.com/watch?v=U11ibiXoTTA
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:54+00:00'
+  ? https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
+  : resolved_url: https://meassociation.org.uk/2026/06/me-association-provides-information-for-bbc-morning-live-interview-with-dr-ranj-on-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:55+00:00'
+  https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:57+00:00'
+  ? https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+  : resolved_url: https://meassociation.org.uk/2026/06/eight-year-old-chester-school-boy-takes-on-50-mile-bike-ride-for-me-cfs-in-honour-of-his-mum/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:58+00:00'
+  https://www.youtube.com/watch?v=HHzVXSVvi4o:
+    resolved_url: https://www.youtube.com/watch?v=HHzVXSVvi4o
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:18:58+00:00'
+  https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/:
+    resolved_url: https://alishawhittam.com/accessible-london-trip-with-me-darren-criss/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:19:00+00:00'
+  https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/:
+    resolved_url: https://meassociation.org.uk/2026/06/gordon-family-issue-an-update-on-karen-health-and-emails-from-nhs-esht-solicitors/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:19:01+00:00'
+  https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/:
+    resolved_url: https://meassociation.org.uk/2026/06/bbc-morning-live-covers-me-cfs-me-association-response/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:19:02+00:00'
+  https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/:
+    resolved_url: https://trialbyerror.org/2026/05/31/interview-with-chris-ponting-about-sequence-me-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-06-09T13:19:03+00:00'
