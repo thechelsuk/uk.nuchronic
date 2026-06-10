@@ -1898,10 +1898,12 @@ posts:
       updated_at: '2026-06-09T21:44:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-09T21:44:36+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-10T01:23:47+00:00'
   hitting-the-target-me-cfs-and-long-covid-t-cell-researchers-on-uncovering-the-pr-a2a2498d43:
     source_url: https://nuchronic.uk/item/hitting-the-target-me-cfs-and-long-covid-t-cell-researchers-on-uncovering-the-pr-a2a2498d43/
     bridgy:
@@ -1910,7 +1912,21 @@ posts:
       updated_at: '2026-06-09T21:44:39+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-09T21:44:39+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-10T01:23:47+00:00'
+  yuyu-hot-water-bottle-review-could-this-be-the-answer-to-my-chronic-pain-8e83b1fdd9:
+    source_url: https://nuchronic.uk/item/yuyu-hot-water-bottle-review-could-this-be-the-answer-to-my-chronic-pain-8e83b1fdd9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-10T01:23:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-10T01:23:46+00:00'
       verified_targets:
       - ap
