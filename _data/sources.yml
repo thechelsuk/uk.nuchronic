@@ -17,5 +17,10 @@ sources:
     feed_url: https://www.healthrising.org/feed
   - id: type-by-error
     feed_url: https://trialbyerror.org/feed/
-  - id: Alisha Whittam
+  - id: Alisha-Whittam
     feed_url: https://alishawhittam.com/feed/
+  - id: life-with-mecfs
+    feed_url: https://livingwithmecfs.co.uk/feed/
+  - id: life-of-pippa
+    feed_url: https://www.lifeofpippa.co.uk/feed/
+  
