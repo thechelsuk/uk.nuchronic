@@ -23,4 +23,7 @@ sources:
     feed_url: https://livingwithmecfs.co.uk/feed/
   - id: life-of-pippa
     feed_url: https://www.lifeofpippa.co.uk/feed/
-  
+  - id: creating-with-cf
+    feed_url: https://www.creatingwithchronicfatigue.co.uk/blog?format=rss
+  - id: eleanor-stein-md
+    feed_url: https://www.eleanorsteinmd.ca/blog.rss
