@@ -1926,7 +1926,41 @@ posts:
       updated_at: '2026-06-10T01:23:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-10T01:23:46+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-11T08:00:28+00:00'
+  when-chronic-illness-changes-the-person-you-see-in-the-mirror-3fbeefa402:
+    source_url: https://nuchronic.uk/item/when-chronic-illness-changes-the-person-you-see-in-the-mirror-3fbeefa402/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-11T08:00:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-11T08:00:24+00:00'
+      verified_targets:
+      - ap
+  driftwood-41b8d8df6f:
+    source_url: https://nuchronic.uk/item/driftwood-41b8d8df6f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-11T08:00:26+00:00'
+      status: success
+  caring-for-someone-with-severe-me-myfanwys-story-5affb2cc6b:
+    source_url: https://nuchronic.uk/item/caring-for-someone-with-severe-me-myfanwys-story-5affb2cc6b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-11T08:00:26+00:00'
+      status: success
