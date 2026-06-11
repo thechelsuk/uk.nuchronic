@@ -252,3 +252,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/06/02/autoimmune-long-covid-subset/
     reason: no-endpoint
     checked_at: '2026-06-11T08:00:47+00:00'
+  ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+  : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+    reason: no-endpoint
+    checked_at: '2026-06-11T13:41:08+00:00'
