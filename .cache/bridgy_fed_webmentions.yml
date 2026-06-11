@@ -1974,7 +1974,21 @@ posts:
       updated_at: '2026-06-11T13:41:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-11T13:41:07+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-11T17:27:04+00:00'
+  calling-chronic-illness-bloggers-0189896df9:
+    source_url: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-11T17:27:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-11T17:27:01+00:00'
       verified_targets:
       - ap
