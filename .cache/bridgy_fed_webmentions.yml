@@ -1988,7 +1988,21 @@ posts:
       updated_at: '2026-06-11T17:27:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-11T17:27:01+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-12T09:39:09+00:00'
+  representing-the-me-cfs-community-at-westminster-for-carers-week-2026-7978216f95:
+    source_url: https://nuchronic.uk/item/representing-the-me-cfs-community-at-westminster-for-carers-week-2026-7978216f95/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-12T09:39:02+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-12T09:39:02+00:00'
       verified_targets:
       - ap
