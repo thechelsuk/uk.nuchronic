@@ -2030,10 +2030,12 @@ posts:
       updated_at: '2026-06-13T10:57:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-13T10:57:24+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-13T13:43:05+00:00'
   weaknotes-2026-06-13-58a84148e6:
     source_url: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
     bridgy:
@@ -2042,10 +2044,12 @@ posts:
       updated_at: '2026-06-13T10:57:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-13T10:57:25+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-13T13:43:05+00:00'
   me-association-job-vacancy-me-connect-officer-9554721a33:
     source_url: https://nuchronic.uk/item/me-association-job-vacancy-me-connect-officer-9554721a33/
     bridgy:
@@ -2066,3 +2070,15 @@ posts:
       - bsky
       verified_at: '2026-06-13T10:57:29+00:00'
       status: success
+  lonely-but-not-alone-finding-connection-while-living-with-severe-me-4326e8efeb:
+    source_url: https://nuchronic.uk/item/lonely-but-not-alone-finding-connection-while-living-with-severe-me-4326e8efeb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-13T13:43:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-13T13:43:01+00:00'
+      verified_targets:
+      - ap
