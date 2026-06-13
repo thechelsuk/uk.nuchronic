@@ -1460,7 +1460,7 @@ posts:
       https://www.youtube.com/watch?v=ljOYGbJjp9c:
         target_url: https://www.youtube.com/watch?v=ljOYGbJjp9c
         resolved_url: https://www.youtube.com/watch?v=ljOYGbJjp9c
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:38+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1482,7 +1482,7 @@ posts:
       https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/:
         target_url: https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/
         resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:38+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1492,7 +1492,7 @@ posts:
       https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/:
         target_url: https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/
         resolved_url: https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:40+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1502,7 +1502,7 @@ posts:
       ? https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
       : target_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
         resolved_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:37+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1512,7 +1512,7 @@ posts:
       https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/:
         target_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
         resolved_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:34+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1522,7 +1522,7 @@ posts:
       https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/:
         target_url: https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/
         resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:36+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1532,7 +1532,7 @@ posts:
       https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/:
         target_url: https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/
         resolved_url: https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:34+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1542,7 +1542,7 @@ posts:
       https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/:
         target_url: https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/
         resolved_url: https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:35+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1552,7 +1552,7 @@ posts:
       https://alishawhittam.com/yuyu-hot-water-bottle-review/:
         target_url: https://alishawhittam.com/yuyu-hot-water-bottle-review/
         resolved_url: https://alishawhittam.com/yuyu-hot-water-bottle-review/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:33+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1562,7 +1562,7 @@ posts:
       https://alishawhittam.com/chronic-illness-and-self-image/:
         target_url: https://alishawhittam.com/chronic-illness-and-self-image/
         resolved_url: https://alishawhittam.com/chronic-illness-and-self-image/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:31+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1572,7 +1572,7 @@ posts:
       https://the-ensemblist.uk/driftwood:
         target_url: https://the-ensemblist.uk/driftwood
         resolved_url: https://the-ensemblist.uk/driftwood
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:32+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1582,7 +1582,7 @@ posts:
       https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/:
         target_url: https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/
         resolved_url: https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:33+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1592,7 +1592,7 @@ posts:
       ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
       : target_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
         resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:32+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1614,7 +1614,7 @@ posts:
       https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/:
         target_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
         resolved_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
-        updated_at: '2026-06-12T11:27:11+00:00'
+        updated_at: '2026-06-13T10:57:27+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1624,7 +1624,49 @@ posts:
       https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/:
         target_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
         resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
-        updated_at: '2026-06-12T11:27:10+00:00'
+        updated_at: '2026-06-13T10:57:31+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  carers-week-2026-jaynes-story-b4754df4ea:
+    source_url: https://nuchronic.uk/item/carers-week-2026-jaynes-story-b4754df4ea/
+    targets:
+      https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
+        target_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
+        resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
+        updated_at: '2026-06-13T10:57:25+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  weaknotes-2026-06-13-58a84148e6:
+    source_url: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
+    targets:
+      https://thechels.uk/weaknotes-2026-06-13:
+        target_url: https://thechels.uk/weaknotes-2026-06-13
+        resolved_url: https://thechels.uk/weaknotes-2026-06-13
+        updated_at: '2026-06-13T10:57:26+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-06-13T10:57:26+00:00'
+        response_status: 201
+  me-association-job-vacancy-me-connect-officer-9554721a33:
+    source_url: https://nuchronic.uk/item/me-association-job-vacancy-me-connect-officer-9554721a33/
+    targets:
+      https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/:
+        target_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
+        resolved_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
+        updated_at: '2026-06-13T10:57:28+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  dear-retailers-not-all-christmas-shoppers-walk-through-your-doors-1e8fcda15a:
+    source_url: https://nuchronic.uk/item/dear-retailers-not-all-christmas-shoppers-walk-through-your-doors-1e8fcda15a/
+    targets:
+      https://alishawhittam.com/christmas-shopping-in-a-wheelchair/:
+        target_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
+        resolved_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
+        updated_at: '2026-06-13T10:57:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint

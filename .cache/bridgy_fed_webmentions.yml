@@ -2016,7 +2016,53 @@ posts:
       updated_at: '2026-06-12T11:27:09+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-12T11:27:09+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-13T10:57:30+00:00'
+  carers-week-2026-jaynes-story-b4754df4ea:
+    source_url: https://nuchronic.uk/item/carers-week-2026-jaynes-story-b4754df4ea/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-13T10:57:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-13T10:57:24+00:00'
+      verified_targets:
+      - ap
+  weaknotes-2026-06-13-58a84148e6:
+    source_url: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-13T10:57:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-13T10:57:25+00:00'
+      verified_targets:
+      - ap
+  me-association-job-vacancy-me-connect-officer-9554721a33:
+    source_url: https://nuchronic.uk/item/me-association-job-vacancy-me-connect-officer-9554721a33/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-13T10:57:27+00:00'
+      status: success
+  dear-retailers-not-all-christmas-shoppers-walk-through-your-doors-1e8fcda15a:
+    source_url: https://nuchronic.uk/item/dear-retailers-not-all-christmas-shoppers-walk-through-your-doors-1e8fcda15a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-13T10:57:29+00:00'
+      status: success
