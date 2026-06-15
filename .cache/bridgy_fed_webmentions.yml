@@ -2078,7 +2078,31 @@ posts:
       updated_at: '2026-06-13T13:43:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-13T13:43:01+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-15T14:25:33+00:00'
+  research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cau-74494b6b4b:
+    source_url: https://nuchronic.uk/item/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cau-74494b6b4b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-15T14:25:27+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-15T14:25:28+00:00'
+      verified_targets:
+      - ap
+  living-with-me-we-havent-changed-our-lives-have-559d79e1a8:
+    source_url: https://nuchronic.uk/item/living-with-me-we-havent-changed-our-lives-have-559d79e1a8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-15T14:25:31+00:00'
+      status: success

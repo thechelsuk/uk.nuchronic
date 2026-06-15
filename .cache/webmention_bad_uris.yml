@@ -204,66 +204,6 @@ targets:
     resolved_url: https://alishawhittam.com/living-with-de-quervains-syndrome/
     reason: no-endpoint
     checked_at: '2026-06-12T09:39:40+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:25+00:00'
-  https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/:
-    resolved_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:27+00:00'
-  https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/:
-    resolved_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:28+00:00'
-  https://alishawhittam.com/christmas-shopping-in-a-wheelchair/:
-    resolved_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:30+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:31+00:00'
-  https://alishawhittam.com/chronic-illness-and-self-image/:
-    resolved_url: https://alishawhittam.com/chronic-illness-and-self-image/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:31+00:00'
-  ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
-  : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:32+00:00'
-  https://the-ensemblist.uk/driftwood:
-    resolved_url: https://the-ensemblist.uk/driftwood
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:32+00:00'
-  https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:33+00:00'
-  https://alishawhittam.com/yuyu-hot-water-bottle-review/:
-    resolved_url: https://alishawhittam.com/yuyu-hot-water-bottle-review/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:33+00:00'
-  https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/:
-    resolved_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:34+00:00'
-  https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/:
-    resolved_url: https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:34+00:00'
-  https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:35+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:36+00:00'
-  ? https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
-  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
-    reason: no-endpoint
-    checked_at: '2026-06-13T10:57:37+00:00'
   https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/:
     resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-daves-story/
     reason: no-endpoint
@@ -276,7 +216,75 @@ targets:
     resolved_url: https://alishawhittam.com/all-about-me-questionnaire-myalgic-encephalomyelitis/
     reason: no-endpoint
     checked_at: '2026-06-13T10:57:40+00:00'
+  ? https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
+  : resolved_url: https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:31+00:00'
+  https://alishawhittam.com/living-with-me-we-havent-changed/:
+    resolved_url: https://alishawhittam.com/living-with-me-we-havent-changed/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:32+00:00'
   https://alishawhittam.com/loneliness-with-chronic-illness/:
     resolved_url: https://alishawhittam.com/loneliness-with-chronic-illness/
     reason: no-endpoint
-    checked_at: '2026-06-13T13:43:05+00:00'
+    checked_at: '2026-06-15T14:25:34+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:36+00:00'
+  https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/:
+    resolved_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:39+00:00'
+  https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/:
+    resolved_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:42+00:00'
+  https://alishawhittam.com/christmas-shopping-in-a-wheelchair/:
+    resolved_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:44+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:45+00:00'
+  https://alishawhittam.com/chronic-illness-and-self-image/:
+    resolved_url: https://alishawhittam.com/chronic-illness-and-self-image/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:46+00:00'
+  ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+  : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:47+00:00'
+  https://the-ensemblist.uk/driftwood:
+    resolved_url: https://the-ensemblist.uk/driftwood
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:48+00:00'
+  https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/caring-for-someone-with-severe-me-myfanwys-story/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:50+00:00'
+  https://alishawhittam.com/yuyu-hot-water-bottle-review/:
+    resolved_url: https://alishawhittam.com/yuyu-hot-water-bottle-review/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:52+00:00'
+  https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/:
+    resolved_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:53+00:00'
+  https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/:
+    resolved_url: https://trialbyerror.org/2026/06/09/the-truth-according-to-wired-and-alan-levinovitz/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:54+00:00'
+  https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:55+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-yvettes-story/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:25:58+00:00'
+  ? https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
+  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-joins-other-organisations-to-sign-an-open-letter-to-the-royal-college-of-psychiatrists/
+    reason: no-endpoint
+    checked_at: '2026-06-15T14:26:01+00:00'
