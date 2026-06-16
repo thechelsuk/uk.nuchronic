@@ -2092,10 +2092,12 @@ posts:
       updated_at: '2026-06-15T14:25:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-15T14:25:28+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-16T22:02:58+00:00'
   living-with-me-we-havent-changed-our-lives-have-559d79e1a8:
     source_url: https://nuchronic.uk/item/living-with-me-we-havent-changed-our-lives-have-559d79e1a8/
     bridgy:
@@ -2106,3 +2108,15 @@ posts:
       - bsky
       verified_at: '2026-06-15T14:25:31+00:00'
       status: success
+  the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-vi-f99aec1829:
+    source_url: https://nuchronic.uk/item/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-vi-f99aec1829/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-16T22:02:56+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-16T22:02:57+00:00'
+      verified_targets:
+      - ap
