@@ -2116,7 +2116,21 @@ posts:
       updated_at: '2026-06-16T22:02:56+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-16T22:02:57+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-17T20:54:43+00:00'
+  visible-at-last-are-long-covid-and-me-cfs-tissue-diseases-the-polybio-2026-sympo-3bbe9a0eb5:
+    source_url: https://nuchronic.uk/item/visible-at-last-are-long-covid-and-me-cfs-tissue-diseases-the-polybio-2026-sympo-3bbe9a0eb5/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-17T20:54:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-17T20:54:41+00:00'
       verified_targets:
       - ap
