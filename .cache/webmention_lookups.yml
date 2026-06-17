@@ -548,3 +548,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/06/09/t-cell-long-covid-me-cfs/
     endpoint: ''
     checked_at: '2026-06-17T20:55:01+00:00'
+  https://thechels.uk/embracing-the-quartering-of-football:
+    resolved_url: https://thechels.uk/embracing-the-quartering-of-football
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-06-17T21:47:20+00:00'
