@@ -304,3 +304,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
     reason: no-endpoint
     checked_at: '2026-06-18T13:28:42+00:00'
+  ? https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
+  : resolved_url: https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
+    reason: no-endpoint
+    checked_at: '2026-06-18T15:21:24+00:00'
