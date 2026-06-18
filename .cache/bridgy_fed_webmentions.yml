@@ -2158,7 +2158,21 @@ posts:
       updated_at: '2026-06-18T11:33:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-18T11:33:30+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-18T13:28:43+00:00'
+  inflatable-5k-series-d8807dd3dd:
+    source_url: https://nuchronic.uk/item/inflatable-5k-series-d8807dd3dd/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-18T13:28:37+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-18T13:28:38+00:00'
       verified_targets:
       - ap
