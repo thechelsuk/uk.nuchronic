@@ -2144,7 +2144,21 @@ posts:
       updated_at: '2026-06-17T21:47:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-17T21:47:20+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-18T11:33:34+00:00'
+  tough-mudder-3b852bd1b2:
+    source_url: https://nuchronic.uk/item/tough-mudder-3b852bd1b2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-18T11:33:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-18T11:33:30+00:00'
       verified_targets:
       - ap
