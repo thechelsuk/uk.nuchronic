@@ -320,3 +320,11 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
     reason: no-endpoint
     checked_at: '2026-06-22T11:09:09+00:00'
+  https://alishawhittam.com/robotic-wheelchairs-accessibility/:
+    resolved_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
+    reason: no-endpoint
+    checked_at: '2026-06-22T16:43:12+00:00'
+  https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/:
+    resolved_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
+    reason: no-endpoint
+    checked_at: '2026-06-22T16:43:13+00:00'

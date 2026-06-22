@@ -2200,10 +2200,12 @@ posts:
       updated_at: '2026-06-22T11:09:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-22T11:09:00+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-22T16:43:14+00:00'
   can-these-toys-survive-2-labradors-5c389d869d:
     source_url: https://nuchronic.uk/item/can-these-toys-survive-2-labradors-5c389d869d/
     bridgy:
@@ -2224,3 +2226,27 @@ posts:
       - bsky
       verified_at: '2026-06-22T11:09:02+00:00'
       status: success
+  robotic-wheelchairs-and-accessibility-the-future-of-independent-mobility-e2a87b9444:
+    source_url: https://nuchronic.uk/item/robotic-wheelchairs-and-accessibility-the-future-of-independent-mobility-e2a87b9444/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-22T16:43:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-22T16:43:11+00:00'
+      verified_targets:
+      - ap
+  scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinic-22142800d9:
+    source_url: https://nuchronic.uk/item/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinic-22142800d9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-22T16:43:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-22T16:43:13+00:00'
+      verified_targets:
+      - ap
