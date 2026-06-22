@@ -2186,7 +2186,41 @@ posts:
       updated_at: '2026-06-18T15:21:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-18T15:21:23+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-22T11:09:02+00:00'
+  the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-o-d9a58ab314:
+    source_url: https://nuchronic.uk/item/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-o-d9a58ab314/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-22T11:09:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-22T11:09:00+00:00'
+      verified_targets:
+      - ap
+  can-these-toys-survive-2-labradors-5c389d869d:
+    source_url: https://nuchronic.uk/item/can-these-toys-survive-2-labradors-5c389d869d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-22T11:09:01+00:00'
+      status: success
+  house-of-lords-debate-severe-me-cfs-2026-fced048920:
+    source_url: https://nuchronic.uk/item/house-of-lords-debate-severe-me-cfs-2026-fced048920/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-22T11:09:02+00:00'
+      status: success

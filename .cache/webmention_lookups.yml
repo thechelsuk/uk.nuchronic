@@ -484,62 +484,6 @@ targets:
     resolved_url: https://thechels.uk/embracing-the-quartering-of-football
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-06-17T21:47:20+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-06-18T11:33:30+00:00'
-  https://meassociation.org.uk/2026/06/tough-mudder/:
-    resolved_url: https://meassociation.org.uk/2026/06/tough-mudder/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:33+00:00'
-  https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:34+00:00'
-  ? https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
-  : resolved_url: https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:35+00:00'
-  ? https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
-  : resolved_url: https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:39+00:00'
-  https://alishawhittam.com/living-with-me-we-havent-changed/:
-    resolved_url: https://alishawhittam.com/living-with-me-we-havent-changed/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:41+00:00'
-  https://alishawhittam.com/loneliness-with-chronic-illness/:
-    resolved_url: https://alishawhittam.com/loneliness-with-chronic-illness/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:42+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:45+00:00'
-  https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/:
-    resolved_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:49+00:00'
-  https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/:
-    resolved_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:58+00:00'
-  https://alishawhittam.com/christmas-shopping-in-a-wheelchair/:
-    resolved_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
-    endpoint: ''
-    checked_at: '2026-06-18T11:33:59+00:00'
-  https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/:
-    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
-    endpoint: ''
-    checked_at: '2026-06-18T11:34:02+00:00'
-  https://alishawhittam.com/chronic-illness-and-self-image/:
-    resolved_url: https://alishawhittam.com/chronic-illness-and-self-image/
-    endpoint: ''
-    checked_at: '2026-06-18T11:34:03+00:00'
-  ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
-  : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
-    endpoint: ''
-    checked_at: '2026-06-18T11:34:06+00:00'
   https://the-ensemblist.uk/driftwood:
     resolved_url: https://the-ensemblist.uk/driftwood
     endpoint: ''
@@ -556,11 +500,79 @@ targets:
     resolved_url: https://alishawhittam.com/living-with-severe-me-cfs-lockdown-never-ended/
     endpoint: ''
     checked_at: '2026-06-18T11:34:11+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-06-22T11:09:00+00:00'
+  ? https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
+  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:00+00:00'
+  https://alishawhittam.com/can-these-toys-survive-2-labradors/:
+    resolved_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:01+00:00'
+  https://meassociation.org.uk/2026/06/tough-mudder/:
+    resolved_url: https://meassociation.org.uk/2026/06/tough-mudder/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:01+00:00'
   https://meassociation.org.uk/2026/06/inflatable-5k-series/:
     resolved_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
     endpoint: ''
-    checked_at: '2026-06-18T13:28:42+00:00'
+    checked_at: '2026-06-22T11:09:02+00:00'
   ? https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
   : resolved_url: https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
     endpoint: ''
-    checked_at: '2026-06-18T15:21:24+00:00'
+    checked_at: '2026-06-22T11:09:02+00:00'
+  https://www.youtube.com/watch?v=DGBQZwXbcMc:
+    resolved_url: https://www.youtube.com/watch?v=DGBQZwXbcMc
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:02+00:00'
+  https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:06+00:00'
+  ? https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
+  : resolved_url: https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:07+00:00'
+  ? https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
+  : resolved_url: https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:07+00:00'
+  https://alishawhittam.com/living-with-me-we-havent-changed/:
+    resolved_url: https://alishawhittam.com/living-with-me-we-havent-changed/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:07+00:00'
+  https://alishawhittam.com/loneliness-with-chronic-illness/:
+    resolved_url: https://alishawhittam.com/loneliness-with-chronic-illness/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:07+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:08+00:00'
+  https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/:
+    resolved_url: https://meassociation.org.uk/2026/06/representing-the-me-cfs-community-at-westminster-for-carers-week-2026/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:08+00:00'
+  https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/:
+    resolved_url: https://meassociation.org.uk/2026/06/me-association-job-vacancy-me-connect-officer/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:08+00:00'
+  https://alishawhittam.com/christmas-shopping-in-a-wheelchair/:
+    resolved_url: https://alishawhittam.com/christmas-shopping-in-a-wheelchair/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:08+00:00'
+  https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/:
+    resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-suzies-story/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:09+00:00'
+  https://alishawhittam.com/chronic-illness-and-self-image/:
+    resolved_url: https://alishawhittam.com/chronic-illness-and-self-image/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:09+00:00'
+  ? https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+  : resolved_url: https://meassociation.org.uk/2026/06/petition-caroline-roberts-inpatient-leicester-royal-infirmary-hospital-with-very-severe-me/
+    endpoint: ''
+    checked_at: '2026-06-22T11:09:09+00:00'
