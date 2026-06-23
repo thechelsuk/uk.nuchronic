@@ -2234,10 +2234,12 @@ posts:
       updated_at: '2026-06-22T16:43:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-22T16:43:11+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-23T13:17:31+00:00'
   scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinic-22142800d9:
     source_url: https://nuchronic.uk/item/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinic-22142800d9/
     bridgy:
@@ -2246,7 +2248,21 @@ posts:
       updated_at: '2026-06-22T16:43:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-22T16:43:13+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-23T13:17:27+00:00'
+  dear-andy-burnham-this-is-what-disabled-britain-needs-from-its-next-prime-minist-b494ef8542:
+    source_url: https://nuchronic.uk/item/dear-andy-burnham-this-is-what-disabled-britain-needs-from-its-next-prime-minist-b494ef8542/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-23T13:17:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-23T13:17:20+00:00'
       verified_targets:
       - ap
