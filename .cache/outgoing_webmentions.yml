@@ -1634,7 +1634,7 @@ posts:
       https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/:
         target_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
         resolved_url: https://meassociation.org.uk/2026/06/carers-week-2026-jaynes-story/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:51+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1676,17 +1676,17 @@ posts:
       https://alishawhittam.com/loneliness-with-chronic-illness/:
         target_url: https://alishawhittam.com/loneliness-with-chronic-illness/
         resolved_url: https://alishawhittam.com/loneliness-with-chronic-illness/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:48+00:00'
         source_format_version: 2
         status: skipped
-        reason: no-endpoint
+        reason: discovery-http-404
   research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cau-74494b6b4b:
     source_url: https://nuchronic.uk/item/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cau-74494b6b4b/
     targets:
       ? https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
       : target_url: https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
         resolved_url: https://meassociation.org.uk/2026/06/research-long-term-health-outcomes-in-q-fever-a-non-viral-infection-that-can-cause-an-me-cfs-like-illness/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:46+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1696,17 +1696,17 @@ posts:
       https://alishawhittam.com/living-with-me-we-havent-changed/:
         target_url: https://alishawhittam.com/living-with-me-we-havent-changed/
         resolved_url: https://alishawhittam.com/living-with-me-we-havent-changed/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:47+00:00'
         source_format_version: 2
         status: skipped
-        reason: no-endpoint
+        reason: discovery-http-404
   the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-vi-f99aec1829:
     source_url: https://nuchronic.uk/item/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-vi-f99aec1829/
     targets:
       ? https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
       : target_url: https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
         resolved_url: https://trialbyerror.org/2026/06/16/the-wired-account-of-cancelled-exercise-study-for-long-covid-at-university-of-virginia/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:43+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1716,7 +1716,7 @@ posts:
       https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/:
         target_url: https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/
         resolved_url: https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:42+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1738,7 +1738,7 @@ posts:
       https://meassociation.org.uk/2026/06/tough-mudder/:
         target_url: https://meassociation.org.uk/2026/06/tough-mudder/
         resolved_url: https://meassociation.org.uk/2026/06/tough-mudder/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:33+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1748,7 +1748,7 @@ posts:
       https://meassociation.org.uk/2026/06/inflatable-5k-series/:
         target_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
         resolved_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:38+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1758,7 +1758,7 @@ posts:
       ? https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
       : target_url: https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
         resolved_url: https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:40+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1768,7 +1768,7 @@ posts:
       ? https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
       : target_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
         resolved_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:27+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1778,17 +1778,17 @@ posts:
       https://alishawhittam.com/can-these-toys-survive-2-labradors/:
         target_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
         resolved_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:32+00:00'
         source_format_version: 2
         status: skipped
-        reason: no-endpoint
+        reason: discovery-http-404
   house-of-lords-debate-severe-me-cfs-2026-fced048920:
     source_url: https://nuchronic.uk/item/house-of-lords-debate-severe-me-cfs-2026-fced048920/
     targets:
       https://www.youtube.com/watch?v=DGBQZwXbcMc:
         target_url: https://www.youtube.com/watch?v=DGBQZwXbcMc
         resolved_url: https://www.youtube.com/watch?v=DGBQZwXbcMc
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:40+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1798,7 +1798,7 @@ posts:
       https://alishawhittam.com/robotic-wheelchairs-accessibility/:
         target_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
         resolved_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:30+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1808,7 +1808,7 @@ posts:
       https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/:
         target_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
         resolved_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:28+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1818,7 +1818,7 @@ posts:
       https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/:
         target_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
         resolved_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:24+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1828,7 +1828,7 @@ posts:
       ? https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
       : target_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
         resolved_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:23+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -1838,7 +1838,19 @@ posts:
       https://www.eleanorsteinmd.ca/blog/aging-chronic-disease:
         target_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
         resolved_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
-        updated_at: '2026-06-23T18:55:52+00:00'
+        updated_at: '2026-06-24T20:44:22+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
+  heat-wave-and-me-04447dcea9:
+    source_url: https://nuchronic.uk/item/heat-wave-and-me-04447dcea9/
+    targets:
+      https://thechels.uk/heat-wave-and-me:
+        target_url: https://thechels.uk/heat-wave-and-me
+        resolved_url: https://thechels.uk/heat-wave-and-me
+        updated_at: '2026-06-24T20:44:20+00:00'
+        source_format_version: 2
+        endpoint: https://webmention.io/thechels.uk/webmention
+        status: success
+        sent_at: '2026-06-24T20:44:20+00:00'
+        response_status: 201

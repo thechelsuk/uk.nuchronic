@@ -2290,7 +2290,21 @@ posts:
       updated_at: '2026-06-23T18:55:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-23T18:55:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-24T20:44:21+00:00'
+  heat-wave-and-me-04447dcea9:
+    source_url: https://nuchronic.uk/item/heat-wave-and-me-04447dcea9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-24T20:44:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-24T20:44:20+00:00'
       verified_targets:
       - ap
