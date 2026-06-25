@@ -2304,7 +2304,31 @@ posts:
       updated_at: '2026-06-24T20:44:20+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-24T20:44:20+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-25T20:50:47+00:00'
+  pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2-85814054c2:
+    source_url: https://nuchronic.uk/item/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2-85814054c2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-25T20:50:44+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-25T20:50:44+00:00'
+      verified_targets:
+      - ap
+  me-cfs-and-long-covid-scottish-parliamentary-questions-362c5b85bc:
+    source_url: https://nuchronic.uk/item/me-cfs-and-long-covid-scottish-parliamentary-questions-362c5b85bc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-25T20:50:46+00:00'
+      status: success
