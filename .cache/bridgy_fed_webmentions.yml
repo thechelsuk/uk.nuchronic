@@ -2342,7 +2342,21 @@ posts:
       updated_at: '2026-06-26T11:10:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-26T11:10:53+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-26T13:02:56+00:00'
+  how-nutrient-sensing-controls-your-metabolism-energy-and-longevity-part-2-of-3-d2e525a1b4:
+    source_url: https://nuchronic.uk/item/how-nutrient-sensing-controls-your-metabolism-energy-and-longevity-part-2-of-3-d2e525a1b4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-26T13:02:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-26T13:02:55+00:00'
       verified_targets:
       - ap
