@@ -2318,10 +2318,12 @@ posts:
       updated_at: '2026-06-25T20:50:44+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-25T20:50:44+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-26T11:10:53+00:00'
   me-cfs-and-long-covid-scottish-parliamentary-questions-362c5b85bc:
     source_url: https://nuchronic.uk/item/me-cfs-and-long-covid-scottish-parliamentary-questions-362c5b85bc/
     bridgy:
@@ -2332,3 +2334,15 @@ posts:
       - bsky
       verified_at: '2026-06-25T20:50:46+00:00'
       status: success
+  the-ultimate-guide-to-disability-football-in-england-formats-clubs-how-to-get-in-0cc1bc66db:
+    source_url: https://nuchronic.uk/item/the-ultimate-guide-to-disability-football-in-england-formats-clubs-how-to-get-in-0cc1bc66db/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-26T11:10:53+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-26T11:10:53+00:00'
+      verified_targets:
+      - ap
