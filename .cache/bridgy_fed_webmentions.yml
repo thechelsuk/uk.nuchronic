@@ -2356,7 +2356,30 @@ posts:
       updated_at: '2026-06-26T13:02:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-26T13:02:55+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-27T12:42:47+00:00'
+  weaknotes-2026-06-27-c637e87a55:
+    source_url: https://nuchronic.uk/item/weaknotes-2026-06-27-c637e87a55/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-27T12:42:45+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-27T12:42:45+00:00'
+      verified_targets: []
+  the-privacy-observation-window-fc4181a1e1:
+    source_url: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-27T12:42:46+00:00'
+      status: success
