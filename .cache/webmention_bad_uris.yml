@@ -292,67 +292,71 @@ targets:
     resolved_url: https://alishawhittam.com/living-with-me-we-havent-changed/
     reason: no-endpoint
     checked_at: '2026-06-26T11:11:03+00:00'
+  ? https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+  : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+    reason: no-endpoint
+    checked_at: '2026-06-28T09:18:16+00:00'
   https://alishawhittam.com/ee-disability-fa-cup-finals-2026/:
     resolved_url: https://alishawhittam.com/ee-disability-fa-cup-finals-2026/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:46+00:00'
+    checked_at: '2026-06-28T09:18:17+00:00'
   https://www.eleanorsteinmd.ca/blog/nutrient-sensing:
     resolved_url: https://www.eleanorsteinmd.ca/blog/nutrient-sensing
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:48+00:00'
+    checked_at: '2026-06-28T09:18:18+00:00'
   https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/:
     resolved_url: https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:49+00:00'
+    checked_at: '2026-06-28T09:18:20+00:00'
   https://www.youtube.com/watch?v=6DedviyAgZQ:
-    resolved_url: https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6DedviyAgZQ&q=EgQw09J0GMqK_9EGIjDnjNJe7LOd0K8YDun2GDM9O3JgNB0hPoEffxoHFsptatgBJbygvlDquX8V48Cr5o8yAnJSWgFD
-    reason: discovery-http-429
-    checked_at: '2026-06-27T12:42:50+00:00'
+    resolved_url: https://www.youtube.com/watch?v=6DedviyAgZQ
+    reason: no-endpoint
+    checked_at: '2026-06-28T09:18:20+00:00'
   https://www.eleanorsteinmd.ca/blog/aging-chronic-disease:
     resolved_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:50+00:00'
+    checked_at: '2026-06-28T09:18:21+00:00'
   ? https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
   : resolved_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:51+00:00'
+    checked_at: '2026-06-28T09:18:22+00:00'
   https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/:
     resolved_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:52+00:00'
+    checked_at: '2026-06-28T09:18:22+00:00'
   ? https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
   : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:52+00:00'
+    checked_at: '2026-06-28T09:18:23+00:00'
   https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/:
     resolved_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:53+00:00'
+    checked_at: '2026-06-28T09:18:24+00:00'
   https://alishawhittam.com/robotic-wheelchairs-accessibility/:
     resolved_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:53+00:00'
+    checked_at: '2026-06-28T09:18:24+00:00'
   https://alishawhittam.com/can-these-toys-survive-2-labradors/:
     resolved_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:54+00:00'
+    checked_at: '2026-06-28T09:18:24+00:00'
   https://meassociation.org.uk/2026/06/tough-mudder/:
     resolved_url: https://meassociation.org.uk/2026/06/tough-mudder/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:55+00:00'
+    checked_at: '2026-06-28T09:18:26+00:00'
   https://meassociation.org.uk/2026/06/inflatable-5k-series/:
     resolved_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:55+00:00'
+    checked_at: '2026-06-28T09:18:27+00:00'
   ? https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
   : resolved_url: https://meassociation.org.uk/2026/06/house-of-lords-debate-treatment-and-research-into-severe-myalgic-encephalomyelitis-me-18-june-2026/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:55+00:00'
+    checked_at: '2026-06-28T09:18:28+00:00'
   https://www.youtube.com/watch?v=DGBQZwXbcMc:
-    resolved_url: https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDGBQZwXbcMc&q=EgQw09J0GM-K_9EGIjCEunWxS11fqxBWXDVvXYhY-v7t3fEOgf6N1I1Gs0L4qwNGaw8aEGywuqDL-IsNcTIyAnJSWgFD
-    reason: discovery-http-429
-    checked_at: '2026-06-27T12:42:56+00:00'
+    resolved_url: https://www.youtube.com/watch?v=DGBQZwXbcMc
+    reason: no-endpoint
+    checked_at: '2026-06-28T09:18:28+00:00'
   https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/:
     resolved_url: https://www.healthrising.org/blog/2026/06/17/tissues-long-covid-me-cfs/
     reason: no-endpoint
-    checked_at: '2026-06-27T12:42:58+00:00'
+    checked_at: '2026-06-28T09:18:30+00:00'

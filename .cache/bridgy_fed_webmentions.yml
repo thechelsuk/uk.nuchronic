@@ -2367,12 +2367,13 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-06-27T12:42:45+00:00'
+      updated_at: '2026-06-28T09:18:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-06-27T12:42:45+00:00'
-      verified_targets: []
+      accepted_at: '2026-06-28T09:18:17+00:00'
+      verified_targets:
+      - ap
   the-privacy-observation-window-fc4181a1e1:
     source_url: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
     bridgy:
@@ -2383,3 +2384,15 @@ posts:
       - bsky
       verified_at: '2026-06-27T12:42:46+00:00'
       status: success
+  some-things-ive-read-recentlyfair-on-wired-german-psychiatrists-on-lc-and-me-cfs-b2a0a5462c:
+    source_url: https://nuchronic.uk/item/some-things-ive-read-recentlyfair-on-wired-german-psychiatrists-on-lc-and-me-cfs-b2a0a5462c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-28T09:18:16+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-28T09:18:16+00:00'
+      verified_targets:
+      - ap
