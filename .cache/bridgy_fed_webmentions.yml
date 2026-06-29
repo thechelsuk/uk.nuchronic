@@ -2370,10 +2370,12 @@ posts:
       updated_at: '2026-06-28T09:18:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-28T09:18:17+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-29T09:50:00+00:00'
   the-privacy-observation-window-fc4181a1e1:
     source_url: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
     bridgy:
@@ -2392,7 +2394,21 @@ posts:
       updated_at: '2026-06-28T09:18:16+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-28T09:18:16+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-29T09:50:00+00:00'
+  research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-c7487efa00:
+    source_url: https://nuchronic.uk/item/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-c7487efa00/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-29T09:49:58+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-29T09:49:58+00:00'
       verified_targets:
       - ap
