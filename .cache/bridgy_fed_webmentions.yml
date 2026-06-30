@@ -2408,7 +2408,31 @@ posts:
       updated_at: '2026-06-29T09:49:58+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-29T09:49:58+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-30T09:24:34+00:00'
+  furor-over-wireds-mind-body-article-continues-12ee352902:
+    source_url: https://nuchronic.uk/item/furor-over-wireds-mind-body-article-continues-12ee352902/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-30T09:24:33+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-30T09:24:33+00:00'
+      verified_targets:
+      - ap
+  call-it-fuckity-cockwomble-6930da314f:
+    source_url: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-06-30T09:24:39+00:00'
+      status: success
