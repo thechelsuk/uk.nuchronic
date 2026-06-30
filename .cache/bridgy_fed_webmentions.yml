@@ -2422,10 +2422,12 @@ posts:
       updated_at: '2026-06-30T09:24:33+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-06-30T09:24:33+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-06-30T13:48:18+00:00'
   call-it-fuckity-cockwomble-6930da314f:
     source_url: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
     bridgy:
@@ -2436,3 +2438,15 @@ posts:
       - bsky
       verified_at: '2026-06-30T09:24:39+00:00'
       status: success
+  welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recor-b43450f9b6:
+    source_url: https://nuchronic.uk/item/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recor-b43450f9b6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-06-30T13:48:16+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-06-30T13:48:16+00:00'
+      verified_targets:
+      - ap
