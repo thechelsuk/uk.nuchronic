@@ -22,7 +22,7 @@ jobs:
 
         steps:
             - name: Checkout
-              uses: actions/checkout@v6
+              uses: actions/checkout@v7
               with:
                   fetch-depth: 0
                   ref: ${{ github.ref_name }}
@@ -64,7 +64,7 @@ jobs:
         if: needs.sync.outputs.changed == 'true'
         steps:
             - name: Checkout
-              uses: actions/checkout@v6
+              uses: actions/checkout@v7
               with:
                   fetch-depth: 0
                   ref: ${{ github.ref_name }}
