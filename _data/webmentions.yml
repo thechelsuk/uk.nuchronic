@@ -2001,11 +2001,22 @@ weaknotes-2026-06-27-c637e87a55:
   mentions: []
 call-it-fuckity-cockwomble-6930da314f:
   target: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
-  count: 0
-  types: {}
+  count: 1
+  types:
+    repost: 1
   replies: []
   likes: []
-  reposts: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
+    published: '2026-06-30T04:11:38+00:00'
+    property: repost-of
+    content_text: "Shared Call it Fuckity Cockwomble by   \n    Nuchronic\n    \n\
+      \    \n  \nWe could call it fuckity cockwomble for all I care, won’t make me\
+      \ feel better, won’t be any closer to a cure. Without fail, a support forum\
+      \ or community for…\nContinue reading at thechels.uk.\nthechels.uk"
   mentions: []
 research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-c7487efa00:
   target: https://nuchronic.uk/item/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-c7487efa00/
