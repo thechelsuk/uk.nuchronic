@@ -2452,3 +2452,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-06-30T14:23:40+00:00'
+  long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-le-f2bb7488c0:
+    source_url: https://nuchronic.uk/item/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-le-f2bb7488c0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-02T12:55:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-02T12:55:17+00:00'
+      verified_targets:
+      - ap

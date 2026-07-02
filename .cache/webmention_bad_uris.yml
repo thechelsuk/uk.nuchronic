@@ -304,62 +304,6 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=DGBQZwXbcMc
     reason: no-endpoint
     checked_at: '2026-06-29T09:50:36+00:00'
-  https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/:
-    resolved_url: https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:33+00:00'
-  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:39+00:00'
-  ? https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
-  : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:39+00:00'
-  https://alishawhittam.com/ee-disability-fa-cup-finals-2026/:
-    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-finals-2026/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:43+00:00'
-  https://www.eleanorsteinmd.ca/blog/nutrient-sensing:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/nutrient-sensing
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:43+00:00'
-  https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:45+00:00'
-  https://www.youtube.com/watch?v=6DedviyAgZQ:
-    resolved_url: https://www.youtube.com/watch?v=6DedviyAgZQ
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:46+00:00'
-  https://www.eleanorsteinmd.ca/blog/aging-chronic-disease:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:46+00:00'
-  ? https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
-  : resolved_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:48+00:00'
-  https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/:
-    resolved_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:49+00:00'
-  ? https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
-  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:24:57+00:00'
-  https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/:
-    resolved_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:25:00+00:00'
-  https://alishawhittam.com/robotic-wheelchairs-accessibility/:
-    resolved_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:25:01+00:00'
-  https://alishawhittam.com/can-these-toys-survive-2-labradors/:
-    resolved_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
-    reason: no-endpoint
-    checked_at: '2026-06-30T09:25:03+00:00'
   https://meassociation.org.uk/2026/06/tough-mudder/:
     resolved_url: https://meassociation.org.uk/2026/06/tough-mudder/
     reason: no-endpoint
@@ -368,7 +312,67 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/06/inflatable-5k-series/
     reason: no-endpoint
     checked_at: '2026-06-30T09:25:10+00:00'
+  https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/:
+    resolved_url: https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:19+00:00'
   ? https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
   : resolved_url: https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
     reason: no-endpoint
-    checked_at: '2026-06-30T13:48:17+00:00'
+    checked_at: '2026-07-02T12:55:19+00:00'
+  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:20+00:00'
+  https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/:
+    resolved_url: https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:21+00:00'
+  ? https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+  : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:21+00:00'
+  https://alishawhittam.com/ee-disability-fa-cup-finals-2026/:
+    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-finals-2026/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:22+00:00'
+  https://www.eleanorsteinmd.ca/blog/nutrient-sensing:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/nutrient-sensing
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:23+00:00'
+  https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:24+00:00'
+  https://www.youtube.com/watch?v=6DedviyAgZQ:
+    resolved_url: https://www.youtube.com/watch?v=6DedviyAgZQ
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:24+00:00'
+  https://www.eleanorsteinmd.ca/blog/aging-chronic-disease:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:25+00:00'
+  ? https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
+  : resolved_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:29+00:00'
+  https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/:
+    resolved_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:32+00:00'
+  ? https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
+  : resolved_url: https://meassociation.org.uk/2026/06/the-me-association-is-joining-scope-to-call-for-work-without-barriers-sign-the-open-letter/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:35+00:00'
+  https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/:
+    resolved_url: https://meassociation.org.uk/2026/06/scottish-parliament-helen-mcdade-question-on-me-and-long-covid-specialist-clinics/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:40+00:00'
+  https://alishawhittam.com/robotic-wheelchairs-accessibility/:
+    resolved_url: https://alishawhittam.com/robotic-wheelchairs-accessibility/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:43+00:00'
+  https://alishawhittam.com/can-these-toys-survive-2-labradors/:
+    resolved_url: https://alishawhittam.com/can-these-toys-survive-2-labradors/
+    reason: no-endpoint
+    checked_at: '2026-07-02T12:55:44+00:00'
