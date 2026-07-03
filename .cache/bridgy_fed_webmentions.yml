@@ -2460,7 +2460,21 @@ posts:
       updated_at: '2026-07-02T12:55:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-02T12:55:17+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-03T09:17:07+00:00'
+  the-bmj-review-on-long-covid-interventions-cited-in-wired-article-9fa1df0c31:
+    source_url: https://nuchronic.uk/item/the-bmj-review-on-long-covid-interventions-cited-in-wired-article-9fa1df0c31/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-03T09:17:06+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-03T09:17:06+00:00'
       verified_targets:
       - ap
