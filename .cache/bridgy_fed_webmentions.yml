@@ -2488,7 +2488,21 @@ posts:
       updated_at: '2026-07-03T13:42:58+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-03T13:42:58+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-04T13:39:56+00:00'
+  ee-disability-fa-cup-2026-six-finals-one-extraordinary-celebration-of-disability-ca0c39af93:
+    source_url: https://nuchronic.uk/item/ee-disability-fa-cup-2026-six-finals-one-extraordinary-celebration-of-disability-ca0c39af93/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-04T13:39:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-04T13:39:56+00:00'
       verified_targets:
       - ap
