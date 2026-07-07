@@ -2516,10 +2516,12 @@ posts:
       updated_at: '2026-07-07T09:19:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-07T09:19:31+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-07-07T15:08:30+00:00'
   the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-cove-2d814ba843:
     source_url: https://nuchronic.uk/item/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-cove-2d814ba843/
     bridgy:
@@ -2528,7 +2530,21 @@ posts:
       updated_at: '2026-07-07T09:19:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-07T09:19:30+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-07T15:08:30+00:00'
+  article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model-ca228f827b:
+    source_url: https://nuchronic.uk/item/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model-ca228f827b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-07T15:08:26+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-07T15:08:27+00:00'
       verified_targets:
       - ap
