@@ -600,62 +600,6 @@ targets:
     resolved_url: https://alishawhittam.com/dear-andy-burnham-disabled-people-next-prime-minister/
     endpoint: ''
     checked_at: '2026-07-06T20:46:14+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-07-07T09:19:30+00:00'
-  ? https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
-  : resolved_url: https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:31+00:00'
-  https://alishawhittam.com/ee-disability-fa-cup-2026/:
-    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-2026/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:31+00:00'
-  https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/:
-    resolved_url: https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:32+00:00'
-  https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:33+00:00'
-  https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/:
-    resolved_url: https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:36+00:00'
-  ? https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
-  : resolved_url: https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:38+00:00'
-  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:39+00:00'
-  https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/:
-    resolved_url: https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:40+00:00'
-  ? https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
-  : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:40+00:00'
-  https://alishawhittam.com/ee-disability-fa-cup-finals-2026/:
-    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-finals-2026/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:40+00:00'
-  https://www.eleanorsteinmd.ca/blog/nutrient-sensing:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/nutrient-sensing
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:41+00:00'
-  https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/:
-    resolved_url: https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:42+00:00'
-  https://www.youtube.com/watch?v=6DedviyAgZQ:
-    resolved_url: https://www.youtube.com/watch?v=6DedviyAgZQ
-    endpoint: ''
-    checked_at: '2026-07-07T09:19:43+00:00'
   https://www.eleanorsteinmd.ca/blog/aging-chronic-disease:
     resolved_url: https://www.eleanorsteinmd.ca/blog/aging-chronic-disease
     endpoint: ''
@@ -664,7 +608,67 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/06/preprint-research-mapping-the-symptom-profile-and-burden-of-me-cfs-insights-from-the-times-survey/
     endpoint: ''
     checked_at: '2026-07-07T09:19:47+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-07-08T13:43:14+00:00'
+  https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/:
+    resolved_url: https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:16+00:00'
+  ? https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
+  : resolved_url: https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:20+00:00'
   https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/:
     resolved_url: https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/
     endpoint: ''
-    checked_at: '2026-07-07T15:08:30+00:00'
+    checked_at: '2026-07-08T13:43:24+00:00'
+  https://alishawhittam.com/ee-disability-fa-cup-2026/:
+    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-2026/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:25+00:00'
+  https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/:
+    resolved_url: https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:25+00:00'
+  https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:26+00:00'
+  https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/:
+    resolved_url: https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:29+00:00'
+  ? https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
+  : resolved_url: https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:31+00:00'
+  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:34+00:00'
+  https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/:
+    resolved_url: https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:34+00:00'
+  ? https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+  : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:34+00:00'
+  https://alishawhittam.com/ee-disability-fa-cup-finals-2026/:
+    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-finals-2026/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:36+00:00'
+  https://www.eleanorsteinmd.ca/blog/nutrient-sensing:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/nutrient-sensing
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:36+00:00'
+  https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/:
+    resolved_url: https://www.healthrising.org/blog/2026/06/25/pathogens-blood-clots-and-nasty-nets-the-polybio-long-covid-symposium-pt-2/
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:38+00:00'
+  https://www.youtube.com/watch?v=6DedviyAgZQ:
+    resolved_url: https://www.youtube.com/watch?v=6DedviyAgZQ
+    endpoint: ''
+    checked_at: '2026-07-08T13:43:39+00:00'

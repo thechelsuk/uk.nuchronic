@@ -2544,7 +2544,21 @@ posts:
       updated_at: '2026-07-07T15:08:26+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-07T15:08:27+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-08T13:43:20+00:00'
+  research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study-1a14e16830:
+    source_url: https://nuchronic.uk/item/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study-1a14e16830/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-08T13:43:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-08T13:43:15+00:00'
       verified_targets:
       - ap
