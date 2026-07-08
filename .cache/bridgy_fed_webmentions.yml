@@ -2558,7 +2558,21 @@ posts:
       updated_at: '2026-07-08T13:43:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-08T13:43:15+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-08T20:38:46+00:00'
+  las-serpientes-rojas-547bace761:
+    source_url: https://nuchronic.uk/item/las-serpientes-rojas-547bace761/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-08T20:38:45+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-08T20:38:45+00:00'
       verified_targets:
       - ap
