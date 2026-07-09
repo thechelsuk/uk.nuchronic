@@ -2586,7 +2586,21 @@ posts:
       updated_at: '2026-07-09T13:27:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-09T13:27:25+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-09T15:10:57+00:00'
+  nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-d7979c09f8:
+    source_url: https://nuchronic.uk/item/nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-d7979c09f8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-09T15:10:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-09T15:10:56+00:00'
       verified_targets:
       - ap
