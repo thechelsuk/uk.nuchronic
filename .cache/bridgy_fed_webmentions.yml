@@ -2572,7 +2572,21 @@ posts:
       updated_at: '2026-07-08T20:38:45+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-08T20:38:45+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-09T13:27:27+00:00'
+  gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-f-20e3bc6738:
+    source_url: https://nuchronic.uk/item/gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-f-20e3bc6738/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-09T13:27:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-09T13:27:25+00:00'
       verified_targets:
       - ap
