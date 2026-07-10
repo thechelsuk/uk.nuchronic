@@ -2614,7 +2614,21 @@ posts:
       updated_at: '2026-07-09T20:42:33+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-09T20:42:33+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-10T11:10:05+00:00'
+  news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatmen-a6026ad535:
+    source_url: https://nuchronic.uk/item/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatmen-a6026ad535/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-10T11:10:03+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-10T11:10:03+00:00'
       verified_targets:
       - ap
