@@ -2628,7 +2628,21 @@ posts:
       updated_at: '2026-07-10T11:10:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-10T11:10:03+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-11T08:42:29+00:00'
+  me-cfs-uk-parliament-debate-health-bill-nice-guideline-c6f654b146:
+    source_url: https://nuchronic.uk/item/me-cfs-uk-parliament-debate-health-bill-nice-guideline-c6f654b146/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-11T08:42:28+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-11T08:42:28+00:00'
       verified_targets:
       - ap
