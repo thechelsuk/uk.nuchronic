@@ -2642,7 +2642,21 @@ posts:
       updated_at: '2026-07-11T08:42:28+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-11T08:42:28+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-12T09:42:35+00:00'
+  can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog-09eeebc1f6:
+    source_url: https://nuchronic.uk/item/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog-09eeebc1f6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-12T09:42:34+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-12T09:42:34+00:00'
       verified_targets:
       - ap
