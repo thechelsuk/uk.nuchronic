@@ -2656,7 +2656,21 @@ posts:
       updated_at: '2026-07-12T09:42:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-12T09:42:34+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-12T16:26:41+00:00'
+  stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editoria-2846895392:
+    source_url: https://nuchronic.uk/item/stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editoria-2846895392/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-12T16:26:38+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-12T16:26:38+00:00'
       verified_targets:
       - ap
