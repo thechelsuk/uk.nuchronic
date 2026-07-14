@@ -360,75 +360,79 @@ targets:
   : resolved_url: https://trialbyerror.org/2026/06/27/some-things-ive-read-recently-fair-on-wired-german-psychiatrists-on-lc-and-me-cfs-uks-me-cfs-delivery-plan-at-one-year/
     reason: no-endpoint
     checked_at: '2026-07-11T08:42:47+00:00'
-  https://meassociation.org.uk/2026/07/learna-cpd-module-for-healthcare-professionals-updated/:
-    resolved_url: https://meassociation.org.uk/2026/07/learna-cpd-module-for-healthcare-professionals-updated/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:12:59+00:00'
-  ? https://www.healthrising.org/blog/2026/07/12/stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editorial/
-  : resolved_url: https://www.healthrising.org/blog/2026/07/12/stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editorial/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:01+00:00'
-  https://trialbyerror.org/2026/07/11/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog/:
-    resolved_url: https://trialbyerror.org/2026/07/11/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:02+00:00'
-  https://www.youtube.com/watch?v=nMqwjpcB7Io:
-    resolved_url: https://www.youtube.com/watch?v=nMqwjpcB7Io
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:02+00:00'
-  https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/:
-    resolved_url: https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:03+00:00'
-  ? https://meassociation.org.uk/2026/07/nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-to-implement-nice-guideline-recommendations/
-  : resolved_url: https://meassociation.org.uk/2026/07/nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-to-implement-nice-guideline-recommendations/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:04+00:00'
-  ? https://meassociation.org.uk/2026/07/gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-fit-for-purpose/
-  : resolved_url: https://meassociation.org.uk/2026/07/gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-fit-for-purpose/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:05+00:00'
-  https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/:
-    resolved_url: https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:06+00:00'
-  https://the-ensemblist.uk/las-serpientes-rojas:
-    resolved_url: https://the-ensemblist.uk/las-serpientes-rojas
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:06+00:00'
-  ? https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
-  : resolved_url: https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:07+00:00'
-  https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/:
-    resolved_url: https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:16+00:00'
-  https://alishawhittam.com/ee-disability-fa-cup-2026/:
-    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-2026/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:17+00:00'
-  https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/:
-    resolved_url: https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:17+00:00'
-  https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:18+00:00'
-  https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/:
-    resolved_url: https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:19+00:00'
-  ? https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
-  : resolved_url: https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:20+00:00'
-  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
-    reason: no-endpoint
-    checked_at: '2026-07-13T11:13:21+00:00'
   https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/:
     resolved_url: https://trialbyerror.org/2026/06/29/furor-over-wireds-mind-body-article-continues/
     reason: no-endpoint
     checked_at: '2026-07-13T11:13:21+00:00'
+  ? https://meassociation.org.uk/2026/07/research-new-study-provides-first-evidence-of-dopamine-system-injury-in-the-brain-of-long-covid-patients/
+  : resolved_url: https://meassociation.org.uk/2026/07/research-new-study-provides-first-evidence-of-dopamine-system-injury-in-the-brain-of-long-covid-patients/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:50+00:00'
+  https://meassociation.org.uk/2026/07/learna-cpd-module-for-healthcare-professionals-updated/:
+    resolved_url: https://meassociation.org.uk/2026/07/learna-cpd-module-for-healthcare-professionals-updated/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:53+00:00'
+  ? https://www.healthrising.org/blog/2026/07/12/stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editorial/
+  : resolved_url: https://www.healthrising.org/blog/2026/07/12/stepping-backwards-the-uss-attempt-to-politicize-scientific-research-an-editorial/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:55+00:00'
+  https://trialbyerror.org/2026/07/11/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog/:
+    resolved_url: https://trialbyerror.org/2026/07/11/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:56+00:00'
+  https://www.youtube.com/watch?v=nMqwjpcB7Io:
+    resolved_url: https://www.youtube.com/watch?v=nMqwjpcB7Io
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:56+00:00'
+  https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/:
+    resolved_url: https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:42:59+00:00'
+  ? https://meassociation.org.uk/2026/07/nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-to-implement-nice-guideline-recommendations/
+  : resolved_url: https://meassociation.org.uk/2026/07/nice-guideline-on-me-cfs-mps-discuss-the-failure-of-icbs-integrated-care-boards-to-implement-nice-guideline-recommendations/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:02+00:00'
+  ? https://meassociation.org.uk/2026/07/gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-fit-for-purpose/
+  : resolved_url: https://meassociation.org.uk/2026/07/gov-uk-shares-interim-report-on-timms-review-of-pip-calling-current-system-not-fit-for-purpose/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:04+00:00'
+  https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/:
+    resolved_url: https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:07+00:00'
+  https://the-ensemblist.uk/las-serpientes-rojas:
+    resolved_url: https://the-ensemblist.uk/las-serpientes-rojas
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:08+00:00'
+  ? https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
+  : resolved_url: https://meassociation.org.uk/2026/07/the-me-association-opposes-the-closure-of-me-cfs-and-long-covid-services-in-coventry-and-warwickshire/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:10+00:00'
+  https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/:
+    resolved_url: https://meassociation.org.uk/2026/07/article-overcoming-barriers-in-me-cfs-the-cureme-participatory-model/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:13+00:00'
+  https://alishawhittam.com/ee-disability-fa-cup-2026/:
+    resolved_url: https://alishawhittam.com/ee-disability-fa-cup-2026/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:17+00:00'
+  https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/:
+    resolved_url: https://trialbyerror.org/2026/07/02/the-bmj-review-on-long-covid-interventions-cited-in-wired-article/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:17+00:00'
+  https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/slow-aging-stratagies
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:20+00:00'
+  https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/:
+    resolved_url: https://meassociation.org.uk/2026/07/long-covid-advocacy-responds-to-royal-college-of-psychiatrists-regarding-open-letter/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:23+00:00'
+  ? https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
+  : resolved_url: https://meassociation.org.uk/2026/06/welfare-benefits-face-to-face-and-telephone-health-assessments-to-be-audio-recorded-from-june-29/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:27+00:00'
+  ? https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+  : resolved_url: https://meassociation.org.uk/2026/06/research-does-poor-oxygenation-and-a-delay-in-muscle-energy-recovery-contribute-to-fatigue-and-pem-in-me-cfs-now-recruiting/
+    reason: no-endpoint
+    checked_at: '2026-07-14T14:43:30+00:00'

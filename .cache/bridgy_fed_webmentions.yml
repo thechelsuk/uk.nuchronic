@@ -2684,7 +2684,21 @@ posts:
       updated_at: '2026-07-13T11:12:57+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-13T11:12:57+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-14T14:42:50+00:00'
+  research-new-study-provides-first-evidence-of-dopamine-system-injury-in-the-brai-e1c1df38d3:
+    source_url: https://nuchronic.uk/item/research-new-study-provides-first-evidence-of-dopamine-system-injury-in-the-brai-e1c1df38d3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-14T14:42:49+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-14T14:42:49+00:00'
       verified_targets:
       - ap
