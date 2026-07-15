@@ -2698,7 +2698,21 @@ posts:
       updated_at: '2026-07-14T14:42:49+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-14T14:42:49+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-15T08:58:30+00:00'
+  closure-of-the-george-eliot-hospital-me-cfs-service-bbc-cwr-df0c0612f8:
+    source_url: https://nuchronic.uk/item/closure-of-the-george-eliot-hospital-me-cfs-service-bbc-cwr-df0c0612f8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-15T08:58:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-15T08:58:30+00:00'
       verified_targets:
       - ap
