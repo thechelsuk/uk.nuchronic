@@ -2726,7 +2726,21 @@ posts:
       updated_at: '2026-07-16T07:03:33+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-16T07:03:33+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-16T08:56:30+00:00'
+  me-cfs-and-flexible-working-uk-parliament-evidence-highlights-463b4b421b:
+    source_url: https://nuchronic.uk/item/me-cfs-and-flexible-working-uk-parliament-evidence-highlights-463b4b421b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-16T08:56:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-16T08:56:29+00:00'
       verified_targets:
       - ap
