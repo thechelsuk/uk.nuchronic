@@ -448,3 +448,7 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=6ZIDUwTGrrw
     reason: no-endpoint
     checked_at: '2026-07-16T08:56:29+00:00'
+  https://meassociation.org.uk/2026/07/london-landmarks-half-marathon-2027-sunday-4th-april-2027/:
+    resolved_url: https://meassociation.org.uk/2026/07/london-landmarks-half-marathon-2027-sunday-4th-april-2027/
+    reason: no-endpoint
+    checked_at: '2026-07-16T10:49:09+00:00'
