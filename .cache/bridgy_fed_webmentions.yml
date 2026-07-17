@@ -2754,7 +2754,31 @@ posts:
       updated_at: '2026-07-16T10:49:05+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-16T10:49:06+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-07-17T12:37:06+00:00'
+  mp-julian-smith-asks-parliamentary-questions-regarding-the-lack-healthcare-provi-c53e4a5fcc:
+    source_url: https://nuchronic.uk/item/mp-julian-smith-asks-parliamentary-questions-regarding-the-lack-healthcare-provi-c53e4a5fcc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-17T12:37:03+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-17T12:37:03+00:00'
+      verified_targets:
+      - ap
+  what-is-hormesis-how-a-little-stress-can-make-you-healthier-part-1-of-2-66f35df564:
+    source_url: https://nuchronic.uk/item/what-is-hormesis-how-a-little-stress-can-make-you-healthier-part-1-of-2-66f35df564/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-17T12:37:05+00:00'
+      status: success
