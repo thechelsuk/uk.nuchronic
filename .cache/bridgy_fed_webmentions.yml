@@ -2845,9 +2845,22 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-07-23T18:36:57+00:00'
+      updated_at: '2026-07-23T22:28:54+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-07-23T18:36:57+00:00'
-      verified_targets: []
+      accepted_at: '2026-07-23T22:28:54+00:00'
+      verified_targets:
+      - ap
+  no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study-c8067747e3:
+    source_url: https://nuchronic.uk/item/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study-c8067747e3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-23T22:28:51+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-23T22:28:51+00:00'
+      verified_targets:
+      - ap
