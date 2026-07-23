@@ -752,3 +752,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/research-long-term-follow-up-of-women-with-me-cfs-a-16-year-longitudinal-study/
     endpoint: ''
     checked_at: '2026-07-23T14:53:34+00:00'
+  https://thechels.uk/coasting-to-fire-in-the-uk:
+    resolved_url: https://thechels.uk/coasting-to-fire-in-the-uk
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-07-23T18:36:57+00:00'
