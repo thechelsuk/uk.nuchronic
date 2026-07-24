@@ -2890,7 +2890,21 @@ posts:
       updated_at: '2026-07-24T12:41:52+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-24T12:41:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-24T13:41:17+00:00'
+  cold-heat-light-and-breath-four-gentle-ways-to-trigger-healing-part-2-of-2-9b6eff2b1f:
+    source_url: https://nuchronic.uk/item/cold-heat-light-and-breath-four-gentle-ways-to-trigger-healing-part-2-of-2-9b6eff2b1f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-24T13:41:16+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-24T13:41:16+00:00'
       verified_targets:
       - ap

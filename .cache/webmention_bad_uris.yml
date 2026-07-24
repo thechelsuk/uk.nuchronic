@@ -488,3 +488,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/
     reason: no-endpoint
     checked_at: '2026-07-24T12:42:14+00:00'
+  https://www.eleanorsteinmd.ca/blog/hormesis2:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
+    reason: no-endpoint
+    checked_at: '2026-07-24T13:41:17+00:00'
