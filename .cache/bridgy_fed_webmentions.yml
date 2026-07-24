@@ -2848,10 +2848,12 @@ posts:
       updated_at: '2026-07-23T22:28:54+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-23T22:28:54+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-07-24T00:50:07+00:00'
   no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study-c8067747e3:
     source_url: https://nuchronic.uk/item/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study-c8067747e3/
     bridgy:
@@ -2860,7 +2862,21 @@ posts:
       updated_at: '2026-07-23T22:28:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-23T22:28:51+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-24T00:50:07+00:00'
+  the-uks-long-covid-triple-treatment-trial-not-surprisingly-bombs-33777e97d4:
+    source_url: https://nuchronic.uk/item/the-uks-long-covid-triple-treatment-trial-not-surprisingly-bombs-33777e97d4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-24T00:50:04+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-24T00:50:04+00:00'
       verified_targets:
       - ap
