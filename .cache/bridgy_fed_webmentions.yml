@@ -2904,7 +2904,21 @@ posts:
       updated_at: '2026-07-24T13:41:16+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-24T13:41:16+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-25T18:27:47+00:00'
+  weaknotes-2026-07-25-f775345175:
+    source_url: https://nuchronic.uk/item/weaknotes-2026-07-25-f775345175/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-25T18:27:44+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-25T18:27:45+00:00'
       verified_targets:
       - ap
