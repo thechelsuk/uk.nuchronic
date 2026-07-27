@@ -696,10 +696,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/news-medical-antihistamines-show-modest-benefits-for-long-covid-fatigue-treatment/
     endpoint: ''
     checked_at: '2026-07-24T12:42:14+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-07-25T18:27:44+00:00'
   https://thechels.uk/weaknotes-2026-07-25:
     resolved_url: https://thechels.uk/weaknotes-2026-07-25
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -776,3 +772,11 @@ targets:
     resolved_url: https://trialbyerror.org/2026/07/11/can-cognitive-rehabilitation-for-long-covid-reverse-brain-fog/
     endpoint: ''
     checked_at: '2026-07-27T10:25:32+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-07-27T14:58:09+00:00'
+  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
+    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
+    endpoint: ''
+    checked_at: '2026-07-27T14:58:10+00:00'

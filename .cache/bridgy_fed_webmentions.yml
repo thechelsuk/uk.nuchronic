@@ -2924,3 +2924,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-07-27T10:25:04+00:00'
+  me-cfs-service-closures-without-consultation-what-you-need-to-know-19861db879:
+    source_url: https://nuchronic.uk/item/me-cfs-service-closures-without-consultation-what-you-need-to-know-19861db879/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T14:58:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T14:58:09+00:00'
+      verified_targets:
+      - ap
