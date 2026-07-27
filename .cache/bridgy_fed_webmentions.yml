@@ -2938,3 +2938,75 @@ posts:
       - ap
       - bsky
       verified_at: '2026-07-27T15:15:13+00:00'
+  rarefest22-at-the-forefront-of-this-event-are-the-patients-themselves-d2e112efef:
+    source_url: https://nuchronic.uk/item/rarefest22-at-the-forefront-of-this-event-are-the-patients-themselves-d2e112efef/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:40+00:00'
+      verified_targets:
+      - ap
+  new-site-97d3ccaa2c:
+    source_url: https://nuchronic.uk/item/new-site-97d3ccaa2c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:41+00:00'
+      verified_targets:
+      - ap
+  eighteen-years-of-humira-the-treatment-that-helped-me-build-a-life-not-just-mana-bf66690499:
+    source_url: https://nuchronic.uk/item/eighteen-years-of-humira-the-treatment-that-helped-me-build-a-life-not-just-mana-bf66690499/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:42+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:43+00:00'
+      verified_targets:
+      - ap
+  travel-without-the-hassle-no-packing-required-d4e714df58:
+    source_url: https://nuchronic.uk/item/travel-without-the-hassle-no-packing-required-d4e714df58/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:44+00:00'
+      verified_targets:
+      - ap
+  healing-complex-ptsd-and-chronic-illness-through-play-2aa1b85394:
+    source_url: https://nuchronic.uk/item/healing-complex-ptsd-and-chronic-illness-through-play-2aa1b85394/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:46+00:00'
+      verified_targets:
+      - ap
+  the-struggles-of-cycling-with-a-chronic-illness-f2b88dc310:
+    source_url: https://nuchronic.uk/item/the-struggles-of-cycling-with-a-chronic-illness-f2b88dc310/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-27T15:45:48+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-27T15:45:49+00:00'
+      verified_targets:
+      - ap

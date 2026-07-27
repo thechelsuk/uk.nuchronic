@@ -496,3 +496,27 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
     reason: no-endpoint
     checked_at: '2026-07-27T14:58:10+00:00'
+  https://fibroflutters.com/2022/11/14/rarefest22-at-the-forefront-of-this-event-are-the-patients-themselves/:
+    resolved_url: https://fibroflutters.com/2022/11/14/rarefest22-at-the-forefront-of-this-event-are-the-patients-themselves/
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:41+00:00'
+  https://lauraspenblog.wordpress.com/2026/05/06/new-site/:
+    resolved_url: https://lauraspenblog.wordpress.com/2026/05/06/new-site/
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:42+00:00'
+  ? https://lightscameracrohns.com/2026/07/13/eighteen-years-of-humira-the-treatment-that-helped-me-build-a-life-not-just-manage-a-disease/
+  : resolved_url: https://lightscameracrohns.com/2026/07/13/eighteen-years-of-humira-the-treatment-that-helped-me-build-a-life-not-just-manage-a-disease/
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:43+00:00'
+  https://despitepain.com/2026/07/18/travel-without-hassle-no-packing-required/:
+    resolved_url: https://despitepain.com/2026/07/18/travel-without-hassle-no-packing-required/
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:45+00:00'
+  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
+    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:48+00:00'
+  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
+    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
+    reason: no-endpoint
+    checked_at: '2026-07-27T15:45:49+00:00'
