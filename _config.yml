@@ -8,6 +8,7 @@ markdown: kramdown
 permalink: /item/:slug/
 include:
   - .well-known
+  - ads.txt
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
