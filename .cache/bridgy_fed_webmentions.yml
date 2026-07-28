@@ -2982,10 +2982,12 @@ posts:
       updated_at: '2026-07-27T15:45:43+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-27T15:45:44+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-07-28T23:28:40+00:00'
   healing-complex-ptsd-and-chronic-illness-through-play-2aa1b85394:
     source_url: https://nuchronic.uk/item/healing-complex-ptsd-and-chronic-illness-through-play-2aa1b85394/
     bridgy:
@@ -2994,10 +2996,12 @@ posts:
       updated_at: '2026-07-27T15:45:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-27T15:45:46+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-07-28T23:28:32+00:00'
   the-struggles-of-cycling-with-a-chronic-illness-f2b88dc310:
     source_url: https://nuchronic.uk/item/the-struggles-of-cycling-with-a-chronic-illness-f2b88dc310/
     bridgy:
@@ -3006,7 +3010,21 @@ posts:
       updated_at: '2026-07-27T15:45:48+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-27T15:45:49+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-28T23:28:32+00:00'
+  babyhood-events-risk-for-chronic-illness-and-repair-live-abes-master-class-onlin-25d55ec006:
+    source_url: https://nuchronic.uk/item/babyhood-events-risk-for-chronic-illness-and-repair-live-abes-master-class-onlin-25d55ec006/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-28T23:28:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-28T23:28:30+00:00'
       verified_targets:
       - ap
