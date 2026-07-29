@@ -536,3 +536,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
     reason: no-endpoint
     checked_at: '2026-07-29T19:38:15+00:00'
+  https://fluffyoldwoman.blogspot.com/2026/03/my-journey-into-silence-and-darkness.html:
+    resolved_url: https://www.google.com/sorry/index?continue=https%3A%2F%2Ffluffyoldwoman.blogspot.com%2F2026%2F03%2Fmy-journey-into-silence-and-darkness.html&q=EgSsrm6CGKWuqdMGIi24IxznzDIUnUP-OLODR1VDuqt6qjpZRQbHvtrKVfJ-cLJNZrDLmV7Ogr545B8yAnJSWgFD
+    reason: discovery-http-429
+    checked_at: '2026-07-29T19:40:22+00:00'
