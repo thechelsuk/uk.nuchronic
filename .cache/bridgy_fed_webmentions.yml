@@ -3030,3 +3030,25 @@ posts:
       - ap
       - bsky
       verified_at: '2026-07-29T14:22:08+00:00'
+  england-amputee-football-why-players-pay-to-represent-england-f476780dda:
+    source_url: https://nuchronic.uk/item/england-amputee-football-why-players-pay-to-represent-england-f476780dda/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-29T18:29:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-29T18:29:43+00:00'
+      verified_targets:
+      - ap
+  nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake-36d17fb9fc:
+    source_url: https://nuchronic.uk/item/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake-36d17fb9fc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-07-29T18:29:45+00:00'
+      status: success

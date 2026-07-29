@@ -732,10 +732,6 @@ targets:
   : resolved_url: https://lightscameracrohns.com/2026/07/13/eighteen-years-of-humira-the-treatment-that-helped-me-build-a-life-not-just-manage-a-disease/
     endpoint: ''
     checked_at: '2026-07-27T15:45:43+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-07-28T23:28:29+00:00'
   https://chronicillnesstraumastudies.com/abesmasterclass/:
     resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
     endpoint: ''
@@ -808,3 +804,15 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/london-landmarks-half-marathon-2027-sunday-4th-april-2027/
     endpoint: ''
     checked_at: '2026-07-29T14:22:31+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-07-29T18:29:43+00:00'
+  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
+    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
+    endpoint: ''
+    checked_at: '2026-07-29T18:29:45+00:00'
+  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
+    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
+    endpoint: ''
+    checked_at: '2026-07-29T18:29:47+00:00'
