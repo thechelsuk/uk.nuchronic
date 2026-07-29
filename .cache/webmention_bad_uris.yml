@@ -532,3 +532,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
     reason: no-endpoint
     checked_at: '2026-07-29T18:29:47+00:00'
+  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
+    reason: no-endpoint
+    checked_at: '2026-07-29T19:38:15+00:00'
