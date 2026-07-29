@@ -41,3 +41,7 @@ sources:
     feed_url: https://chronicillnesstraumastudies.com/feed/
   - id: lights-camera-crohns
     feed_url: https://lightscameracrohns.com/feed/
+  - id:   fluffy-old-woman
+    feed_url: https://fluffyoldwoman.blogspot.com/feeds/posts/default
+  - id: corinne-segura
+    feed_url: https://corinnesegura.substack.com/feed
