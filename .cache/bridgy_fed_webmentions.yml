@@ -3080,3 +3080,15 @@ posts:
       accepted_at: '2026-07-29T19:40:21+00:00'
       verified_targets:
       - ap
+  our-eight-for-a-mate-marathon-man-may-be-down-but-hes-definitely-not-out-2dfaf94f96:
+    source_url: https://nuchronic.uk/item/our-eight-for-a-mate-marathon-man-may-be-down-but-hes-definitely-not-out-2dfaf94f96/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-07-30T10:52:18+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-07-30T10:52:18+00:00'
+      verified_targets:
+      - ap
