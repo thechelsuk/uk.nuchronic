@@ -47,3 +47,5 @@ sources:
     feed_url: https://corinnesegura.substack.com/feed
   - id: virology-ws
     feed_url: https://virology.ws/feed
+  - id: mecfs-substack
+    feed-url: https://mecfs.substack.com/feed
