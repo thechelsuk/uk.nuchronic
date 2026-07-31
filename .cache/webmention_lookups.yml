@@ -748,74 +748,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/07/london-landmarks-half-marathon-2027-sunday-4th-april-2027/
     endpoint: ''
     checked_at: '2026-07-29T14:22:31+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-07-30T10:52:18+00:00'
-  https://meassociation.org.uk/2026/07/__trashed/:
-    resolved_url: https://meassociation.org.uk/2026/07/__trashed/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:23+00:00'
-  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
-    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:25+00:00'
-  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
-    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:28+00:00'
-  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
-    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:31+00:00'
-  https://chronicillnesstraumastudies.com/abesmasterclass/:
-    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:33+00:00'
-  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
-    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:37+00:00'
-  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
-    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:37+00:00'
-  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
-    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:38+00:00'
-  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
-    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:43+00:00'
-  https://www.eleanorsteinmd.ca/blog/hormesis2:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:44+00:00'
-  https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/:
-    resolved_url: https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:46+00:00'
-  https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/:
-    resolved_url: https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:46+00:00'
-  ? https://meassociation.org.uk/2026/07/me-association-comments-on-a-report-containing-unsubstantiated-claims-regarding-brain-retraining-as-a-cure-for-me-cfs-and-long-covid/
-  : resolved_url: https://meassociation.org.uk/2026/07/me-association-comments-on-a-report-containing-unsubstantiated-claims-regarding-brain-retraining-as-a-cure-for-me-cfs-and-long-covid/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:52+00:00'
-  https://www.lifeofpippa.co.uk/2026/07/21/night-riviera-sleeper-train-by-wheelchair/:
-    resolved_url: https://www.lifeofpippa.co.uk/2026/07/21/night-riviera-sleeper-train-by-wheelchair/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:53+00:00'
-  ? https://meassociation.org.uk/2026/07/me-associations-statement-on-the-appointment-of-yvette-cooper-as-secretary-of-state-for-health-and-social-care/
-  : resolved_url: https://meassociation.org.uk/2026/07/me-associations-statement-on-the-appointment-of-yvette-cooper-as-secretary-of-state-for-health-and-social-care/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:56+00:00'
-  https://trialbyerror.org/2026/07/18/yet-another-cbt-trial-for-long-covid-with-poor-results/:
-    resolved_url: https://trialbyerror.org/2026/07/18/yet-another-cbt-trial-for-long-covid-with-poor-results/
-    endpoint: ''
-    checked_at: '2026-07-30T10:52:56+00:00'
   https://despitepain.com/2026/07/18/travel-without-hassle-no-packing-required/:
     resolved_url: https://despitepain.com/2026/07/18/travel-without-hassle-no-packing-required/
     endpoint: ''
@@ -824,7 +756,75 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/07/mp-julian-smith-asks-parliamentary-questions-regarding-the-lack-healthcare-provision-for-people-with-very-severe-me/
     endpoint: ''
     checked_at: '2026-07-30T10:53:01+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-07-31T12:53:09+00:00'
+  https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:11+00:00'
   ? https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
   : resolved_url: https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
     endpoint: ''
-    checked_at: '2026-07-30T14:54:16+00:00'
+    checked_at: '2026-07-31T12:53:13+00:00'
+  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:31+00:00'
+  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
+    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:33+00:00'
+  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
+    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:34+00:00'
+  https://chronicillnesstraumastudies.com/abesmasterclass/:
+    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:35+00:00'
+  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
+    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:41+00:00'
+  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
+    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:41+00:00'
+  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
+    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:43+00:00'
+  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
+    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:44+00:00'
+  https://www.eleanorsteinmd.ca/blog/hormesis2:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:45+00:00'
+  https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:47+00:00'
+  https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/:
+    resolved_url: https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:48+00:00'
+  ? https://meassociation.org.uk/2026/07/me-association-comments-on-a-report-containing-unsubstantiated-claims-regarding-brain-retraining-as-a-cure-for-me-cfs-and-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/07/me-association-comments-on-a-report-containing-unsubstantiated-claims-regarding-brain-retraining-as-a-cure-for-me-cfs-and-long-covid/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:49+00:00'
+  https://www.lifeofpippa.co.uk/2026/07/21/night-riviera-sleeper-train-by-wheelchair/:
+    resolved_url: https://www.lifeofpippa.co.uk/2026/07/21/night-riviera-sleeper-train-by-wheelchair/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:50+00:00'
+  ? https://meassociation.org.uk/2026/07/me-associations-statement-on-the-appointment-of-yvette-cooper-as-secretary-of-state-for-health-and-social-care/
+  : resolved_url: https://meassociation.org.uk/2026/07/me-associations-statement-on-the-appointment-of-yvette-cooper-as-secretary-of-state-for-health-and-social-care/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:52+00:00'
+  https://trialbyerror.org/2026/07/18/yet-another-cbt-trial-for-long-covid-with-poor-results/:
+    resolved_url: https://trialbyerror.org/2026/07/18/yet-another-cbt-trial-for-long-covid-with-poor-results/
+    endpoint: ''
+    checked_at: '2026-07-31T12:53:52+00:00'
