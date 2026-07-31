@@ -45,3 +45,5 @@ sources:
     feed_url: https://fluffyoldwoman.blogspot.com/feeds/posts/default
   - id: corinne-segura
     feed_url: https://corinnesegura.substack.com/feed
+  - id: virology-ws
+    feed_url: https://virology.ws/feed
