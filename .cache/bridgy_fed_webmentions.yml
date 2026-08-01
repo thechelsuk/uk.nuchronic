@@ -3130,7 +3130,33 @@ posts:
       updated_at: '2026-07-31T17:45:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-07-31T17:45:13+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-01T09:36:11+00:00'
+  spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d:
+    source_url: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-01T09:35:48+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-01T09:35:49+00:00'
+      verified_targets:
+      - ap
+  channel-5-news-long-covid-children-five-years-on-5d03c4d75f:
+    source_url: https://nuchronic.uk/item/channel-5-news-long-covid-children-five-years-on-5d03c4d75f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-01T09:35:50+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-01T09:35:50+00:00'
       verified_targets:
       - ap
