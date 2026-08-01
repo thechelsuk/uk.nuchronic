@@ -49,3 +49,23 @@ sources:
     feed_url: https://mecfs.substack.com/feed
   - id: chronic-illness-trauma-studies
     feed_url: https://chronicillnesstraumastudies.com/feed/
+  - id: kate-the-almost-great
+    feed_url: https://katethealmostgreat.com/feed/
+  - id: lupus-chick
+    feed_url: https://lupuschick.com/blog/feed/
+  - id: a-chronic-voice
+    feed_url: https://achronicvoice.com/rss/
+  - id: pain-science
+    feed_url: https://www.painscience.com/rss.xml
+  - id: my-several-worlds
+    feed_url: https://www.myseveralworlds.com/feed/
+  - id: through-the-fibro-fog
+    feed_url: https://www.throughthefibrofog.com/feed/
+  - id: chronic-illness-bloggers
+    feed_url: https://chronicillnessbloggers.com/blog/feed/
+  - id: chronic-mom
+    feed_url: https://www.chronicmom.com/feed/
+  - id: kt-my-katie-may
+    feed_url: https://www.ktmy.co.uk/feed/
+  - id: invisible-you
+    feed_url: https://invisiblyme.com/feed/
