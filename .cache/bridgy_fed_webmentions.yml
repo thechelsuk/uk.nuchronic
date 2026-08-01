@@ -3144,10 +3144,12 @@ posts:
       updated_at: '2026-08-01T09:35:48+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-01T09:35:49+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-01T09:40:14+00:00'
   channel-5-news-long-covid-children-five-years-on-5d03c4d75f:
     source_url: https://nuchronic.uk/item/channel-5-news-long-covid-children-five-years-on-5d03c4d75f/
     bridgy:
@@ -3156,7 +3158,21 @@ posts:
       updated_at: '2026-08-01T09:35:50+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-01T09:35:50+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-01T09:40:13+00:00'
+  unconditional-worthiness-of-wellbeing-cc91c3fe72:
+    source_url: https://nuchronic.uk/item/unconditional-worthiness-of-wellbeing-cc91c3fe72/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-01T09:40:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-01T09:40:12+00:00'
       verified_targets:
       - ap
