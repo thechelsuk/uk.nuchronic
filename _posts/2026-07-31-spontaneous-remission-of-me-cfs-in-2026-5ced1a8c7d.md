@@ -1,6 +1,6 @@
 ---
 title: Spontaneous Remission of ME/CFS in 2026
-link: https://thechels.uk/remission-of-me-cfs
+link: https://thechels.uk/spontaneous-remission-of-me-cfs
 author: thechelsuk
 date: 2026-07-31 22:00:00 +0000
 ---
