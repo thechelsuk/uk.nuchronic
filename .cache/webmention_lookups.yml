@@ -880,3 +880,7 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/red-pepper-gnocchi/
     endpoint: ''
     checked_at: '2026-08-01T09:56:12+00:00'
+  https://thechels.uk/spontaneous-remission-of-me-cfs:
+    resolved_url: https://thechels.uk/spontaneous-remission-of-me-cfs
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-08-01T12:22:09+00:00'

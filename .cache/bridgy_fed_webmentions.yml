@@ -3268,10 +3268,12 @@ posts:
       updated_at: '2026-08-01T09:56:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-01T09:56:10+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-01T12:22:10+00:00'
   roasted-red-pepper-gnocchi-4f5b450f70:
     source_url: https://nuchronic.uk/item/roasted-red-pepper-gnocchi-4f5b450f70/
     bridgy:
@@ -3280,7 +3282,9 @@ posts:
       updated_at: '2026-08-01T09:56:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-01T09:56:12+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-01T12:22:09+00:00'
