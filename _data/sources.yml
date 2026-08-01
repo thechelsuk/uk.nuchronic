@@ -37,8 +37,6 @@ sources:
     feed_url: https://despitepain.com/feed/
   - id: joyfullwellthy
     feed_url: https://joyfullwellthy.com/feed/
-  - id: chronic-illness-trauma-studies
-    feed_url: https://chronicillnesstraumastudies.com/feed/
   - id: lights-camera-crohns
     feed_url: https://lightscameracrohns.com/feed/
   - id: fluffy-old-woman
@@ -49,3 +47,5 @@ sources:
     feed_url: https://virology.ws/feed
   - id: mecfs-substack
     feed-url: https://mecfs.substack.com/feed
+  - id: chronic-illness-trauma-studies
+    feed_url: https://chronicillnesstraumastudies.com/feed/
