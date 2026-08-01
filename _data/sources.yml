@@ -46,6 +46,6 @@ sources:
   - id: virology-ws
     feed_url: https://virology.ws/feed
   - id: mecfs-substack
-    feed-url: https://mecfs.substack.com/feed
+    feed_url: https://mecfs.substack.com/feed
   - id: chronic-illness-trauma-studies
     feed_url: https://chronicillnesstraumastudies.com/feed/
