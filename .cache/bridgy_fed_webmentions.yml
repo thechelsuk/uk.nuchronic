@@ -3310,7 +3310,21 @@ posts:
       updated_at: '2026-08-02T15:32:47+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-02T15:32:47+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-02T17:29:44+00:00'
+  long-covid-study-finds-major-energy-deficit-in-the-brain-4fa94d2a8c:
+    source_url: https://nuchronic.uk/item/long-covid-study-finds-major-energy-deficit-in-the-brain-4fa94d2a8c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-02T17:29:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-02T17:29:41+00:00'
       verified_targets:
       - ap

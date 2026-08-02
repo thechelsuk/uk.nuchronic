@@ -600,3 +600,7 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/blackberry-chicken/
     reason: no-endpoint
     checked_at: '2026-08-02T15:32:47+00:00'
+  https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/:
+    resolved_url: https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/
+    reason: no-endpoint
+    checked_at: '2026-08-02T17:29:44+00:00'
