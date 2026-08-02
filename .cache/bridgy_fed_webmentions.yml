@@ -3296,7 +3296,21 @@ posts:
       updated_at: '2026-08-02T14:41:20+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-02T14:41:20+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-02T15:32:48+00:00'
+  blackberry-chicken-ad15ee594c:
+    source_url: https://nuchronic.uk/item/blackberry-chicken-ad15ee594c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-02T15:32:47+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-02T15:32:47+00:00'
       verified_targets:
       - ap
