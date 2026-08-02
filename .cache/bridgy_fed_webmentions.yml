@@ -3288,3 +3288,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-08-01T12:22:09+00:00'
+  treatment-for-ain-3-my-experience-with-imiquimod-anal-excision-291285f393:
+    source_url: https://nuchronic.uk/item/treatment-for-ain-3-my-experience-with-imiquimod-anal-excision-291285f393/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-02T14:41:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-02T14:41:20+00:00'
+      verified_targets:
+      - ap

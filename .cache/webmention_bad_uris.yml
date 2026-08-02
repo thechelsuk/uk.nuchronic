@@ -492,66 +492,6 @@ targets:
     resolved_url: https://trialbyerror.org/2026/07/18/yet-another-cbt-trial-for-long-covid-with-poor-results/
     reason: no-endpoint
     checked_at: '2026-07-31T12:53:52+00:00'
-  https://www.youtube.com/watch?v=xu3r2j_k2Fk:
-    resolved_url: https://www.youtube.com/watch?v=xu3r2j_k2Fk
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:35:50+00:00'
-  https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:35:51+00:00'
-  ? https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
-  : resolved_url: https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:35:53+00:00'
-  https://meassociation.org.uk/2026/07/__trashed/:
-    resolved_url: https://meassociation.org.uk/?p=151910
-    reason: discovery-http-404
-    checked_at: '2026-08-01T09:35:59+00:00'
-  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
-    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:01+00:00'
-  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
-    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:03+00:00'
-  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
-    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:04+00:00'
-  https://chronicillnesstraumastudies.com/abesmasterclass/:
-    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:05+00:00'
-  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
-    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:07+00:00'
-  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
-    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:07+00:00'
-  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
-    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:08+00:00'
-  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
-    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:09+00:00'
-  https://www.eleanorsteinmd.ca/blog/hormesis2:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:10+00:00'
-  https://virology.ws/2026/07/23/trial-by-error-no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/:
-    resolved_url: https://virology.ws/2026/07/23/trial-by-error-no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:11+00:00'
-  https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/:
-    resolved_url: https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/
-    reason: no-endpoint
-    checked_at: '2026-08-01T09:36:13+00:00'
   https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/:
     resolved_url: https://trialbyerror.org/2026/07/23/no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/
     reason: no-endpoint
@@ -592,7 +532,67 @@ targets:
     resolved_url: https://www.painscience.com/blog/immense-new-review-of-exercise-for-pain.html
     reason: no-endpoint
     checked_at: '2026-08-01T09:56:09+00:00'
+  https://www.youtube.com/watch?v=xu3r2j_k2Fk:
+    resolved_url: https://www.youtube.com/watch?v=xu3r2j_k2Fk
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:21+00:00'
+  https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:25+00:00'
+  ? https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
+  : resolved_url: https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:28+00:00'
+  https://meassociation.org.uk/2026/07/__trashed/:
+    resolved_url: https://meassociation.org.uk/?p=151910
+    reason: discovery-http-404
+    checked_at: '2026-08-02T14:41:33+00:00'
+  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:35+00:00'
+  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
+    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:38+00:00'
+  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
+    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:39+00:00'
+  https://chronicillnesstraumastudies.com/abesmasterclass/:
+    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:39+00:00'
   https://www.throughthefibrofog.com/red-pepper-gnocchi/:
     resolved_url: https://www.throughthefibrofog.com/red-pepper-gnocchi/
     reason: no-endpoint
-    checked_at: '2026-08-01T09:56:12+00:00'
+    checked_at: '2026-08-02T14:41:39+00:00'
+  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
+    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:42+00:00'
+  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
+    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:42+00:00'
+  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
+    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:42+00:00'
+  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
+    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:46+00:00'
+  https://www.eleanorsteinmd.ca/blog/hormesis2:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:47+00:00'
+  https://virology.ws/2026/07/23/trial-by-error-no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/:
+    resolved_url: https://virology.ws/2026/07/23/trial-by-error-no-benefits-for-multidisciplinary-rehabilitation-in-new-me-cfs-study/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:47+00:00'
+  https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/
+    reason: no-endpoint
+    checked_at: '2026-08-02T14:41:49+00:00'
