@@ -820,62 +820,10 @@ targets:
     resolved_url: https://thechels.uk/spontaneous-remission-of-me-cfs
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-08-01T12:22:09+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-08-02T14:41:20+00:00'
   https://achronicvoice.com/treatment-for-ain-3-my-experience-imiquimod-anal-excision/:
     resolved_url: https://achronicvoice.com/treatment-for-ain-3-my-experience-imiquimod-anal-excision/
     endpoint: https://achronicvoice.com/webmentions/receive/
     checked_at: '2026-08-02T14:41:21+00:00'
-  https://www.youtube.com/watch?v=xu3r2j_k2Fk:
-    resolved_url: https://www.youtube.com/watch?v=xu3r2j_k2Fk
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:21+00:00'
-  https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:25+00:00'
-  ? https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
-  : resolved_url: https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:28+00:00'
-  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
-    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:35+00:00'
-  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
-    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:38+00:00'
-  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
-    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:39+00:00'
-  https://chronicillnesstraumastudies.com/abesmasterclass/:
-    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:39+00:00'
-  https://www.throughthefibrofog.com/red-pepper-gnocchi/:
-    resolved_url: https://www.throughthefibrofog.com/red-pepper-gnocchi/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:39+00:00'
-  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
-    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:42+00:00'
-  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
-    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:42+00:00'
-  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
-    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:42+00:00'
-  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
-    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
-    endpoint: ''
-    checked_at: '2026-08-02T14:41:46+00:00'
   https://www.eleanorsteinmd.ca/blog/hormesis2:
     resolved_url: https://www.eleanorsteinmd.ca/blog/hormesis2
     endpoint: ''
@@ -888,11 +836,67 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/07/23/uk-triple-treatment-long-covid-trial/
     endpoint: ''
     checked_at: '2026-08-02T14:41:49+00:00'
-  https://www.throughthefibrofog.com/blackberry-chicken/:
-    resolved_url: https://www.throughthefibrofog.com/blackberry-chicken/
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-08-03T09:21:40+00:00'
+  https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/:
+    resolved_url: https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/
     endpoint: ''
-    checked_at: '2026-08-02T15:32:47+00:00'
+    checked_at: '2026-08-03T09:21:43+00:00'
   https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/:
     resolved_url: https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/
     endpoint: ''
-    checked_at: '2026-08-02T17:29:44+00:00'
+    checked_at: '2026-08-03T09:21:46+00:00'
+  https://www.throughthefibrofog.com/blackberry-chicken/:
+    resolved_url: https://www.throughthefibrofog.com/blackberry-chicken/
+    endpoint: ''
+    checked_at: '2026-08-03T09:21:46+00:00'
+  https://www.youtube.com/watch?v=xu3r2j_k2Fk:
+    resolved_url: https://www.youtube.com/watch?v=xu3r2j_k2Fk
+    endpoint: ''
+    checked_at: '2026-08-03T09:21:47+00:00'
+  https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/07/forward-me-briefing-paper-on-clinical-assessment-of-people-with-very-severe-me-cfs/
+    endpoint: ''
+    checked_at: '2026-08-03T09:21:50+00:00'
+  ? https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
+  : resolved_url: https://meassociation.org.uk/2026/07/research-a-large-international-study-on-fibromyalgia-has-identified-potential-risk-factors-across-patients-genes/
+    endpoint: ''
+    checked_at: '2026-08-03T09:21:51+00:00'
+  https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/:
+    resolved_url: https://www.healthrising.org/blog/2026/07/29/the-big-long-covid-neuroplasticity-trial-did-it-work/
+    endpoint: ''
+    checked_at: '2026-08-03T09:21:58+00:00'
+  https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/:
+    resolved_url: https://meassociation.org.uk/2026/07/nhs-englands-me-cfs-e-learning-modules-foi-results-reveal-lack-of-uptake/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:02+00:00'
+  https://alishawhittam.com/england-amputee-football-world-cup-funding/:
+    resolved_url: https://alishawhittam.com/england-amputee-football-world-cup-funding/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:02+00:00'
+  https://chronicillnesstraumastudies.com/abesmasterclass/:
+    resolved_url: https://chronicillnesstraumastudies.com/abesmasterclass/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:02+00:00'
+  https://www.throughthefibrofog.com/red-pepper-gnocchi/:
+    resolved_url: https://www.throughthefibrofog.com/red-pepper-gnocchi/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:02+00:00'
+  https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/:
+    resolved_url: https://meassociation.org.uk/2026/07/me-cfs-service-closures-without-consultation-what-you-need-to-know/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:05+00:00'
+  https://www.youtube.com/watch?v=T6Eoe9ARx2Q:
+    resolved_url: https://www.youtube.com/watch?v=T6Eoe9ARx2Q
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:05+00:00'
+  https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/:
+    resolved_url: https://chronicillnesstraumastudies.com/healing-complex-ptsd-through-play/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:05+00:00'
+  https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/:
+    resolved_url: https://meassociation.org.uk/2026/07/dhsc-delivery-plan-on-me-cfs-one-year-on/
+    endpoint: ''
+    checked_at: '2026-08-03T09:22:09+00:00'

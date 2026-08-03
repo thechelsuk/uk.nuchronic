@@ -3324,7 +3324,21 @@ posts:
       updated_at: '2026-08-02T17:29:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-02T17:29:41+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-03T09:21:44+00:00'
+  naomis-story-lived-experience-of-severe-me-638cf80410:
+    source_url: https://nuchronic.uk/item/naomis-story-lived-experience-of-severe-me-638cf80410/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-03T09:21:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-03T09:21:40+00:00'
       verified_targets:
       - ap
