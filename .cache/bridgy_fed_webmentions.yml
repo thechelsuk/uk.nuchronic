@@ -3436,7 +3436,21 @@ posts:
       updated_at: '2026-08-05T12:06:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-05T12:06:19+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-05T16:47:49+00:00'
+  how-i-made-20-quickly-and-legally-online-in-the-uk-and-you-could-make-100s-c0ecc7a8eb:
+    source_url: https://nuchronic.uk/item/how-i-made-20-quickly-and-legally-online-in-the-uk-and-you-could-make-100s-c0ecc7a8eb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-05T16:47:47+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-05T16:47:48+00:00'
       verified_targets:
       - ap
