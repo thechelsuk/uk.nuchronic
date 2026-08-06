@@ -3450,7 +3450,21 @@ posts:
       updated_at: '2026-08-05T16:47:47+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-05T16:47:48+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-06T09:49:06+00:00'
+  virology-without-borders-660630dd50:
+    source_url: https://nuchronic.uk/item/virology-without-borders-660630dd50/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-06T09:49:05+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-06T09:49:05+00:00'
       verified_targets:
       - ap
