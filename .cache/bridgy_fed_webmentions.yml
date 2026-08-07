@@ -3464,7 +3464,33 @@ posts:
       updated_at: '2026-08-06T09:49:05+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-06T09:49:05+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-07T09:09:23+00:00'
+  rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-w-3e8349f174:
+    source_url: https://nuchronic.uk/item/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-w-3e8349f174/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-07T09:09:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-07T09:09:22+00:00'
+      verified_targets:
+      - ap
+  chicken-leek-and-potato-soup-551887b745:
+    source_url: https://nuchronic.uk/item/chicken-leek-and-potato-soup-551887b745/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-07T09:09:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-07T09:09:25+00:00'
       verified_targets:
       - ap
