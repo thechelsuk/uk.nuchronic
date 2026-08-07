@@ -3478,10 +3478,12 @@ posts:
       updated_at: '2026-08-07T09:09:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-07T09:09:22+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-07T11:51:59+00:00'
   chicken-leek-and-potato-soup-551887b745:
     source_url: https://nuchronic.uk/item/chicken-leek-and-potato-soup-551887b745/
     bridgy:
@@ -3490,7 +3492,21 @@ posts:
       updated_at: '2026-08-07T09:09:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-07T09:09:25+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-07T11:51:59+00:00'
+  when-doing-nothing-is-doing-something-926628c18b:
+    source_url: https://nuchronic.uk/item/when-doing-nothing-is-doing-something-926628c18b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-07T11:51:58+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-07T11:51:58+00:00'
       verified_targets:
       - ap

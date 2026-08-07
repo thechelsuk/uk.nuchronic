@@ -648,3 +648,7 @@ targets:
     resolved_url: https://meassociation.org.uk/?p=151910
     reason: discovery-http-404
     checked_at: '2026-08-07T09:10:00+00:00'
+  https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/:
+    resolved_url: https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/
+    reason: no-endpoint
+    checked_at: '2026-08-07T11:51:59+00:00'
