@@ -3506,7 +3506,21 @@ posts:
       updated_at: '2026-08-07T11:51:58+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-07T11:51:58+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-07T19:57:26+00:00'
+  in-defence-of-reiki-practitioners-yes-really-sorta-2m-eca2c19f79:
+    source_url: https://nuchronic.uk/item/in-defence-of-reiki-practitioners-yes-really-sorta-2m-eca2c19f79/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-07T19:57:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-07T19:57:26+00:00'
       verified_targets:
       - ap
