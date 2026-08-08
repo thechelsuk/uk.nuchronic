@@ -3520,7 +3520,21 @@ posts:
       updated_at: '2026-08-07T19:57:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-07T19:57:26+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-08T19:38:45+00:00'
+  cash-is-risky-the-stock-market-is-volatile-and-why-that-distinction-matters-in-2-6827bbc449:
+    source_url: https://nuchronic.uk/item/cash-is-risky-the-stock-market-is-volatile-and-why-that-distinction-matters-in-2-6827bbc449/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-08T19:38:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-08T19:38:41+00:00'
       verified_targets:
       - ap
