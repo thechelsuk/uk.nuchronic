@@ -3534,7 +3534,21 @@ posts:
       updated_at: '2026-08-08T19:38:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-08T19:38:41+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-08T22:14:07+00:00'
+  before-you-go-to-bed-tonight-put-your-pjs-on-for-me-f7f2b139f2:
+    source_url: https://nuchronic.uk/item/before-you-go-to-bed-tonight-put-your-pjs-on-for-me-f7f2b139f2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-08T22:14:04+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-08T22:14:05+00:00'
       verified_targets:
       - ap
