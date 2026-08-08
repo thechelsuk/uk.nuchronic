@@ -2686,6 +2686,22 @@ when-doing-nothing-is-doing-something-926628c18b:
   likes: []
   reposts: []
   mentions: []
+before-you-go-to-bed-tonight-put-your-pjs-on-for-me-f7f2b139f2:
+  target: https://nuchronic.uk/item/before-you-go-to-bed-tonight-put-your-pjs-on-for-me-f7f2b139f2/
+  count: 1
+  types:
+    like: 1
+  replies: []
+  likes:
+  - author_name: James
+    author_url: https://mastodon.social/@nonzerosumjames
+    author_photo: https://avatars.webmention.io/files.mastodon.social/26e614bd3b197f4faf216dc628ddaa0ae010c73605ce37d0978320f7aa3a7046.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/308384497
+    published: None
+    property: like-of
+    content_text: likes this.
+  reposts: []
+  mentions: []
 cash-is-risky-the-stock-market-is-volatile-and-why-that-distinction-matters-in-2-6827bbc449:
   target: https://nuchronic.uk/item/cash-is-risky-the-stock-market-is-volatile-and-why-that-distinction-matters-in-2-6827bbc449/
   count: 0
