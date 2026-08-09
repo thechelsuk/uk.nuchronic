@@ -13,21 +13,9 @@ layout: default
     {% assign story_rank = offset | plus: forloop.index %}
     {% include story_item.html post=post rank=story_rank %}
     {% endfor %}
+
+    <li><a href="https://join.monzo.com/c/k7stxxwv">Monzo Bank - Join and get a reward of either £25, £50, or £100</a></li>
 </ol>
-
-<div class="ad-slot" aria-label="Advertisement">
-    <p>
-        <script async
-            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7806573467007778"
-            crossorigin="anonymous"></script>
-        <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article"
-            data-ad-format="fluid" data-ad-client="ca-pub-7806573467007778" data-ad-slot="8748849985"></ins>
-        <script>
-            (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-    </p>
-</div>
-
 <ol class="stories" start="{{ offset | plus: 3 }}">
     {% for post in feed_posts offset:2 %}
     {% assign story_rank = offset | plus: forloop.index | plus: 2 %}
