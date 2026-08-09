@@ -36,6 +36,7 @@ html {
   place-items: center;
   width: 18px;
   height: 18px;
+  background-color: whitesmoke;
 }
 
 .brand-mark img {
