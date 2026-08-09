@@ -14,7 +14,7 @@ layout: default
     {% include story_item.html post=post rank=story_rank %}
     {% endfor %}
 
-    <li><a href="https://join.monzo.com/c/k7stxxwv">Monzo Bank - Join and get a reward of either £25, £50, or £100</a></li>
+    <li><a href="https://join.monzo.com/c/k7stxxwv" rel="sponsored me">Monzo Bank - Join and get a reward of either £25, £50, or £100</a></li>
 </ol>
 <ol class="stories" start="{{ offset | plus: 3 }}">
     {% for post in feed_posts offset:2 %}
