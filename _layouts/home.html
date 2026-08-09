@@ -13,28 +13,31 @@ layout: default
     {% assign story_rank = offset | plus: forloop.index %}
     {% include story_item.html post=post rank=story_rank %}
     {% endfor %}
-    <ol class="stories">
-        <li class="story">
+</ol>
+<ol class="stories">
+    <li class="story">
+        <div class="story-rank">*.</div>
+        <div class="story-body">
             <h2 class="story-title">
                 <a href="https://join.monzo.com/c/k7stxxwv" rel="sponsored me">
                     Monzo Bank - Join and get a reward of either £25, £50, or £100
                 </a>
             </h2>
             <p class="story-meta">Sponsored <span class="meta-separator">·</span> T&Cs apply</p>
-        </li>
+        </div>
+    </li>
+</ol>
+<ol class="stories" start="{{ offset | plus: 3 }}">
+    {% for post in feed_posts offset:2 %}
+    {% assign story_rank = offset | plus: forloop.index | plus: 2 %}
+    {% include story_item.html post=post rank=story_rank %}
+    {% endfor %}
+</ol>
+{% else %}
+<section class="empty-state">
+    <h1>No entries yet.</h1>
+    <p>Add feed-backed posts to <code>_posts/</code> and they will land here automatically.</p>
+</section>
+{% endif %}
 
-    </ol>
-    <ol class="stories" start="{{ offset | plus: 3 }}">
-        {% for post in feed_posts offset:2 %}
-        {% assign story_rank = offset | plus: forloop.index | plus: 2 %}
-        {% include story_item.html post=post rank=story_rank %}
-        {% endfor %}
-    </ol>
-    {% else %}
-    <section class="empty-state">
-        <h1>No entries yet.</h1>
-        <p>Add feed-backed posts to <code>_posts/</code> and they will land here automatically.</p>
-    </section>
-    {% endif %}
-
-    {% include pagination.html %}
+{% include pagination.html %}
