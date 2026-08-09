@@ -3548,7 +3548,20 @@ posts:
       updated_at: '2026-08-08T22:14:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-08T22:14:05+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-09T09:52:01+00:00'
+  what-is-sequencing-risk-in-early-retirement-with-practical-examples-76c116ac6d:
+    source_url: https://nuchronic.uk/item/what-is-sequencing-risk-in-early-retirement-with-practical-examples-76c116ac6d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-09T09:52:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-09T09:52:00+00:00'
+      verified_targets: []
