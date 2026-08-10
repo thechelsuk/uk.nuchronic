@@ -1,8 +1,8 @@
 {% assign self_url = page.url | absolute_url %}
 {% if page.layout == 'post' and page.link %}
-    {% assign canonical_url = page.link %}
+{% assign canonical_url = page.link %}
 {% else %}
-    {% assign canonical_url = self_url %}
+{% assign canonical_url = self_url %}
 {% endif %}
 
 {% assign page_title = page.title | default: site.title %}
@@ -24,17 +24,31 @@
 <link rel="webmention" href="{{ site.webmentions.endpoint }}">
 {% endif %}
 {% if site.rel_me %}
-    {% for profile_url in site.rel_me %}
-        <link rel="me" href="{{ profile_url }}">
-    {% endfor %}
+{% for profile_url in site.rel_me %}
+<link rel="me" href="{{ profile_url }}">
+{% endfor %}
 {% endif %}
+
+<!-- Google / Search Engine Tags -->
+<meta itemprop="name" content="{{ page.title }}" />
+<meta itemprop="description" content="{{ page_description | escape }}" />
+<meta itemprop="image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" />
+
+<!-- OG-->
 <meta property="og:site_name" content="{{ site.title | escape }}">
 <meta property="og:title" content="{{ page_title | escape }}">
 <meta property="og:description" content="{{ page_description | escape }}">
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ self_url }}">
 <meta property="og:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}">
-<meta name="twitter:card" content="summary">
+
+<!-- twitter -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="{{page.title}}" />
+<meta name="twitter:description" content="{{ page_description | escape }}" />
+<meta name="twitter:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}" />
+
+
 {% if page.layout == 'post' %}
 <link rel="alternate" type="application/activity+json" href="https://web.brid.gy/r/{{ self_url }}">
 {% endif %}
