@@ -3562,18 +3562,33 @@ posts:
       updated_at: '2026-08-10T12:26:08+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-10T12:26:08+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-10T14:33:12+00:00'
   the-road-to-fire-building-the-isa-bridge-to-58-and-finding-the-apex-e4325c57eb:
     source_url: https://nuchronic.uk/item/the-road-to-fire-building-the-isa-bridge-to-58-and-finding-the-apex-e4325c57eb/
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-08-10T12:26:07+00:00'
+      updated_at: '2026-08-10T14:33:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-08-10T12:26:07+00:00'
-      verified_targets: []
+      accepted_at: '2026-08-10T14:33:12+00:00'
+      verified_targets:
+      - ap
+  arugula-orzo-salad-a15b73f2ed:
+    source_url: https://nuchronic.uk/item/arugula-orzo-salad-a15b73f2ed/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-10T14:33:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-10T14:33:11+00:00'
+      verified_targets:
+      - ap
