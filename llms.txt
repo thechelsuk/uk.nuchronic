@@ -1,0 +1,26 @@
+# Nuchronic
+
+> A dark-mode, Hacker News-style feed for the chronically ill indie web. Nuchronic is a webring that automatically aggregates posts from independent blogs and sites written by and relevant to people with chronic illness, collecting them in one place to share and discover.
+
+Nuchronic pulls posts from submitted RSS/Atom feeds roughly once an hour, adding the latest post from each feed. It runs no analytics, no accounts, and no ad networks. It occasionally shows clearly labelled "Sponsored" text links, some of which are affiliate links.
+
+## Main pages
+
+- [New posts](https://nuchronic.uk/): The homepage feed of the latest posts across the webring.
+- [Top](https://nuchronic.uk/top): The most-mentioned posts.
+- [About](https://nuchronic.uk/about): What Nuchronic is, who it's for, how it works, and how to submit or remove a feed.
+- [Terms](https://nuchronic.uk/terms): Terms of use for the site.
+- [Privacy](https://nuchronic.uk/privacy): Privacy approach, including how sponsored and affiliate links work.
+
+## Feeds
+
+- [RSS/Atom feed](https://nuchronic.uk/feed.xml): The full machine-readable feed of posts.
+
+## Submissions
+
+- [Submit a feed](https://github.com/thechelsuk/uk.nuchronic/issues/new?template=feed-submission.yml): Open a GitHub issue with your feed URL, or email submission@nuchronic.uk.
+
+## Contact
+
+- Removals: privacy@nuchronic.uk
+- Maintainer: thechelsuk (https://thechels.uk)

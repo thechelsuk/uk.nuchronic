@@ -8,7 +8,14 @@ endcapture %}
 <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
 <meta name="description" content="{{ page_description | escape }}">
 <meta name="theme-color" content="#ff6600">
+
+{% if page.layout == 'post' and page.source_url %}
+{% assign canonical_url = page.source_url %}
+{% else %}
+{% assign canonical_url = page.url | absolute_url %}
+{% endif %}
 <link rel="canonical" href="{{ canonical_url }}">
+
 <link rel="manifest" href="{{ '/assets/icons/manifest.webmanifest' | relative_url }}">
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
 <link rel="icon" href="{{ '/assets/icons/icon.svg' | relative_url }}" type="image/svg+xml">
@@ -27,7 +34,7 @@ endcapture %}
 <meta property="og:title" content="{{ page_title | escape }}">
 <meta property="og:description" content="{{ page_description | escape }}">
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:url" content="{{ site.url }}">
 <meta property="og:image" content="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}">
 <meta name="twitter:card" content="summary">
 {% if page.layout == 'post' %}

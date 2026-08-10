@@ -2,35 +2,30 @@
 layout: page
 title: About
 permalink: /about
+description: What Nuchronic is, who it's for, how the webring works, and how to submit or remove a feed.
 ---
 
-Welcome into the webring! This is a dark-mode Hacker News-inspired feed for the chronically ill indie web. The webring aggregates content from various sources relevant to, and by the chronically ill community, providing a centralized platform for sharing and discovering content.
+Nuchronic is a dark-mode, Hacker News-style feed for the chronically ill indie web — a webring that gathers posts from independent blogs and sites into one place, so the community has somewhere to share and discover each other's writing.
 
-## Rules
+## Who it's for
 
-- The webring is open to anyone who identifies as chronically ill but the content does not have to be relevant to chronic illness.
-- The webring is a place for the chronically ill to share and discover content that is relevant to them, regardless of the topic. It is pro free speech and open to all content that is not illegal or harmful. The discretion is with the webring maintainers to review any content that gets flagged to us.
+The webring is open to anyone who identifies as chronically ill. Your posts don't have to be about chronic illness — write about anything. Nuchronic supports free expression and welcomes all content that isn't illegal or harmful. Maintainers review anything that gets flagged, at their discretion.
 
 ## How it works
 
-Feeds are checked every hour or so automatically, and new posts are added to the site. Only the latest post from each feed on each run is added, this is to avoid flooding/spamming and overwhelm.
+Feeds are checked automatically, roughly once an hour, and new posts are added as they appear.
 
-- If you publish a blog post every day each post will appear on the homepage as they are published.
-- If you want to share an older post, you can update the published date in your feed and it will be added to the homepage on the next run.
-- nIf you publish 3 posts in one hour, only the latest one will be added to the site.
+- To avoid flooding the homepage, only the latest post from each feed is added on each run.
+- Publish a post a day, and each one appears here as it's published.
+- To resurface an older post, update its published date in your feed and it will be picked up on the next run.
+- Publish three posts in one hour, and only the most recent is added.
 
 ## Submissions
 
-Create a GitHub issue in this repo with the feed URL and a brief description of the source. If your feed is accepted, it will be added to the webring and will start appearing on the homepage.
+To add your feed, open a GitHub issue in our repo with the feed URL and a short description of the source. If it's accepted, it joins the webring and starts appearing on the homepage.
 
-If adding a GitHub issue is too much for you, you can also email the feed URL and a brief description to _submission<!--example.com-->@nuchronic.uk_.
-
-Or by contacting [thechelsuk](https://links.thechels.uk) on social media.
+If GitHub is too much, email the feed URL and a short description to <submission@nuchronic.uk> — or message thechelsuk on social media.
 
 ## Removals
 
-If you would like your feed removed from this site, please email _removals<!--example.com-->@nuchronic.uk_ and your request will be actioned as soon as adequate spoons allow.
-
-- We can remove an individual item, if it has also been removed from the source feed.
-- We can remove the feed entirely if you no longer want to be part of the webring that will stop future items being added.
-- We can remove all historic items from your feed but this will take more time and effort to do, so it may not be possible to action this request immediately.
+To remove your feed, email removals@nuchronic.
