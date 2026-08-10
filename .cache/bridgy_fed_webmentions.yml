@@ -3576,10 +3576,12 @@ posts:
       updated_at: '2026-08-10T14:33:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-10T14:33:12+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-10T16:25:12+00:00'
   arugula-orzo-salad-a15b73f2ed:
     source_url: https://nuchronic.uk/item/arugula-orzo-salad-a15b73f2ed/
     bridgy:
@@ -3588,7 +3590,21 @@ posts:
       updated_at: '2026-08-10T14:33:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-10T14:33:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-10T16:25:12+00:00'
+  forward-me-chair-shares-a-message-on-severe-me-day-62522b96ff:
+    source_url: https://nuchronic.uk/item/forward-me-chair-shares-a-message-on-severe-me-day-62522b96ff/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-10T16:25:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-10T16:25:08+00:00'
       verified_targets:
       - ap
