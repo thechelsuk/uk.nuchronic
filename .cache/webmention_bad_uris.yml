@@ -604,14 +604,6 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/
     reason: no-endpoint
     checked_at: '2026-08-10T12:26:39+00:00'
-  https://www.throughthefibrofog.com/arugula-orzo-salad/:
-    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
-    reason: no-endpoint
-    checked_at: '2026-08-10T14:33:11+00:00'
-  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
-    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
-    reason: no-endpoint
-    checked_at: '2026-08-10T16:25:11+00:00'
   https://alishawhittam.com/me-pj-party-severe-me-day/:
     resolved_url: https://alishawhittam.com/me-pj-party-severe-me-day/
     reason: no-endpoint
@@ -668,3 +660,11 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/help-shape-the-future-of-nhs-care-heritage-is-now-recruiting/
     reason: no-endpoint
     checked_at: '2026-08-10T18:28:07+00:00'
+  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
+    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
+    reason: no-endpoint
+    checked_at: '2026-08-10T22:39:27+00:00'
+  https://www.throughthefibrofog.com/arugula-orzo-salad/:
+    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
+    reason: no-endpoint
+    checked_at: '2026-08-10T22:39:27+00:00'
