@@ -5,11 +5,11 @@ permalink: /about
 description: What Nuchronic is, who it's for, how the webring works, and how to submit or remove a feed.
 ---
 
-Nuchronic is a dark-mode, Hacker News-style feed for the chronically ill indie web — a webring that gathers posts from independent blogs and sites into one place, so the community has somewhere to share and discover each other's writing.
+Nuchronic is a dark-mode, Hacker News-style feed  aggregator for the chronically ill on the indie web — a webring that gathers posts from independent blogs and sites into one place, so the community has somewhere to share and discover each other's writing.
 
 ## Who it's for
 
-The webring is open to anyone who identifies as chronically ill. Your posts don't have to be about chronic illness — write about anything. Nuchronic supports free expression and welcomes all content that isn't illegal or harmful. Maintainers review anything that gets flagged, at their discretion.
+The webring is open to anyone who identifies as chronically ill. Your posts don't have to be about chronic illness -  write about anything. Nuchronic supports free expression and welcomes all content that isn't illegal or harmful. Maintainers review anything that gets flagged, at their discretion.
 
 ## How it works
 
@@ -28,4 +28,4 @@ If GitHub is too much, email the feed URL and a short description to <submission
 
 ## Removals
 
-To remove your feed, email removals@nuchronic.
+To remove your feed, email <removals@nuchronic.uk>

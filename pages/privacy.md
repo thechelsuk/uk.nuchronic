@@ -10,7 +10,7 @@ description: How Nuchronic handles data — no accounts, no trackers, no ad netw
 
 Nuchronic is built to respect your privacy. There are no user accounts, no comments, no analytics dashboard, and no advertising networks or third-party trackers running on the site itself.
 
-The only information we handle is feed data that's already public through the RSS or Atom feeds people submit. That can include a post's title, link, author name, and published date, where the feed provides them.
+The only information we handle is feed data that's already public through the RSS or Atom feeds that we source or people submit. That can include a post's title, link, author name, and published date, where the feed provides them.
 
 ### Sponsored and affiliate links
 

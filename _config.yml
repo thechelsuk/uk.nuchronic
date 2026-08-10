@@ -41,7 +41,7 @@ header_nav:
       url: https://github.com/thechelsuk/uk.nuchronic/issues/new?template=feed-submission.yml
 footer_nav:
   copyright: Nuchronic
-  notice: The web ring for the chronically ill indie web.
+  notice: The webring for the chronically ill on the indie web.
   year: 2026
   links:
     - label: About
@@ -52,7 +52,7 @@ footer_nav:
       url: "/privacy"
     - label: Sponsor
       url: "https://github.com/sponsors/thechelsuk"
-    - label: ko-fi
+    - label: Ko-fi
       url: "https://ko-fi.com/thechelsuk"
 defaults:
   - scope:
