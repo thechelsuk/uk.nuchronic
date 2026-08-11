@@ -900,10 +900,6 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/blackberry-chicken/
     endpoint: ''
     checked_at: '2026-08-09T09:52:06+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-08-10T12:26:07+00:00'
   https://thechels.uk/the-ISA-retirement-bridge:
     resolved_url: https://thechels.uk/the-ISA-retirement-bridge
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -911,55 +907,55 @@ targets:
   https://alishawhittam.com/me-pj-party-severe-me-day/:
     resolved_url: https://alishawhittam.com/me-pj-party-severe-me-day/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:45+00:00'
+    checked_at: '2026-08-11T01:41:51+00:00'
   https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/:
     resolved_url: https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:47+00:00'
+    checked_at: '2026-08-11T01:41:51+00:00'
   https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/:
     resolved_url: https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:50+00:00'
+    checked_at: '2026-08-11T01:41:52+00:00'
   https://virology.ws/2026/08/06/virology-without-borders/:
     resolved_url: https://virology.ws/2026/08/06/virology-without-borders/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:50+00:00'
+    checked_at: '2026-08-11T01:41:53+00:00'
   https://www.throughthefibrofog.com/chicken-leek-potato-soup/:
     resolved_url: https://www.throughthefibrofog.com/chicken-leek-potato-soup/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:51+00:00'
+    checked_at: '2026-08-11T01:41:54+00:00'
   https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/:
     resolved_url: https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:54+00:00'
+    checked_at: '2026-08-11T01:41:54+00:00'
   https://alishawhittam.com/me-pj-party-2026/:
     resolved_url: https://alishawhittam.com/me-pj-party-2026/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:55+00:00'
+    checked_at: '2026-08-11T01:41:55+00:00'
   https://invisiblyme.com/18-tips-living-chronic-illness-pain/:
     resolved_url: https://invisiblyme.com/18-tips-living-chronic-illness-pain/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:56+00:00'
+    checked_at: '2026-08-11T01:41:55+00:00'
   https://chronicillnesstraumastudies.com/traumality-the-documentary/:
     resolved_url: https://chronicillnesstraumastudies.com/traumality-the-documentary/
     endpoint: ''
-    checked_at: '2026-08-10T18:27:59+00:00'
+    checked_at: '2026-08-11T01:41:55+00:00'
   https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/:
     resolved_url: https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/
     endpoint: ''
-    checked_at: '2026-08-10T18:28:01+00:00'
+    checked_at: '2026-08-11T01:41:57+00:00'
   https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/:
     resolved_url: https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/
     endpoint: ''
-    checked_at: '2026-08-10T18:28:02+00:00'
+    checked_at: '2026-08-11T01:41:59+00:00'
   https://www.painscience.com/blog/in-defence-of-reiki-practitioners.html:
     resolved_url: https://www.painscience.com/blog/in-defence-of-reiki-practitioners.html
     endpoint: ''
-    checked_at: '2026-08-10T18:28:02+00:00'
+    checked_at: '2026-08-11T01:42:00+00:00'
   https://alishawhittam.com/home-eye-test/:
     resolved_url: https://alishawhittam.com/home-eye-test/
     endpoint: ''
-    checked_at: '2026-08-10T18:28:03+00:00'
+    checked_at: '2026-08-11T01:42:00+00:00'
   https://meassociation.org.uk/2026/08/help-shape-the-future-of-nhs-care-heritage-is-now-recruiting/:
     resolved_url: https://meassociation.org.uk/2026/08/help-shape-the-future-of-nhs-care-heritage-is-now-recruiting/
     endpoint: ''
@@ -976,3 +972,11 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
     endpoint: ''
     checked_at: '2026-08-10T22:39:27+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-08-11T01:41:48+00:00'
+  https://www.painscience.com/blog/prp-for-arthritic-knees.html:
+    resolved_url: https://www.painscience.com/blog/prp-for-arthritic-knees.html
+    endpoint: ''
+    checked_at: '2026-08-11T01:41:49+00:00'
