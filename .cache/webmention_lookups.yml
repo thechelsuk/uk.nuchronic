@@ -904,46 +904,6 @@ targets:
     resolved_url: https://thechels.uk/the-ISA-retirement-bridge
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-08-10T12:26:07+00:00'
-  https://alishawhittam.com/me-pj-party-severe-me-day/:
-    resolved_url: https://alishawhittam.com/me-pj-party-severe-me-day/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:51+00:00'
-  https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/:
-    resolved_url: https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:51+00:00'
-  https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/:
-    resolved_url: https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:52+00:00'
-  https://virology.ws/2026/08/06/virology-without-borders/:
-    resolved_url: https://virology.ws/2026/08/06/virology-without-borders/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:53+00:00'
-  https://www.throughthefibrofog.com/chicken-leek-potato-soup/:
-    resolved_url: https://www.throughthefibrofog.com/chicken-leek-potato-soup/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:54+00:00'
-  https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/:
-    resolved_url: https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:54+00:00'
-  https://alishawhittam.com/me-pj-party-2026/:
-    resolved_url: https://alishawhittam.com/me-pj-party-2026/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:55+00:00'
-  https://invisiblyme.com/18-tips-living-chronic-illness-pain/:
-    resolved_url: https://invisiblyme.com/18-tips-living-chronic-illness-pain/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:55+00:00'
-  https://chronicillnesstraumastudies.com/traumality-the-documentary/:
-    resolved_url: https://chronicillnesstraumastudies.com/traumality-the-documentary/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:55+00:00'
-  https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/:
-    resolved_url: https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/
-    endpoint: ''
-    checked_at: '2026-08-11T01:41:57+00:00'
   https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/:
     resolved_url: https://meassociation.org.uk/2026/08/naomis-story-lived-experience-of-severe-me/
     endpoint: ''
@@ -964,19 +924,71 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/08/02/long-covid-energy-brain/
     endpoint: ''
     checked_at: '2026-08-10T12:26:39+00:00'
-  https://www.throughthefibrofog.com/arugula-orzo-salad/:
-    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
-    endpoint: ''
-    checked_at: '2026-08-10T22:39:27+00:00'
-  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
-    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
-    endpoint: ''
-    checked_at: '2026-08-10T22:39:27+00:00'
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-08-11T01:41:48+00:00'
+    checked_at: '2026-08-11T21:24:24+00:00'
+  https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/:
+    resolved_url: https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:25+00:00'
+  https://thechels.uk/fire-isa-bridge-calculator-apex:
+    resolved_url: https://thechels.uk/fire-isa-bridge-calculator-apex
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-08-11T21:24:26+00:00'
+  https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/:
+    resolved_url: https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:28+00:00'
   https://www.painscience.com/blog/prp-for-arthritic-knees.html:
     resolved_url: https://www.painscience.com/blog/prp-for-arthritic-knees.html
     endpoint: ''
-    checked_at: '2026-08-11T01:41:49+00:00'
+    checked_at: '2026-08-11T21:24:29+00:00'
+  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
+    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:30+00:00'
+  https://www.throughthefibrofog.com/arugula-orzo-salad/:
+    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:30+00:00'
+  https://alishawhittam.com/me-pj-party-severe-me-day/:
+    resolved_url: https://alishawhittam.com/me-pj-party-severe-me-day/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:30+00:00'
+  https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/:
+    resolved_url: https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:30+00:00'
+  https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/:
+    resolved_url: https://meassociation.org.uk/2026/08/rebeccas-story-speaking-out-to-advocate-for-greater-awareness-during-severe-me-week/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:34+00:00'
+  https://virology.ws/2026/08/06/virology-without-borders/:
+    resolved_url: https://virology.ws/2026/08/06/virology-without-borders/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:35+00:00'
+  https://www.throughthefibrofog.com/chicken-leek-potato-soup/:
+    resolved_url: https://www.throughthefibrofog.com/chicken-leek-potato-soup/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:35+00:00'
+  https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/:
+    resolved_url: https://meassociation.org.uk/2026/08/hailees-story-lived-experience-with-severe-me/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:39+00:00'
+  https://alishawhittam.com/me-pj-party-2026/:
+    resolved_url: https://alishawhittam.com/me-pj-party-2026/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:40+00:00'
+  https://invisiblyme.com/18-tips-living-chronic-illness-pain/:
+    resolved_url: https://invisiblyme.com/18-tips-living-chronic-illness-pain/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:41+00:00'
+  https://chronicillnesstraumastudies.com/traumality-the-documentary/:
+    resolved_url: https://chronicillnesstraumastudies.com/traumality-the-documentary/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:41+00:00'
+  https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/:
+    resolved_url: https://meassociation.org.uk/2026/08/wames-met-with-health-minister-to-discuss-me-and-long-covid-services-in-wales/
+    endpoint: ''
+    checked_at: '2026-08-11T21:24:45+00:00'
