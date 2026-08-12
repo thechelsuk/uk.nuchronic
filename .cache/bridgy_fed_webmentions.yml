@@ -3632,21 +3632,24 @@ posts:
       updated_at: '2026-08-11T21:24:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-11T21:24:25+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-12T00:18:30+00:00'
   the-road-to-fire-building-the-isa-bridge-apex-calculator-a4dd209d07:
     source_url: https://nuchronic.uk/item/the-road-to-fire-building-the-isa-bridge-apex-calculator-a4dd209d07/
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-08-11T21:24:26+00:00'
+      updated_at: '2026-08-12T00:18:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-08-11T21:24:26+00:00'
-      verified_targets: []
+      accepted_at: '2026-08-12T00:18:29+00:00'
+      verified_targets:
+      - ap
   trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report-1a769ba068:
     source_url: https://nuchronic.uk/item/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report-1a769ba068/
     bridgy:
