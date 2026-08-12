@@ -1,0 +1,16 @@
+{% assign min = 1 %}
+{% assign max = site.data.offers.size %}
+{% assign diff = max | minus: min %}
+{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign offer = site.data.offers[item] %}
+<ol class="stories">
+    <li class="story">
+        <div class="story-rank">Ad.</div>
+        <div class="story-body">
+            <h2 class="story-title">
+                <a href="offer.link" rel="sponsored nofollow">{{offer.title}}</a>
+            </h2>
+            <p class="story-meta">Sponsored <span class="meta-separator">·</span> T&Cs apply</p>
+        </div>
+    </li>
+</ol>

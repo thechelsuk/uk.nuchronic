@@ -14,19 +14,7 @@ layout: default
     {% include story_item.html post=post rank=story_rank %}
     {% endfor %}
 </ol>
-<ol class="stories">
-    <li class="story">
-        <div class="story-rank">Ad.</div>
-        <div class="story-body">
-            <h2 class="story-title">
-                <a href="https://join.monzo.com/c/k7stxxwv" rel="sponsored nofollow">
-                    Monzo Bank - Join and get a reward of either £25, £50, or £100
-                </a>
-            </h2>
-            <p class="story-meta">Sponsored <span class="meta-separator">·</span> T&Cs apply</p>
-        </div>
-    </li>
-</ol>
+{% include advert.html %}
 <ol class="stories" start="{{ offset | plus: 3 }}">
     {% for post in feed_posts offset:2 %}
     {% assign story_rank = offset | plus: forloop.index | plus: 2 %}

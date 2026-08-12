@@ -13,6 +13,7 @@ layout: default
     {% endif %}
     {% endfor %}
 </ol>
+{% include advert.html %}
 {% elsif site.posts and site.posts.size > 0 %}
 <ol class="stories" start="1">
     {% for post in site.posts limit: 30 %}
