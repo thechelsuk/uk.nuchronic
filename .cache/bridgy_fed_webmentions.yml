@@ -3662,3 +3662,27 @@ posts:
       - bsky
       verified_at: '2026-08-11T21:24:27+00:00'
       status: success
+  9-ways-to-make-friends-when-chronically-ill-d6874921ba:
+    source_url: https://nuchronic.uk/item/9-ways-to-make-friends-when-chronically-ill-d6874921ba/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-12T14:35:28+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-12T14:35:28+00:00'
+      verified_targets:
+      - ap
+  does-chronic-pain-go-away-11-people-share-about-their-last-pain-free-day-ac709d5a89:
+    source_url: https://nuchronic.uk/item/does-chronic-pain-go-away-11-people-share-about-their-last-pain-free-day-ac709d5a89/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-12T14:35:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-12T14:35:40+00:00'
+      verified_targets:
+      - ap
