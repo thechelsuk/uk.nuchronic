@@ -50,6 +50,8 @@ footer_nav:
       url: "/terms"
     - label: Privacy
       url: "/privacy"
+    - label: Sitemap
+      url: "/sitemap.xml"
     - label: Sponsor
       url: "https://github.com/sponsors/thechelsuk"
     - label: Ko-fi
