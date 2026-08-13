@@ -1,0 +1,14 @@
+---
+layout: empty
+permalink: /.well-known/security.txt
+---
+
+# Security
+
+Contact: security@nuchronic.uk
+Encryption: https://thechels.uk/pgp
+
+Preferred-Languages: en
+Canonical: /.well-known/security.txt
+
+Thank you for sharing responsibly
