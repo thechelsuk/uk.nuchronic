@@ -3754,10 +3754,12 @@ posts:
       updated_at: '2026-08-13T18:28:28+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-13T18:28:29+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-13T20:28:05+00:00'
   itv-news-mcas-pots-medical-detection-dog-0480662170:
     source_url: https://nuchronic.uk/item/itv-news-mcas-pots-medical-detection-dog-0480662170/
     bridgy:
