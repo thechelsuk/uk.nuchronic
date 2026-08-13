@@ -3726,10 +3726,12 @@ posts:
       updated_at: '2026-08-13T10:31:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-13T10:31:29+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-13T10:36:31+00:00'
   timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommen-d3f5b419d4:
     source_url: https://nuchronic.uk/item/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommen-d3f5b419d4/
     bridgy:
@@ -3738,7 +3740,9 @@ posts:
       updated_at: '2026-08-13T10:31:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-13T10:31:25+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-13T10:36:31+00:00'
