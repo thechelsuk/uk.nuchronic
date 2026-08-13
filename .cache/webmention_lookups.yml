@@ -1004,3 +1004,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/
     endpoint: ''
     checked_at: '2026-08-12T23:21:22+00:00'
+  https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html:
+    resolved_url: https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html
+    endpoint: ''
+    checked_at: '2026-08-13T01:41:47+00:00'

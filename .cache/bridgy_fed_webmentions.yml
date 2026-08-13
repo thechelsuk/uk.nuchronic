@@ -3698,7 +3698,21 @@ posts:
       updated_at: '2026-08-12T23:21:20+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-12T23:21:20+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-13T01:41:47+00:00'
+  melatonin-is-not-a-painkiller-1m-ab353cc91b:
+    source_url: https://nuchronic.uk/item/melatonin-is-not-a-painkiller-1m-ab353cc91b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-13T01:41:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-13T01:41:47+00:00'
       verified_targets:
       - ap
