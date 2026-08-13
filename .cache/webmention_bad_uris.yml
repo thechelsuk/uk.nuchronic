@@ -640,10 +640,6 @@ targets:
     resolved_url: https://alishawhittam.com/me-pj-party-2026/
     reason: no-endpoint
     checked_at: '2026-08-12T23:21:44+00:00'
-  https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html:
-    resolved_url: https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html
-    reason: no-endpoint
-    checked_at: '2026-08-13T01:41:47+00:00'
   https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/:
     resolved_url: https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/
     reason: no-endpoint
@@ -692,3 +688,11 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/chicken-leek-potato-soup/
     reason: no-endpoint
     checked_at: '2026-08-13T07:40:54+00:00'
+  ? https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
+  : resolved_url: https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
+    reason: no-endpoint
+    checked_at: '2026-08-13T10:31:28+00:00'
+  https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html:
+    resolved_url: https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html
+    reason: no-endpoint
+    checked_at: '2026-08-13T10:31:29+00:00'
