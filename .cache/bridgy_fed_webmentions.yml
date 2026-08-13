@@ -3712,7 +3712,20 @@ posts:
       updated_at: '2026-08-13T01:41:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-13T01:41:47+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-13T07:40:32+00:00'
+  what-to-do-when-you-fill-your-s-amp-s-isa-in-the-uk-in-2026-ac1fb7a7f6:
+    source_url: https://nuchronic.uk/item/what-to-do-when-you-fill-your-s-amp-s-isa-in-the-uk-in-2026-ac1fb7a7f6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-13T07:40:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-13T07:40:29+00:00'
+      verified_targets: []
