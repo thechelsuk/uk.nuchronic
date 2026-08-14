@@ -3770,3 +3770,15 @@ posts:
       - bsky
       verified_at: '2026-08-13T18:28:31+00:00'
       status: success
+  how-having-crohn-s-has-affected-my-relationship-with-food-an-update-e3a728757d:
+    source_url: https://nuchronic.uk/item/how-having-crohn-s-has-affected-my-relationship-with-food-an-update-e3a728757d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-14T10:28:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-14T10:28:10+00:00'
+      verified_targets:
+      - ap
