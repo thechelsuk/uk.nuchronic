@@ -95,6 +95,10 @@ jobs:
               run: bundle exec jekyll build
             - name: Upload artifact
               uses: actions/upload-pages-artifact@v5
+              with:
+                  path: _site
+                  include_hidden_files: true
+                          
     deploy:
         environment:
             name: github-pages
