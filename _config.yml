@@ -7,8 +7,10 @@ timezone: UTC
 markdown: kramdown
 permalink: /item/:slug/
 include:
-  - .well-known
-  - ads.txt
+  - ".well-known"
+  - "ads.txt"
+exclude:
+  - "_python"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -16,8 +18,6 @@ feed:
   path: feed.xml
 paginate: 30
 paginate_path: /page:num/
-includes:
-  - "/.well-known/"
 webmentions:
   username: nuchronic.uk
   endpoint: https://webmention.io/nuchronic.uk/webmention
