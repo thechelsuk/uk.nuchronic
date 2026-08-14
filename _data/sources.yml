@@ -69,3 +69,5 @@ sources:
     feed_url: https://www.ktmy.co.uk/feed/
   - id: invisible-you
     feed_url: https://invisiblyme.com/feed/
+  - id: m-h-miller
+    feed_url: https://mhmiller.bearblog.dev/feed/
