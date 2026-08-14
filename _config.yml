@@ -16,6 +16,8 @@ feed:
   path: feed.xml
 paginate: 30
 paginate_path: /page:num/
+includes:
+  - "/.well-known/"
 webmentions:
   username: nuchronic.uk
   endpoint: https://webmention.io/nuchronic.uk/webmention
