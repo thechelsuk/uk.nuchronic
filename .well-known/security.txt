@@ -1,4 +1,10 @@
-Contact: https://github.com/thechelsuk/uk.thechels.chronicle/security/advisories/new
-Canonical: https://nuchronic.uk/.well-known/security.txt
+# Security
+
+Contact: https://github.com/thechelsuk/uk.nuchronic/security/advisories/new
+Contact: security@nuchronic.uk
+Encryption: https://thechels.uk/pgp
+
 Preferred-Languages: en
-Expires: 2027-04-15T00:00:00.000Z
+Canonical: /.well-known/security.txt
+
+Thank you for sharing responsibly
