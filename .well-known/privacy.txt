@@ -1,14 +1,25 @@
 ---
 layout: empty
-permalink: /.well-known/security.txt
+permalink: /.well-known/privacy.txt
 ---
 
-# Security
+# Privacy Policy
 
-Contact: security@nuchronic.uk
-Encryption: https://thechels.uk/pgp
+- Effective Date: 2023-10-01
 
-Preferred-Languages: en
-Canonical: /.well-known/security.txt
+1. Introduction
 
-Thank you for sharing responsibly
+- We value your privacy and are committed to protecting your personal data.
+This privacy policy outlines how we collect, use, and safeguard your information.
+
+2. Information We Collect
+
+- None
+
+3. How We Use Your Information
+
+- We don't
+
+4. Data Security
+
+- We implement appropriate security measures to protect your personal data from unauthorized access, alteration, disclosure, or destruction.
