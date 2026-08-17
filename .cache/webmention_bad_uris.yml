@@ -656,55 +656,63 @@ targets:
     resolved_url: https://despitepain.com/2026/08/07/when-doing-nothing-is-doing-something/
     reason: no-endpoint
     checked_at: '2026-08-14T10:28:34+00:00'
-  https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html:
-    resolved_url: https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:36+00:00'
-  ? https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
-  : resolved_url: https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:36+00:00'
-  https://www.youtube.com/watch?v=wKIAlN2jUUQ:
-    resolved_url: https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwKIAlN2jUUQ&q=EgQUf_WgGLSQg9QGIjCo2tSZuvyv0JhDLr45M13hwHtzoRcoKBDKedSe-lt-4a69AfbqZOjRaphht2ZAkwsyAnJSWgFD
-    reason: discovery-http-429
-    checked_at: '2026-08-15T20:12:37+00:00'
-  https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/:
-    resolved_url: https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:37+00:00'
-  https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/:
-    resolved_url: https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:40+00:00'
-  https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html:
-    resolved_url: https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:40+00:00'
-  https://livingwithmecfs.co.uk/2026/08/12/make-friends-when-chronically-ill/:
-    resolved_url: https://livingwithmecfs.co.uk/2026/08/12/make-friends-when-chronically-ill/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:43+00:00'
-  https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/:
-    resolved_url: https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:44+00:00'
-  https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/:
-    resolved_url: https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:44+00:00'
-  https://www.painscience.com/blog/prp-for-arthritic-knees.html:
-    resolved_url: https://www.painscience.com/blog/prp-for-arthritic-knees.html
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:44+00:00'
-  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
-    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:45+00:00'
-  https://www.throughthefibrofog.com/arugula-orzo-salad/:
-    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
-    reason: no-endpoint
-    checked_at: '2026-08-15T20:12:45+00:00'
   https://alishawhittam.com/me-pj-party-severe-me-day/:
     resolved_url: https://alishawhittam.com/me-pj-party-severe-me-day/
     reason: no-endpoint
     checked_at: '2026-08-15T20:12:45+00:00'
+  https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/:
+    resolved_url: https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:23+00:00'
+  https://www.eleanorsteinmd.ca/blog/deuterium-pt1:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-pt1
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:24+00:00'
+  https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html:
+    resolved_url: https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:25+00:00'
+  ? https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
+  : resolved_url: https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:40+00:00'
+  https://www.youtube.com/watch?v=wKIAlN2jUUQ:
+    resolved_url: https://www.youtube.com/watch?v=wKIAlN2jUUQ
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:40+00:00'
+  https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/:
+    resolved_url: https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:41+00:00'
+  https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/:
+    resolved_url: https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:43+00:00'
+  https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html:
+    resolved_url: https://www.painscience.com/blog/melatonin-is-not-a-painkiller.html
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:43+00:00'
+  https://livingwithmecfs.co.uk/2026/08/12/make-friends-when-chronically-ill/:
+    resolved_url: https://livingwithmecfs.co.uk/2026/08/12/make-friends-when-chronically-ill/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:54+00:00'
+  https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/:
+    resolved_url: https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:55+00:00'
+  https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/:
+    resolved_url: https://trialbyerror.org/2026/08/11/cfs-recovery-findings-might-be-suppressed-says-report/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:56+00:00'
+  https://www.painscience.com/blog/prp-for-arthritic-knees.html:
+    resolved_url: https://www.painscience.com/blog/prp-for-arthritic-knees.html
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:26:56+00:00'
+  https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/:
+    resolved_url: https://meassociation.org.uk/2026/08/forward-me-chair-shares-a-message-on-severe-me-day/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:27:01+00:00'
+  https://www.throughthefibrofog.com/arugula-orzo-salad/:
+    resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
+    reason: no-endpoint
+    checked_at: '2026-08-17T09:27:02+00:00'

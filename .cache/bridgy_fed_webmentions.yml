@@ -3792,7 +3792,31 @@ posts:
       updated_at: '2026-08-15T20:12:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-15T20:12:36+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-17T09:26:24+00:00'
+  treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyal-bb2ea8a82b:
+    source_url: https://nuchronic.uk/item/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyal-bb2ea8a82b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-17T09:26:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-17T09:26:22+00:00'
+      verified_targets:
+      - ap
+  why-deuterium-matters-a-secret-behind-energy-chronic-disease-and-cancer-part-1-o-7d70db6436:
+    source_url: https://nuchronic.uk/item/why-deuterium-matters-a-secret-behind-energy-chronic-disease-and-cancer-part-1-o-7d70db6436/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-17T09:26:24+00:00'
+      status: success
