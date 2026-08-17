@@ -1040,3 +1040,11 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/arugula-orzo-salad/
     endpoint: ''
     checked_at: '2026-08-17T09:27:02+00:00'
+  https://www.youtube.com/watch?v=lTMMLW_BZfs:
+    resolved_url: https://www.youtube.com/watch?v=lTMMLW_BZfs
+    endpoint: ''
+    checked_at: '2026-08-17T10:18:39+00:00'
+  https://meassociation.org.uk/2026/08/research-update-can-we-reach-consensus-on-me-cfs-research-criteria/:
+    resolved_url: https://meassociation.org.uk/2026/08/research-update-can-we-reach-consensus-on-me-cfs-research-criteria/
+    endpoint: ''
+    checked_at: '2026-08-17T10:18:45+00:00'
