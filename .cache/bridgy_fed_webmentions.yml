@@ -3858,10 +3858,12 @@ posts:
       updated_at: '2026-08-17T21:13:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-17T21:13:51+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-17T23:13:15+00:00'
   cyclospora-and-ibd-should-you-still-be-avoiding-fresh-produce-53c0efb884:
     source_url: https://nuchronic.uk/item/cyclospora-and-ibd-should-you-still-be-avoiding-fresh-produce-53c0efb884/
     bridgy:
@@ -3870,7 +3872,21 @@ posts:
       updated_at: '2026-08-17T21:13:56+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-17T21:13:56+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-17T23:13:15+00:00'
+  load-me-up-adding-weight-to-back-exercises-90s-4587bb2a17:
+    source_url: https://nuchronic.uk/item/load-me-up-adding-weight-to-back-exercises-90s-4587bb2a17/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-17T23:13:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-17T23:13:14+00:00'
       verified_targets:
       - ap
