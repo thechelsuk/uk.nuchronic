@@ -3886,7 +3886,21 @@ posts:
       updated_at: '2026-08-17T23:13:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-17T23:13:14+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-18T17:15:12+00:00'
+  10-salads-without-tomatoes-5f55b5d1b9:
+    source_url: https://nuchronic.uk/item/10-salads-without-tomatoes-5f55b5d1b9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-18T17:15:05+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-18T17:15:05+00:00'
       verified_targets:
       - ap
