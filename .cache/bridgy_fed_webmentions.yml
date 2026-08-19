@@ -3928,7 +3928,21 @@ posts:
       updated_at: '2026-08-19T16:17:17+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-19T16:17:17+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-19T21:14:34+00:00'
+  some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-h-646f9ab3ac:
+    source_url: https://nuchronic.uk/item/some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-h-646f9ab3ac/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-19T21:14:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-19T21:14:29+00:00'
       verified_targets:
       - ap
