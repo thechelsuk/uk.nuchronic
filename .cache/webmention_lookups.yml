@@ -1076,3 +1076,7 @@ targets:
   : resolved_url: https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
     endpoint: ''
     checked_at: '2026-08-19T21:14:29+00:00'
+  https://thechels.uk/cheltenham-open-data-2-0:
+    resolved_url: https://thechels.uk/cheltenham-open-data-2-0
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-08-19T22:14:19+00:00'

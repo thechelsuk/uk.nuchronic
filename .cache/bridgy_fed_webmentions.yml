@@ -3942,7 +3942,20 @@ posts:
       updated_at: '2026-08-19T21:14:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-19T21:14:29+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-19T22:14:19+00:00'
+  building-cheltenham-open-data-why-tools-beat-blog-posts-062575813e:
+    source_url: https://nuchronic.uk/item/building-cheltenham-open-data-why-tools-beat-blog-posts-062575813e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-19T22:14:18+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-19T22:14:18+00:00'
+      verified_targets: []
