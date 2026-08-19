@@ -1068,3 +1068,7 @@ targets:
     resolved_url: https://virology.ws/2026/08/11/trial-by-error-cfs-recovery-findings-might-be-suppressed-says-report/
     endpoint: ''
     checked_at: '2026-08-19T11:18:57+00:00'
+  ? https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+  : resolved_url: https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+    endpoint: ''
+    checked_at: '2026-08-19T16:17:18+00:00'
