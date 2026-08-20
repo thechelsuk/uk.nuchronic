@@ -3956,10 +3956,12 @@ posts:
       updated_at: '2026-08-20T07:25:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-20T07:25:34+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-20T13:27:28+00:00'
   severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206:
     source_url: https://nuchronic.uk/item/severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206/
     bridgy:
@@ -3968,7 +3970,21 @@ posts:
       updated_at: '2026-08-20T07:25:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-20T07:25:30+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-20T13:27:22+00:00'
+  weaknotes-2026-08-20-59f3c9baf9:
+    source_url: https://nuchronic.uk/item/weaknotes-2026-08-20-59f3c9baf9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-20T13:27:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-20T13:27:21+00:00'
       verified_targets:
       - ap

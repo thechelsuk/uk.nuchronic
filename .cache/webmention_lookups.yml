@@ -999,55 +999,55 @@ targets:
   https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/:
     resolved_url: https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:32+00:00'
+    checked_at: '2026-08-20T13:27:26+00:00'
   https://www.throughthefibrofog.com/salads-without-tomatoes/:
     resolved_url: https://www.throughthefibrofog.com/salads-without-tomatoes/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:34+00:00'
+    checked_at: '2026-08-20T13:27:28+00:00'
   https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/:
     resolved_url: https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:39+00:00'
+    checked_at: '2026-08-20T13:27:31+00:00'
   https://meassociation.org.uk/2026/08/research-update-can-we-reach-consensus-on-me-cfs-research-criteria/:
     resolved_url: https://meassociation.org.uk/2026/08/research-update-can-we-reach-consensus-on-me-cfs-research-criteria/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:42+00:00'
+    checked_at: '2026-08-20T13:27:36+00:00'
   https://www.youtube.com/watch?v=lTMMLW_BZfs:
     resolved_url: https://www.youtube.com/watch?v=lTMMLW_BZfs
     endpoint: ''
-    checked_at: '2026-08-20T07:25:42+00:00'
+    checked_at: '2026-08-20T13:27:36+00:00'
   https://www.painscience.com/blog/load-me-up-adding-weight-to-back-exercises.html:
     resolved_url: https://www.painscience.com/blog/load-me-up-adding-weight-to-back-exercises.html
     endpoint: ''
-    checked_at: '2026-08-20T07:25:42+00:00'
+    checked_at: '2026-08-20T13:27:36+00:00'
   https://www.healthrising.org/blog/2026/08/17/frayed-brain-connections-me-cfs/:
     resolved_url: https://www.healthrising.org/blog/2026/08/17/frayed-brain-connections-me-cfs/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:46+00:00'
+    checked_at: '2026-08-20T13:27:39+00:00'
   https://lightscameracrohns.com/2026/08/17/cyclospora-and-ibd-should-you-still-be-avoiding-fresh-produce/:
     resolved_url: https://lightscameracrohns.com/2026/08/17/cyclospora-and-ibd-should-you-still-be-avoiding-fresh-produce/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:46+00:00'
+    checked_at: '2026-08-20T13:27:39+00:00'
   https://www.eleanorsteinmd.ca/blog/deuterium-pt1:
     resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-pt1
     endpoint: ''
-    checked_at: '2026-08-20T07:25:46+00:00'
+    checked_at: '2026-08-20T13:27:40+00:00'
   https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html:
     resolved_url: https://www.painscience.com/blog/pain-reprocessing-therapy-follow-up.html
     endpoint: ''
-    checked_at: '2026-08-20T07:25:46+00:00'
+    checked_at: '2026-08-20T13:27:40+00:00'
   ? https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
   : resolved_url: https://meassociation.org.uk/2026/08/timms-review-workshops-disabled-people-invited-to-help-shape-future-pip-recommendations/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:50+00:00'
+    checked_at: '2026-08-20T13:27:44+00:00'
   https://www.youtube.com/watch?v=wKIAlN2jUUQ:
     resolved_url: https://www.youtube.com/watch?v=wKIAlN2jUUQ
     endpoint: ''
-    checked_at: '2026-08-20T07:25:50+00:00'
+    checked_at: '2026-08-20T13:27:44+00:00'
   https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/:
     resolved_url: https://mhmiller.bearblog.dev/how-having-crohns-has-affected-my-relationship-with-food-2/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:50+00:00'
+    checked_at: '2026-08-20T13:27:44+00:00'
   https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/:
     resolved_url: https://www.healthrising.org/blog/2026/08/12/fatigue-me-cfs-brain/
     endpoint: ''
@@ -1067,7 +1067,7 @@ targets:
   ? https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
   : resolved_url: https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:33+00:00'
+    checked_at: '2026-08-20T13:27:28+00:00'
   https://thechels.uk/cheltenham-open-data-2-0:
     resolved_url: https://thechels.uk/cheltenham-open-data-2-0
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -1079,8 +1079,12 @@ targets:
   https://www.youtube.com/watch?v=IG78C7Zj4Vw:
     resolved_url: https://www.youtube.com/watch?v=IG78C7Zj4Vw
     endpoint: ''
-    checked_at: '2026-08-20T07:25:31+00:00'
+    checked_at: '2026-08-20T13:27:22+00:00'
   ? https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
   : resolved_url: https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
     endpoint: ''
-    checked_at: '2026-08-20T07:25:32+00:00'
+    checked_at: '2026-08-20T13:27:27+00:00'
+  https://thechels.uk/weaknotes-2026-08-20:
+    resolved_url: https://thechels.uk/weaknotes-2026-08-20
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-08-20T13:27:21+00:00'
