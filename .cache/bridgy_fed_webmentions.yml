@@ -3953,9 +3953,22 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-08-19T22:14:18+00:00'
+      updated_at: '2026-08-20T07:25:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-08-19T22:14:18+00:00'
-      verified_targets: []
+      accepted_at: '2026-08-20T07:25:34+00:00'
+      verified_targets:
+      - ap
+  severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206:
+    source_url: https://nuchronic.uk/item/severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-20T07:25:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-20T07:25:30+00:00'
+      verified_targets:
+      - ap
