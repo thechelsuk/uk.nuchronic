@@ -4026,7 +4026,21 @@ posts:
       updated_at: '2026-08-22T08:13:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-22T08:13:51+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-22T09:14:29+00:00'
+  canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid-83c0213f76:
+    source_url: https://nuchronic.uk/item/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid-83c0213f76/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-22T09:14:28+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-22T09:14:28+00:00'
       verified_targets:
       - ap
