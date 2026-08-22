@@ -4012,7 +4012,21 @@ posts:
       updated_at: '2026-08-21T07:25:42+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-21T07:25:42+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-22T08:13:52+00:00'
+  trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-f-83c0213f76:
+    source_url: https://nuchronic.uk/item/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-f-83c0213f76/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-22T08:13:51+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-22T08:13:51+00:00'
       verified_targets:
       - ap
