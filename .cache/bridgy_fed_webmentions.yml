@@ -4054,7 +4054,21 @@ posts:
       updated_at: '2026-08-22T15:14:42+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-22T15:14:42+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-23T15:12:34+00:00'
+  when-your-body-says-no-but-your-diary-says-yes-76111446dc:
+    source_url: https://nuchronic.uk/item/when-your-body-says-no-but-your-diary-says-yes-76111446dc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-23T15:12:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-23T15:12:32+00:00'
       verified_targets:
       - ap
