@@ -71,3 +71,5 @@ sources:
     feed_url: https://invisiblyme.com/feed/
   - id: m-h-miller
     feed_url: https://mhmiller.bearblog.dev/feed/
+  - id: sicktimes
+    feed_url: https://thesicktimes.org/feed/
