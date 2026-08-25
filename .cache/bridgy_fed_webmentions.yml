@@ -4082,10 +4082,12 @@ posts:
       updated_at: '2026-08-25T13:24:15+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-25T13:24:15+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-25T15:27:20+00:00'
   tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs-e7e1a78863:
     source_url: https://nuchronic.uk/item/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs-e7e1a78863/
     bridgy:
@@ -4094,7 +4096,21 @@ posts:
       updated_at: '2026-08-25T13:24:16+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-25T13:24:16+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-25T15:27:19+00:00'
+  national-covid-19-trends-august-25-2af4394f88:
+    source_url: https://nuchronic.uk/item/national-covid-19-trends-august-25-2af4394f88/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-25T15:27:18+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-25T15:27:18+00:00'
       verified_targets:
       - ap

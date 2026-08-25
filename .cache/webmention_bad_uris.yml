@@ -788,3 +788,7 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/08/17/frayed-brain-connections-me-cfs/
     reason: no-endpoint
     checked_at: '2026-08-25T13:24:49+00:00'
+  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
+    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
+    reason: no-endpoint
+    checked_at: '2026-08-25T15:27:19+00:00'
