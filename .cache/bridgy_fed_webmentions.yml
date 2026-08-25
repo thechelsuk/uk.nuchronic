@@ -4110,7 +4110,21 @@ posts:
       updated_at: '2026-08-25T15:27:18+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-25T15:27:18+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-25T17:18:11+00:00'
+  help-the-sick-times-newsletter-reach-more-readers-6253a3231f:
+    source_url: https://nuchronic.uk/item/help-the-sick-times-newsletter-reach-more-readers-6253a3231f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-25T17:18:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-25T17:18:11+00:00'
       verified_targets:
       - ap

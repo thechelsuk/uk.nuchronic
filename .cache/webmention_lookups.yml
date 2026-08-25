@@ -1124,3 +1124,7 @@ targets:
     resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
     endpoint: ''
     checked_at: '2026-08-25T15:27:19+00:00'
+  https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
+    resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
+    endpoint: ''
+    checked_at: '2026-08-25T17:18:11+00:00'
