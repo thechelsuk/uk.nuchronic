@@ -2952,11 +2952,23 @@ update-uk-me-cfs-biobank-steering-group-june-meeting-3916a4e382:
   mentions: []
 pseudoscience-is-like-porn-you-know-it-when-you-see-it-1m-6394ad3b59:
   target: https://nuchronic.uk/item/pseudoscience-is-like-porn-you-know-it-when-you-see-it-1m-6394ad3b59/
-  count: 0
-  types: {}
+  count: 1
+  types:
+    repost: 1
   replies: []
   likes: []
-  reposts: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117156375032098433/activity
+    published: '2026-08-25T13:26:53+00:00'
+    property: repost-of
+    content_text: "Shared Pseudoscience is like porn: you know it when you see it\
+      \ [1m] by   \n    Nuchronic\n    \n    \n  \nIt’s a fun comparison, but you\
+      \ can only know pseudoscience when you see it if you have enough relevant expertise\
+      \ . You have to actually know things about gen…\nContinue reading at painscience.com.\n\
+      painscience.com"
   mentions: []
 severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206:
   target: https://nuchronic.uk/item/severe-me-cfs-juan-corlett-speaks-to-manx-radio-ed0e410206/
@@ -2973,6 +2985,26 @@ weaknotes-2026-08-20-59f3c9baf9:
   replies: []
   likes: []
   reposts: []
+  mentions: []
+hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers-fb0a86a90b:
+  target: https://nuchronic.uk/item/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers-fb0a86a90b/
+  count: 1
+  types:
+    repost: 1
+  replies: []
+  likes: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117156373957245009/activity
+    published: '2026-08-25T13:26:37+00:00'
+    property: repost-of
+    content_text: "Shared “Hope to outlast the storm”: How severe ME impacts two brothers\
+      \ by   \n    Nuchronic\n    \n    \n  \nEssays documenting the toll that myalgic\
+      \ encephalomyelitis (ME) has taken on one family, from the new book, ‘What Is\
+      \ Myalgic Encephalomyelitis Like?’ The pos…\nContinue reading at thesicktimes.org.\n\
+      thesicktimes.org"
   mentions: []
 itv-news-me-cfs-ambulatory-wheelchair-user-f8168bea30:
   target: https://nuchronic.uk/item/itv-news-me-cfs-ambulatory-wheelchair-user-f8168bea30/
@@ -2992,11 +3024,22 @@ canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid-8
   mentions: []
 how-to-explain-me-cfs-to-other-people-a1092a21b6:
   target: https://nuchronic.uk/item/how-to-explain-me-cfs-to-other-people-a1092a21b6/
-  count: 0
-  types: {}
+  count: 1
+  types:
+    repost: 1
   replies: []
   likes: []
-  reposts: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117156374195310704/activity
+    published: '2026-08-25T13:26:41+00:00'
+    property: repost-of
+    content_text: "Shared How to explain ME/CFS to other people by   \n    Nuchronic\n\
+      \    \n    \n  \nAfter 18 years of explaining ME/CFS to others, I know what\
+      \ works. Here’s exactly what to say, how to communicate it and the scientific\
+      \ studies I use to silen…\nContinue reading at livingwithmecfs.co.uk.\nlivingwithmecfs.co.uk"
   mentions: []
 trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-f-83c0213f76:
   target: https://nuchronic.uk/item/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-f-83c0213f76/
@@ -3008,9 +3051,40 @@ trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-f
   mentions: []
 when-your-body-says-no-but-your-diary-says-yes-76111446dc:
   target: https://nuchronic.uk/item/when-your-body-says-no-but-your-diary-says-yes-76111446dc/
-  count: 0
-  types: {}
+  count: 1
+  types:
+    repost: 1
   replies: []
   likes: []
-  reposts: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117156374086933152/activity
+    published: '2026-08-25T13:26:39+00:00'
+    property: repost-of
+    content_text: "Shared When Your Body Says No, But Your Diary Says Yes by   \n\
+      \    Nuchronic\n    \n    \n  \nSometimes, our bodies say “no, not today.” But\
+      \ out of necessity, or even choice, we sometimes need to override the off switch.\
+      \ Unfortunately, that doesn’t sw…\nContinue reading at despitepain.com.\ndespitepain.com"
+  mentions: []
+tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs-e7e1a78863:
+  target: https://nuchronic.uk/item/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs-e7e1a78863/
+  count: 1
+  types:
+    repost: 1
+  replies: []
+  likes: []
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117156373774688479/activity
+    published: '2026-08-25T13:26:34+00:00'
+    property: repost-of
+    content_text: "Shared Tessa Munt MP writes to new Minister for Health Innovation\
+      \ about ME/CFS by   \n    Nuchronic\n    \n    \n  \nTessa Munt ©House of Commons/Roger\
+      \ Harris, cropped and shared under […] The post Tessa Munt MP writes to new\
+      \ Minister for Health Innovation about ME/CFS appe…\nContinue reading at meassociation.org.uk.\n\
+      meassociation.org.uk"
   mentions: []
