@@ -4152,7 +4152,20 @@ posts:
       updated_at: '2026-08-26T15:57:18+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-26T15:57:18+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-26T20:58:44+00:00'
+  inside-a-cpad-assessment-when-an-insurer-tests-your-ability-to-work-with-me-528c104b1c:
+    source_url: https://nuchronic.uk/item/inside-a-cpad-assessment-when-an-insurer-tests-your-ability-to-work-with-me-528c104b1c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-26T20:58:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-26T20:58:43+00:00'
+      verified_targets: []
