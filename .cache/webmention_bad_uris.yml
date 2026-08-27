@@ -732,70 +732,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/research-update-can-we-reach-consensus-on-me-cfs-research-criteria/
     reason: no-endpoint
     checked_at: '2026-08-25T22:15:21+00:00'
-  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
-    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:20+00:00'
-  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:21+00:00'
-  https://www.painscience.com/blog/reverse-referral.html:
-    resolved_url: https://www.painscience.com/blog/reverse-referral.html
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:21+00:00'
-  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
-    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:22+00:00'
-  https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
-    resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:24+00:00'
-  https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/:
-    resolved_url: https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:25+00:00'
-  ? https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-  : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:26+00:00'
-  https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/:
-    resolved_url: https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:36+00:00'
-  https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/:
-    resolved_url: https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:36+00:00'
-  https://www.youtube.com/watch?v=_kYpNojX3es:
-    resolved_url: https://www.youtube.com/watch?v=_kYpNojX3es
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:37+00:00'
-  https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/:
-    resolved_url: https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:39+00:00'
-  https://www.youtube.com/watch?v=IG78C7Zj4Vw:
-    resolved_url: https://www.youtube.com/watch?v=IG78C7Zj4Vw
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:39+00:00'
-  https://www.painscience.com/blog/pseudoscience-is-like-porn--you-know-it-when-you-see-it.html:
-    resolved_url: https://www.painscience.com/blog/pseudoscience-is-like-porn--you-know-it-when-you-see-it.html
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:39+00:00'
-  https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/:
-    resolved_url: https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:40+00:00'
-  ? https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
-  : resolved_url: https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:41+00:00'
-  ? https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
-  : resolved_url: https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
-    reason: no-endpoint
-    checked_at: '2026-08-26T15:57:41+00:00'
   https://www.throughthefibrofog.com/salads-without-tomatoes/:
     resolved_url: https://www.throughthefibrofog.com/salads-without-tomatoes/
     reason: no-endpoint
@@ -804,3 +740,71 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/treatment-clinical-trials-into-the-use-of-ldn-in-me-cfs-long-covid-and-fibromyalgia/
     reason: no-endpoint
     checked_at: '2026-08-26T15:57:42+00:00'
+  https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
+    resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:00+00:00'
+  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
+    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:12+00:00'
+  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:18+00:00'
+  https://www.painscience.com/blog/reverse-referral.html:
+    resolved_url: https://www.painscience.com/blog/reverse-referral.html
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:18+00:00'
+  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
+    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:19+00:00'
+  https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
+    resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:21+00:00'
+  https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/:
+    resolved_url: https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:22+00:00'
+  ? https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+  : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:23+00:00'
+  https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/:
+    resolved_url: https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/
+    reason: discovery-http-401
+    checked_at: '2026-08-27T14:48:23+00:00'
+  https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/:
+    resolved_url: https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:24+00:00'
+  https://www.youtube.com/watch?v=_kYpNojX3es:
+    resolved_url: https://www.youtube.com/watch?v=_kYpNojX3es
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:24+00:00'
+  https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/:
+    resolved_url: https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:24+00:00'
+  https://www.youtube.com/watch?v=IG78C7Zj4Vw:
+    resolved_url: https://www.youtube.com/watch?v=IG78C7Zj4Vw
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:24+00:00'
+  https://www.painscience.com/blog/pseudoscience-is-like-porn--you-know-it-when-you-see-it.html:
+    resolved_url: https://www.painscience.com/blog/pseudoscience-is-like-porn--you-know-it-when-you-see-it.html
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:24+00:00'
+  https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/:
+    resolved_url: https://meassociation.org.uk/2026/08/update-uk-me-cfs-biobank-steering-group-june-meeting/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:28+00:00'
+  ? https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+  : resolved_url: https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:29+00:00'
+  ? https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+  : resolved_url: https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
+    reason: no-endpoint
+    checked_at: '2026-08-27T14:48:29+00:00'
