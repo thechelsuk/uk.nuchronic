@@ -4166,10 +4166,12 @@ posts:
       updated_at: '2026-08-27T14:48:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-27T14:48:01+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-08-27T22:27:53+00:00'
   all-party-parliamentary-group-on-myalgic-encephalomyelitis-ea89cc52e4:
     source_url: https://nuchronic.uk/item/all-party-parliamentary-group-on-myalgic-encephalomyelitis-ea89cc52e4/
     bridgy:
@@ -4178,7 +4180,21 @@ posts:
       updated_at: '2026-08-27T14:47:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-27T14:47:59+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-27T22:27:52+00:00'
+  is-a-weakened-fight-flight-system-causing-me-cfs-and-long-covid-part-ii-b02f1ce3b2:
+    source_url: https://nuchronic.uk/item/is-a-weakened-fight-flight-system-causing-me-cfs-and-long-covid-part-ii-b02f1ce3b2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-27T22:27:50+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-27T22:27:50+00:00'
       verified_targets:
       - ap
