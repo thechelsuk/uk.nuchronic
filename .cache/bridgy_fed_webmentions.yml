@@ -4208,7 +4208,57 @@ posts:
       updated_at: '2026-08-28T12:03:56+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-28T12:03:56+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-28T16:21:09+00:00'
+  inside-a-cpad-assessment-ii-when-an-insurer-tests-your-ability-to-work-with-me-f91dae9f57:
+    source_url: https://nuchronic.uk/item/inside-a-cpad-assessment-ii-when-an-insurer-tests-your-ability-to-work-with-me-f91dae9f57/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-28T16:21:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-28T16:21:02+00:00'
+      verified_targets:
+      - ap
+  were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-wom-6dd4cc4f5e:
+    source_url: https://nuchronic.uk/item/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-wom-6dd4cc4f5e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-28T16:21:03+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-28T16:21:03+00:00'
+      verified_targets:
+      - ap
+  what-is-means-to-be-wellthy-9ed280b827:
+    source_url: https://nuchronic.uk/item/what-is-means-to-be-wellthy-9ed280b827/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-28T16:21:06+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-28T16:21:06+00:00'
+      verified_targets:
+      - ap
+  what-is-the-relationship-between-deuterium-and-cancer-energy-and-chronic-disease-00baef4a33:
+    source_url: https://nuchronic.uk/item/what-is-the-relationship-between-deuterium-and-cancer-energy-and-chronic-disease-00baef4a33/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-28T16:21:08+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-28T16:21:08+00:00'
       verified_targets:
       - ap

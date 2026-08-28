@@ -816,3 +816,15 @@ targets:
   : resolved_url: https://virology.ws/2026/08/19/trial-by-error-some-things-ive-recently-read-ponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
     reason: no-endpoint
     checked_at: '2026-08-28T12:04:37+00:00'
+  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-08-28T16:21:05+00:00'
+  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
+    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
+    reason: no-endpoint
+    checked_at: '2026-08-28T16:21:07+00:00'
+  https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
+    reason: no-endpoint
+    checked_at: '2026-08-28T16:21:08+00:00'
