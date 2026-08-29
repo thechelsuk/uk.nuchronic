@@ -1076,66 +1076,6 @@ targets:
   : resolved_url: https://trialbyerror.org/2026/08/19/some-things-ive-recently-readponting-on-bps-viral-reactivation-and-me-cfs-and-hiv-aids/
     endpoint: ''
     checked_at: '2026-08-27T22:28:05+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-08-28T12:03:56+00:00'
-  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
-    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
-    endpoint: ''
-    checked_at: '2026-08-28T12:03:59+00:00'
-  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:01+00:00'
-  https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
-    resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:05+00:00'
-  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
-    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:08+00:00'
-  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:13+00:00'
-  https://www.painscience.com/blog/reverse-referral.html:
-    resolved_url: https://www.painscience.com/blog/reverse-referral.html
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:13+00:00'
-  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
-    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:14+00:00'
-  https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
-    resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:14+00:00'
-  https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/:
-    resolved_url: https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:16+00:00'
-  ? https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-  : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:16+00:00'
-  https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/:
-    resolved_url: https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:25+00:00'
-  https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/:
-    resolved_url: https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:25+00:00'
-  https://www.youtube.com/watch?v=_kYpNojX3es:
-    resolved_url: https://www.youtube.com/watch?v=_kYpNojX3es
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:25+00:00'
-  https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/:
-    resolved_url: https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/
-    endpoint: ''
-    checked_at: '2026-08-28T12:04:27+00:00'
   https://www.youtube.com/watch?v=IG78C7Zj4Vw:
     resolved_url: https://www.youtube.com/watch?v=IG78C7Zj4Vw
     endpoint: ''
@@ -1156,15 +1096,79 @@ targets:
     resolved_url: https://thechels.uk/ME-what-actually-happens-in-a-CPAD-assessment-part-two
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-08-28T16:21:02+00:00'
-  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-    endpoint: ''
-    checked_at: '2026-08-28T16:21:05+00:00'
-  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
-    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
-    endpoint: ''
-    checked_at: '2026-08-28T16:21:07+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-08-29T15:17:52+00:00'
+  https://achronicvoice.com/september-writing-prompts-chronic-illness-disabilities-2026/:
+    resolved_url: https://achronicvoice.com/september-writing-prompts-chronic-illness-disabilities-2026/
+    endpoint: https://achronicvoice.com/webmentions/receive/
+    checked_at: '2026-08-29T15:17:52+00:00'
   https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
     resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
     endpoint: ''
-    checked_at: '2026-08-28T16:21:08+00:00'
+    checked_at: '2026-08-29T15:17:53+00:00'
+  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
+    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
+    endpoint: ''
+    checked_at: '2026-08-29T15:17:55+00:00'
+  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+    endpoint: ''
+    checked_at: '2026-08-29T15:17:55+00:00'
+  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
+    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
+    endpoint: ''
+    checked_at: '2026-08-29T15:17:56+00:00'
+  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
+    endpoint: ''
+    checked_at: '2026-08-29T15:17:58+00:00'
+  https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
+    resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
+    endpoint: ''
+    checked_at: '2026-08-29T15:17:59+00:00'
+  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
+    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:02+00:00'
+  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:04+00:00'
+  https://www.painscience.com/blog/reverse-referral.html:
+    resolved_url: https://www.painscience.com/blog/reverse-referral.html
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:05+00:00'
+  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
+    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:07+00:00'
+  https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
+    resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:09+00:00'
+  https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/:
+    resolved_url: https://despitepain.com/2026/08/23/when-your-body-says-no-your-diary-says-yes/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:09+00:00'
+  ? https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+  : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:09+00:00'
+  https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/:
+    resolved_url: https://livingwithmecfs.co.uk/2026/08/22/how-to-explain-me-cfs-to-others/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:16+00:00'
+  https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/:
+    resolved_url: https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:17+00:00'
+  https://www.youtube.com/watch?v=_kYpNojX3es:
+    resolved_url: https://www.youtube.com/watch?v=_kYpNojX3es
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:17+00:00'
+  https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/:
+    resolved_url: https://thesicktimes.org/2026/08/21/hope-to-outlast-the-storm-how-severe-me-impacts-two-brothers/
+    endpoint: ''
+    checked_at: '2026-08-29T15:18:19+00:00'
