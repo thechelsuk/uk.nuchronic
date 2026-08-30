@@ -4278,7 +4278,21 @@ posts:
       updated_at: '2026-08-29T15:17:52+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-29T15:17:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-30T07:21:40+00:00'
+  bbc-radio-bristol-naomi-whittingham-naomi-2015-c936145764:
+    source_url: https://nuchronic.uk/item/bbc-radio-bristol-naomi-whittingham-naomi-2015-c936145764/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-30T07:21:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-30T07:21:39+00:00'
       verified_targets:
       - ap
