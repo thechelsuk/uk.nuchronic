@@ -4306,7 +4306,21 @@ posts:
       updated_at: '2026-08-30T23:18:06+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-08-30T23:18:06+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-08-31T07:32:54+00:00'
+  from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd-7e441e30b9:
+    source_url: https://nuchronic.uk/item/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd-7e441e30b9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-08-31T07:32:53+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-08-31T07:32:54+00:00'
       verified_targets:
       - ap
