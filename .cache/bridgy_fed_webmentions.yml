@@ -4404,7 +4404,21 @@ posts:
       updated_at: '2026-09-02T17:50:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-02T17:50:28+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-02T20:55:24+00:00'
+  patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction-15cf100d50:
+    source_url: https://nuchronic.uk/item/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction-15cf100d50/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-02T20:55:23+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-02T20:55:23+00:00'
       verified_targets:
       - ap

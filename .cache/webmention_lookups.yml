@@ -1132,10 +1132,6 @@ targets:
   : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
     endpoint: ''
     checked_at: '2026-09-01T13:27:16+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-02T08:43:43+00:00'
   https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
     resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
     endpoint: ''
@@ -1203,8 +1199,16 @@ targets:
   https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
     resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
     endpoint: ''
-    checked_at: '2026-09-02T13:33:32+00:00'
+    checked_at: '2026-09-02T20:55:25+00:00'
   ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
   : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
     endpoint: ''
     checked_at: '2026-09-02T17:50:29+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-02T20:55:23+00:00'
+  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    endpoint: ''
+    checked_at: '2026-09-02T20:55:24+00:00'

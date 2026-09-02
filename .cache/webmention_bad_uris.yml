@@ -796,10 +796,6 @@ targets:
     resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
     reason: no-endpoint
     checked_at: '2026-09-02T08:43:59+00:00'
-  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
-    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-02T13:33:32+00:00'
   ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
   : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
     reason: no-endpoint
@@ -860,3 +856,11 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
     reason: no-endpoint
     checked_at: '2026-09-02T17:50:43+00:00'
+  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    reason: no-endpoint
+    checked_at: '2026-09-02T20:55:24+00:00'
+  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-02T20:55:25+00:00'
