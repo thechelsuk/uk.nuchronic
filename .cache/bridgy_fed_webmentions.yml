@@ -4348,10 +4348,12 @@ posts:
       updated_at: '2026-09-01T17:52:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-01T17:52:22+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-02T08:43:47+00:00'
   the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away-23b830e7c6:
     source_url: https://nuchronic.uk/item/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away-23b830e7c6/
     bridgy:
@@ -4360,7 +4362,21 @@ posts:
       updated_at: '2026-09-01T17:52:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-01T17:52:23+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-02T08:43:45+00:00'
+  trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinctio-15cf100d50:
+    source_url: https://nuchronic.uk/item/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinctio-15cf100d50/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-02T08:43:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-02T08:43:43+00:00'
       verified_targets:
       - ap

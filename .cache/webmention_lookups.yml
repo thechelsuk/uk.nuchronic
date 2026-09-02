@@ -1120,62 +1120,6 @@ targets:
     resolved_url: https://trialbyerror.org/2026/08/22/canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
     endpoint: ''
     checked_at: '2026-08-30T23:18:39+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-01T13:26:42+00:00'
-  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
-    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:43+00:00'
-  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
-    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:44+00:00'
-  https://www.youtube.com/watch?v=GWqlJTxwGxA:
-    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:44+00:00'
-  https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:45+00:00'
-  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
-    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:47+00:00'
-  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:47+00:00'
-  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
-    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:51+00:00'
-  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
-    endpoint: ''
-    checked_at: '2026-09-01T13:26:53+00:00'
-  https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
-    resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
-    endpoint: ''
-    checked_at: '2026-09-01T13:27:04+00:00'
-  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
-    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
-    endpoint: ''
-    checked_at: '2026-09-01T13:27:09+00:00'
-  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
-    endpoint: ''
-    checked_at: '2026-09-01T13:27:13+00:00'
-  https://www.painscience.com/blog/reverse-referral.html:
-    resolved_url: https://www.painscience.com/blog/reverse-referral.html
-    endpoint: ''
-    checked_at: '2026-09-01T13:27:13+00:00'
-  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
-    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
-    endpoint: ''
-    checked_at: '2026-09-01T13:27:13+00:00'
   https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/:
     resolved_url: https://thesicktimes.org/2026/08/25/help-the-sick-times-newsletter-reach-more-readers/
     endpoint: ''
@@ -1188,11 +1132,71 @@ targets:
   : resolved_url: https://virology.ws/2026/08/22/trial-by-error-canadas-mcmaster-university-launches-trial-of-lightning-process-for-long-covid/
     endpoint: ''
     checked_at: '2026-09-01T13:27:16+00:00'
-  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
-    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-02T08:43:43+00:00'
+  https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
     endpoint: ''
-    checked_at: '2026-09-01T17:52:22+00:00'
+    checked_at: '2026-09-02T08:43:44+00:00'
+  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
+    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:45+00:00'
   https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/:
     resolved_url: https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/
     endpoint: ''
-    checked_at: '2026-09-01T17:52:25+00:00'
+    checked_at: '2026-09-02T08:43:46+00:00'
+  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
+    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:48+00:00'
+  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
+    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:48+00:00'
+  https://www.youtube.com/watch?v=GWqlJTxwGxA:
+    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:49+00:00'
+  https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:49+00:00'
+  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
+    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:50+00:00'
+  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:51+00:00'
+  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
+    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:52+00:00'
+  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:54+00:00'
+  https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
+    resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:55+00:00'
+  https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/:
+    resolved_url: https://meassociation.org.uk/2026/08/differential-diagnosis-of-me-cfs-prolactinoma/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:56+00:00'
+  https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:57+00:00'
+  https://www.painscience.com/blog/reverse-referral.html:
+    resolved_url: https://www.painscience.com/blog/reverse-referral.html
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:57+00:00'
+  https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/:
+    resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
+    endpoint: ''
+    checked_at: '2026-09-02T08:43:59+00:00'
