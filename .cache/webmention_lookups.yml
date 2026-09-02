@@ -1200,3 +1200,7 @@ targets:
     resolved_url: https://thesicktimes.org/2026/08/25/national-covid-19-trends-august-25/
     endpoint: ''
     checked_at: '2026-09-02T08:43:59+00:00'
+  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
+    endpoint: ''
+    checked_at: '2026-09-02T13:33:32+00:00'
