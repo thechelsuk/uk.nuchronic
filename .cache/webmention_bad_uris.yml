@@ -804,71 +804,75 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/08/tessa-munt-mp-writes-to-new-minister-for-health-innovation-about-me-cfs/
     reason: no-endpoint
     checked_at: '2026-09-02T17:50:43+00:00'
-  https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/:
-    resolved_url: https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:16+00:00'
-  https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:17+00:00'
-  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:17+00:00'
-  ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
-  : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:18+00:00'
-  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
-    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:20+00:00'
-  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
-    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:21+00:00'
-  https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/:
-    resolved_url: https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:22+00:00'
-  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
-    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:22+00:00'
-  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
-    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:23+00:00'
-  https://www.youtube.com/watch?v=GWqlJTxwGxA:
-    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:23+00:00'
-  https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:24+00:00'
-  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
-    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:25+00:00'
-  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:27+00:00'
-  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
-    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:28+00:00'
-  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-03T08:53:30+00:00'
   https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/:
     resolved_url: https://meassociation.org.uk/2026/08/all-party-parliamentary-group-on-myalgic-encephalomyelitis/
     reason: no-endpoint
     checked_at: '2026-09-03T08:53:32+00:00'
+  https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:43+00:00'
+  https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/:
+    resolved_url: https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:45+00:00'
   https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/:
     resolved_url: https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/
     reason: no-endpoint
-    checked_at: '2026-09-03T13:30:22+00:00'
+    checked_at: '2026-09-03T20:53:46+00:00'
+  https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:46+00:00'
+  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:47+00:00'
+  ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
+  : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:48+00:00'
+  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:49+00:00'
+  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
+    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:49+00:00'
+  https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/:
+    resolved_url: https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:50+00:00'
+  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
+    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:51+00:00'
+  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
+    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:51+00:00'
+  https://www.youtube.com/watch?v=GWqlJTxwGxA:
+    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:51+00:00'
+  https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:52+00:00'
+  https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html:
+    resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:54+00:00'
+  ? https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+  : resolved_url: https://thesicktimes.org/2026/08/28/were-going-to-stop-the-gaslighting-right-now-how-im-fighting-back-as-a-black-woman-with-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:54+00:00'
+  https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/:
+    resolved_url: https://meassociation.org.uk/2026/08/h4me-bulletin-epsom-and-st-helier-me-cfs-service-to-reopen-to-new-referrals/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:55+00:00'
+  https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/08/27/fight-flight-me-cfs-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-03T20:53:58+00:00'
