@@ -4432,7 +4432,21 @@ posts:
       updated_at: '2026-09-03T08:53:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-03T08:53:15+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-03T13:30:22+00:00'
+  a-viral-trigger-for-cholera-903ca90de1:
+    source_url: https://nuchronic.uk/item/a-viral-trigger-for-cholera-903ca90de1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-03T13:30:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-03T13:30:22+00:00'
       verified_targets:
       - ap
