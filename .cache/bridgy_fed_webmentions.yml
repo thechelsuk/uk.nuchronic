@@ -4418,7 +4418,21 @@ posts:
       updated_at: '2026-09-02T20:55:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-02T20:55:23+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-03T08:53:17+00:00'
+  british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-rep-08103df3aa:
+    source_url: https://nuchronic.uk/item/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-rep-08103df3aa/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-03T08:53:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-03T08:53:15+00:00'
       verified_targets:
       - ap
