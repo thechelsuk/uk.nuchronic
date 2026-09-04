@@ -4474,7 +4474,21 @@ posts:
       updated_at: '2026-09-04T13:25:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-04T13:25:01+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-04T17:33:02+00:00'
+  park-foot-d1638e6fff:
+    source_url: https://nuchronic.uk/item/park-foot-d1638e6fff/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-04T17:32:59+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-04T17:32:59+00:00'
       verified_targets:
       - ap
