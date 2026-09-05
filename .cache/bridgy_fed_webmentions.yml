@@ -4502,7 +4502,21 @@ posts:
       updated_at: '2026-09-05T10:26:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-05T10:26:04+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-05T16:44:08+00:00'
+  people-ask-me-how-to-live-with-chronic-illness-my-personal-approaches-df4dcc02ca:
+    source_url: https://nuchronic.uk/item/people-ask-me-how-to-live-with-chronic-illness-my-personal-approaches-df4dcc02ca/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-05T16:44:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-05T16:44:07+00:00'
       verified_targets:
       - ap
