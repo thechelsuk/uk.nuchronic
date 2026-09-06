@@ -824,75 +824,79 @@ targets:
     resolved_url: https://www.joyfullywellthy.com/2026/08/what-is-means-to-be-wellthy.html
     reason: no-endpoint
     checked_at: '2026-09-05T16:44:25+00:00'
-  https://www.painscience.com/blog/arnica-corrections.html:
-    resolved_url: https://www.painscience.com/blog/arnica-corrections.html
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:19+00:00'
-  https://www.youtube.com/watch?v=bp_n8SeWZgM:
-    resolved_url: https://www.youtube.com/watch?v=bp_n8SeWZgM
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:19+00:00'
-  https://alishawhittam.com/park-foot/:
-    resolved_url: https://alishawhittam.com/park-foot/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:22+00:00'
-  https://meassociation.org.uk/2026/09/new-research-into-shared-biological-mechanisms-of-me-cfs-and-other-illnesses/:
-    resolved_url: https://meassociation.org.uk/2026/09/new-research-into-shared-biological-mechanisms-of-me-cfs-and-other-illnesses/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:23+00:00'
-  https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:25+00:00'
-  https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/:
-    resolved_url: https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:26+00:00'
-  https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/:
-    resolved_url: https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:27+00:00'
-  https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:27+00:00'
-  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:28+00:00'
-  ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
-  : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:31+00:00'
-  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
-    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:34+00:00'
-  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
-    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:35+00:00'
-  https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/:
-    resolved_url: https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:51+00:00'
-  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
-    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:51+00:00'
-  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
-    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:51+00:00'
-  https://www.youtube.com/watch?v=GWqlJTxwGxA:
-    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
-    reason: no-endpoint
-    checked_at: '2026-09-06T10:44:51+00:00'
   https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease:
     resolved_url: https://www.eleanorsteinmd.ca/blog/deuterium-chronic-disease
     reason: no-endpoint
     checked_at: '2026-09-06T10:44:52+00:00'
+  https://trialbyerror.org/2026/09/06/newly-knighted-anil-van-der-zee-discusses-his-royal-honor/:
+    resolved_url: https://trialbyerror.org/2026/09/06/newly-knighted-anil-van-der-zee-discusses-his-royal-honor/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:19+00:00'
   https://virology.ws/2026/09/06/trial-by-error-newly-knighted-anil-van-der-zee-discusses-his-royal-honor/:
     resolved_url: https://virology.ws/2026/09/06/trial-by-error-newly-knighted-anil-van-der-zee-discusses-his-royal-honor/
     reason: no-endpoint
-    checked_at: '2026-09-06T14:05:07+00:00'
+    checked_at: '2026-09-06T21:13:20+00:00'
+  https://www.youtube.com/watch?v=bp_n8SeWZgM:
+    resolved_url: https://www.youtube.com/watch?v=bp_n8SeWZgM
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:20+00:00'
+  https://www.painscience.com/blog/arnica-corrections.html:
+    resolved_url: https://www.painscience.com/blog/arnica-corrections.html
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:20+00:00'
+  https://alishawhittam.com/park-foot/:
+    resolved_url: https://alishawhittam.com/park-foot/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:23+00:00'
+  https://meassociation.org.uk/2026/09/new-research-into-shared-biological-mechanisms-of-me-cfs-and-other-illnesses/:
+    resolved_url: https://meassociation.org.uk/2026/09/new-research-into-shared-biological-mechanisms-of-me-cfs-and-other-illnesses/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:27+00:00'
+  https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/03/younger-neuroinflammation-brain-hub-me-cfs-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:29+00:00'
+  https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/:
+    resolved_url: https://meassociation.org.uk/2026/09/british-association-of-clinicians-in-me-cfs-bacme-me-cfs-tube-feeding-survey-report/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:34+00:00'
+  https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/:
+    resolved_url: https://virology.ws/2026/09/03/a-viral-trigger-for-cholera/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:35+00:00'
+  https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://virology.ws/2026/09/02/trial-by-error-patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:35+00:00'
+  https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://trialbyerror.org/2026/09/02/patient-advocate-anil-van-der-zee-receives-dutch-royal-distinction/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:35+00:00'
+  ? https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
+  : resolved_url: https://meassociation.org.uk/2026/09/nature-when-do-infections-lead-to-long-covid-scientists-close-in-on-triggers-and-treatments-for-post-viral-syndromes/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:41+00:00'
+  https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/09/antiviral-covid-19-medication-shows-no-benefit-for-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:45+00:00'
+  https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/:
+    resolved_url: https://despitepain.com/2026/09/01/whats-it-like-to-live-with-pain-with-a-capital-p/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:46+00:00'
+  https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/:
+    resolved_url: https://meassociation.org.uk/2026/09/the-guardian-obituary-professor-jo-cambridge-me-cfs-researcher-has-passed-away/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:54+00:00'
+  https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/:
+    resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:54+00:00'
+  https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/:
+    resolved_url: https://lightscameracrohns.com/2026/08/31/from-memory-to-meaning-how-mirae-is-changing-the-way-we-manage-ibd/
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:55+00:00'
+  https://www.youtube.com/watch?v=GWqlJTxwGxA:
+    resolved_url: https://www.youtube.com/watch?v=GWqlJTxwGxA
+    reason: no-endpoint
+    checked_at: '2026-09-06T21:13:55+00:00'
