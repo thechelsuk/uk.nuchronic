@@ -4558,7 +4558,33 @@ posts:
       updated_at: '2026-09-06T21:13:18+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-06T21:13:19+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-07T15:44:15+00:00'
+  robert-lee-hiking-the-camino-de-santiago-for-the-me-association-76860ebfac:
+    source_url: https://nuchronic.uk/item/robert-lee-hiking-the-camino-de-santiago-for-the-me-association-76860ebfac/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-07T15:44:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-07T15:44:07+00:00'
+      verified_targets:
+      - ap
+  vital-red-light-led-light-therapy-device-review-10-off-discount-code-aae51ccd0c:
+    source_url: https://nuchronic.uk/item/vital-red-light-led-light-therapy-device-review-10-off-discount-code-aae51ccd0c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-07T15:44:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-07T15:44:14+00:00'
       verified_targets:
       - ap
