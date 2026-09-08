@@ -4572,10 +4572,12 @@ posts:
       updated_at: '2026-09-07T15:44:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-07T15:44:07+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-08T11:04:26+00:00'
   vital-red-light-led-light-therapy-device-review-10-off-discount-code-aae51ccd0c:
     source_url: https://nuchronic.uk/item/vital-red-light-led-light-therapy-device-review-10-off-discount-code-aae51ccd0c/
     bridgy:
@@ -4584,7 +4586,21 @@ posts:
       updated_at: '2026-09-07T15:44:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-07T15:44:14+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-08T11:04:26+00:00'
+  purpl-passes-100-000-members-as-disability-discount-platform-continues-to-grow-28a89f6ccb:
+    source_url: https://nuchronic.uk/item/purpl-passes-100-000-members-as-disability-discount-platform-continues-to-grow-28a89f6ccb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-08T11:04:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-08T11:04:24+00:00'
       verified_targets:
       - ap
