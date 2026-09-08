@@ -4600,7 +4600,33 @@ posts:
       updated_at: '2026-09-08T11:04:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-08T11:04:24+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-08T15:03:36+00:00'
+  meaction-scotland-give-evidence-to-the-health-care-and-sport-committee-at-holyro-4f6ed43063:
+    source_url: https://nuchronic.uk/item/meaction-scotland-give-evidence-to-the-health-care-and-sport-committee-at-holyro-4f6ed43063/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-08T15:03:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-08T15:03:30+00:00'
+      verified_targets:
+      - ap
+  we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest-f7d3f478dc:
+    source_url: https://nuchronic.uk/item/we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest-f7d3f478dc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-08T15:03:35+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-08T15:03:35+00:00'
       verified_targets:
       - ap

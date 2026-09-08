@@ -912,3 +912,11 @@ targets:
     resolved_url: https://thesicktimes.org/2026/09/01/department-of-defense-funds-8-million-grant-for-long-covid-trials/
     reason: no-endpoint
     checked_at: '2026-09-08T11:05:00+00:00'
+  https://meassociation.org.uk/2026/09/meaction-scotland-give-evidence-to-the-health-care-and-sport-committee-at-holyrood/:
+    resolved_url: https://meassociation.org.uk/2026/09/meaction-scotland-give-evidence-to-the-health-care-and-sport-committee-at-holyrood/
+    reason: no-endpoint
+    checked_at: '2026-09-08T15:03:31+00:00'
+  https://thesicktimes.org/2026/09/08/we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest/:
+    resolved_url: https://thesicktimes.org/2026/09/08/we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest/
+    reason: no-endpoint
+    checked_at: '2026-09-08T15:03:36+00:00'
