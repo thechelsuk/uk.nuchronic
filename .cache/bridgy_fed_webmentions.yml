@@ -4614,10 +4614,12 @@ posts:
       updated_at: '2026-09-08T15:03:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-08T15:03:30+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-08T21:45:44+00:00'
   we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest-f7d3f478dc:
     source_url: https://nuchronic.uk/item/we-made-a-covid-19-memorial-in-the-ashes-of-a-joshua-tree-forest-f7d3f478dc/
     bridgy:
@@ -4626,7 +4628,21 @@ posts:
       updated_at: '2026-09-08T15:03:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-08T15:03:35+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-08T21:45:40+00:00'
+  at-14-crohns-made-her-question-motherhood-at-22-shes-studying-why-ca3595d6ea:
+    source_url: https://nuchronic.uk/item/at-14-crohns-made-her-question-motherhood-at-22-shes-studying-why-ca3595d6ea/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-08T21:45:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-08T21:45:40+00:00'
       verified_targets:
       - ap
