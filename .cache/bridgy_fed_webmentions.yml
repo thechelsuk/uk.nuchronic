@@ -4684,10 +4684,12 @@ posts:
       updated_at: '2026-09-10T14:15:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-10T14:15:13+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-10T18:18:20+00:00'
   a-study-of-the-switch-new-zealands-homegrown-version-of-the-lightning-process-yi-3d6ba52de6:
     source_url: https://nuchronic.uk/item/a-study-of-the-switch-new-zealands-homegrown-version-of-the-lightning-process-yi-3d6ba52de6/
     bridgy:
@@ -4698,3 +4700,15 @@ posts:
       - bsky
       verified_at: '2026-09-10T14:15:21+00:00'
       status: success
+  pasta-with-cottage-cheese-sauce-f07622153a:
+    source_url: https://nuchronic.uk/item/pasta-with-cottage-cheese-sauce-f07622153a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-10T18:18:19+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-10T18:18:19+00:00'
+      verified_targets:
+      - ap
