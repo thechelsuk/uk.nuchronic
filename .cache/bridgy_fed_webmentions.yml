@@ -4656,10 +4656,12 @@ posts:
       updated_at: '2026-09-09T14:23:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-09T14:23:51+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-10T14:15:17+00:00'
   trial-by-error-a-study-of-the-switch-new-zealands-homegrown-version-of-the-light-3d6ba52de6:
     source_url: https://nuchronic.uk/item/trial-by-error-a-study-of-the-switch-new-zealands-homegrown-version-of-the-light-3d6ba52de6/
     bridgy:
@@ -4668,7 +4670,31 @@ posts:
       updated_at: '2026-09-09T14:23:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-09T14:23:55+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-10T14:15:15+00:00'
+  understanding-muscle-energy-production-and-oxygen-use-during-pem-in-me-cfs-43ff26422c:
+    source_url: https://nuchronic.uk/item/understanding-muscle-energy-production-and-oxygen-use-during-pem-in-me-cfs-43ff26422c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-10T14:15:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-10T14:15:13+00:00'
+      verified_targets:
+      - ap
+  a-study-of-the-switch-new-zealands-homegrown-version-of-the-lightning-process-yi-3d6ba52de6:
+    source_url: https://nuchronic.uk/item/a-study-of-the-switch-new-zealands-homegrown-version-of-the-lightning-process-yi-3d6ba52de6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-10T14:15:21+00:00'
+      status: success
