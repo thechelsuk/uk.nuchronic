@@ -4,6 +4,7 @@ layout: default
 {% assign top_posts = site.data.top_posts | default: empty %}
 
 {% if top_posts and top_posts.size > 0 %}
+<h1 class="visually-hidden">Most-discussed posts on {{ site.title }}</h1>
 <ol class="stories" start="1">
     {% for top_item in top_posts %}
     {% assign top_post = site.posts | where: "slug", top_item.slug | first %}
@@ -15,6 +16,7 @@ layout: default
 </ol>
 {% include advert.html %}
 {% elsif site.posts and site.posts.size > 0 %}
+<h1 class="visually-hidden">Most-discussed posts on {{ site.title }}</h1>
 <ol class="stories" start="1">
     {% for post in site.posts limit: 30 %}
     {% assign story_rank = forloop.index %}
