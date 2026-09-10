@@ -8,6 +8,7 @@ layout: default
 {% endif %}
 
 {% if feed_posts and feed_posts.size > 0 %}
+<h1 class="visually-hidden">{% if paginator and paginator.page and paginator.page > 1 %}Latest posts from the chronic-illness indie web — page {{ paginator.page }}{% else %}Latest posts from the chronic-illness indie web{% endif %}</h1>
 <ol class="stories" start="{{ offset | plus: 1 }}">
     {% for post in feed_posts limit:2 %}
     {% assign story_rank = offset | plus: forloop.index %}

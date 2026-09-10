@@ -6,11 +6,49 @@
 {% endif %}
 
 {% assign page_title = page.title | default: site.title %}
-{% assign raw_description = page.description | default: page.description | default: site.description %}
-{% capture page_description %}{{ raw_description | strip_html | strip_newlines | strip }}{% endcapture %}
+
+{% assign page_number = 1 %}
+{% if paginator and paginator.page %}
+{% assign page_number = paginator.page %}
+{% endif %}
+
+{% assign source_host = '' %}
+{% if page.link %}
+{% assign source_host = page.link | split: '//' | last | split: '/' | first | split: '?' | first | split: '#' | first | remove_first: 'www.' %}
+{% endif %}
+
+{% capture post_body %}{{ page.content | strip_html | strip_newlines | strip }}{% endcapture %}
+{% assign post_body = post_body | replace: '  ', ' ' | replace: '  ', ' ' | strip %}
+{% capture post_fallback %}{{ page.title }} — shared on {{ site.title }}, a Hacker News–style feed for the chronically ill indie web. Read the full post{% if page.author and page.author != 'anonymous' %} by {{ page.author }}{% endif %}{% if source_host != '' %} at {{ source_host }}{% endif %}.{% endcapture %}
+{% if page.description and page.description != '' %}
+{% assign raw_description = page.description %}
+{% if page_number > 1 %}{% assign raw_description = raw_description | strip | append: ' (Page ' | append: page_number | append: '.)' %}{% endif %}
+{% elsif page.layout == 'post' %}
+{% if post_body.size >= 120 %}
+{% assign raw_description = post_body %}
+{% else %}
+{% assign raw_description = post_fallback %}
+{% endif %}
+{% else %}
+{% assign raw_description = site.description %}
+{% endif %}
+{% capture page_description %}{{ raw_description | strip_html | strip_newlines | strip | truncate: 160, "…" }}{% endcapture %}
+
+{% if page.title %}
+{% assign title_base = page.title %}
+{% if page_number > 1 %}{% assign title_base = title_base | append: ' — page ' | append: page_number %}{% endif %}
+{% capture title_with_brand %}{{ title_base }} | {{ site.title }}{% endcapture %}
+{% if title_with_brand.size > 65 %}
+{% assign document_title = title_base %}
+{% else %}
+{% assign document_title = title_with_brand %}
+{% endif %}
+{% else %}
+{% assign document_title = site.title %}
+{% endif %}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+<title>{{ document_title }}</title>
 <meta name="description" content="{{ page_description | escape }}">
 <meta name="theme-color" content="#ff6600">
 <link rel="canonical" href="{{ canonical_url }}">
