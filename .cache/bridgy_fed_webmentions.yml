@@ -4714,3 +4714,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-09-10T21:46:11+00:00'
+  bsw-long-covid-service-closure-put-on-hold-following-public-and-me-association-e-6fc1bdbc1b:
+    source_url: https://nuchronic.uk/item/bsw-long-covid-service-closure-put-on-hold-following-public-and-me-association-e-6fc1bdbc1b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-11T09:29:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-11T09:29:55+00:00'
+      verified_targets:
+      - ap
