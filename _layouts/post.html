@@ -53,16 +53,36 @@ endcapture %}
         {% endif %}
     </div>
     {% endif %}
-    {% if syndication_copies.size > 0 %}
-    <p class="entry-syndication">Also posted by {{ page.author | default: "anonymous" }} on
-        {% for copy in syndication_copies %}
-        <a href="{{ copy.url }}">{{ copy.source }}</a>{% unless forloop.last %}, {% endunless %}
-        {% endfor %}
-    </p>
-    {% endif %}
     {% if mention_count > 0 %}
     <section class="entry-mentions">
         <h2 class="entry-section-title">{{ mention_count }} mention{% unless mention_count == 1 %}s{% endunless %}</h2>
+
+        {% if syndication_copies.size > 0 %}
+        <section class="mention-group">
+            <h3 class="mention-group-title">Crossposted</h3>
+            <ol class="mention-list">
+                {% for copy in syndication_copies %}
+                <li class="mention-card mention-card-crosspost">
+                    <span class="mention-avatar mention-avatar-{{ forloop.index0 | modulo: 6 }}" aria-hidden="true">{{ copy.source | slice: 0 | upcase }}</span>
+                    <span class="mention-card-body">
+                        <p class="mention-meta">
+                            <a class="mention-crosspost-title" href="{{ copy.url }}">{{ copy.title }}</a>
+                        </p>
+                        <p class="mention-meta">
+                            {{ page.author | default: "anonymous" }}
+                            <span class="meta-separator">·</span>
+                            <a href="{{ copy.url }}">{{ copy.source }}</a>
+                            {% if copy.published %}
+                            <span class="meta-separator">·</span>
+                            <time datetime="{{ copy.published }}">{{ copy.published | date: "%B %-d, %Y" }}</time>
+                            {% endif %}
+                        </p>
+                    </span>
+                </li>
+                {% endfor %}
+            </ol>
+        </section>
+        {% endif %}
 
         {% if mention.replies and mention.replies.size > 0 %}
         <section class="mention-group">
