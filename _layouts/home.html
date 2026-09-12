@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign feed_posts = paginator.posts | default: site.posts %}
+{% assign feed_posts = paginator.posts | default: site.posts | where_exp: "post", "post.duplicate_of == nil" %}
 {% assign offset = 0 %}
 {% if paginator and paginator.page %}
 {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}

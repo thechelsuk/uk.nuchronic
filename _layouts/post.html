@@ -4,7 +4,8 @@ layout: default
 {% capture body %}{{ content | strip }}{% endcapture %}
 {% assign item_url = page.url | absolute_url %}
 {% assign mention = site.data.webmentions[page.slug] %}
-{% assign mention_count = mention.count | default: 0 %}
+{% assign syndication_copies = site.data.syndication_links[page.slug] | default: empty %}
+{% assign mention_count = mention.count | default: 0 | plus: syndication_copies.size %}
 {% if page.link %}
 {% assign source_host = page.link | replace_first: 'https://', '' | replace_first: 'http://', '' | replace_first:
 'www.', '' | split: '/' | first | split: '?' | first | split: '#' | first %}
@@ -51,6 +52,13 @@ endcapture %}
         {{ generated_body }}
         {% endif %}
     </div>
+    {% endif %}
+    {% if syndication_copies.size > 0 %}
+    <p class="entry-syndication">Also posted by {{ page.author | default: "anonymous" }} on
+        {% for copy in syndication_copies %}
+        <a href="{{ copy.url }}">{{ copy.source }}</a>{% unless forloop.last %}, {% endunless %}
+        {% endfor %}
+    </p>
     {% endif %}
     {% if mention_count > 0 %}
     <section class="entry-mentions">
