@@ -1,0 +1,12 @@
+<div class="snippet">
+    <pre><code id="{{ include.id }}">{{ include.code | escape }}</code></pre>
+    <div class="snippet-actions">
+        <button type="button" class="copy-button" data-copy-target="{{ include.id }}">
+            <svg aria-hidden="true" viewBox="0 0 16 16" width="14" height="14">
+                <rect x="5" y="5" width="9" height="9" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.3" />
+                <path d="M3.5 10.5V3A1.5 1.5 0 0 1 5 1.5h6" fill="none" stroke="currentColor" stroke-width="1.3" />
+            </svg>
+            <span class="copy-button-label">Copy</span>
+        </button>
+    </div>
+</div>

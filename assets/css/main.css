@@ -100,16 +100,77 @@ pre code {
   line-height: 1.6;
 }
 
-.button-swatch {
+.button-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: center;
-  gap: 14px;
-  margin: 14px 0 6px;
+  align-items: flex-start;
+  gap: 16px;
+  margin: 16px 0;
 }
 
-.button-swatch img {
+.button-row img {
   display: block;
+  flex: none;
+}
+
+.button-row .snippet {
+  flex: 1 1 260px;
+  min-width: 0;
+  margin: 0;
+}
+
+.snippet {
+  background: var(--bg-strong);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.snippet pre {
+  margin: 0;
+  padding: 12px 14px;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  overflow-x: hidden;
+}
+
+.snippet pre code {
+  display: block;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.snippet-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 6px 8px;
+  border-top: 1px solid var(--border);
+}
+
+.copy-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-family: "IBM Plex Mono", "SFMono-Regular", "Menlo", monospace;
+  font-size: 0.72rem;
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.copy-button:hover,
+.copy-button:focus-visible {
+  color: var(--accent-soft);
+  border-color: var(--accent-soft);
+}
+
+.copy-button.is-copied {
+  color: var(--accent-soft);
+  border-color: var(--accent-soft);
 }
 
 .page-shell {
