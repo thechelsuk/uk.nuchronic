@@ -85,6 +85,33 @@ code {
   color: var(--accent-soft);
 }
 
+pre {
+  margin: 12px 0;
+  padding: 14px 16px;
+  overflow-x: auto;
+  background: var(--bg-strong);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+pre code {
+  color: var(--text-dim);
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+
+.button-swatch {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+  margin: 14px 0 6px;
+}
+
+.button-swatch img {
+  display: block;
+}
+
 .page-shell {
   position: relative;
   z-index: 1;
