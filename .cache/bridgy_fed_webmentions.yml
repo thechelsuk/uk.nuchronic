@@ -4770,3 +4770,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-09-12T11:37:54+00:00'
+  how-to-get-liverpool-fc-disabled-tickets-a-locals-guide-to-accessible-match-days-07f21ce9e4:
+    source_url: https://nuchronic.uk/item/how-to-get-liverpool-fc-disabled-tickets-a-locals-guide-to-accessible-match-days-07f21ce9e4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-12T12:00:53+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-12T12:00:53+00:00'
+      verified_targets:
+      - ap
