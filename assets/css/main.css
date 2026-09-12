@@ -53,26 +53,7 @@ body {
   color: var(--text);
   font-family: "IBM Plex Sans", "Avenir Next", "Segoe UI", sans-serif;
   line-height: 1.5;
-  background:
-    radial-gradient(circle at top left, rgba(255, 102, 0, 0.12), transparent 28%),
-    radial-gradient(circle at top right, rgba(255, 255, 255, 0.05), transparent 22%),
-    linear-gradient(180deg, #141820 0%, #0b0d11 58%, #07090c 100%);
-}
-
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  pointer-events: none;
-  background:
-    repeating-linear-gradient(
-      180deg,
-      rgba(255, 255, 255, 0.02) 0,
-      rgba(255, 255, 255, 0.02) 1px,
-      transparent 1px,
-      transparent 34px
-    );
-  opacity: 0.35;
+  background: var(--bg);
 }
 
 .visually-hidden {
