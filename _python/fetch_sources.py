@@ -322,6 +322,7 @@ def sync_syndication_links() -> None:
             {
                 "url": item["link"],
                 "source": post_domain(item["link"]),
+                "title": item["title"],
                 "published": item["date"].isoformat(),
             }
             for item in others
