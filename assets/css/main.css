@@ -36,14 +36,12 @@ html {
   place-items: center;
   width: 24px;
   height: 24px;
-  background-color: var(--accent);
-  border-radius: 6px;
 }
 
 .brand-mark img {
   display: block;
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   object-fit: contain;
 }
 
