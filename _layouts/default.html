@@ -23,6 +23,9 @@
                 {% include footer.html %}
             </div>
         </div>
+        {% if page.extra_js %}
+        <script src="{{ page.extra_js | relative_url }}" defer></script>
+        {% endif %}
     </body>
 
 </html>
