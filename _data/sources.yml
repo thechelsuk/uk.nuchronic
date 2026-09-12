@@ -73,3 +73,5 @@ sources:
     feed_url: https://mhmiller.bearblog.dev/feed/
   - id: sicktimes
     feed_url: https://thesicktimes.org/feed/
+  - id: Ava
+    feed_url: https://blog.avas.space/feed/
