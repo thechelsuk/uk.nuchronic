@@ -1,5 +1,6 @@
 {% assign mention = site.data.webmentions[include.post.slug] %}
-{% assign mention_count = mention.count | default: 0 %}
+{% assign syndication_copies = site.data.syndication_links[include.post.slug] | default: empty %}
+{% assign mention_count = mention.count | default: 0 | plus: syndication_copies.size %}
 {% if include.post.link %}
 {% assign source_host = include.post.link | replace_first: 'https://', '' | replace_first: 'http://', '' |
 replace_first: 'www.', '' | split: '/' | first | split: '?' | first | split: '#' | first %}
@@ -30,8 +31,7 @@ replace_first: 'www.', '' | split: '/' | first | split: '?' | first | split: '#'
             <span class="story-byline">
                 <span class="story-author">by {{ include.post.author | default: "anonymous" }}</span>
                 {% if include.post.link %}
-                <span class="story-at">@</span>
-                <a class="story-url story-source-inline" href="{{ include.post.link }}"
+                <a class="story-source-pill" href="{{ include.post.link }}"
                     title="{{ include.post.link }}">{{ source_host }}</a>
                 {% endif %}
             </span>

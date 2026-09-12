@@ -190,6 +190,10 @@ code {
   background: rgba(255, 255, 255, 0.02);
 }
 
+.story-ad {
+  background: linear-gradient(180deg, rgba(215, 111, 41, 0.07), transparent);
+}
+
 .story-rank {
   padding: 4px 12px 0 0;
   color: var(--number);
@@ -275,6 +279,18 @@ code {
 
 .story-source-inline {
   flex: 0 1 auto;
+}
+
+.story-meta .story-source-pill {
+  flex: 0 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text-dim);
+  padding: 2px 8px;
+  border-radius: 5px;
+  font-size: 0.72rem;
 }
 
 .story-meta a,

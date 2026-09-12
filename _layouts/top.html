@@ -8,7 +8,7 @@ layout: default
 <ol class="stories" start="1">
     {% for top_item in top_posts %}
     {% assign top_post = site.posts | where: "slug", top_item.slug | first %}
-    {% if top_post %}
+    {% if top_post and top_post.duplicate_of == nil %}
     {% assign story_rank = forloop.index %}
     {% include story_item.html post=top_post rank=story_rank %}
     {% endif %}
@@ -18,7 +18,8 @@ layout: default
 {% elsif site.posts and site.posts.size > 0 %}
 <h1 class="visually-hidden">Most-discussed posts on {{ site.title }}</h1>
 <ol class="stories" start="1">
-    {% for post in site.posts limit: 30 %}
+    {% assign visible_posts = site.posts | where_exp: "post", "post.duplicate_of == nil" %}
+    {% for post in visible_posts limit: 30 %}
     {% assign story_rank = forloop.index %}
     {% include story_item.html post=post rank=story_rank %}
     {% endfor %}

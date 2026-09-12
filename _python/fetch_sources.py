@@ -15,9 +15,11 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "_data" / "sources.yml"
+SYNDICATION_FILE = ROOT / "_data" / "syndication_links.yml"
 POSTS_DIR = ROOT / "_posts"
 HTML_TAG_PATTERN = re.compile(r"<[^>]+>")
 SUMMARY_LENGTH = 160
+POST_FILENAME_PATTERN = re.compile(r"^\d{4}-\d{2}-\d{2}-(.+)\.md$")
 
 
 def load_sources() -> list[dict[str, str]]:
@@ -190,6 +192,151 @@ def write_post(post_path: Path, metadata: dict[str, str], body: str) -> None:
     post_path.write_text(f"---\n{front_matter}\n---\n", encoding="utf-8")
 
 
+def read_post_body(path: Path) -> str:
+    text = path.read_text(encoding="utf-8")
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return text
+
+    for index in range(1, len(lines)):
+        if lines[index].strip() == "---":
+            return "\n".join(lines[index + 1 :]).strip("\n")
+
+    return ""
+
+
+def update_front_matter(path: Path, fields: dict[str, str | None]) -> None:
+    front_matter = read_front_matter(path)
+    for key, value in fields.items():
+        if value is None:
+            front_matter.pop(key, None)
+        else:
+            front_matter[key] = value
+
+    write_post(path, front_matter, read_post_body(path))
+
+
+def post_slug(path: Path) -> str:
+    match = POST_FILENAME_PATTERN.match(path.name)
+    return match.group(1) if match else path.stem
+
+
+def normalize_for_matching(value: str) -> str:
+    normalized = unicodedata.normalize("NFKD", value)
+    ascii_value = normalized.encode("ascii", "ignore").decode("ascii")
+    collapsed = re.sub(r"[^a-z0-9]+", " ", ascii_value.lower()).strip()
+    return re.sub(r"\s+", " ", collapsed)
+
+
+def post_domain(link: str) -> str:
+    netloc = urlsplit(link).netloc.lower()
+    return netloc[4:] if netloc.startswith("www.") else netloc
+
+
+def parse_post_date(value: str) -> datetime:
+    try:
+        return datetime.strptime(value, "%Y-%m-%d %H:%M:%S %z")
+    except (TypeError, ValueError):
+        return datetime.max.replace(tzinfo=timezone.utc)
+
+
+def titles_plausibly_match(title_a: str, title_b: str) -> bool:
+    """Same story cross-posted to a second blog often gains a column prefix
+    (e.g. "Trial By Error: <title>"), so exact title equality is too strict.
+    Treat titles as the same story if one normalized title contains the
+    other, in addition to requiring an exact author + timestamp match.
+    """
+    a, b = normalize_for_matching(title_a), normalize_for_matching(title_b)
+    if not a or not b:
+        return False
+    shorter, longer = sorted((a, b), key=len)
+    return shorter in longer
+
+
+def sync_syndication_links() -> None:
+    """Detect posts cross-posted by the same author to more than one source.
+
+    Two posts are treated as the same story when they share an author and
+    an exact publish timestamp (to the second) but were fetched from
+    different domains, with a title-containment check as a sanity guard
+    against a same-second coincidence. Matching on title alone is too
+    strict: a syndicated copy often gains a column-name prefix the
+    original doesn't have. The earliest-published copy stays canonical
+    (shown in the feed); later copies are hidden and recorded against the
+    canonical post's slug in syndication_links.yml so its page can list
+    them as "also posted by".
+    """
+    candidates = []
+    for post_path in sorted(POSTS_DIR.glob("*.md")):
+        front_matter = read_front_matter(post_path)
+        title = str(front_matter.get("title", "")).strip()
+        author = str(front_matter.get("author", "")).strip()
+        link = str(front_matter.get("link", "")).strip()
+        date_value = str(front_matter.get("date", "")).strip()
+        if not title or not author or not link or not date_value:
+            continue
+
+        candidates.append(
+            {
+                "path": post_path,
+                "front_matter": front_matter,
+                "title": title,
+                "key": (normalize_for_matching(author), date_value),
+                "link": link,
+                "date": parse_post_date(date_value),
+            }
+        )
+
+    groups: dict[tuple[str, str], list[dict]] = {}
+    for candidate in candidates:
+        groups.setdefault(candidate["key"], []).append(candidate)
+
+    for group in list(groups.values()):
+        if len(group) < 2:
+            continue
+        anchor = group[0]
+        matched = [anchor] + [
+            item for item in group[1:] if titles_plausibly_match(anchor["title"], item["title"])
+        ]
+        if len(matched) < len(group):
+            groups[anchor["key"]] = matched
+
+    syndication_data: dict[str, list[dict[str, str]]] = {}
+
+    for group in groups.values():
+        domains = {post_domain(item["link"]) for item in group}
+        if len(group) < 2 or len(domains) < 2:
+            for item in group:
+                if item["front_matter"].get("duplicate_of"):
+                    update_front_matter(item["path"], {"duplicate_of": None})
+            continue
+
+        ordered = sorted(group, key=lambda item: item["date"])
+        canonical, others = ordered[0], ordered[1:]
+        canonical_slug = post_slug(canonical["path"])
+
+        if canonical["front_matter"].get("duplicate_of"):
+            update_front_matter(canonical["path"], {"duplicate_of": None})
+
+        syndication_data[canonical_slug] = [
+            {
+                "url": item["link"],
+                "source": post_domain(item["link"]),
+                "published": item["date"].isoformat(),
+            }
+            for item in others
+        ]
+
+        for item in others:
+            if item["front_matter"].get("duplicate_of") != canonical_slug:
+                update_front_matter(item["path"], {"duplicate_of": canonical_slug})
+
+    SYNDICATION_FILE.write_text(
+        yaml.safe_dump(syndication_data, sort_keys=True, allow_unicode=True) or "{}\n",
+        encoding="utf-8",
+    )
+
+
 def select_latest_entry(entries: list[feedparser.FeedParserDict]) -> tuple[feedparser.FeedParserDict, str, str, datetime] | None:
     latest: tuple[feedparser.FeedParserDict, str, str, datetime] | None = None
 
@@ -270,6 +417,8 @@ def main() -> int:
     created_total = 0
     for source in sources:
         created_total += sync_source(source, existing_links)
+
+    sync_syndication_links()
 
     print(f"Sync complete: created {created_total} new posts across {len(sources)} source(s).")
     return 0
