@@ -4784,3 +4784,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-09-12T12:05:56+00:00'
+  wasf3-a-critically-important-process-in-me-cfs-paul-hwangs-surprising-saga-ab1c90973e:
+    source_url: https://nuchronic.uk/item/wasf3-a-critically-important-process-in-me-cfs-paul-hwangs-surprising-saga-ab1c90973e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-12T21:25:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-12T21:25:39+00:00'
+      verified_targets:
+      - ap
