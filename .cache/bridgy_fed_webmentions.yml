@@ -4806,7 +4806,21 @@ posts:
       updated_at: '2026-09-13T10:08:36+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-13T10:08:37+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-14T12:31:29+00:00'
+  the-mea-attended-parliament-for-the-b12-consortium-reception-8bed54bfcb:
+    source_url: https://nuchronic.uk/item/the-mea-attended-parliament-for-the-b12-consortium-reception-8bed54bfcb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-14T12:31:06+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-14T12:31:06+00:00'
       verified_targets:
       - ap
