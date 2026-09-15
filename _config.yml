@@ -19,8 +19,8 @@ feed:
 paginate: 30
 paginate_path: /page:num/
 webmentions:
-  username: nuchronic.uk
-  endpoint: https://webmention.io/nuchronic.uk/webmention
+  username: thechels.uk
+  endpoint: https://webmention.io/thechels.uk/webmention
 rel_me:
   - https://github.com/thechelsuk
   - https://web.brid.gy/nuchronic.uk
@@ -43,7 +43,7 @@ header_nav:
       url: https://github.com/thechelsuk/uk.nuchronic/issues/new?template=feed-submission.yml
 footer_nav:
   copyright: Nuchronic
-  notice: For the chronically ill on the indie web.
+  notice: The Chronically Ill Webring
   year: 2026
   links:
     - label: About
