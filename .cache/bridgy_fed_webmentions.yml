@@ -4836,3 +4836,15 @@ posts:
       - bsky
       verified_at: '2026-09-15T10:40:06+00:00'
       status: success
+  members-only-notice-of-annual-general-meeting-of-the-me-association-and-registra-45e03a02f3:
+    source_url: https://nuchronic.uk/item/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registra-45e03a02f3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-15T13:24:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-15T13:24:07+00:00'
+      verified_targets:
+      - ap

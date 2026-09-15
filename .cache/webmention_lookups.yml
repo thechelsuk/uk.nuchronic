@@ -1244,10 +1244,6 @@ targets:
     resolved_url: https://trialbyerror.org/2026/09/06/newly-knighted-anil-van-der-zee-discusses-his-royal-honor/
     endpoint: ''
     checked_at: '2026-09-13T10:08:50+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-14T12:31:06+00:00'
   https://virology.ws/2026/09/06/trial-by-error-newly-knighted-anil-van-der-zee-discusses-his-royal-honor/:
     resolved_url: https://virology.ws/2026/09/06/trial-by-error-newly-knighted-anil-van-der-zee-discusses-his-royal-honor/
     endpoint: ''
@@ -1332,3 +1328,11 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/09/robert-lee-hiking-the-camino-de-santiago-for-the-me-association/
     endpoint: ''
     checked_at: '2026-09-15T10:40:24+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-15T13:24:07+00:00'
+  https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/:
+    resolved_url: https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/
+    endpoint: ''
+    checked_at: '2026-09-15T13:24:10+00:00'
