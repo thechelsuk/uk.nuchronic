@@ -19,7 +19,7 @@ feed:
 paginate: 30
 paginate_path: /page:num/
 webmentions:
-  username: nuchronic.uk
+  username: thechels.uk
   endpoint: https://webmention.io/thechels.uk/webmention
 rel_me:
   - https://github.com/thechelsuk
