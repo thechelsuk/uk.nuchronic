@@ -908,10 +908,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/09/robert-lee-hiking-the-camino-de-santiago-for-the-me-association/
     reason: no-endpoint
     checked_at: '2026-09-15T10:40:24+00:00'
-  https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/:
-    resolved_url: https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/
-    reason: no-endpoint
-    checked_at: '2026-09-15T13:24:10+00:00'
   ? https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
   : resolved_url: https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
     reason: no-endpoint
@@ -988,3 +984,11 @@ targets:
     resolved_url: https://lightscameracrohns.com/2026/09/08/at-14-crohns-made-her-question-motherhood-at-22-shes-studying-why/
     reason: no-endpoint
     checked_at: '2026-09-15T18:06:36+00:00'
+  https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/:
+    resolved_url: https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/
+    reason: no-endpoint
+    checked_at: '2026-09-15T21:15:10+00:00'
+  https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/:
+    resolved_url: https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/
+    reason: no-endpoint
+    checked_at: '2026-09-15T21:15:11+00:00'
