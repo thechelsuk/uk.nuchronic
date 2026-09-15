@@ -4820,7 +4820,19 @@ posts:
       updated_at: '2026-09-14T12:31:06+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-14T12:31:06+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-15T10:40:07+00:00'
+  research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs-8b24eecc0c:
+    source_url: https://nuchronic.uk/item/research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs-8b24eecc0c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-15T10:40:06+00:00'
+      status: success
