@@ -20,7 +20,7 @@ paginate: 30
 paginate_path: /page:num/
 webmentions:
   username: nuchronic.uk
-  endpoint: https://webmention.io/nuchronic.uk/webmention
+  endpoint: https://webmention.io/thechels.uk/webmention
 rel_me:
   - https://github.com/thechelsuk
   - https://web.brid.gy/nuchronic.uk
