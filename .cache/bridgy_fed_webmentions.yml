@@ -4844,7 +4844,21 @@ posts:
       updated_at: '2026-09-15T13:24:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-15T13:24:07+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-15T18:06:11+00:00'
+  bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-ear-4dacc0e155:
+    source_url: https://nuchronic.uk/item/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-ear-4dacc0e155/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-15T18:06:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-15T18:06:09+00:00'
       verified_targets:
       - ap
