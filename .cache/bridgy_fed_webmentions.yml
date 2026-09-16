@@ -4886,7 +4886,21 @@ posts:
       updated_at: '2026-09-16T00:06:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-16T00:06:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-16T09:52:19+00:00'
+  i-would-be-here-if-i-could-me-association-trustee-attends-the-mirrorbox-journey-dd58310729:
+    source_url: https://nuchronic.uk/item/i-would-be-here-if-i-could-me-association-trustee-attends-the-mirrorbox-journey-dd58310729/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-16T09:52:04+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-16T09:52:04+00:00'
       verified_targets:
       - ap
