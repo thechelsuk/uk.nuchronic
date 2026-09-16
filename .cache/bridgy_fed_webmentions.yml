@@ -4900,7 +4900,57 @@ posts:
       updated_at: '2026-09-16T09:52:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-16T09:52:04+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-16T14:47:25+00:00'
+  research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid-a95595c65c:
+    source_url: https://nuchronic.uk/item/research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid-a95595c65c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-16T14:47:18+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-16T14:47:19+00:00'
+      verified_targets:
+      - ap
+  roasted-red-pepper-pesto-d1041c393f:
+    source_url: https://nuchronic.uk/item/roasted-red-pepper-pesto-d1041c393f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-16T14:47:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-16T14:47:21+00:00'
+      verified_targets:
+      - ap
+  updates-on-cheltenham-open-data-b48cb36980:
+    source_url: https://nuchronic.uk/item/updates-on-cheltenham-open-data-b48cb36980/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-16T14:47:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-16T14:47:22+00:00'
+      verified_targets:
+      - ap
+  when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess-ca6eaa4ec1:
+    source_url: https://nuchronic.uk/item/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess-ca6eaa4ec1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-16T14:47:23+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-16T14:47:24+00:00'
       verified_targets:
       - ap
