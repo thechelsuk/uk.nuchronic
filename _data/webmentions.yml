@@ -3570,12 +3570,41 @@ roasted-red-pepper-pesto-d1041c393f:
   mentions: []
 updates-on-cheltenham-open-data-b48cb36980:
   target: https://nuchronic.uk/item/updates-on-cheltenham-open-data-b48cb36980/
-  count: 0
-  types: {}
+  count: 3
+  types:
+    like: 1
+    mention: 1
+    repost: 1
   replies: []
-  likes: []
-  reposts: []
-  mentions: []
+  likes:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://files.mastodon.social/accounts/avatars/115/362/363/807/963/674/original/7cfe38f7fc41df0e.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/315171719
+    published: None
+    property: like-of
+    content_text: likes this.
+  reposts:
+  - author_name: '@thechels.uk'
+    author_url: https://mastodon.social/@Thechelsuk
+    author_photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
+    url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/117287576291145511/activity
+    published: '2026-09-17T17:33:06+00:00'
+    property: repost-of
+    content_text: "Shared Updates on Cheltenham Open Data by   \n    \n    Nuchronic\n\
+      \    \n    \n  \nIt’s been a while since I’ve post here and that is because\
+      \ it’s been a very busy couple of weeks of family time and activities. I have\
+      \ also been working on m…\nContinue reading at thechels.uk.\nthechels.uk"
+  mentions:
+  - author_name: Nuchronic
+    author_url: https://nuchronic.uk/
+    author_photo: https://nuchronic.uk/assets/icons/apple-touch-icon.png
+    url: https://nuchronic.uk/item/updates-on-cheltenham-open-data-b48cb36980/
+    published: '2026-09-16T12:00:00+00:00'
+    property: mention-of
+    content_text: "It’s been a while since I’ve post here and that is because it’s\
+      \ been a very busy couple of weeks of family time and activities. I have also\
+      \ been working on m…\n\n        \n        Continue reading at thechels.uk."
 when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess-ca6eaa4ec1:
   target: https://nuchronic.uk/item/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess-ca6eaa4ec1/
   count: 0
