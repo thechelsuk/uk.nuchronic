@@ -4970,7 +4970,21 @@ posts:
       updated_at: '2026-09-17T20:12:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-17T20:12:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-17T23:30:33+00:00'
+  how-stretching-increases-flexibility-a-science-update-4m-0b491bf225:
+    source_url: https://nuchronic.uk/item/how-stretching-increases-flexibility-a-science-update-4m-0b491bf225/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-17T23:30:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-17T23:30:33+00:00'
       verified_targets:
       - ap

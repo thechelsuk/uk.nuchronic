@@ -1016,3 +1016,7 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/pasta-with-cottage-cheese-sauce/
     reason: no-endpoint
     checked_at: '2026-09-17T20:12:29+00:00'
+  https://www.painscience.com/blog/stretch-tolerance-update.html:
+    resolved_url: https://www.painscience.com/blog/stretch-tolerance-update.html
+    reason: no-endpoint
+    checked_at: '2026-09-17T23:30:33+00:00'
