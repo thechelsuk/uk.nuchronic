@@ -4981,10 +4981,40 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-17T23:30:32+00:00'
+      updated_at: '2026-09-18T14:22:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-17T23:30:33+00:00'
+      accepted_at: '2026-09-18T14:22:12+00:00'
       verified_targets:
       - ap
+      verification_errors:
+        bsky: '[Errno -5] No address associated with hostname'
+  got-a-pixel-on-pxlarea-1d3741f610:
+    source_url: https://nuchronic.uk/item/got-a-pixel-on-pxlarea-1d3741f610/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-18T14:22:08+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-18T14:22:08+00:00'
+      verified_targets: []
+      verification_errors:
+        ap: '[Errno -5] No address associated with hostname'
+        bsky: '[Errno -5] No address associated with hostname'
+  silence-saves-why-we-need-quiet-spaces-in-hospitals-2dc9085d69:
+    source_url: https://nuchronic.uk/item/silence-saves-why-we-need-quiet-spaces-in-hospitals-2dc9085d69/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-18T14:22:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-18T14:22:09+00:00'
+      verified_targets: []
+      verification_errors:
+        ap: '[Errno -5] No address associated with hostname'
+        bsky: '[Errno -5] No address associated with hostname'
