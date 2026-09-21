@@ -1056,3 +1056,11 @@ targets:
     resolved_url: https://www.eleanorsteinmd.ca/blog/red-light
     reason: no-endpoint
     checked_at: '2026-09-21T16:59:53+00:00'
+  https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/:
+    resolved_url: https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/
+    reason: no-endpoint
+    checked_at: '2026-09-21T20:58:32+00:00'
+  https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html:
+    resolved_url: https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html
+    reason: no-endpoint
+    checked_at: '2026-09-21T20:58:32+00:00'
