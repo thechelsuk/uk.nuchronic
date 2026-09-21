@@ -4981,11 +4981,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:27+00:00'
+      updated_at: '2026-09-21T16:59:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:27+00:00'
+      accepted_at: '2026-09-21T16:59:31+00:00'
       verified_targets:
       - ap
       verification_errors:
@@ -4995,11 +4995,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:24+00:00'
+      updated_at: '2026-09-21T16:59:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:24+00:00'
+      accepted_at: '2026-09-21T16:59:25+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5009,11 +5009,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:21+00:00'
+      updated_at: '2026-09-21T16:59:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:22+00:00'
+      accepted_at: '2026-09-21T16:59:23+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5023,11 +5023,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:21+00:00'
+      updated_at: '2026-09-21T16:59:22+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:21+00:00'
+      accepted_at: '2026-09-21T16:59:22+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5037,11 +5037,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:19+00:00'
+      updated_at: '2026-09-21T16:59:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:19+00:00'
+      accepted_at: '2026-09-21T16:59:19+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5051,11 +5051,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:18+00:00'
+      updated_at: '2026-09-21T16:59:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:18+00:00'
+      accepted_at: '2026-09-21T16:59:19+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5065,11 +5065,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:16+00:00'
+      updated_at: '2026-09-21T16:59:16+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:16+00:00'
+      accepted_at: '2026-09-21T16:59:16+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5079,11 +5079,11 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:13+00:00'
+      updated_at: '2026-09-21T16:59:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:13+00:00'
+      accepted_at: '2026-09-21T16:59:14+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
@@ -5093,11 +5093,25 @@ posts:
     bridgy:
       target_url: https://fed.brid.gy/
       resolved_url: https://fed.brid.gy/
-      updated_at: '2026-09-21T10:40:15+00:00'
+      updated_at: '2026-09-21T16:59:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
       status: accepted
-      accepted_at: '2026-09-21T10:40:15+00:00'
+      accepted_at: '2026-09-21T16:59:14+00:00'
+      verified_targets: []
+      verification_errors:
+        ap: '[Errno -5] No address associated with hostname'
+        bsky: '[Errno -5] No address associated with hostname'
+  covid-19-not-tiktok-is-disabling-young-women-aab047d754:
+    source_url: https://nuchronic.uk/item/covid-19-not-tiktok-is-disabling-young-women-aab047d754/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-21T16:59:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-21T16:59:13+00:00'
       verified_targets: []
       verification_errors:
         ap: '[Errno -5] No address associated with hostname'
