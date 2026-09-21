@@ -1320,78 +1320,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/09/research-blood-volume-and-orthostatic-intolerance-in-me-cfs/
     endpoint: ''
     checked_at: '2026-09-19T13:51:23+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-20T11:09:33+00:00'
-  https://www.youtube.com/watch?v=BFDgCp0_UBU:
-    resolved_url: https://www.youtube.com/watch?v=BFDgCp0_UBU
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:33+00:00'
-  https://alishawhittam.com/heavy-periods-with-endometriosis/:
-    resolved_url: https://alishawhittam.com/heavy-periods-with-endometriosis/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:34+00:00'
-  https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/:
-    resolved_url: https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:37+00:00'
-  https://blog.avas.space/think-of-the-children/:
-    resolved_url: https://blog.avas.space/think-of-the-children/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:37+00:00'
-  https://alishawhittam.com/sensory-friendly-hospital-spaces/:
-    resolved_url: https://alishawhittam.com/sensory-friendly-hospital-spaces/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:39+00:00'
-  https://blog.avas.space/pxlarea/:
-    resolved_url: https://blog.avas.space/pxlarea/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:39+00:00'
-  https://chronicillnesstraumastudies.com/ton-mazzone-traumality-ikigai-podcast/:
-    resolved_url: https://chronicillnesstraumastudies.com/ton-mazzone-traumality-ikigai-podcast/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:41+00:00'
-  https://www.painscience.com/blog/stretch-tolerance-update.html:
-    resolved_url: https://www.painscience.com/blog/stretch-tolerance-update.html
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:41+00:00'
-  https://despitepain.com/2026/09/16/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess/:
-    resolved_url: https://despitepain.com/2026/09/16/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:41+00:00'
-  https://www.throughthefibrofog.com/roasted-red-pepper-pesto/:
-    resolved_url: https://www.throughthefibrofog.com/roasted-red-pepper-pesto/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:41+00:00'
-  https://meassociation.org.uk/2026/09/research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:44+00:00'
-  ? https://meassociation.org.uk/2026/09/i-would-be-here-if-i-could-me-association-trustee-attends-mirrorbox-event-at-the-royal-opera-house/
-  : resolved_url: https://meassociation.org.uk/2026/09/i-would-be-here-if-i-could-me-association-trustee-attends-mirrorbox-event-at-the-royal-opera-house/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:47+00:00'
-  https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/:
-    resolved_url: https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:49+00:00'
-  https://meassociation.org.uk/2026/09/research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:53+00:00'
-  https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/:
-    resolved_url: https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:54+00:00'
-  https://www.eleanorsteinmd.ca/blog/red-light:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/red-light
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:54+00:00'
-  ? https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
-  : resolved_url: https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
-    endpoint: ''
-    checked_at: '2026-09-20T11:09:55+00:00'
   https://meassociation.org.uk/2026/09/the-mea-attended-parliament-for-the-b12-consortium-reception/:
     resolved_url: https://meassociation.org.uk/2026/09/the-mea-attended-parliament-for-the-b12-consortium-reception/
     endpoint: ''
@@ -1400,3 +1328,83 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=HcJ5fFCma90
     endpoint: ''
     checked_at: '2026-09-20T11:09:58+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-21T10:40:13+00:00'
+  https://alishawhittam.com/me-pyjama-party-25/:
+    resolved_url: https://alishawhittam.com/me-pyjama-party-25/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:15+00:00'
+  https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/:
+    resolved_url: https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:16+00:00'
+  https://alishawhittam.com/heavy-periods-with-endometriosis/:
+    resolved_url: https://alishawhittam.com/heavy-periods-with-endometriosis/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:18+00:00'
+  https://www.youtube.com/watch?v=BFDgCp0_UBU:
+    resolved_url: https://www.youtube.com/watch?v=BFDgCp0_UBU
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:18+00:00'
+  https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:20+00:00'
+  https://blog.avas.space/think-of-the-children/:
+    resolved_url: https://blog.avas.space/think-of-the-children/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:21+00:00'
+  https://alishawhittam.com/sensory-friendly-hospital-spaces/:
+    resolved_url: https://alishawhittam.com/sensory-friendly-hospital-spaces/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:24+00:00'
+  https://blog.avas.space/pxlarea/:
+    resolved_url: https://blog.avas.space/pxlarea/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:24+00:00'
+  https://chronicillnesstraumastudies.com/ton-mazzone-traumality-ikigai-podcast/:
+    resolved_url: https://chronicillnesstraumastudies.com/ton-mazzone-traumality-ikigai-podcast/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:27+00:00'
+  https://www.painscience.com/blog/stretch-tolerance-update.html:
+    resolved_url: https://www.painscience.com/blog/stretch-tolerance-update.html
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:27+00:00'
+  https://despitepain.com/2026/09/16/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess/:
+    resolved_url: https://despitepain.com/2026/09/16/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:29+00:00'
+  https://www.throughthefibrofog.com/roasted-red-pepper-pesto/:
+    resolved_url: https://www.throughthefibrofog.com/roasted-red-pepper-pesto/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:29+00:00'
+  https://meassociation.org.uk/2026/09/research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-finds-changes-to-cerebral-blood-flow-in-people-with-long-covid/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:30+00:00'
+  ? https://meassociation.org.uk/2026/09/i-would-be-here-if-i-could-me-association-trustee-attends-mirrorbox-event-at-the-royal-opera-house/
+  : resolved_url: https://meassociation.org.uk/2026/09/i-would-be-here-if-i-could-me-association-trustee-attends-mirrorbox-event-at-the-royal-opera-house/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:34+00:00'
+  https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/:
+    resolved_url: https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:36+00:00'
+  https://meassociation.org.uk/2026/09/research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-medrxiv-preprint-seven-replicated-genomic-associations-of-me-cfs/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:43+00:00'
+  https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/:
+    resolved_url: https://meassociation.org.uk/2026/09/members-only-notice-of-annual-general-meeting-of-the-me-association-and-registration/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:47+00:00'
+  https://www.eleanorsteinmd.ca/blog/red-light:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/red-light
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:48+00:00'
+  ? https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
+  : resolved_url: https://thesicktimes.org/2026/09/15/bezisterim-may-help-with-some-long-covid-symptoms-drugs-developer-reports-in-early-trial-results/
+    endpoint: ''
+    checked_at: '2026-09-21T10:40:48+00:00'
