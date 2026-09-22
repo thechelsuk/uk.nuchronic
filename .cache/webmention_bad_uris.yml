@@ -1068,3 +1068,7 @@ targets:
     resolved_url: https://alishawhittam.com/rome-wedding-anniversary-mecfs-travel-dream/
     reason: no-endpoint
     checked_at: '2026-09-22T14:44:16+00:00'
+  https://blog.avas.space/energydrain/:
+    resolved_url: https://blog.avas.space/energydrain/
+    reason: no-endpoint
+    checked_at: '2026-09-22T18:44:49+00:00'

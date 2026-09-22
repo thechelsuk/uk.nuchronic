@@ -4984,12 +4984,12 @@ posts:
       updated_at: '2026-09-22T14:44:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:44:04+00:00'
       verified_targets:
       - ap
-      verification_errors:
-        bsky: '[Errno -5] No address associated with hostname'
+      - bsky
+      verified_at: '2026-09-22T18:44:54+00:00'
   got-a-pixel-on-pxlarea-1d3741f610:
     source_url: https://nuchronic.uk/item/got-a-pixel-on-pxlarea-1d3741f610/
     bridgy:
@@ -4998,12 +4998,12 @@ posts:
       updated_at: '2026-09-22T14:44:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:44:01+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:54+00:00'
   silence-saves-why-we-need-quiet-spaces-in-hospitals-2dc9085d69:
     source_url: https://nuchronic.uk/item/silence-saves-why-we-need-quiet-spaces-in-hospitals-2dc9085d69/
     bridgy:
@@ -5012,12 +5012,12 @@ posts:
       updated_at: '2026-09-22T14:43:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:59+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:54+00:00'
   internet-safety-for-kids-a-love-letter-to-the-internet-d62ed7149e:
     source_url: https://nuchronic.uk/item/internet-safety-for-kids-a-love-letter-to-the-internet-d62ed7149e/
     bridgy:
@@ -5026,12 +5026,12 @@ posts:
       updated_at: '2026-09-22T14:43:58+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:58+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:53+00:00'
   ivo-21-a-paradigm-changer-and-a-mitochondrial-drug-for-me-cfs-45ab6cb7bb:
     source_url: https://nuchronic.uk/item/ivo-21-a-paradigm-changer-and-a-mitochondrial-drug-for-me-cfs-45ab6cb7bb/
     bridgy:
@@ -5040,12 +5040,12 @@ posts:
       updated_at: '2026-09-22T14:43:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:56+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:53+00:00'
   bits-and-pieces-of-the-last-month-swimming-music-raw-denim-93bc80e505:
     source_url: https://nuchronic.uk/item/bits-and-pieces-of-the-last-month-swimming-music-raw-denim-93bc80e505/
     bridgy:
@@ -5054,12 +5054,12 @@ posts:
       updated_at: '2026-09-22T14:43:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:55+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:53+00:00'
   the-true-cost-of-heavy-periods-years-of-bleeding-before-my-endometriosis-diagnos-d8baebd4af:
     source_url: https://nuchronic.uk/item/the-true-cost-of-heavy-periods-years-of-bleeding-before-my-endometriosis-diagnos-d8baebd4af/
     bridgy:
@@ -5068,12 +5068,12 @@ posts:
       updated_at: '2026-09-22T14:43:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:53+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:52+00:00'
   me-pyjama-party-e07346f62e:
     source_url: https://nuchronic.uk/item/me-pyjama-party-e07346f62e/
     bridgy:
@@ -5082,12 +5082,12 @@ posts:
       updated_at: '2026-09-22T14:43:49+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:49+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:51+00:00'
   short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming-28f9081309:
     source_url: https://nuchronic.uk/item/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming-28f9081309/
     bridgy:
@@ -5096,12 +5096,12 @@ posts:
       updated_at: '2026-09-22T14:43:47+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:48+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:50+00:00'
   covid-19-not-tiktok-is-disabling-young-women-aab047d754:
     source_url: https://nuchronic.uk/item/covid-19-not-tiktok-is-disabling-young-women-aab047d754/
     bridgy:
@@ -5110,12 +5110,12 @@ posts:
       updated_at: '2026-09-22T14:43:52+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:53+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:52+00:00'
   living-with-non-alcoholic-steatohepatitis-nash-my-story-the-research-and-what-yo-1b27585ced:
     source_url: https://nuchronic.uk/item/living-with-non-alcoholic-steatohepatitis-nash-my-story-the-research-and-what-yo-1b27585ced/
     bridgy:
@@ -5124,12 +5124,12 @@ posts:
       updated_at: '2026-09-22T14:43:50+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:51+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:51+00:00'
   not-so-much-natural-painkilling-going-on-1m-8ce204bcb4:
     source_url: https://nuchronic.uk/item/not-so-much-natural-painkilling-going-on-1m-8ce204bcb4/
     bridgy:
@@ -5138,12 +5138,12 @@ posts:
       updated_at: '2026-09-22T14:43:48+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:49+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:51+00:00'
   people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial-cd4672cf7b:
     source_url: https://nuchronic.uk/item/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial-cd4672cf7b/
     bridgy:
@@ -5152,9 +5152,21 @@ posts:
       updated_at: '2026-09-22T14:43:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T14:43:47+00:00'
-      verified_targets: []
-      verification_errors:
-        ap: '[Errno -5] No address associated with hostname'
-        bsky: '[Errno -5] No address associated with hostname'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-22T18:44:50+00:00'
+  a-source-of-drain-ac29b19d25:
+    source_url: https://nuchronic.uk/item/a-source-of-drain-ac29b19d25/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-22T18:44:48+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-22T18:44:49+00:00'
+      verified_targets:
+      - ap
