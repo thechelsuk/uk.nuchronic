@@ -5166,7 +5166,21 @@ posts:
       updated_at: '2026-09-22T18:44:48+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-22T18:44:49+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-23T11:19:36+00:00'
+  biojrnl-health-tracking-app-review-81072ed4cb:
+    source_url: https://nuchronic.uk/item/biojrnl-health-tracking-app-review-81072ed4cb/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-23T11:19:35+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-23T11:19:35+00:00'
       verified_targets:
       - ap
