@@ -5208,10 +5208,12 @@ posts:
       updated_at: '2026-09-24T18:26:32+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-24T18:26:32+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-24T22:15:58+00:00'
   the-reduction-of-intellectual-labor-f546629b2c:
     source_url: https://nuchronic.uk/item/the-reduction-of-intellectual-labor-f546629b2c/
     bridgy:
@@ -5220,7 +5222,21 @@ posts:
       updated_at: '2026-09-24T18:26:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-24T18:26:34+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-24T22:15:58+00:00'
+  elizabeth-holmes-d600fd27dd:
+    source_url: https://nuchronic.uk/item/elizabeth-holmes-d600fd27dd/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-24T22:15:57+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-24T22:15:58+00:00'
       verified_targets:
       - ap

@@ -1444,3 +1444,7 @@ targets:
     resolved_url: https://despitepain.com/2026/09/16/when-the-pain-doesnt-disappear-guest-post-by-erika-conrad-wess/
     endpoint: ''
     checked_at: '2026-09-24T18:26:50+00:00'
+  https://blog.avas.space/elizabeth-holmes/:
+    resolved_url: https://blog.avas.space/elizabeth-holmes/
+    endpoint: ''
+    checked_at: '2026-09-24T22:15:58+00:00'
