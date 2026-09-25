@@ -1,7 +1,5 @@
-{% assign min = 1 %}
-{% assign max = site.data.offers.size %}
-{% assign diff = max | minus: min %}
-{% assign item = "now" | date: "%N" | modulo: diff | plus: min %}
+{% comment %} one offer, picked at build time; every offer in the list can be picked {% endcomment %}
+{% assign item = "now" | date: "%N" | modulo: site.data.offers.size %}
 {% assign offer = site.data.offers[item] %}
 <ol class="stories">
     <li class="story story-highlighted">
@@ -10,7 +8,7 @@
             <h2 class="story-title">
                 <a href="{{ offer.link }}" rel="sponsored nofollow">{{offer.title}}</a>
             </h2>
-            <p class="story-meta">Sponsored <span class="meta-separator">·</span> T&Cs apply</p>
+            <p class="story-meta">{% if offer.meta %}{{ offer.meta }}{% else %}Sponsored <span class="meta-separator">·</span> T&Cs apply{% endif %}</p>
         </div>
     </li>
 </ol>
