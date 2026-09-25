@@ -1363,63 +1363,63 @@ targets:
   https://meassociation.org.uk/2026/09/research-discover-me/:
     resolved_url: https://meassociation.org.uk/2026/09/research-discover-me/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:13+00:00'
+    checked_at: '2026-09-25T13:34:19+00:00'
   https://blog.avas.space/intellectual-labor/:
     resolved_url: https://blog.avas.space/intellectual-labor/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:09+00:00'
+    checked_at: '2026-09-25T13:34:16+00:00'
   https://invisiblyme.com/sickfluencer-scam/:
     resolved_url: https://invisiblyme.com/sickfluencer-scam/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:13+00:00'
+    checked_at: '2026-09-25T13:34:20+00:00'
   https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/:
     resolved_url: https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:14+00:00'
+    checked_at: '2026-09-25T13:34:20+00:00'
   https://blog.avas.space/energydrain/:
     resolved_url: https://blog.avas.space/energydrain/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:14+00:00'
+    checked_at: '2026-09-25T13:34:20+00:00'
   https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/:
     resolved_url: https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:14+00:00'
+    checked_at: '2026-09-25T13:34:20+00:00'
   https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html:
     resolved_url: https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html
     endpoint: ''
-    checked_at: '2026-09-25T07:33:14+00:00'
+    checked_at: '2026-09-25T13:34:20+00:00'
   https://alishawhittam.com/me-pyjama-party-25/:
     resolved_url: https://alishawhittam.com/me-pyjama-party-25/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:15+00:00'
+    checked_at: '2026-09-25T13:34:25+00:00'
   https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/:
     resolved_url: https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:16+00:00'
+    checked_at: '2026-09-25T13:34:32+00:00'
   https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/:
     resolved_url: https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:16+00:00'
+    checked_at: '2026-09-25T13:34:32+00:00'
   https://alishawhittam.com/heavy-periods-with-endometriosis/:
     resolved_url: https://alishawhittam.com/heavy-periods-with-endometriosis/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:17+00:00'
+    checked_at: '2026-09-25T13:34:34+00:00'
   https://www.youtube.com/watch?v=BFDgCp0_UBU:
     resolved_url: https://www.youtube.com/watch?v=BFDgCp0_UBU
     endpoint: ''
-    checked_at: '2026-09-25T07:33:17+00:00'
+    checked_at: '2026-09-25T13:34:34+00:00'
   https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/:
     resolved_url: https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:20+00:00'
+    checked_at: '2026-09-25T13:34:37+00:00'
   https://blog.avas.space/think-of-the-children/:
     resolved_url: https://blog.avas.space/think-of-the-children/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:20+00:00'
+    checked_at: '2026-09-25T13:34:38+00:00'
   https://despitepain.com/2026/09/19/biojrnl-health-tracking-app-review/:
     resolved_url: https://despitepain.com/2026/09/19/biojrnl-health-tracking-app-review/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:20+00:00'
+    checked_at: '2026-09-25T13:34:39+00:00'
   https://alishawhittam.com/sensory-friendly-hospital-spaces/:
     resolved_url: https://alishawhittam.com/sensory-friendly-hospital-spaces/
     endpoint: ''
@@ -1443,7 +1443,7 @@ targets:
   https://blog.avas.space/elizabeth-holmes/:
     resolved_url: https://blog.avas.space/elizabeth-holmes/
     endpoint: ''
-    checked_at: '2026-09-25T07:33:13+00:00'
+    checked_at: '2026-09-25T13:34:19+00:00'
   https://thechels.uk/gumroad-updated:
     resolved_url: https://thechels.uk/gumroad-updated
     endpoint: https://webmention.io/thechels.uk/webmention
@@ -1456,3 +1456,11 @@ targets:
     resolved_url: https://thechels.uk/etsy-shop-launched
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-09-25T07:33:09+00:00'
+  https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
+    endpoint: ''
+    checked_at: '2026-09-25T13:34:14+00:00'
+  ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+  : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+    endpoint: ''
+    checked_at: '2026-09-25T13:34:16+00:00'
