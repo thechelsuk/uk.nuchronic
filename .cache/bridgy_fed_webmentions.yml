@@ -5250,7 +5250,21 @@ posts:
       updated_at: '2026-09-25T01:24:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-25T01:24:31+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-25T07:33:09+00:00'
+  mltply-workbooks-are-on-etsy-24558f492b:
+    source_url: https://nuchronic.uk/item/mltply-workbooks-are-on-etsy-24558f492b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-25T07:33:08+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-25T07:33:08+00:00'
       verified_targets:
       - ap
