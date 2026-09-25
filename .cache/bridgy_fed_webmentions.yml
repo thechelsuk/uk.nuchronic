@@ -5236,7 +5236,21 @@ posts:
       updated_at: '2026-09-24T22:15:57+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-24T22:15:58+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-25T01:24:33+00:00'
+  i-ve-opened-a-shop-2cff259910:
+    source_url: https://nuchronic.uk/item/i-ve-opened-a-shop-2cff259910/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-25T01:24:31+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-25T01:24:31+00:00'
       verified_targets:
       - ap
