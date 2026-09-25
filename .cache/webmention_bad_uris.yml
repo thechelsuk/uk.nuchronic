@@ -1028,75 +1028,79 @@ targets:
     resolved_url: https://blog.avas.space/pxlarea/
     reason: no-endpoint
     checked_at: '2026-09-25T07:33:21+00:00'
-  https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:14+00:00'
-  ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-  : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:16+00:00'
-  https://blog.avas.space/intellectual-labor/:
-    resolved_url: https://blog.avas.space/intellectual-labor/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:16+00:00'
-  https://meassociation.org.uk/2026/09/research-discover-me/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-discover-me/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:19+00:00'
-  https://blog.avas.space/elizabeth-holmes/:
-    resolved_url: https://blog.avas.space/elizabeth-holmes/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:19+00:00'
-  https://invisiblyme.com/sickfluencer-scam/:
-    resolved_url: https://invisiblyme.com/sickfluencer-scam/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:20+00:00'
-  https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/:
-    resolved_url: https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:20+00:00'
-  https://blog.avas.space/energydrain/:
-    resolved_url: https://blog.avas.space/energydrain/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:20+00:00'
-  https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/:
-    resolved_url: https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:20+00:00'
-  https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html:
-    resolved_url: https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:20+00:00'
-  https://alishawhittam.com/me-pyjama-party-25/:
-    resolved_url: https://alishawhittam.com/me-pyjama-party-25/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:25+00:00'
-  https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/:
-    resolved_url: https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:32+00:00'
-  https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/:
-    resolved_url: https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:32+00:00'
-  https://alishawhittam.com/heavy-periods-with-endometriosis/:
-    resolved_url: https://alishawhittam.com/heavy-periods-with-endometriosis/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:34+00:00'
-  https://www.youtube.com/watch?v=BFDgCp0_UBU:
-    resolved_url: https://www.youtube.com/watch?v=BFDgCp0_UBU
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:34+00:00'
-  https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/:
-    resolved_url: https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:37+00:00'
-  https://blog.avas.space/think-of-the-children/:
-    resolved_url: https://blog.avas.space/think-of-the-children/
-    reason: no-endpoint
-    checked_at: '2026-09-25T13:34:38+00:00'
   https://despitepain.com/2026/09/19/biojrnl-health-tracking-app-review/:
     resolved_url: https://despitepain.com/2026/09/19/biojrnl-health-tracking-app-review/
     reason: no-endpoint
     checked_at: '2026-09-25T13:34:39+00:00'
+  ? https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+  : resolved_url: https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:12+00:00'
+  ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+  : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:13+00:00'
+  https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:15+00:00'
+  https://blog.avas.space/intellectual-labor/:
+    resolved_url: https://blog.avas.space/intellectual-labor/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:15+00:00'
+  https://meassociation.org.uk/2026/09/research-discover-me/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-discover-me/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:16+00:00'
+  https://blog.avas.space/elizabeth-holmes/:
+    resolved_url: https://blog.avas.space/elizabeth-holmes/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:16+00:00'
+  https://invisiblyme.com/sickfluencer-scam/:
+    resolved_url: https://invisiblyme.com/sickfluencer-scam/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:17+00:00'
+  https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/:
+    resolved_url: https://thesicktimes.org/2026/09/22/people-with-long-covid-demand-pause-of-mcmaster-university-clinical-trial/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:17+00:00'
+  https://blog.avas.space/energydrain/:
+    resolved_url: https://blog.avas.space/energydrain/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:17+00:00'
+  https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/:
+    resolved_url: https://lightscameracrohns.com/2026/09/21/short-bowel-syndrome-the-complication-many-ibd-patients-may-not-see-coming/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:18+00:00'
+  https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html:
+    resolved_url: https://www.painscience.com/blog/not-so-much-natural-painkilling-going-on.html
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:18+00:00'
+  https://alishawhittam.com/me-pyjama-party-25/:
+    resolved_url: https://alishawhittam.com/me-pyjama-party-25/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:20+00:00'
+  https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/:
+    resolved_url: https://alishawhittam.com/living-with-non-alcoholic-steatohepatitis-nash/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:21+00:00'
+  https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/:
+    resolved_url: https://thesicktimes.org/2026/09/21/covid-19-not-tiktok-is-disabling-young-women/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:21+00:00'
+  https://alishawhittam.com/heavy-periods-with-endometriosis/:
+    resolved_url: https://alishawhittam.com/heavy-periods-with-endometriosis/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:22+00:00'
+  https://www.youtube.com/watch?v=BFDgCp0_UBU:
+    resolved_url: https://www.youtube.com/watch?v=BFDgCp0_UBU
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:22+00:00'
+  https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/19/ivo-21-mitochondrial-drug-chronic-fatigue/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:24+00:00'
+  https://blog.avas.space/think-of-the-children/:
+    resolved_url: https://blog.avas.space/think-of-the-children/
+    reason: no-endpoint
+    checked_at: '2026-09-25T21:46:25+00:00'
