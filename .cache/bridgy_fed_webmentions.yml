@@ -5306,7 +5306,33 @@ posts:
       updated_at: '2026-09-25T21:46:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-25T21:46:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-26T07:26:47+00:00'
+  thinking-of-the-future-thinking-of-the-past-03bf518b8e:
+    source_url: https://nuchronic.uk/item/thinking-of-the-future-thinking-of-the-past-03bf518b8e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-26T07:26:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-26T07:26:41+00:00'
+      verified_targets:
+      - ap
+  trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect-5a09923615:
+    source_url: https://nuchronic.uk/item/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect-5a09923615/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-26T07:26:42+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-26T07:26:42+00:00'
       verified_targets:
       - ap
