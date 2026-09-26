@@ -5348,7 +5348,33 @@ posts:
       updated_at: '2026-09-26T12:59:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-26T12:59:32+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-26T22:38:24+00:00'
+  lbc-natasha-devon-interview-with-george-monbiot-31e390a11a:
+    source_url: https://nuchronic.uk/item/lbc-natasha-devon-interview-with-george-monbiot-31e390a11a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-26T22:38:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-26T22:38:21+00:00'
+      verified_targets:
+      - ap
+  merz-bad-187280d8b3:
+    source_url: https://nuchronic.uk/item/merz-bad-187280d8b3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-26T22:38:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-26T22:38:22+00:00'
       verified_targets:
       - ap
