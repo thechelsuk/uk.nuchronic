@@ -1,0 +1,17 @@
+{% comment %} Nuchronic printables as cards. Pass limit=N to show fewer. {% endcomment %}
+<div class="printables">
+  {% for p in site.data.printables limit: include.limit | default: 99 %}
+  <article class="printable">
+    <a class="printable-image" href="{{ p.gumroad }}"><img src="{{ p.image | relative_url }}" alt="{{ p.title }} cover" width="900" height="720" loading="lazy"></a>
+    <div class="printable-body">
+      <h3 class="printable-title">{{ p.title }}</h3>
+      <p>{{ p.summary }}</p>
+      <p class="printable-meta">{{ p.details }} <span class="meta-separator">·</span> {{ p.price }}</p>
+      <p class="printable-buy">
+        <a class="printable-button" href="{{ p.gumroad }}">Buy on Gumroad</a>
+        <a class="printable-button secondary" href="{{ p.etsy }}">Buy on Etsy</a>
+      </p>
+    </div>
+  </article>
+  {% endfor %}
+</div>

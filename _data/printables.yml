@@ -1,0 +1,18 @@
+# Nuchronic printables, shown on /printables and the About page.
+# Gumroad prices are before VAT (added at checkout); Etsy shows prices including VAT.
+- id: symptom-tracker
+  title: "Symptom & Energy Tracker 2027"
+  summary: "A square for every day of 2027, a dated page for every month and a year review. Track symptoms, energy, PEM, sleep, pain and brain fog on a simple 0 to 4 scale, and take it to your appointments."
+  details: "18 landscape pages · A4 and US Letter"
+  price: "From £2.99"
+  image: /assets/printables/symptom-tracker.jpg
+  gumroad: "https://shop.thechels.uk/l/symptom-tracker-2027"
+  etsy: "https://www.etsy.com/shop/thechelsuk?section_id=60562145"
+- id: activity-diary
+  title: "Activity & Pacing Diary"
+  summary: "Four weeks, hour by hour. Write a number from 0 to 4 in each box to see how you spend your energy, spot boom-and-bust patterns, and take a clear record to your next appointment."
+  details: "9 landscape pages · A4 and US Letter"
+  price: "From £2.49"
+  image: /assets/printables/activity-diary.jpg
+  gumroad: "https://shop.thechels.uk/l/activity-diary"
+  etsy: "https://www.etsy.com/uk/listing/4582730244/activity-and-pacing-diary-me-cfs-chronic"
