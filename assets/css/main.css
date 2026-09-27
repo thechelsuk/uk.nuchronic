@@ -703,7 +703,7 @@ pre code {
 .printable-body p { margin: 0 0 10px; color: var(--text-dim); }
 .printable-meta { font-size: 0.85rem; color: var(--text-faint) !important; }
 .printable-buy { display: flex; flex-wrap: wrap; gap: 10px; margin: auto 0 0 !important; padding-top: 6px; }
-.printable-button { display: inline-block; padding: 8px 14px; border-radius: 8px; background: var(--accent); color: #1e1208; font-weight: 600; text-decoration: none; }
-.printable-button:hover { background: var(--accent-soft); }
-.printable-button.secondary { background: transparent; color: var(--text); border: 1px solid var(--border); }
-.printable-button.secondary:hover { border-color: var(--accent); color: var(--accent-soft); }
+.printable-body a.printable-button { display: inline-block; padding: 9px 16px; border-radius: 8px; background: var(--accent); color: #1e1208; font-weight: 700; text-decoration: none; border: 1px solid var(--accent); }
+.printable-body a.printable-button:hover { background: var(--accent-soft); border-color: var(--accent-soft); color: #1e1208; }
+.printable-body a.printable-button.secondary { background: transparent; color: var(--text); border: 1px solid var(--text-faint); }
+.printable-body a.printable-button.secondary:hover { border-color: var(--accent-soft); color: var(--accent-soft); }
