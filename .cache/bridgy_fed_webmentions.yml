@@ -5362,10 +5362,12 @@ posts:
       updated_at: '2026-09-26T22:38:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-26T22:38:21+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-09-27T13:49:23+00:00'
   merz-bad-187280d8b3:
     source_url: https://nuchronic.uk/item/merz-bad-187280d8b3/
     bridgy:
@@ -5374,7 +5376,21 @@ posts:
       updated_at: '2026-09-26T22:38:22+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-26T22:38:22+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-27T13:49:23+00:00'
+  book-bad-blood-by-john-carreyrou-e4b909084e:
+    source_url: https://nuchronic.uk/item/book-bad-blood-by-john-carreyrou-e4b909084e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-27T13:49:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-27T13:49:21+00:00'
       verified_targets:
       - ap
