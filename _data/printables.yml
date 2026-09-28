@@ -16,6 +16,14 @@
   image: /assets/printables/appointment-pack.jpg
   gumroad: "https://shop.thechels.uk/l/appointment-pack"
   etsy: "https://www.etsy.com/uk/listing/4583944659/medical-appointment-planner-printable"
+- id: crash-plan
+  title: "Crash Plan"
+  summary: "Write it on a good day, use it on a bad one. Your warning signs, what helps during a crash, who to tell and how they can help, what can wait, and a fridge sheet for your household."
+  details: "10 landscape pages · A4 and US Letter"
+  price: "From £2.49"
+  image: /assets/printables/crash-plan.jpg
+  gumroad: "https://shop.thechels.uk/l/crash-plan"
+  etsy: "https://www.etsy.com/shop/thechelsuk?section_id=60562145"
 - id: activity-diary
   title: "Activity & Pacing Diary"
   summary: "Four weeks, hour by hour. Write a number from 0 to 4 in each box to see how you spend your energy, spot boom-and-bust patterns, and take a clear record to your next appointment."
