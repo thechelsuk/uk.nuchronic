@@ -9,7 +9,7 @@
       <p class="printable-meta">{{ p.details }} <span class="meta-separator">·</span> {{ p.price }}</p>
       <p class="printable-buy">
         <a class="printable-button" href="{{ p.gumroad }}">Buy on Gumroad</a>
-        <a class="printable-button secondary" href="{{ p.etsy }}">Buy on Etsy</a>
+        {% if p.etsy %}<a class="printable-button secondary" href="{{ p.etsy }}">Buy on Etsy</a>{% endif %}
       </p>
     </div>
   </article>
