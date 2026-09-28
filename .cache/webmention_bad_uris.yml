@@ -1140,3 +1140,7 @@ targets:
     resolved_url: https://blog.avas.space/spider-woman-puig/
     reason: no-endpoint
     checked_at: '2026-09-28T15:19:08+00:00'
+  https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/:
+    resolved_url: https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/
+    reason: no-endpoint
+    checked_at: '2026-09-28T16:28:11+00:00'
