@@ -1136,3 +1136,7 @@ targets:
     resolved_url: https://blog.avas.space/energydrain/
     reason: no-endpoint
     checked_at: '2026-09-28T13:02:37+00:00'
+  https://blog.avas.space/spider-woman-puig/:
+    resolved_url: https://blog.avas.space/spider-woman-puig/
+    reason: no-endpoint
+    checked_at: '2026-09-28T15:19:08+00:00'
