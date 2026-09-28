@@ -41,6 +41,8 @@ header_nav:
       url: /about
     - label: Printables
       url: /printables
+    - label: App
+      url: /app
     - label: Submit
       url: https://github.com/thechelsuk/uk.nuchronic/issues/new?template=feed-submission.yml
 footer_nav:
@@ -50,6 +52,8 @@ footer_nav:
   links:
     - label: About
       url: "/about"
+    - label: App
+      url: "/app"
     - label: Terms
       url: "/terms"
     - label: Privacy
