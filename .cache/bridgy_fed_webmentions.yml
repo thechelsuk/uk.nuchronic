@@ -5474,7 +5474,21 @@ posts:
       updated_at: '2026-09-29T01:44:54+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-29T01:44:54+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-29T15:41:19+00:00'
+  bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framew-d423bf9a21:
+    source_url: https://nuchronic.uk/item/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framew-d423bf9a21/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-29T15:41:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-29T15:41:17+00:00'
       verified_targets:
       - ap
