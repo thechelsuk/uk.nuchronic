@@ -5460,7 +5460,21 @@ posts:
       updated_at: '2026-09-28T16:28:08+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-28T16:28:08+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-29T01:44:54+00:00'
+  sleep-apnea-and-pain-not-the-clear-link-youd-think-3m-d4830aa12d:
+    source_url: https://nuchronic.uk/item/sleep-apnea-and-pain-not-the-clear-link-youd-think-3m-d4830aa12d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-29T01:44:54+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-29T01:44:54+00:00'
       verified_targets:
       - ap

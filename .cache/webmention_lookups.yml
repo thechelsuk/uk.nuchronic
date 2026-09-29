@@ -1432,66 +1432,6 @@ targets:
     resolved_url: https://thechels.uk/weaknotes-2026-09-27
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-09-27T18:15:55+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-28T13:02:16+00:00'
-  https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/:
-    resolved_url: https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:20+00:00'
-  https://blog.avas.space/badblood-carreyrou/:
-    resolved_url: https://blog.avas.space/badblood-carreyrou/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:20+00:00'
-  https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/:
-    resolved_url: https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:23+00:00'
-  https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
-    resolved_url: https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:24+00:00'
-  https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/:
-    resolved_url: https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:24+00:00'
-  https://blog.avas.space/merz-is-bad/:
-    resolved_url: https://blog.avas.space/merz-is-bad/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:24+00:00'
-  https://www.youtube.com/watch?v=H2rRf_f2hJs:
-    resolved_url: https://www.youtube.com/watch?v=H2rRf_f2hJs
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:24+00:00'
-  https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
-    resolved_url: https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:27+00:00'
-  ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-  : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:28+00:00'
-  https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:31+00:00'
-  ? https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-  : resolved_url: https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:31+00:00'
-  https://blog.avas.space/intellectual-labor/:
-    resolved_url: https://blog.avas.space/intellectual-labor/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:32+00:00'
-  https://meassociation.org.uk/2026/09/research-discover-me/:
-    resolved_url: https://meassociation.org.uk/2026/09/research-discover-me/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:35+00:00'
-  https://blog.avas.space/elizabeth-holmes/:
-    resolved_url: https://blog.avas.space/elizabeth-holmes/
-    endpoint: ''
-    checked_at: '2026-09-28T13:02:35+00:00'
   https://invisiblyme.com/sickfluencer-scam/:
     resolved_url: https://invisiblyme.com/sickfluencer-scam/
     endpoint: ''
@@ -1507,8 +1447,72 @@ targets:
   https://blog.avas.space/spider-woman-puig/:
     resolved_url: https://blog.avas.space/spider-woman-puig/
     endpoint: ''
-    checked_at: '2026-09-28T15:19:08+00:00'
+    checked_at: '2026-09-29T01:44:55+00:00'
   https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/:
     resolved_url: https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/
     endpoint: ''
-    checked_at: '2026-09-28T16:28:11+00:00'
+    checked_at: '2026-09-29T01:44:55+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-29T01:44:54+00:00'
+  https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html:
+    resolved_url: https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:54+00:00'
+  https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/:
+    resolved_url: https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:55+00:00'
+  https://blog.avas.space/badblood-carreyrou/:
+    resolved_url: https://blog.avas.space/badblood-carreyrou/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:56+00:00'
+  https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:57+00:00'
+  https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
+    resolved_url: https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:58+00:00'
+  https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/:
+    resolved_url: https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:58+00:00'
+  https://blog.avas.space/merz-is-bad/:
+    resolved_url: https://blog.avas.space/merz-is-bad/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:59+00:00'
+  https://www.youtube.com/watch?v=H2rRf_f2hJs:
+    resolved_url: https://www.youtube.com/watch?v=H2rRf_f2hJs
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:59+00:00'
+  https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
+    resolved_url: https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
+    endpoint: ''
+    checked_at: '2026-09-29T01:44:59+00:00'
+  ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+  : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:00+00:00'
+  https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:00+00:00'
+  ? https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+  : resolved_url: https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:00+00:00'
+  https://blog.avas.space/intellectual-labor/:
+    resolved_url: https://blog.avas.space/intellectual-labor/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:01+00:00'
+  https://meassociation.org.uk/2026/09/research-discover-me/:
+    resolved_url: https://meassociation.org.uk/2026/09/research-discover-me/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:01+00:00'
+  https://blog.avas.space/elizabeth-holmes/:
+    resolved_url: https://blog.avas.space/elizabeth-holmes/
+    endpoint: ''
+    checked_at: '2026-09-29T01:45:01+00:00'
