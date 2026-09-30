@@ -5530,7 +5530,21 @@ posts:
       updated_at: '2026-09-30T13:35:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-30T13:35:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-30T19:04:15+00:00'
+  daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-d-c7ec24cda7:
+    source_url: https://nuchronic.uk/item/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-d-c7ec24cda7/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-30T19:04:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-30T19:04:13+00:00'
       verified_targets:
       - ap

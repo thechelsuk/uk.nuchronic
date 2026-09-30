@@ -1460,10 +1460,6 @@ targets:
     resolved_url: https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/
     endpoint: ''
     checked_at: '2026-09-30T13:35:11+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-09-30T06:33:48+00:00'
   https://achronicvoice.com/october-november-writing-prompts-chronic-illness-disabilities-2026/:
     resolved_url: https://achronicvoice.com/october-november-writing-prompts-chronic-illness-disabilities-2026/
     endpoint: https://achronicvoice.com/webmentions/receive/
@@ -1532,3 +1528,11 @@ targets:
     resolved_url: https://blog.avas.space/rosebudthorn-sep26/
     endpoint: ''
     checked_at: '2026-09-30T13:35:11+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-09-30T19:04:13+00:00'
+  ? https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
+  : resolved_url: https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
+    endpoint: ''
+    checked_at: '2026-09-30T19:04:14+00:00'
