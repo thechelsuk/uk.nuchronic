@@ -1459,7 +1459,7 @@ targets:
   https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/:
     resolved_url: https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:50+00:00'
+    checked_at: '2026-09-30T13:35:11+00:00'
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
@@ -1471,60 +1471,64 @@ targets:
   ? https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
   : resolved_url: https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:51+00:00'
+    checked_at: '2026-09-30T13:35:14+00:00'
   https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/:
     resolved_url: https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:52+00:00'
+    checked_at: '2026-09-30T13:35:15+00:00'
   https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html:
     resolved_url: https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html
     endpoint: ''
-    checked_at: '2026-09-30T06:33:52+00:00'
+    checked_at: '2026-09-30T13:35:15+00:00'
   https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/:
     resolved_url: https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:53+00:00'
+    checked_at: '2026-09-30T13:35:18+00:00'
   https://blog.avas.space/spider-woman-puig/:
     resolved_url: https://blog.avas.space/spider-woman-puig/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:53+00:00'
+    checked_at: '2026-09-30T13:35:18+00:00'
   https://blog.avas.space/badblood-carreyrou/:
     resolved_url: https://blog.avas.space/badblood-carreyrou/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:53+00:00'
+    checked_at: '2026-09-30T13:35:18+00:00'
   https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/:
     resolved_url: https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:55+00:00'
+    checked_at: '2026-09-30T13:35:20+00:00'
   https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
     resolved_url: https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:56+00:00'
+    checked_at: '2026-09-30T13:35:21+00:00'
   https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/:
     resolved_url: https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:57+00:00'
+    checked_at: '2026-09-30T13:35:21+00:00'
   https://blog.avas.space/merz-is-bad/:
     resolved_url: https://blog.avas.space/merz-is-bad/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:57+00:00'
+    checked_at: '2026-09-30T13:35:21+00:00'
   https://www.youtube.com/watch?v=H2rRf_f2hJs:
     resolved_url: https://www.youtube.com/watch?v=H2rRf_f2hJs
     endpoint: ''
-    checked_at: '2026-09-30T06:33:57+00:00'
+    checked_at: '2026-09-30T13:35:21+00:00'
   https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
     resolved_url: https://trialbyerror.org/2026/09/25/blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:57+00:00'
+    checked_at: '2026-09-30T13:35:22+00:00'
   ? https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
   : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
     endpoint: ''
-    checked_at: '2026-09-30T06:33:58+00:00'
+    checked_at: '2026-09-30T13:35:23+00:00'
   https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/:
     resolved_url: https://meassociation.org.uk/2026/09/research-update-mea-clinical-assessment-toolkit-mea-cat-stage-ii/
     endpoint: ''
-    checked_at: '2026-09-30T06:34:00+00:00'
+    checked_at: '2026-09-30T13:35:26+00:00'
   ? https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
   : resolved_url: https://trialbyerror.org/2026/09/25/journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
     endpoint: ''
-    checked_at: '2026-09-30T06:34:00+00:00'
+    checked_at: '2026-09-30T13:35:26+00:00'
+  https://blog.avas.space/rosebudthorn-sep26/:
+    resolved_url: https://blog.avas.space/rosebudthorn-sep26/
+    endpoint: ''
+    checked_at: '2026-09-30T13:35:11+00:00'

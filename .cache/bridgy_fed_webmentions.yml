@@ -5516,7 +5516,21 @@ posts:
       updated_at: '2026-09-30T06:33:48+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-30T06:33:48+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-09-30T13:35:11+00:00'
+  rose-bud-thorn-september-2026-1c36e45448:
+    source_url: https://nuchronic.uk/item/rose-bud-thorn-september-2026-1c36e45448/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-09-30T13:35:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-09-30T13:35:11+00:00'
       verified_targets:
       - ap
