@@ -5544,7 +5544,33 @@ posts:
       updated_at: '2026-09-30T19:04:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-09-30T19:04:13+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-01T21:47:36+00:00'
+  interview-with-george-monbiot-on-recent-guardian-column-dfe9e7f000:
+    source_url: https://nuchronic.uk/item/interview-with-george-monbiot-on-recent-guardian-column-dfe9e7f000/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-01T21:47:33+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-01T21:47:33+00:00'
+      verified_targets:
+      - ap
+  trial-by-error-interview-with-george-monbiot-on-recent-guardian-column-dfe9e7f000:
+    source_url: https://nuchronic.uk/item/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column-dfe9e7f000/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-01T21:47:34+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-01T21:47:35+00:00'
       verified_targets:
       - ap
