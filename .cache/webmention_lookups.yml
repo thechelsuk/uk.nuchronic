@@ -1480,79 +1480,83 @@ targets:
   : resolved_url: https://virology.ws/2026/09/25/trial-by-error-journal-of-psychosomatic-research-publishes-first-person-account-of-cure-with-the-lightning-process/
     endpoint: ''
     checked_at: '2026-10-01T21:47:50+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-10-02T20:38:16+00:00'
-  https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:18+00:00'
-  https://www.throughthefibrofog.com/ginger-oatmeal/:
-    resolved_url: https://www.throughthefibrofog.com/ginger-oatmeal/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:19+00:00'
-  https://www.painscience.com/blog/painsciencecom-just-sped-up.html:
-    resolved_url: https://www.painscience.com/blog/painsciencecom-just-sped-up.html
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:20+00:00'
-  https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/:
-    resolved_url: https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:21+00:00'
-  https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/:
-    resolved_url: https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:22+00:00'
-  https://blog.avas.space/rosebudthorn-sep26/:
-    resolved_url: https://blog.avas.space/rosebudthorn-sep26/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:22+00:00'
-  ? https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
-  : resolved_url: https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:23+00:00'
-  https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/:
-    resolved_url: https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:24+00:00'
-  ? https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
-  : resolved_url: https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:25+00:00'
-  https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/:
-    resolved_url: https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:26+00:00'
-  https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html:
-    resolved_url: https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:26+00:00'
-  https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/:
-    resolved_url: https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:27+00:00'
-  https://blog.avas.space/spider-woman-puig/:
-    resolved_url: https://blog.avas.space/spider-woman-puig/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:27+00:00'
-  https://blog.avas.space/badblood-carreyrou/:
-    resolved_url: https://blog.avas.space/badblood-carreyrou/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:27+00:00'
-  https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/:
-    resolved_url: https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:29+00:00'
-  https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
-    resolved_url: https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:30+00:00'
-  https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/:
-    resolved_url: https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/
-    endpoint: ''
-    checked_at: '2026-10-02T20:38:30+00:00'
   https://blog.avas.space/merz-is-bad/:
     resolved_url: https://blog.avas.space/merz-is-bad/
     endpoint: ''
     checked_at: '2026-10-02T20:38:30+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-10-04T21:11:59+00:00'
+  https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/:
+    resolved_url: https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:00+00:00'
+  https://www.painscience.com/blog/painsciencecom-just-sped-up.html:
+    resolved_url: https://www.painscience.com/blog/painsciencecom-just-sped-up.html
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:01+00:00'
+  https://www.throughthefibrofog.com/ginger-oatmeal/:
+    resolved_url: https://www.throughthefibrofog.com/ginger-oatmeal/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:01+00:00'
+  https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:02+00:00'
+  https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/:
+    resolved_url: https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:02+00:00'
+  https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/:
+    resolved_url: https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:03+00:00'
+  https://blog.avas.space/rosebudthorn-sep26/:
+    resolved_url: https://blog.avas.space/rosebudthorn-sep26/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:03+00:00'
+  ? https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
+  : resolved_url: https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:07+00:00'
+  https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/:
+    resolved_url: https://thesicktimes.org/2026/09/29/i-interviewed-five-people-with-long-covid-in-prison-they-are-invisible-in-the-system/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:07+00:00'
+  ? https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
+  : resolved_url: https://meassociation.org.uk/2026/09/bioengineer-lupus-patients-with-stubborn-symptoms-may-resemble-me-cfs-new-framework-suggests/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:07+00:00'
+  https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/:
+    resolved_url: https://www.lifeofpippa.co.uk/2026/09/28/where-to-hire-a-tramper-in-the-uk/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:08+00:00'
+  https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html:
+    resolved_url: https://www.painscience.com/blog/sleep-apnea-and-pain-not-strongly-linked.html
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:08+00:00'
+  https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/:
+    resolved_url: https://meassociation.org.uk/2026/09/british-psychological-society-me-cfs-guidelines-september-2026-update/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:09+00:00'
+  https://blog.avas.space/spider-woman-puig/:
+    resolved_url: https://blog.avas.space/spider-woman-puig/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:09+00:00'
+  https://blog.avas.space/badblood-carreyrou/:
+    resolved_url: https://blog.avas.space/badblood-carreyrou/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:09+00:00'
+  https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/:
+    resolved_url: https://www.healthrising.org/blog/2026/09/27/bezisterim-long-covid-biovie/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:11+00:00'
+  https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/:
+    resolved_url: https://virology.ws/2026/09/26/trial-by-error-blistering-new-monbiot-column-on-me-cfs-mistreatment-neglect/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:11+00:00'
+  https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/:
+    resolved_url: https://mhmiller.bearblog.dev/thinking-of-the-future-thinking-of-the-past/
+    endpoint: ''
+    checked_at: '2026-10-04T21:12:11+00:00'

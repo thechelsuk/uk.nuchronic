@@ -5586,10 +5586,12 @@ posts:
       updated_at: '2026-10-02T20:38:16+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-02T20:38:16+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-04T21:12:01+00:00'
   ginger-oatmeal-daae669f30:
     source_url: https://nuchronic.uk/item/ginger-oatmeal-daae669f30/
     bridgy:
@@ -5598,10 +5600,12 @@ posts:
       updated_at: '2026-10-02T20:38:19+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-02T20:38:19+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-04T21:12:01+00:00'
   painscience-com-just-sped-up-3m-2f80c621f8:
     source_url: https://nuchronic.uk/item/painscience-com-just-sped-up-3m-2f80c621f8/
     bridgy:
@@ -5610,7 +5614,21 @@ posts:
       updated_at: '2026-10-02T20:38:20+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-02T20:38:20+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-04T21:12:01+00:00'
+  the-eternal-me-cfs-fibromyalgia-question-how-close-are-they-49aea7fd00:
+    source_url: https://nuchronic.uk/item/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they-49aea7fd00/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-04T21:11:59+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-04T21:11:59+00:00'
       verified_targets:
       - ap
