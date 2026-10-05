@@ -5642,10 +5642,12 @@ posts:
       updated_at: '2026-10-05T15:49:33+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-05T15:49:34+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-05T22:29:50+00:00'
   what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-c19a2f6dc4:
     source_url: https://nuchronic.uk/item/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-c19a2f6dc4/
     bridgy:
@@ -5654,7 +5656,21 @@ posts:
       updated_at: '2026-10-05T15:49:34+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-05T15:49:34+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-05T22:29:49+00:00'
+  kids-with-long-covid-co-created-their-own-superhero-comic-book-ba7ece830c:
+    source_url: https://nuchronic.uk/item/kids-with-long-covid-co-created-their-own-superhero-comic-book-ba7ece830c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-05T22:29:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-05T22:29:46+00:00'
       verified_targets:
       - ap
