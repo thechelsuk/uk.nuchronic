@@ -5628,7 +5628,33 @@ posts:
       updated_at: '2026-10-04T21:11:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-04T21:11:59+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-05T15:49:35+00:00'
+  nice-things-ive-done-for-myself-lately-2d506505a8:
+    source_url: https://nuchronic.uk/item/nice-things-ive-done-for-myself-lately-2d506505a8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-05T15:49:33+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-05T15:49:34+00:00'
+      verified_targets:
+      - ap
+  what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-c19a2f6dc4:
+    source_url: https://nuchronic.uk/item/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-c19a2f6dc4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-05T15:49:34+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-05T15:49:34+00:00'
       verified_targets:
       - ap
