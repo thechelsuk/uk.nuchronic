@@ -471,12 +471,15 @@ pre code {
 }
 
 .entry-body {
-  max-width: 68ch;
   margin-top: 24px;
   color: var(--text-dim);
 }
 
-.entry-body a {
+.entry-body > :where(p, ul, ol, blockquote, h2, h3, h4) {
+  max-width: 68ch;
+}
+
+:where(.entry-body) a {
   color: var(--accent-soft);
 }
 
@@ -709,11 +712,11 @@ pre code {
 .printable-body a.printable-button.secondary:hover { border-color: var(--accent-soft); color: var(--accent-soft); }
 
 /* App page (pages/app.md) */
-.app-shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 24px 0 20px; }
+.app-shots { max-width: 900px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; margin: 24px 0 20px; }
 .app-shots figure { margin: 0; text-align: center; }
 .app-shots img { display: block; width: 100%; height: auto; border-radius: 22px; border: 1px solid var(--border); }
 .app-shots figcaption { margin-top: 8px; font-size: 0.85rem; color: var(--text-dim); }
-.app-cta { text-align: center; margin: 8px 0 28px; }
-.entry-body a.app-button { display: inline-block; padding: 11px 20px; border-radius: 10px; font-weight: 700; text-decoration: none; background: var(--accent); color: #1e1208; border: 1px solid var(--accent); }
-.entry-body a.app-button:hover { background: var(--accent-soft); border-color: var(--accent-soft); color: #1e1208; }
+.app-cta { margin: 8px 0 28px; }
+.app-button { display: inline-block; padding: 11px 20px; border-radius: 10px; font-weight: 700; text-decoration: none; background: var(--accent); color: #1e1208; border: 1px solid var(--accent); }
+.app-button:hover { background: var(--accent-soft); border-color: var(--accent-soft); color: #1e1208; }
 @media (max-width: 600px) { .app-shots { grid-template-columns: 1fr 1fr; } .app-shots figure:last-child { display: none; } }
