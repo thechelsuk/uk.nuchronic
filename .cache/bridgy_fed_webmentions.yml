@@ -5684,10 +5684,12 @@ posts:
       updated_at: '2026-10-06T16:40:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-06T16:40:07+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-06T17:54:56+00:00'
   research-updates-october-6-a3351c691c:
     source_url: https://nuchronic.uk/item/research-updates-october-6-a3351c691c/
     bridgy:
@@ -5696,10 +5698,12 @@ posts:
       updated_at: '2026-10-06T16:40:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-06T16:40:10+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-06T17:54:56+00:00'
   what-people-with-trigeminal-neuralgia-want-you-to-know-b0e606145a:
     source_url: https://nuchronic.uk/item/what-people-with-trigeminal-neuralgia-want-you-to-know-b0e606145a/
     bridgy:
@@ -5708,7 +5712,21 @@ posts:
       updated_at: '2026-10-06T16:40:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-06T16:40:14+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-06T17:54:55+00:00'
+  biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-9ef69c2959:
+    source_url: https://nuchronic.uk/item/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-9ef69c2959/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-06T17:54:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-06T17:54:55+00:00'
       verified_targets:
       - ap
