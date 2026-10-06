@@ -1216,3 +1216,7 @@ targets:
   : resolved_url: https://thesicktimes.org/2026/10/06/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-in-amsterdam/
     reason: no-endpoint
     checked_at: '2026-10-06T17:54:55+00:00'
+  https://www.painscience.com/blog/fibromyalgia-antibody-trial.html:
+    resolved_url: https://www.painscience.com/blog/fibromyalgia-antibody-trial.html
+    reason: no-endpoint
+    checked_at: '2026-10-06T21:34:12+00:00'

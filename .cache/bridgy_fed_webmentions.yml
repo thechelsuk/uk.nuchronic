@@ -5732,3 +5732,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-10-06T17:58:19+00:00'
+  treating-fibromyalgia-like-an-autoimmune-disease-3m-349e14e272:
+    source_url: https://nuchronic.uk/item/treating-fibromyalgia-like-an-autoimmune-disease-3m-349e14e272/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-06T21:34:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-06T21:34:11+00:00'
+      verified_targets:
+      - ap
