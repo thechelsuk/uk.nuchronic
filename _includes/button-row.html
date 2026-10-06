@@ -1,0 +1,9 @@
+{% assign button_alt = "Nuchronic — a Hacker News-style feed for the chronically ill indie web" %}
+{% assign button_src = '/assets/buttons/nuchronic-88x31-' | append: include.variant | append: '.png' | absolute_url %}
+{% assign button_src_2x = '/assets/buttons/nuchronic-88x31-' | append: include.variant | append: '@2x.png' | absolute_url %}
+{% capture button_snippet %}<a href="{{ '/' | absolute_url }}" title="{{ button_alt }}"><img src="{{ button_src }}" srcset="{{ button_src_2x }} 2x" width="88" height="31" alt="{{ button_alt }}"></a>{% endcapture %}
+{% assign snippet_id = 'snippet-' | append: include.variant %}
+<div class="button-row">
+    <img src="{{ button_src }}" srcset="{{ button_src_2x }} 2x" width="88" height="31" alt="{{ button_alt }}">
+    {% include copy-snippet.html id=snippet_id code=button_snippet %}
+</div>

@@ -19,7 +19,7 @@
 
 {%- capture post_body -%}{{ page.content | strip_html | strip_newlines | strip }}{%- endcapture -%}
 {%- assign post_body = post_body | replace: '  ', ' ' | replace: '  ', ' ' | strip -%}
-{%- capture post_fallback -%}{{ page.title }} — shared on {{ site.title }}, a Hacker News–style feed for the chronically ill indie web. Read the full post{%- if page.author and page.author != 'anonymous' -%} by {{ page.author }}{%- endif -%}{%- if source_host != '' -%} at {{ source_host }}{%- endif -%}.{%- endcapture -%}
+{%- capture post_fallback -%}{{ page.title }} — shared on {{ site.title }}, a Hacker News-style feed for the chronically ill indie web. Read the full post{%- if page.author and page.author != 'anonymous' -%} by {{ page.author }}{%- endif -%}{%- if source_host != '' -%} at {{ source_host }}{%- endif -%}.{%- endcapture -%}
 {%- if page.description and page.description != '' -%}
 {%- assign raw_description = page.description -%}
 {%- if page_number > 1 -%}{%- assign raw_description = raw_description | strip | append: ' (Page ' | append: page_number | append: '.)' -%}{%- endif -%}
@@ -51,6 +51,9 @@
 <title>{{ document_title }}</title>
 <meta name="description" content="{{ page_description | escape }}">
 <meta name="theme-color" content="#d76f29">
+{% if page.url == '/app' %}
+<meta name="apple-itunes-app" content="app-id=6817007686">
+{% endif %}
 <link rel="canonical" href="{{ canonical_url }}">
 <link rel="manifest" href="{{ '/assets/icons/manifest.webmanifest' | relative_url }}">
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">

@@ -27,23 +27,17 @@ To add your feed, open a GitHub issue in our repo with the feed URL and a short 
 
 If GitHub is too much, email the feed URL and a short description to <submission@nuchronic.uk> — or message thechelsuk on social media.
 
+## App and printables
+
+Nuchronic also makes tools for living with chronic illness. The [app]({{ '/app' | relative_url }}) for iPhone and iPad is a private energy and symptom tracker with a crash plan and a PDF record for appointments, and the [printables]({{ '/printables' | relative_url }}) are the same trackers on paper.
+
 ## Buttons
 
 Old-school 88×31 buttons, for anyone who wants to link back to Nuchronic from their own site. Click Copy and paste the HTML wherever your site takes it.
 
-{% capture dark_snippet %}<a href="{{ '/' | absolute_url }}" title="Nuchronic — a Hacker News-style feed for the chronically ill indie web"><img src="{{ '/assets/buttons/nuchronic-88x31-dark.png' | absolute_url }}" srcset="{{ '/assets/buttons/nuchronic-88x31-dark@2x.png' | absolute_url }} 2x" width="88" height="31" alt="Nuchronic — a Hacker News-style feed for the chronically ill indie web"></a>{% endcapture %}
+{% include button-row.html variant="dark" %}
 
-<div class="button-row">
-  <img src="{{ '/assets/buttons/nuchronic-88x31-dark.png' | absolute_url }}" srcset="{{ '/assets/buttons/nuchronic-88x31-dark@2x.png' | absolute_url }} 2x" width="88" height="31" alt="Nuchronic — a Hacker News-style feed for the chronically ill indie web">
-  {% include copy-snippet.html id="snippet-dark" code=dark_snippet %}
-</div>
-
-{% capture tile_snippet %}<a href="{{ '/' | absolute_url }}" title="Nuchronic — a Hacker News-style feed for the chronically ill indie web"><img src="{{ '/assets/buttons/nuchronic-88x31-tile.png' | absolute_url }}" srcset="{{ '/assets/buttons/nuchronic-88x31-tile@2x.png' | absolute_url }} 2x" width="88" height="31" alt="Nuchronic — a Hacker News-style feed for the chronically ill indie web"></a>{% endcapture %}
-
-<div class="button-row">
-  <img src="{{ '/assets/buttons/nuchronic-88x31-tile.png' | absolute_url }}" srcset="{{ '/assets/buttons/nuchronic-88x31-tile@2x.png' | absolute_url }} 2x" width="88" height="31" alt="Nuchronic — a Hacker News-style feed for the chronically ill indie web">
-  {% include copy-snippet.html id="snippet-tile" code=tile_snippet %}
-</div>
+{% include button-row.html variant="tile" %}
 
 ## Removals
 

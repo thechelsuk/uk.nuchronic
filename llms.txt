@@ -9,6 +9,8 @@ Nuchronic pulls posts from submitted RSS/Atom feeds roughly once an hour, adding
 - [New posts](https://nuchronic.uk/): The homepage feed of the latest posts across the webring.
 - [Top](https://nuchronic.uk/top): The most-mentioned posts.
 - [About](https://nuchronic.uk/about): What Nuchronic is, who it's for, how it works, and how to submit or remove a feed.
+- [Printables](https://nuchronic.uk/printables): Printable trackers and diaries for ME/CFS, long COVID and chronic illness.
+- [App](https://nuchronic.uk/app): Nuchronic for iPhone and iPad, a private energy and symptom tracker with a crash plan and records (https://apps.apple.com/gb/app/nuchronic-energy-symptoms/id6817007686).
 - [Terms](https://nuchronic.uk/terms): Terms of use for the site.
 - [Privacy](https://nuchronic.uk/privacy): Privacy approach, including how sponsored and affiliate links work.
 

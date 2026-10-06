@@ -715,5 +715,5 @@ pre code {
 .app-shots figcaption { margin-top: 8px; font-size: 0.85rem; color: var(--text-dim); }
 .app-cta { text-align: center; margin: 8px 0 28px; }
 .app-button { display: inline-block; padding: 11px 20px; border-radius: 10px; font-weight: 700; text-decoration: none; background: var(--accent); color: #1e1208; border: 1px solid var(--accent); }
-.app-button.coming-soon { background: transparent; color: var(--text-dim); border: 1px dashed var(--text-faint); cursor: default; }
+.app-button:hover { background: var(--accent-soft); border-color: var(--accent-soft); color: #1e1208; }
 @media (max-width: 600px) { .app-shots { grid-template-columns: 1fr 1fr; } .app-shots figure:last-child { display: none; } }

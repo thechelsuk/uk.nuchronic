@@ -7,13 +7,9 @@ description: Track your energy and symptoms in seconds, keep your crash plan and
 
 The Nuchronic printables, as an app. Check in with a few taps, see your year at a glance, write your crash plan on a good day, and take a clear record to your next appointment. It's made for ME/CFS, long COVID and other chronic illnesses, by a fellow member of the community.
 
-<div class="app-shots">
-  <figure><img src="{{ '/assets/app/today.jpg' | relative_url }}" alt="The daily check-in: energy, symptoms and details on simple 0 to 4 scales" width="600" height="1303" loading="lazy"><figcaption>Check in with a few taps</figcaption></figure>
-  <figure><img src="{{ '/assets/app/history.jpg' | relative_url }}" alt="History: a year in pixels, with a square for every day" width="600" height="1303" loading="lazy"><figcaption>See your year at a glance</figcaption></figure>
-  <figure><img src="{{ '/assets/app/crash.jpg' | relative_url }}" alt="Crash mode: the crash plan in large, calm text" width="600" height="1303" loading="lazy"><figcaption>Your crash plan, when you need it</figcaption></figure>
-</div>
+{% include app-shots.html %}
 
-<p class="app-cta"><span class="app-button coming-soon" aria-disabled="true">App Store: coming soon</span></p>
+{% include app-download.html %}
 
 ## What it does
 

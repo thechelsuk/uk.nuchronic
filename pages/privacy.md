@@ -20,6 +20,12 @@ To make this work, the destination can track your click-through — for example,
 
 Every sponsor is chosen deliberately. We only work with advertisers who contact us directly and whose offer we think is genuinely relevant to this community. Sponsored links are always marked "Sponsored." If you'd rather not be tracked, don't click them — the rest of the site works exactly the same either way.
 
+### The Nuchronic app
+
+The [Nuchronic app]({{ '/app' | relative_url }}) for iPhone and iPad keeps everything you enter, including check-ins, symptoms, your crash plan and health records, on your device. There is no account, no tracking and no analytics, and we don't collect or receive your data. Nothing leaves your phone unless you choose to share it, for example by exporting a PDF.
+
+Nuchronic Plus is a one-off purchase handled entirely by Apple through the App Store. We don't see your payment details.
+
 ### Leaving the site
 
 When you follow any outbound link, that site's own privacy practices apply once you leave Nuchronic. We're not responsible for how other sites handle your data.

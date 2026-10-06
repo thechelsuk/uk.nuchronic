@@ -14,4 +14,6 @@ We aren't responsible for the content of linked sites or feeds, we don't endorse
 
 Nuchronic occasionally displays clearly labelled sponsored links, some of which are referral or affiliate links that may earn us a commission. These are marked "Sponsored." We choose sponsors deliberately and only work with advertisers who approach us directly.
 
+The [Nuchronic app]({{ '/app' | relative_url }}) is for keeping your own records and plans. It doesn't diagnose, treat or give medical advice, and isn't a substitute for your doctor. In an emergency, contact your local emergency services. Nuchronic Plus is a one-off purchase through the App Store, and Apple's terms and refund policies apply to it.
+
 To have your site, feed, or pages removed, email <privacy@nuchronic.uk> and we'll review the request.
