@@ -5740,7 +5740,45 @@ posts:
       updated_at: '2026-10-06T21:34:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-06T21:34:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-08T16:21:28+00:00'
+  amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more-84c153137a:
+    source_url: https://nuchronic.uk/item/amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more-84c153137a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-08T16:21:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-08T16:21:22+00:00'
+      verified_targets:
+      - ap
+  hackney-half-marathon-2027-sunday-16th-may-2027-1bf5ee7899:
+    source_url: https://nuchronic.uk/item/hackney-half-marathon-2027-sunday-16th-may-2027-1bf5ee7899/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-08T16:21:23+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-08T16:21:23+00:00'
+      verified_targets:
+      - ap
+  seven-ways-to-get-to-the-viral-message-94a921d36c:
+    source_url: https://nuchronic.uk/item/seven-ways-to-get-to-the-viral-message-94a921d36c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-08T16:21:27+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-08T16:21:27+00:00'
       verified_targets:
       - ap
