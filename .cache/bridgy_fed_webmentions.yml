@@ -5796,7 +5796,33 @@ posts:
       updated_at: '2026-10-09T08:50:02+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-09T08:50:03+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-09T16:04:58+00:00'
+  cottage-cheese-pesto-pasta-7d10a174bd:
+    source_url: https://nuchronic.uk/item/cottage-cheese-pesto-pasta-7d10a174bd/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-09T16:04:54+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-09T16:04:54+00:00'
+      verified_targets:
+      - ap
+  how-i-built-a-covid-safer-school-thats-become-the-heart-of-a-more-caring-communi-a6fc3adcf2:
+    source_url: https://nuchronic.uk/item/how-i-built-a-covid-safer-school-thats-become-the-heart-of-a-more-caring-communi-a6fc3adcf2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-09T16:04:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-09T16:04:55+00:00'
       verified_targets:
       - ap
