@@ -5754,10 +5754,12 @@ posts:
       updated_at: '2026-10-08T16:21:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-08T16:21:22+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-09T08:50:08+00:00'
   hackney-half-marathon-2027-sunday-16th-may-2027-1bf5ee7899:
     source_url: https://nuchronic.uk/item/hackney-half-marathon-2027-sunday-16th-may-2027-1bf5ee7899/
     bridgy:
@@ -5766,10 +5768,12 @@ posts:
       updated_at: '2026-10-08T16:21:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-08T16:21:23+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-09T08:50:05+00:00'
   seven-ways-to-get-to-the-viral-message-94a921d36c:
     source_url: https://nuchronic.uk/item/seven-ways-to-get-to-the-viral-message-94a921d36c/
     bridgy:
@@ -5778,7 +5782,21 @@ posts:
       updated_at: '2026-10-08T16:21:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-08T16:21:27+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-09T08:50:04+00:00'
+  kieran-shares-his-experience-with-severe-me-289dbced83:
+    source_url: https://nuchronic.uk/item/kieran-shares-his-experience-with-severe-me-289dbced83/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-09T08:50:02+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-09T08:50:03+00:00'
       verified_targets:
       - ap
