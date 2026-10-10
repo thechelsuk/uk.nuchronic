@@ -5838,7 +5838,21 @@ posts:
       updated_at: '2026-10-10T18:25:18+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-10T18:25:18+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-10T22:24:12+00:00'
+  springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproac-e7ccfa14e4:
+    source_url: https://nuchronic.uk/item/springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproac-e7ccfa14e4/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-10T22:24:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-10T22:24:11+00:00'
       verified_targets:
       - ap

@@ -1248,3 +1248,7 @@ targets:
     resolved_url: https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/
     reason: no-endpoint
     checked_at: '2026-10-10T18:26:01+00:00'
+  ? https://trialbyerror.org/2026/10/10/springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproachful-updated/
+  : resolved_url: https://trialbyerror.org/2026/10/10/springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproachful-updated/
+    reason: no-endpoint
+    checked_at: '2026-10-10T22:24:12+00:00'
