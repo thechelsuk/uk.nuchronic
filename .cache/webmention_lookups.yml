@@ -1528,78 +1528,6 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/09/daily-mail-online-share-article-about-recent-me-cfs-research-with-comment-from-dr-charles-shepherd/
     endpoint: ''
     checked_at: '2026-10-08T16:21:40+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-10-09T08:50:02+00:00'
-  https://meassociation.org.uk/2026/10/kieran-shares-his-experience-with-severe-me/:
-    resolved_url: https://meassociation.org.uk/2026/10/kieran-shares-his-experience-with-severe-me/
-    endpoint: ''
-    checked_at: '2026-10-09T16:04:59+00:00'
-  https://virology.ws/2026/10/08/seven-ways-to-get-to-the-viral-message/:
-    resolved_url: https://virology.ws/2026/10/08/seven-ways-to-get-to-the-viral-message/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:00+00:00'
-  https://meassociation.org.uk/2026/10/hackney-half-marathon-2027/:
-    resolved_url: https://meassociation.org.uk/2026/10/hackney-half-marathon-2027/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:03+00:00'
-  https://www.lifeofpippa.co.uk/2026/10/08/amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more/:
-    resolved_url: https://www.lifeofpippa.co.uk/2026/10/08/amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:03+00:00'
-  https://despitepain.com/2026/10/06/what-people-with-trigeminal-neuralgia-want-you-to-know/:
-    resolved_url: https://despitepain.com/2026/10/06/what-people-with-trigeminal-neuralgia-want-you-to-know/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:03+00:00'
-  https://www.painscience.com/blog/fibromyalgia-antibody-trial.html:
-    resolved_url: https://www.painscience.com/blog/fibromyalgia-antibody-trial.html
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:04+00:00'
-  https://thesicktimes.org/2026/10/06/research-updates-october-6/:
-    resolved_url: https://thesicktimes.org/2026/10/06/research-updates-october-6/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:06+00:00'
-  https://meassociation.org.uk/2026/10/david-tuller-interviews-george-monbiot-on-recent-guardian-article/:
-    resolved_url: https://meassociation.org.uk/2026/10/david-tuller-interviews-george-monbiot-on-recent-guardian-article/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:09+00:00'
-  ? https://thesicktimes.org/2026/10/06/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-in-amsterdam/
-  : resolved_url: https://thesicktimes.org/2026/10/06/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-in-amsterdam/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:12+00:00'
-  ? https://lightscameracrohns.com/2026/10/05/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-in-control/
-  : resolved_url: https://lightscameracrohns.com/2026/10/05/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-in-control/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:12+00:00'
-  https://blog.avas.space/nice-things/:
-    resolved_url: https://blog.avas.space/nice-things/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:12+00:00'
-  https://thesicktimes.org/2026/10/05/kids-with-long-covid-co-created-their-own-superhero-comic-book/:
-    resolved_url: https://thesicktimes.org/2026/10/05/kids-with-long-covid-co-created-their-own-superhero-comic-book/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:14+00:00'
-  https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/:
-    resolved_url: https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:16+00:00'
-  https://www.painscience.com/blog/painsciencecom-just-sped-up.html:
-    resolved_url: https://www.painscience.com/blog/painsciencecom-just-sped-up.html
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:16+00:00'
-  https://www.throughthefibrofog.com/ginger-oatmeal/:
-    resolved_url: https://www.throughthefibrofog.com/ginger-oatmeal/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:16+00:00'
-  https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/:
-    resolved_url: https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:19+00:00'
-  https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/:
-    resolved_url: https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/
-    endpoint: ''
-    checked_at: '2026-10-09T16:05:19+00:00'
   https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/:
     resolved_url: https://trialbyerror.org/2026/10/01/interview-with-george-monbiot-on-recent-guardian-column/
     endpoint: ''
@@ -1608,11 +1536,87 @@ targets:
     resolved_url: https://blog.avas.space/rosebudthorn-sep26/
     endpoint: ''
     checked_at: '2026-10-09T08:50:24+00:00'
-  https://www.throughthefibrofog.com/cottage-cheese-pesto-pasta/:
-    resolved_url: https://www.throughthefibrofog.com/cottage-cheese-pesto-pasta/
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-10-10T18:25:18+00:00'
+  ? https://virology.ws/2026/10/10/trial-by-error-springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproachful/
+  : resolved_url: https://virology.ws/2026/10/10/trial-by-error-springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproachful/
     endpoint: ''
-    checked_at: '2026-10-09T16:04:55+00:00'
+    checked_at: '2026-10-10T18:25:19+00:00'
+  https://meassociation.org.uk/2026/10/kieran-shares-his-experience-with-severe-me/:
+    resolved_url: https://meassociation.org.uk/2026/10/kieran-shares-his-experience-with-severe-me/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:28+00:00'
   https://thesicktimes.org/2026/10/09/how-i-built-a-covid-safer-school-thats-become-the-heart-of-a-more-caring-community/:
     resolved_url: https://thesicktimes.org/2026/10/09/how-i-built-a-covid-safer-school-thats-become-the-heart-of-a-more-caring-community/
     endpoint: ''
-    checked_at: '2026-10-09T16:04:57+00:00'
+    checked_at: '2026-10-10T18:25:34+00:00'
+  https://www.throughthefibrofog.com/cottage-cheese-pesto-pasta/:
+    resolved_url: https://www.throughthefibrofog.com/cottage-cheese-pesto-pasta/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:35+00:00'
+  https://virology.ws/2026/10/08/seven-ways-to-get-to-the-viral-message/:
+    resolved_url: https://virology.ws/2026/10/08/seven-ways-to-get-to-the-viral-message/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:35+00:00'
+  https://meassociation.org.uk/2026/10/hackney-half-marathon-2027/:
+    resolved_url: https://meassociation.org.uk/2026/10/hackney-half-marathon-2027/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:41+00:00'
+  https://www.lifeofpippa.co.uk/2026/10/08/amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more/:
+    resolved_url: https://www.lifeofpippa.co.uk/2026/10/08/amsterdam-by-wheelchair-accessible-canal-tour-leiden-day-trip-more/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:42+00:00'
+  https://despitepain.com/2026/10/06/what-people-with-trigeminal-neuralgia-want-you-to-know/:
+    resolved_url: https://despitepain.com/2026/10/06/what-people-with-trigeminal-neuralgia-want-you-to-know/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:43+00:00'
+  https://www.painscience.com/blog/fibromyalgia-antibody-trial.html:
+    resolved_url: https://www.painscience.com/blog/fibromyalgia-antibody-trial.html
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:44+00:00'
+  https://thesicktimes.org/2026/10/06/research-updates-october-6/:
+    resolved_url: https://thesicktimes.org/2026/10/06/research-updates-october-6/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:48+00:00'
+  https://meassociation.org.uk/2026/10/david-tuller-interviews-george-monbiot-on-recent-guardian-article/:
+    resolved_url: https://meassociation.org.uk/2026/10/david-tuller-interviews-george-monbiot-on-recent-guardian-article/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:49+00:00'
+  ? https://thesicktimes.org/2026/10/06/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-in-amsterdam/
+  : resolved_url: https://thesicktimes.org/2026/10/06/biological-pathways-and-mechanistic-trials-centered-at-new-long-covid-conference-in-amsterdam/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:51+00:00'
+  ? https://lightscameracrohns.com/2026/10/05/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-in-control/
+  : resolved_url: https://lightscameracrohns.com/2026/10/05/what-if-you-never-had-to-forget-what-your-doctor-said-again-babble-puts-patients-in-control/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:51+00:00'
+  https://blog.avas.space/nice-things/:
+    resolved_url: https://blog.avas.space/nice-things/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:51+00:00'
+  https://thesicktimes.org/2026/10/05/kids-with-long-covid-co-created-their-own-superhero-comic-book/:
+    resolved_url: https://thesicktimes.org/2026/10/05/kids-with-long-covid-co-created-their-own-superhero-comic-book/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:53+00:00'
+  https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/:
+    resolved_url: https://www.healthrising.org/blog/2026/10/04/the-eternal-me-cfs-fibromyalgia-question-how-close-are-they/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:59+00:00'
+  https://www.painscience.com/blog/painsciencecom-just-sped-up.html:
+    resolved_url: https://www.painscience.com/blog/painsciencecom-just-sped-up.html
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:59+00:00'
+  https://www.throughthefibrofog.com/ginger-oatmeal/:
+    resolved_url: https://www.throughthefibrofog.com/ginger-oatmeal/
+    endpoint: ''
+    checked_at: '2026-10-10T18:25:59+00:00'
+  https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/:
+    resolved_url: https://thesicktimes.org/2026/10/02/anil-van-der-zee-receives-dutch-royal-distinction/
+    endpoint: ''
+    checked_at: '2026-10-10T18:26:00+00:00'
+  https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/:
+    resolved_url: https://virology.ws/2026/10/01/trial-by-error-interview-with-george-monbiot-on-recent-guardian-column/
+    endpoint: ''
+    checked_at: '2026-10-10T18:26:01+00:00'
