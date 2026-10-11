@@ -5852,7 +5852,21 @@ posts:
       updated_at: '2026-10-10T22:24:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-10T22:24:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-11T15:33:35+00:00'
+  a-temporary-win-for-meta-glasses-in-the-classroom-a56c81ee95:
+    source_url: https://nuchronic.uk/item/a-temporary-win-for-meta-glasses-in-the-classroom-a56c81ee95/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-11T15:33:34+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-11T15:33:34+00:00'
       verified_targets:
       - ap
