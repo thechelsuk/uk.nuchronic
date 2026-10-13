@@ -5880,10 +5880,12 @@ posts:
       updated_at: '2026-10-12T15:07:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-12T15:07:21+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-13T19:10:13+00:00'
   sunrise-walks-ad66865f33:
     source_url: https://nuchronic.uk/item/sunrise-walks-ad66865f33/
     bridgy:
@@ -5892,10 +5894,12 @@ posts:
       updated_at: '2026-10-12T15:07:22+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-12T15:07:22+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-13T19:10:11+00:00'
   where-brain-retraining-actually-fits-in-me-cfs-recovery-975bf1218c:
     source_url: https://nuchronic.uk/item/where-brain-retraining-actually-fits-in-me-cfs-recovery-975bf1218c/
     bridgy:
@@ -5904,7 +5908,33 @@ posts:
       updated_at: '2026-10-12T15:07:35+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-12T15:07:35+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-13T19:10:04+00:00'
+  meralgia-paresthetica-and-the-usual-suspects-what-a-simple-pinched-nerve-gets-mi-59e2d0b81a:
+    source_url: https://nuchronic.uk/item/meralgia-paresthetica-and-the-usual-suspects-what-a-simple-pinched-nerve-gets-mi-59e2d0b81a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-13T19:09:59+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-13T19:10:00+00:00'
+      verified_targets:
+      - ap
+  trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health-318e0d92e3:
+    source_url: https://nuchronic.uk/item/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health-318e0d92e3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-13T19:10:01+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-13T19:10:02+00:00'
       verified_targets:
       - ap
