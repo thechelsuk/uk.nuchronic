@@ -5922,10 +5922,12 @@ posts:
       updated_at: '2026-10-13T19:09:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-13T19:10:00+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-14T15:02:27+00:00'
   trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health-318e0d92e3:
     source_url: https://nuchronic.uk/item/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health-318e0d92e3/
     bridgy:
@@ -5934,7 +5936,43 @@ posts:
       updated_at: '2026-10-13T19:10:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-13T19:10:02+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-14T15:02:27+00:00'
+  unsettled-app-launched-4d64e3fcb5:
+    source_url: https://nuchronic.uk/item/unsettled-app-launched-4d64e3fcb5/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-14T15:02:20+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-14T15:02:20+00:00'
+      verified_targets:
+      - ap
+  updated-me-association-information-booklet-and-infographic-poster-on-what-causes-f563a02af5:
+    source_url: https://nuchronic.uk/item/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-f563a02af5/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-14T15:02:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-14T15:02:22+00:00'
+      verified_targets:
+      - ap
+  i-built-a-free-open-data-site-for-my-town-712b1f5504:
+    source_url: https://nuchronic.uk/item/i-built-a-free-open-data-site-for-my-town-712b1f5504/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-14T15:02:26+00:00'
+      status: success
