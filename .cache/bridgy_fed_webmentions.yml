@@ -5988,7 +5988,31 @@ posts:
       updated_at: '2026-10-15T07:16:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-15T07:16:14+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-15T18:10:59+00:00'
+  a-breakthrough-in-sleep-medication-7d0adb7afe:
+    source_url: https://nuchronic.uk/item/a-breakthrough-in-sleep-medication-7d0adb7afe/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-15T18:10:58+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-15T18:10:58+00:00'
+      verified_targets:
+      - ap
+  different-isnt-scary-why-representation-matters-especially-at-halloween-d0f62796d0:
+    source_url: https://nuchronic.uk/item/different-isnt-scary-why-representation-matters-especially-at-halloween-d0f62796d0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-15T18:11:00+00:00'
+      status: success
