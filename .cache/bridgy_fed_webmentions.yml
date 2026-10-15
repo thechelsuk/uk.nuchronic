@@ -5950,10 +5950,12 @@ posts:
       updated_at: '2026-10-14T15:02:20+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-14T15:02:20+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-15T07:16:16+00:00'
   updated-me-association-information-booklet-and-infographic-poster-on-what-causes-f563a02af5:
     source_url: https://nuchronic.uk/item/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-f563a02af5/
     bridgy:
@@ -5962,10 +5964,12 @@ posts:
       updated_at: '2026-10-14T15:02:22+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-14T15:02:22+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-15T07:16:14+00:00'
   i-built-a-free-open-data-site-for-my-town-712b1f5504:
     source_url: https://nuchronic.uk/item/i-built-a-free-open-data-site-for-my-town-712b1f5504/
     bridgy:
@@ -5976,3 +5980,15 @@ posts:
       - bsky
       verified_at: '2026-10-14T15:02:26+00:00'
       status: success
+  long-covid-early-bbc-report-june-2020-e1c0dc1d2e:
+    source_url: https://nuchronic.uk/item/long-covid-early-bbc-report-june-2020-e1c0dc1d2e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-15T07:16:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-15T07:16:14+00:00'
+      verified_targets:
+      - ap
