@@ -6026,10 +6026,12 @@ posts:
       updated_at: '2026-10-16T11:13:08+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-16T11:13:08+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-16T19:53:04+00:00'
   the-paper-tools-that-helped-me-pace-with-me-cfs-e3733b2156:
     source_url: https://nuchronic.uk/item/the-paper-tools-that-helped-me-pace-with-me-cfs-e3733b2156/
     bridgy:
@@ -6038,7 +6040,21 @@ posts:
       updated_at: '2026-10-16T11:13:09+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-16T11:13:09+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-16T19:53:04+00:00'
+  variety-disability-sports-awards-2026-celebrating-the-winners-and-nominees-shapi-e47b75354a:
+    source_url: https://nuchronic.uk/item/variety-disability-sports-awards-2026-celebrating-the-winners-and-nominees-shapi-e47b75354a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-16T19:53:03+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-16T19:53:03+00:00'
       verified_targets:
       - ap
