@@ -6002,10 +6002,12 @@ posts:
       updated_at: '2026-10-15T18:10:58+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-15T18:10:58+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-16T11:13:11+00:00'
   different-isnt-scary-why-representation-matters-especially-at-halloween-d0f62796d0:
     source_url: https://nuchronic.uk/item/different-isnt-scary-why-representation-matters-especially-at-halloween-d0f62796d0/
     bridgy:
@@ -6016,3 +6018,27 @@ posts:
       - bsky
       verified_at: '2026-10-15T18:11:00+00:00'
       status: success
+  bbc-sport-olympic-sprinter-beth-dobbin-on-living-with-me-cfs-6a23195cd2:
+    source_url: https://nuchronic.uk/item/bbc-sport-olympic-sprinter-beth-dobbin-on-living-with-me-cfs-6a23195cd2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-16T11:13:08+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-16T11:13:08+00:00'
+      verified_targets:
+      - ap
+  the-paper-tools-that-helped-me-pace-with-me-cfs-e3733b2156:
+    source_url: https://nuchronic.uk/item/the-paper-tools-that-helped-me-pace-with-me-cfs-e3733b2156/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-16T11:13:09+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-16T11:13:09+00:00'
+      verified_targets:
+      - ap
