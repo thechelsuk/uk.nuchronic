@@ -6054,7 +6054,43 @@ posts:
       updated_at: '2026-10-16T19:53:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-16T19:53:03+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-17T21:23:29+00:00'
+  a-lighthearted-life-update-672173900e:
+    source_url: https://nuchronic.uk/item/a-lighthearted-life-update-672173900e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-17T21:23:26+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-17T21:23:26+00:00'
+      verified_targets:
+      - ap
+  scary-looking-spinal-stenosis-on-mri-doesnt-mean-much-2m-d15a913abe:
+    source_url: https://nuchronic.uk/item/scary-looking-spinal-stenosis-on-mri-doesnt-mean-much-2m-d15a913abe/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-17T21:23:27+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-17T21:23:27+00:00'
+      verified_targets:
+      - ap
+  bbc-radio-5-live-olympic-sprinter-beth-dobbin-on-living-with-me-cfs-8633ac3cd2:
+    source_url: https://nuchronic.uk/item/bbc-radio-5-live-olympic-sprinter-beth-dobbin-on-living-with-me-cfs-8633ac3cd2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-17T21:23:28+00:00'
+      status: success
