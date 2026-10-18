@@ -1624,66 +1624,6 @@ targets:
     resolved_url: https://virology.ws/2026/10/08/seven-ways-to-get-to-the-viral-message/
     endpoint: ''
     checked_at: '2026-10-16T11:13:28+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-10-17T21:23:26+00:00'
-  https://mhmiller.bearblog.dev/a-lighthearted-life-update/:
-    resolved_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:26+00:00'
-  https://www.painscience.com/blog/stenosis-severity-and-exercise.html:
-    resolved_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:27+00:00'
-  https://www.youtube.com/watch?v=niUp0z3NrW0:
-    resolved_url: https://www.youtube.com/watch?v=niUp0z3NrW0
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:28+00:00'
-  https://alishawhittam.com/variety-disability-sports-awards-2026/:
-    resolved_url: https://alishawhittam.com/variety-disability-sports-awards-2026/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:31+00:00'
-  https://www.youtube.com/watch?v=dE3RyAuP1pE:
-    resolved_url: https://www.youtube.com/watch?v=dE3RyAuP1pE
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:31+00:00'
-  https://www.youtube.com/watch?v=75_44oi_FDk:
-    resolved_url: https://www.youtube.com/watch?v=75_44oi_FDk
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:31+00:00'
-  https://alishawhittam.com/disability-representation-halloween/:
-    resolved_url: https://alishawhittam.com/disability-representation-halloween/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:33+00:00'
-  https://www.eleanorsteinmd.ca/blog/doras:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/doras
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:34+00:00'
-  ? https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
-  : resolved_url: https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:36+00:00'
-  https://thesicktimes.org/2026/10/13/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health/:
-    resolved_url: https://thesicktimes.org/2026/10/13/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:36+00:00'
-  https://www.painscience.com/blog/meralgia-scapegoats.html:
-    resolved_url: https://www.painscience.com/blog/meralgia-scapegoats.html
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:36+00:00'
-  https://livingwithmecfs.co.uk/2026/10/12/brain-retraining-me-cfs-recovery/:
-    resolved_url: https://livingwithmecfs.co.uk/2026/10/12/brain-retraining-me-cfs-recovery/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:46+00:00'
-  https://meassociation.org.uk/2026/10/sunrise-walks/:
-    resolved_url: https://meassociation.org.uk/2026/10/sunrise-walks/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:50+00:00'
-  https://lightscameracrohns.com/2026/10/12/from-puberty-to-menopause-how-ibd-care-evolves-for-women-across-a-lifespan/:
-    resolved_url: https://lightscameracrohns.com/2026/10/12/from-puberty-to-menopause-how-ibd-care-evolves-for-women-across-a-lifespan/
-    endpoint: ''
-    checked_at: '2026-10-17T21:23:51+00:00'
   https://blog.avas.space/smart-glasses-school/:
     resolved_url: https://blog.avas.space/smart-glasses-school/
     endpoint: ''
@@ -1696,3 +1636,75 @@ targets:
   : resolved_url: https://trialbyerror.org/2026/10/10/springer-nature-removes-description-of-fatigue-patients-as-combative-and-reproachful-updated/
     endpoint: ''
     checked_at: '2026-10-17T21:23:52+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-10-18T13:09:43+00:00'
+  https://www.youtube.com/watch?v=x1LV1YcHiuw:
+    resolved_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:43+00:00'
+  https://thechels.uk/one-to-one-questions-that-go-deeper:
+    resolved_url: https://thechels.uk/one-to-one-questions-that-go-deeper
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-10-18T13:09:43+00:00'
+  https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/:
+    resolved_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:45+00:00'
+  https://www.painscience.com/blog/stenosis-severity-and-exercise.html:
+    resolved_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:45+00:00'
+  https://www.youtube.com/watch?v=niUp0z3NrW0:
+    resolved_url: https://www.youtube.com/watch?v=niUp0z3NrW0
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:45+00:00'
+  https://mhmiller.bearblog.dev/a-lighthearted-life-update/:
+    resolved_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:45+00:00'
+  https://alishawhittam.com/variety-disability-sports-awards-2026/:
+    resolved_url: https://alishawhittam.com/variety-disability-sports-awards-2026/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:46+00:00'
+  https://www.youtube.com/watch?v=dE3RyAuP1pE:
+    resolved_url: https://www.youtube.com/watch?v=dE3RyAuP1pE
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:46+00:00'
+  https://www.youtube.com/watch?v=75_44oi_FDk:
+    resolved_url: https://www.youtube.com/watch?v=75_44oi_FDk
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:47+00:00'
+  https://alishawhittam.com/disability-representation-halloween/:
+    resolved_url: https://alishawhittam.com/disability-representation-halloween/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:47+00:00'
+  https://www.eleanorsteinmd.ca/blog/doras:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/doras
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:48+00:00'
+  ? https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
+  : resolved_url: https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:51+00:00'
+  https://thesicktimes.org/2026/10/13/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health/:
+    resolved_url: https://thesicktimes.org/2026/10/13/trans-people-with-long-covid-navigate-a-new-dark-age-in-trans-health/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:51+00:00'
+  https://www.painscience.com/blog/meralgia-scapegoats.html:
+    resolved_url: https://www.painscience.com/blog/meralgia-scapegoats.html
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:51+00:00'
+  https://livingwithmecfs.co.uk/2026/10/12/brain-retraining-me-cfs-recovery/:
+    resolved_url: https://livingwithmecfs.co.uk/2026/10/12/brain-retraining-me-cfs-recovery/
+    endpoint: ''
+    checked_at: '2026-10-18T13:09:57+00:00'
+  https://meassociation.org.uk/2026/10/sunrise-walks/:
+    resolved_url: https://meassociation.org.uk/2026/10/sunrise-walks/
+    endpoint: ''
+    checked_at: '2026-10-18T13:10:00+00:00'
+  https://lightscameracrohns.com/2026/10/12/from-puberty-to-menopause-how-ibd-care-evolves-for-women-across-a-lifespan/:
+    resolved_url: https://lightscameracrohns.com/2026/10/12/from-puberty-to-menopause-how-ibd-care-evolves-for-women-across-a-lifespan/
+    endpoint: ''
+    checked_at: '2026-10-18T13:10:00+00:00'
