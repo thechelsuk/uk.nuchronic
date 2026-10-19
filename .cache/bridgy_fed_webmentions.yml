@@ -6106,10 +6106,12 @@ posts:
       updated_at: '2026-10-18T13:09:43+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-18T13:09:43+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-19T12:52:06+00:00'
   seven-one-to-one-questions-that-go-deeper-than-how-s-it-going-722b23adc8:
     source_url: https://nuchronic.uk/item/seven-one-to-one-questions-that-go-deeper-than-how-s-it-going-722b23adc8/
     bridgy:
@@ -6118,10 +6120,12 @@ posts:
       updated_at: '2026-10-18T13:09:43+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-18T13:09:43+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-19T12:52:06+00:00'
   the-most-difficult-part-of-living-with-facial-pain-is-dfe794e022:
     source_url: https://nuchronic.uk/item/the-most-difficult-part-of-living-with-facial-pain-is-dfe794e022/
     bridgy:
@@ -6130,7 +6134,21 @@ posts:
       updated_at: '2026-10-18T13:09:44+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-18T13:09:44+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-19T12:52:04+00:00'
+  omega-event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues-5442e0249c:
+    source_url: https://nuchronic.uk/item/omega-event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues-5442e0249c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-19T12:52:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-19T12:52:01+00:00'
       verified_targets:
       - ap
