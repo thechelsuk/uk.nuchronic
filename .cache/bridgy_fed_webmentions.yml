@@ -6162,7 +6162,45 @@ posts:
       updated_at: '2026-10-19T19:14:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-19T19:14:27+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-19T23:32:26+00:00'
+  conferences-and-advocacy-events-for-iaccs-must-require-masking-493edb23b9:
+    source_url: https://nuchronic.uk/item/conferences-and-advocacy-events-for-iaccs-must-require-masking-493edb23b9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-19T23:32:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-19T23:32:21+00:00'
+      verified_targets:
+      - ap
+  some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-d-d7e549b5b9:
+    source_url: https://nuchronic.uk/item/some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-d-d7e549b5b9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-19T23:32:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-19T23:32:24+00:00'
+      verified_targets:
+      - ap
+  trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-c-d7e549b5b9:
+    source_url: https://nuchronic.uk/item/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-c-d7e549b5b9/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-19T23:32:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-19T23:32:25+00:00'
       verified_targets:
       - ap

@@ -1716,3 +1716,15 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
     endpoint: ''
     checked_at: '2026-10-19T19:14:29+00:00'
+  https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/:
+    resolved_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
+    endpoint: ''
+    checked_at: '2026-10-19T23:32:23+00:00'
+  ? https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+  : resolved_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+    endpoint: ''
+    checked_at: '2026-10-19T23:32:25+00:00'
+  ? https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+  : resolved_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+    endpoint: ''
+    checked_at: '2026-10-19T23:32:26+00:00'
