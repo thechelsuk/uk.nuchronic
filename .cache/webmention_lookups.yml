@@ -1663,15 +1663,15 @@ targets:
   https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/:
     resolved_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:38+00:00'
+    checked_at: '2026-10-20T19:12:45+00:00'
   ? https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
   : resolved_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:29+00:00'
+    checked_at: '2026-10-20T19:12:38+00:00'
   ? https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
   : resolved_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:29+00:00'
+    checked_at: '2026-10-20T19:12:38+00:00'
   https://fed.brid.gy/:
     resolved_url: https://fed.brid.gy/
     endpoint: https://fed.brid.gy/webmention
@@ -1679,60 +1679,64 @@ targets:
   https://www.youtube.com/watch?v=PlVnv0wDc60:
     resolved_url: https://www.youtube.com/watch?v=PlVnv0wDc60
     endpoint: ''
-    checked_at: '2026-10-20T09:59:24+00:00'
+    checked_at: '2026-10-20T19:12:37+00:00'
   https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/:
     resolved_url: https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:28+00:00'
+    checked_at: '2026-10-20T19:12:37+00:00'
   https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/:
     resolved_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:33+00:00'
+    checked_at: '2026-10-20T19:12:42+00:00'
   ? https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
   : resolved_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:36+00:00'
+    checked_at: '2026-10-20T19:12:43+00:00'
   https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/:
     resolved_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:39+00:00'
+    checked_at: '2026-10-20T19:12:45+00:00'
   https://www.youtube.com/watch?v=x1LV1YcHiuw:
     resolved_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
     endpoint: ''
-    checked_at: '2026-10-20T09:59:39+00:00'
+    checked_at: '2026-10-20T19:12:45+00:00'
   https://www.painscience.com/blog/stenosis-severity-and-exercise.html:
     resolved_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
     endpoint: ''
-    checked_at: '2026-10-20T09:59:39+00:00'
+    checked_at: '2026-10-20T19:12:45+00:00'
   https://www.youtube.com/watch?v=niUp0z3NrW0:
     resolved_url: https://www.youtube.com/watch?v=niUp0z3NrW0
     endpoint: ''
-    checked_at: '2026-10-20T09:59:39+00:00'
+    checked_at: '2026-10-20T19:12:45+00:00'
   https://mhmiller.bearblog.dev/a-lighthearted-life-update/:
     resolved_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:40+00:00'
+    checked_at: '2026-10-20T19:12:46+00:00'
   https://alishawhittam.com/variety-disability-sports-awards-2026/:
     resolved_url: https://alishawhittam.com/variety-disability-sports-awards-2026/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:40+00:00'
+    checked_at: '2026-10-20T19:12:47+00:00'
   https://www.youtube.com/watch?v=dE3RyAuP1pE:
     resolved_url: https://www.youtube.com/watch?v=dE3RyAuP1pE
     endpoint: ''
-    checked_at: '2026-10-20T09:59:40+00:00'
+    checked_at: '2026-10-20T19:12:48+00:00'
   https://www.youtube.com/watch?v=75_44oi_FDk:
     resolved_url: https://www.youtube.com/watch?v=75_44oi_FDk
     endpoint: ''
-    checked_at: '2026-10-20T09:59:40+00:00'
+    checked_at: '2026-10-20T19:12:48+00:00'
   https://alishawhittam.com/disability-representation-halloween/:
     resolved_url: https://alishawhittam.com/disability-representation-halloween/
     endpoint: ''
-    checked_at: '2026-10-20T09:59:41+00:00'
+    checked_at: '2026-10-20T19:12:48+00:00'
   https://www.eleanorsteinmd.ca/blog/doras:
     resolved_url: https://www.eleanorsteinmd.ca/blog/doras
     endpoint: ''
-    checked_at: '2026-10-20T09:59:42+00:00'
+    checked_at: '2026-10-20T19:12:49+00:00'
   ? https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
   : resolved_url: https://meassociation.org.uk/2026/10/updated-me-association-information-booklet-and-infographic-poster-on-what-causes-me-cfs/
     endpoint: ''
     checked_at: '2026-10-20T09:59:44+00:00'
+  https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/:
+    resolved_url: https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/
+    endpoint: ''
+    checked_at: '2026-10-20T19:12:33+00:00'
