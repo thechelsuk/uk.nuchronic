@@ -6176,10 +6176,12 @@ posts:
       updated_at: '2026-10-19T23:32:21+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-19T23:32:21+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-20T09:59:36+00:00'
   some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-d-d7e549b5b9:
     source_url: https://nuchronic.uk/item/some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-d-d7e549b5b9/
     bridgy:
@@ -6188,10 +6190,12 @@ posts:
       updated_at: '2026-10-19T23:32:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-19T23:32:24+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-20T09:59:29+00:00'
   trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-c-d7e549b5b9:
     source_url: https://nuchronic.uk/item/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-c-d7e549b5b9/
     bridgy:
@@ -6200,7 +6204,33 @@ posts:
       updated_at: '2026-10-19T23:32:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-19T23:32:25+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-20T09:59:28+00:00'
+  bbc-radio-sheffield-beth-dobbin-dr-charles-shepherd-on-me-cfs-7aa29d5b1b:
+    source_url: https://nuchronic.uk/item/bbc-radio-sheffield-beth-dobbin-dr-charles-shepherd-on-me-cfs-7aa29d5b1b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-20T09:59:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-20T09:59:24+00:00'
+      verified_targets:
+      - ap
+  new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice-407e345b50:
+    source_url: https://nuchronic.uk/item/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice-407e345b50/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-20T09:59:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-20T09:59:25+00:00'
       verified_targets:
       - ap
