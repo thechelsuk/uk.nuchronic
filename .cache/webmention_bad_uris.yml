@@ -1352,3 +1352,7 @@ targets:
     resolved_url: https://www.eleanorsteinmd.ca/blog/doras
     reason: no-endpoint
     checked_at: '2026-10-20T19:12:49+00:00'
+  https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-10-20T22:18:44+00:00'

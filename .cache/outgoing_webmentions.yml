@@ -4603,7 +4603,7 @@ posts:
       https://www.youtube.com/watch?v=75_44oi_FDk:
         target_url: https://www.youtube.com/watch?v=75_44oi_FDk
         resolved_url: https://www.youtube.com/watch?v=75_44oi_FDk
-        updated_at: '2026-10-20T19:12:48+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4623,7 +4623,7 @@ posts:
       https://alishawhittam.com/disability-representation-halloween/:
         target_url: https://alishawhittam.com/disability-representation-halloween/
         resolved_url: https://alishawhittam.com/disability-representation-halloween/
-        updated_at: '2026-10-20T19:12:48+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4633,7 +4633,7 @@ posts:
       https://www.youtube.com/watch?v=dE3RyAuP1pE:
         target_url: https://www.youtube.com/watch?v=dE3RyAuP1pE
         resolved_url: https://www.youtube.com/watch?v=dE3RyAuP1pE
-        updated_at: '2026-10-20T19:12:48+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4655,7 +4655,7 @@ posts:
       https://alishawhittam.com/variety-disability-sports-awards-2026/:
         target_url: https://alishawhittam.com/variety-disability-sports-awards-2026/
         resolved_url: https://alishawhittam.com/variety-disability-sports-awards-2026/
-        updated_at: '2026-10-20T19:12:47+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4665,7 +4665,7 @@ posts:
       https://mhmiller.bearblog.dev/a-lighthearted-life-update/:
         target_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
         resolved_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
-        updated_at: '2026-10-20T19:12:46+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4675,7 +4675,7 @@ posts:
       https://www.painscience.com/blog/stenosis-severity-and-exercise.html:
         target_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
         resolved_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
-        updated_at: '2026-10-20T19:12:45+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4685,7 +4685,7 @@ posts:
       https://www.youtube.com/watch?v=niUp0z3NrW0:
         target_url: https://www.youtube.com/watch?v=niUp0z3NrW0
         resolved_url: https://www.youtube.com/watch?v=niUp0z3NrW0
-        updated_at: '2026-10-20T19:12:45+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4695,7 +4695,7 @@ posts:
       https://www.youtube.com/watch?v=x1LV1YcHiuw:
         target_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
         resolved_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
-        updated_at: '2026-10-20T19:12:45+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4717,7 +4717,7 @@ posts:
       https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/:
         target_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
         resolved_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
-        updated_at: '2026-10-20T19:12:45+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4727,7 +4727,7 @@ posts:
       https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/:
         target_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
         resolved_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
-        updated_at: '2026-10-20T19:12:42+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4737,7 +4737,7 @@ posts:
       ? https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
       : target_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
         resolved_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
-        updated_at: '2026-10-20T19:12:43+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4747,7 +4747,7 @@ posts:
       https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/:
         target_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
         resolved_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
-        updated_at: '2026-10-20T19:12:45+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4757,7 +4757,7 @@ posts:
       ? https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
       : target_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
         resolved_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-        updated_at: '2026-10-20T19:12:38+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4767,7 +4767,7 @@ posts:
       ? https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
       : target_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
         resolved_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-        updated_at: '2026-10-20T19:12:38+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4777,7 +4777,7 @@ posts:
       https://www.youtube.com/watch?v=PlVnv0wDc60:
         target_url: https://www.youtube.com/watch?v=PlVnv0wDc60
         resolved_url: https://www.youtube.com/watch?v=PlVnv0wDc60
-        updated_at: '2026-10-20T19:12:37+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4787,7 +4787,7 @@ posts:
       https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/:
         target_url: https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/
         resolved_url: https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/
-        updated_at: '2026-10-20T19:12:37+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4797,7 +4797,17 @@ posts:
       https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/:
         target_url: https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/
         resolved_url: https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/
-        updated_at: '2026-10-20T19:12:33+00:00'
+        updated_at: '2026-10-20T22:18:45+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: no-endpoint
+  precision-lifes-new-long-covid-genetic-wellness-report-4cd6f3b337:
+    source_url: https://nuchronic.uk/item/precision-lifes-new-long-covid-genetic-wellness-report-4cd6f3b337/
+    targets:
+      https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/:
+        target_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
+        resolved_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
+        updated_at: '2026-10-20T22:18:44+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
