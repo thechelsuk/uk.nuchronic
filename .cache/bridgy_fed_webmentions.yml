@@ -6274,7 +6274,21 @@ posts:
       updated_at: '2026-10-21T13:40:51+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-21T13:40:52+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-21T18:33:15+00:00'
+  dr-amir-khan-discusses-miranda-hart-me-cfs-and-post-exertional-malaise-on-lorrai-c9f39b7451:
+    source_url: https://nuchronic.uk/item/dr-amir-khan-discusses-miranda-hart-me-cfs-and-post-exertional-malaise-on-lorrai-c9f39b7451/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-21T18:33:14+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-21T18:33:14+00:00'
       verified_targets:
       - ap

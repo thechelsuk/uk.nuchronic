@@ -1360,3 +1360,7 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=75_44oi_FDk
     reason: no-endpoint
     checked_at: '2026-10-21T13:41:13+00:00'
+  https://www.youtube.com/watch?v=kGRUhUw0n4Q:
+    resolved_url: https://www.youtube.com/watch?v=kGRUhUw0n4Q
+    reason: no-endpoint
+    checked_at: '2026-10-21T18:33:15+00:00'
