@@ -6288,7 +6288,21 @@ posts:
       updated_at: '2026-10-21T18:33:14+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-21T18:33:14+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-22T13:43:14+00:00'
+  the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-d3dd17064c:
+    source_url: https://nuchronic.uk/item/the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-d3dd17064c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-22T13:43:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-22T13:43:11+00:00'
       verified_targets:
       - ap
