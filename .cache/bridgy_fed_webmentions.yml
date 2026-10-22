@@ -6302,7 +6302,21 @@ posts:
       updated_at: '2026-10-22T13:43:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-22T13:43:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-22T18:29:26+00:00'
+  living-or-existing-nine-years-of-life-with-severe-me-2119521279:
+    source_url: https://nuchronic.uk/item/living-or-existing-nine-years-of-life-with-severe-me-2119521279/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-22T18:29:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-22T18:29:24+00:00'
       verified_targets:
       - ap
