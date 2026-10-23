@@ -6316,7 +6316,21 @@ posts:
       updated_at: '2026-10-22T18:29:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-22T18:29:24+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-23T07:25:34+00:00'
+  itv-border-news-living-with-and-caring-for-someone-with-me-cfs-77205db273:
+    source_url: https://nuchronic.uk/item/itv-border-news-living-with-and-caring-for-someone-with-me-cfs-77205db273/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-23T07:25:32+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-23T07:25:32+00:00'
       verified_targets:
       - ap
