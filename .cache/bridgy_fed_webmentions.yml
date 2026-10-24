@@ -6344,7 +6344,21 @@ posts:
       updated_at: '2026-10-23T13:21:08+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-23T13:21:09+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-24T23:08:06+00:00'
+  can-you-get-stronger-instantly-and-would-it-fix-your-pain-if-you-could-4m-d3dccc07db:
+    source_url: https://nuchronic.uk/item/can-you-get-stronger-instantly-and-would-it-fix-your-pain-if-you-could-4m-d3dccc07db/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-24T23:08:05+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-24T23:08:05+00:00'
       verified_targets:
       - ap
