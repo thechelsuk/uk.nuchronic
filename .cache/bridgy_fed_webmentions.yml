@@ -6372,7 +6372,21 @@ posts:
       updated_at: '2026-10-25T11:10:04+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-25T11:10:04+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-25T21:39:12+00:00'
+  unsettled-a-spy-puzzle-game-for-ios-979852eb7f:
+    source_url: https://nuchronic.uk/item/unsettled-a-spy-puzzle-game-for-ios-979852eb7f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-25T21:39:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-25T21:39:12+00:00'
       verified_targets:
       - ap
