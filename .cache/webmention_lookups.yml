@@ -1692,83 +1692,87 @@ targets:
     resolved_url: https://mhmiller.bearblog.dev/a-lighthearted-life-update/
     endpoint: ''
     checked_at: '2026-10-23T07:25:53+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-10-24T23:08:05+00:00'
-  https://www.painscience.com/blog/instant-strength.html:
-    resolved_url: https://www.painscience.com/blog/instant-strength.html
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:05+00:00'
-  ? https://meassociation.org.uk/2026/10/research-the-controversial-microclot-theory-and-the-use-of-anticoagulant-medication-to-treat-long-covid/
-  : resolved_url: https://meassociation.org.uk/2026/10/research-the-controversial-microclot-theory-and-the-use-of-anticoagulant-medication-to-treat-long-covid/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:06+00:00'
-  https://www.youtube.com/watch?v=eoabHhjk0ok:
-    resolved_url: https://www.youtube.com/watch?v=eoabHhjk0ok
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:07+00:00'
-  ? https://meassociation.org.uk/2026/10/the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-fatigue/
-  : resolved_url: https://meassociation.org.uk/2026/10/the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-fatigue/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:07+00:00'
-  https://alishawhittam.com/living-or-existing/:
-    resolved_url: https://alishawhittam.com/living-or-existing/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:10+00:00'
-  https://alishawhittam.com/pride-of-britain-awards-2026-winners/:
-    resolved_url: https://alishawhittam.com/pride-of-britain-awards-2026-winners/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:12+00:00'
-  https://www.youtube.com/watch?v=kGRUhUw0n4Q:
-    resolved_url: https://www.youtube.com/watch?v=kGRUhUw0n4Q
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:12+00:00'
-  https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/:
-    resolved_url: https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:13+00:00'
-  https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:15+00:00'
-  https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/:
-    resolved_url: https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:18+00:00'
-  https://www.youtube.com/watch?v=PlVnv0wDc60:
-    resolved_url: https://www.youtube.com/watch?v=PlVnv0wDc60
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:18+00:00'
-  ? https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-  : resolved_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:19+00:00'
-  ? https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-  : resolved_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:20+00:00'
-  https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/:
-    resolved_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:23+00:00'
-  ? https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
-  : resolved_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:24+00:00'
-  https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/:
-    resolved_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:24+00:00'
-  https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/:
-    resolved_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:24+00:00'
-  https://www.youtube.com/watch?v=x1LV1YcHiuw:
-    resolved_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
-    endpoint: ''
-    checked_at: '2026-10-24T23:08:24+00:00'
   https://www.painscience.com/blog/stenosis-severity-and-exercise.html:
     resolved_url: https://www.painscience.com/blog/stenosis-severity-and-exercise.html
     endpoint: ''
     checked_at: '2026-10-24T23:08:24+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-10-25T11:10:04+00:00'
+  https://blog.avas.space/ffxiv/:
+    resolved_url: https://blog.avas.space/ffxiv/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:05+00:00'
+  https://www.painscience.com/blog/instant-strength.html:
+    resolved_url: https://www.painscience.com/blog/instant-strength.html
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:05+00:00'
+  ? https://meassociation.org.uk/2026/10/research-the-controversial-microclot-theory-and-the-use-of-anticoagulant-medication-to-treat-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/10/research-the-controversial-microclot-theory-and-the-use-of-anticoagulant-medication-to-treat-long-covid/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:06+00:00'
+  https://www.youtube.com/watch?v=eoabHhjk0ok:
+    resolved_url: https://www.youtube.com/watch?v=eoabHhjk0ok
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:07+00:00'
+  ? https://meassociation.org.uk/2026/10/the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-fatigue/
+  : resolved_url: https://meassociation.org.uk/2026/10/the-daily-mail-interviews-dr-charles-shepherd-about-supplement-for-brain-fog-and-fatigue/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:08+00:00'
+  https://alishawhittam.com/living-or-existing/:
+    resolved_url: https://alishawhittam.com/living-or-existing/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:09+00:00'
+  https://alishawhittam.com/pride-of-britain-awards-2026-winners/:
+    resolved_url: https://alishawhittam.com/pride-of-britain-awards-2026-winners/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:11+00:00'
+  https://www.youtube.com/watch?v=kGRUhUw0n4Q:
+    resolved_url: https://www.youtube.com/watch?v=kGRUhUw0n4Q
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:11+00:00'
+  https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/:
+    resolved_url: https://thesicktimes.org/2026/10/20/the-real-story-behind-the-october-slide/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:13+00:00'
+  https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:15+00:00'
+  https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/:
+    resolved_url: https://meassociation.org.uk/2026/10/new-appointment-on-the-uk-me-cfs-biobank-steering-group-strengthens-carer-voice/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:18+00:00'
+  https://www.youtube.com/watch?v=PlVnv0wDc60:
+    resolved_url: https://www.youtube.com/watch?v=PlVnv0wDc60
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:18+00:00'
+  ? https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+  : resolved_url: https://virology.ws/2026/10/19/trial-by-error-some-things-ive-read-recently-bbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:19+00:00'
+  ? https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+  : resolved_url: https://trialbyerror.org/2026/10/19/some-things-ive-read-recentlybbc-on-olympic-sprinter-with-long-covid-anil-van-der-zee-on-suicide-physician-vs-patient-knowledge/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:20+00:00'
+  https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/:
+    resolved_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:24+00:00'
+  ? https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
+  : resolved_url: https://meassociation.org.uk/2026/10/dr-charles-shepherd-and-beth-dobbin-olympic-sprinter-interviewed-on-bbc-radio-sheffield/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:27+00:00'
+  https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/:
+    resolved_url: https://thesicktimes.org/2026/10/19/conferences-and-advocacy-events-for-iaccs-must-require-masking/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:29+00:00'
+  https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/:
+    resolved_url: https://despitepain.com/2026/10/18/most-difficult-part-of-living-with-facial-pain/
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:30+00:00'
+  https://www.youtube.com/watch?v=x1LV1YcHiuw:
+    resolved_url: https://www.youtube.com/watch?v=x1LV1YcHiuw
+    endpoint: ''
+    checked_at: '2026-10-25T11:10:30+00:00'
