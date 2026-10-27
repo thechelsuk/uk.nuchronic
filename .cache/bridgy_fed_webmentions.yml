@@ -6400,10 +6400,12 @@ posts:
       updated_at: '2026-10-27T07:40:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-27T07:40:03+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-27T14:21:30+00:00'
   update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m-b44385eaac:
     source_url: https://nuchronic.uk/item/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m-b44385eaac/
     bridgy:
@@ -6414,3 +6416,27 @@ posts:
       - bsky
       verified_at: '2026-10-27T07:40:05+00:00'
       status: success
+  mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london-6a908ee47a:
+    source_url: https://nuchronic.uk/item/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london-6a908ee47a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-27T14:21:27+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-27T14:21:27+00:00'
+      verified_targets:
+      - ap
+  protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines-a1f73795bc:
+    source_url: https://nuchronic.uk/item/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines-a1f73795bc/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-27T14:21:30+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-27T14:21:30+00:00'
+      verified_targets:
+      - ap
