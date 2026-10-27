@@ -6424,10 +6424,12 @@ posts:
       updated_at: '2026-10-27T14:21:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-27T14:21:27+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-27T20:02:53+00:00'
   protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines-a1f73795bc:
     source_url: https://nuchronic.uk/item/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines-a1f73795bc/
     bridgy:
@@ -6436,7 +6438,21 @@ posts:
       updated_at: '2026-10-27T14:21:30+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-27T14:21:30+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-27T20:02:53+00:00'
+  novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-c3eb321a83:
+    source_url: https://nuchronic.uk/item/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-c3eb321a83/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-27T20:02:52+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-27T20:02:52+00:00'
       verified_targets:
       - ap

@@ -1404,3 +1404,7 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/10/event-latest-me-cfs-research-from-professor-karl-morten-and-colleagues/
     reason: no-endpoint
     checked_at: '2026-10-27T14:21:45+00:00'
+  ? https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+  : resolved_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+    reason: no-endpoint
+    checked_at: '2026-10-27T20:02:52+00:00'

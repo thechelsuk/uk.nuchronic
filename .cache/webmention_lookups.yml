@@ -1708,10 +1708,6 @@ targets:
     resolved_url: https://thechels.uk/morse-code
     endpoint: https://webmention.io/thechels.uk/webmention
     checked_at: '2026-10-25T21:39:12+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-10-27T07:40:03+00:00'
   https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
     resolved_url: https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
     endpoint: ''
@@ -1796,3 +1792,11 @@ targets:
     resolved_url: https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
     endpoint: ''
     checked_at: '2026-10-27T14:21:30+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-10-27T20:02:52+00:00'
+  ? https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+  : resolved_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+    endpoint: ''
+    checked_at: '2026-10-27T20:02:52+00:00'
