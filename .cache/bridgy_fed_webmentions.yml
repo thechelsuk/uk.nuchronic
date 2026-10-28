@@ -6466,7 +6466,33 @@ posts:
       updated_at: '2026-10-28T12:36:18+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-28T12:36:18+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-28T18:49:10+00:00'
+  pathogen-activated-t-cells-take-central-stage-in-long-covid-are-they-driving-it-179c6df82d:
+    source_url: https://nuchronic.uk/item/pathogen-activated-t-cells-take-central-stage-in-long-covid-are-they-driving-it-179c6df82d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-28T18:49:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-28T18:49:07+00:00'
+      verified_targets:
+      - ap
+  what-does-my-pain-feel-like-274d0abdea:
+    source_url: https://nuchronic.uk/item/what-does-my-pain-feel-like-274d0abdea/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-28T18:49:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-28T18:49:10+00:00'
       verified_targets:
       - ap
