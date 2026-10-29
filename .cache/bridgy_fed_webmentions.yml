@@ -6480,10 +6480,12 @@ posts:
       updated_at: '2026-10-28T18:49:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-28T18:49:07+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-29T16:51:14+00:00'
   what-does-my-pain-feel-like-274d0abdea:
     source_url: https://nuchronic.uk/item/what-does-my-pain-feel-like-274d0abdea/
     bridgy:
@@ -6492,7 +6494,21 @@ posts:
       updated_at: '2026-10-28T18:49:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-28T18:49:10+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-29T16:51:11+00:00'
+  mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial-a161ad7206:
+    source_url: https://nuchronic.uk/item/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial-a161ad7206/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-29T16:51:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-29T16:51:10+00:00'
       verified_targets:
       - ap
