@@ -1816,3 +1816,11 @@ targets:
     resolved_url: https://www.healthrising.org/blog/2026/10/20/precision-life-genetic-report-long-covid/
     endpoint: ''
     checked_at: '2026-10-29T16:51:32+00:00'
+  https://www.painscience.com/blog/hypnosis-for-pain.html:
+    resolved_url: https://www.painscience.com/blog/hypnosis-for-pain.html
+    endpoint: ''
+    checked_at: '2026-10-29T21:45:54+00:00'
+  https://thechels.uk/weaknotes-2026-10-29:
+    resolved_url: https://thechels.uk/weaknotes-2026-10-29
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-10-29T21:45:55+00:00'
