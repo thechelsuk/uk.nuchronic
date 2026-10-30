@@ -6522,10 +6522,12 @@ posts:
       updated_at: '2026-10-29T21:45:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-29T21:45:54+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-10-30T15:47:32+00:00'
   weaknotes-2026-10-29-0eb6b2d9e6:
     source_url: https://nuchronic.uk/item/weaknotes-2026-10-29-0eb6b2d9e6/
     bridgy:
@@ -6534,7 +6536,33 @@ posts:
       updated_at: '2026-10-29T21:45:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-29T21:45:55+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-10-30T15:47:30+00:00'
+  long-covid-disabled-millions-of-workers-then-came-trump-2-0-0ab22ebd8d:
+    source_url: https://nuchronic.uk/item/long-covid-disabled-millions-of-workers-then-came-trump-2-0-0ab22ebd8d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-30T15:47:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-30T15:47:26+00:00'
+      verified_targets:
+      - ap
+  new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-r-5ba459bc49:
+    source_url: https://nuchronic.uk/item/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-r-5ba459bc49/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-10-30T15:47:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-10-30T15:47:29+00:00'
       verified_targets:
       - ap
