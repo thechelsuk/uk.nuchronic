@@ -6606,7 +6606,57 @@ posts:
       updated_at: '2026-10-31T13:32:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-10-31T13:32:01+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-01T20:25:57+00:00'
+  the-medical-establishment-is-not-merely-passively-neglectful-toward-people-with-9ac9d202c3:
+    source_url: https://nuchronic.uk/item/the-medical-establishment-is-not-merely-passively-neglectful-toward-people-with-9ac9d202c3/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-01T20:25:53+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-01T20:25:53+00:00'
+      verified_targets:
+      - ap
+  from-bench-to-bedside-takes-17-years-bf7d7c3480:
+    source_url: https://nuchronic.uk/item/from-bench-to-bedside-takes-17-years-bf7d7c3480/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-01T20:25:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-01T20:25:55+00:00'
+      verified_targets:
+      - ap
+  defining-me-8f81127a01:
+    source_url: https://nuchronic.uk/item/defining-me-8f81127a01/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-01T20:25:56+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-01T20:25:56+00:00'
+      verified_targets:
+      - ap
+  testing-results-non-toxic-cabinet-paints-855e12e2b8:
+    source_url: https://nuchronic.uk/item/testing-results-non-toxic-cabinet-paints-855e12e2b8/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-01T20:25:57+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-01T20:25:57+00:00'
       verified_targets:
       - ap

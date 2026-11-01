@@ -4877,7 +4877,7 @@ posts:
       https://www.painscience.com/blog/instant-strength.html:
         target_url: https://www.painscience.com/blog/instant-strength.html
         resolved_url: https://www.painscience.com/blog/instant-strength.html
-        updated_at: '2026-10-31T13:32:24+00:00'
+        updated_at: '2026-11-01T20:26:17+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4887,7 +4887,7 @@ posts:
       https://blog.avas.space/ffxiv/:
         target_url: https://blog.avas.space/ffxiv/
         resolved_url: https://blog.avas.space/ffxiv/
-        updated_at: '2026-10-31T13:32:24+00:00'
+        updated_at: '2026-11-01T20:26:17+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4909,7 +4909,7 @@ posts:
       https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
         target_url: https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
         resolved_url: https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
-        updated_at: '2026-10-31T13:32:16+00:00'
+        updated_at: '2026-11-01T20:26:11+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4919,7 +4919,7 @@ posts:
       https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/:
         target_url: https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
         resolved_url: https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
-        updated_at: '2026-10-31T13:32:24+00:00'
+        updated_at: '2026-11-01T20:26:17+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4929,7 +4929,7 @@ posts:
       https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/:
         target_url: https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/
         resolved_url: https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/
-        updated_at: '2026-10-31T13:32:20+00:00'
+        updated_at: '2026-11-01T20:26:13+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4939,7 +4939,7 @@ posts:
       https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
         target_url: https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
         resolved_url: https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
-        updated_at: '2026-10-31T13:32:17+00:00'
+        updated_at: '2026-11-01T20:26:12+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4949,7 +4949,7 @@ posts:
       ? https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
       : target_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
         resolved_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
-        updated_at: '2026-10-31T13:32:17+00:00'
+        updated_at: '2026-11-01T20:26:12+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4959,7 +4959,7 @@ posts:
       https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/:
         target_url: https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/
         resolved_url: https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/
-        updated_at: '2026-10-31T13:32:14+00:00'
+        updated_at: '2026-11-01T20:26:08+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4969,7 +4969,7 @@ posts:
       https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/:
         target_url: https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/
         resolved_url: https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/
-        updated_at: '2026-10-31T13:32:16+00:00'
+        updated_at: '2026-11-01T20:26:10+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4979,7 +4979,7 @@ posts:
       https://blog.avas.space/my-pain/:
         target_url: https://blog.avas.space/my-pain/
         resolved_url: https://blog.avas.space/my-pain/
-        updated_at: '2026-10-31T13:32:10+00:00'
+        updated_at: '2026-11-01T20:26:05+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4989,7 +4989,7 @@ posts:
       https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/:
         target_url: https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/
         resolved_url: https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/
-        updated_at: '2026-10-31T13:32:10+00:00'
+        updated_at: '2026-11-01T20:26:04+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -4999,7 +4999,7 @@ posts:
       https://www.painscience.com/blog/hypnosis-for-pain.html:
         target_url: https://www.painscience.com/blog/hypnosis-for-pain.html
         resolved_url: https://www.painscience.com/blog/hypnosis-for-pain.html
-        updated_at: '2026-10-31T13:32:10+00:00'
+        updated_at: '2026-11-01T20:26:05+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -5021,7 +5021,7 @@ posts:
       https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/:
         target_url: https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/
         resolved_url: https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/
-        updated_at: '2026-10-31T13:32:06+00:00'
+        updated_at: '2026-11-01T20:26:01+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -5031,7 +5031,7 @@ posts:
       ? https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
       : target_url: https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
         resolved_url: https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
-        updated_at: '2026-10-31T13:32:05+00:00'
+        updated_at: '2026-11-01T20:26:00+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -5041,7 +5041,7 @@ posts:
       https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/:
         target_url: https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/
         resolved_url: https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/
-        updated_at: '2026-10-31T13:32:04+00:00'
+        updated_at: '2026-11-01T20:25:59+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -5051,7 +5051,7 @@ posts:
       https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/:
         target_url: https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/
         resolved_url: https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/
-        updated_at: '2026-10-31T13:32:03+00:00'
+        updated_at: '2026-11-01T20:25:58+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
@@ -5061,7 +5061,47 @@ posts:
       https://blog.avas.space/rosebudthorn-oct26/:
         target_url: https://blog.avas.space/rosebudthorn-oct26/
         resolved_url: https://blog.avas.space/rosebudthorn-oct26/
-        updated_at: '2026-10-31T13:32:02+00:00'
+        updated_at: '2026-11-01T20:25:57+00:00'
         source_format_version: 2
         status: skipped
         reason: no-endpoint
+  the-medical-establishment-is-not-merely-passively-neglectful-toward-people-with-9ac9d202c3:
+    source_url: https://nuchronic.uk/item/the-medical-establishment-is-not-merely-passively-neglectful-toward-people-with-9ac9d202c3/
+    targets:
+      https://mecfs.substack.com/p/the-medical-establishment-is-not:
+        target_url: https://mecfs.substack.com/p/the-medical-establishment-is-not
+        resolved_url: https://mecfs.substack.com/p/the-medical-establishment-is-not
+        updated_at: '2026-11-01T20:25:53+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: discovery-http-403
+  from-bench-to-bedside-takes-17-years-bf7d7c3480:
+    source_url: https://nuchronic.uk/item/from-bench-to-bedside-takes-17-years-bf7d7c3480/
+    targets:
+      https://colleensteckelmeiccinfo.substack.com/p/from-bench-to-bedside-takes-17-years:
+        target_url: https://colleensteckelmeiccinfo.substack.com/p/from-bench-to-bedside-takes-17-years
+        resolved_url: https://colleensteckelmeiccinfo.substack.com/p/from-bench-to-bedside-takes-17-years
+        updated_at: '2026-11-01T20:25:55+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: discovery-http-403
+  defining-me-8f81127a01:
+    source_url: https://nuchronic.uk/item/defining-me-8f81127a01/
+    targets:
+      https://hillaryjohnson.substack.com/p/defining-me:
+        target_url: https://hillaryjohnson.substack.com/p/defining-me
+        resolved_url: https://hillaryjohnson.substack.com/p/defining-me
+        updated_at: '2026-11-01T20:25:56+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: discovery-http-403
+  testing-results-non-toxic-cabinet-paints-855e12e2b8:
+    source_url: https://nuchronic.uk/item/testing-results-non-toxic-cabinet-paints-855e12e2b8/
+    targets:
+      https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet:
+        target_url: https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet
+        resolved_url: https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet
+        updated_at: '2026-11-01T20:25:57+00:00'
+        source_format_version: 2
+        status: skipped
+        reason: discovery-http-403
