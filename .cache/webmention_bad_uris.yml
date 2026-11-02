@@ -1392,70 +1392,6 @@ targets:
     resolved_url: https://hillaryjohnson.substack.com/p/defining-me
     reason: discovery-http-403
     checked_at: '2026-11-01T20:25:56+00:00'
-  https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet:
-    resolved_url: https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet
-    reason: discovery-http-403
-    checked_at: '2026-11-01T20:25:57+00:00'
-  https://blog.avas.space/rosebudthorn-oct26/:
-    resolved_url: https://blog.avas.space/rosebudthorn-oct26/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:25:57+00:00'
-  https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/:
-    resolved_url: https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:25:58+00:00'
-  https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/:
-    resolved_url: https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:25:59+00:00'
-  ? https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
-  : resolved_url: https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:00+00:00'
-  https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/:
-    resolved_url: https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:01+00:00'
-  https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/:
-    resolved_url: https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:04+00:00'
-  https://www.painscience.com/blog/hypnosis-for-pain.html:
-    resolved_url: https://www.painscience.com/blog/hypnosis-for-pain.html
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:05+00:00'
-  https://blog.avas.space/my-pain/:
-    resolved_url: https://blog.avas.space/my-pain/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:05+00:00'
-  https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/:
-    resolved_url: https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:08+00:00'
-  https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:10+00:00'
-  https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
-    resolved_url: https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:11+00:00'
-  https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
-    resolved_url: https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:12+00:00'
-  ? https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
-  : resolved_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:12+00:00'
-  https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/:
-    resolved_url: https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:13+00:00'
-  https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/:
-    resolved_url: https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
-    reason: no-endpoint
-    checked_at: '2026-11-01T20:26:17+00:00'
   https://blog.avas.space/ffxiv/:
     resolved_url: https://blog.avas.space/ffxiv/
     reason: no-endpoint
@@ -1464,3 +1400,75 @@ targets:
     resolved_url: https://www.painscience.com/blog/instant-strength.html
     reason: no-endpoint
     checked_at: '2026-11-01T20:26:17+00:00'
+  ? https://lightscameracrohns.com/2026/11/02/microplastics-and-crohns-disease-what-the-planet-study-could-reveal-about-ibd-risk/
+  : resolved_url: https://lightscameracrohns.com/2026/11/02/microplastics-and-crohns-disease-what-the-planet-study-could-reveal-about-ibd-risk/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:46+00:00'
+  ? https://meassociation.org.uk/2026/11/more-than-350-sportspeople-sign-beth-dobbins-letter-to-the-prime-minister-calling-for-me-cfs-research-funding/
+  : resolved_url: https://meassociation.org.uk/2026/11/more-than-350-sportspeople-sign-beth-dobbins-letter-to-the-prime-minister-calling-for-me-cfs-research-funding/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:48+00:00'
+  https://blog.avas.space/rosebudthorn-oct26/:
+    resolved_url: https://blog.avas.space/rosebudthorn-oct26/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:48+00:00'
+  https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/:
+    resolved_url: https://virology.ws/2026/10/30/trial-by-error-some-recent-observations-from-alem-matthees/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:49+00:00'
+  https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet:
+    resolved_url: https://corinnesegura.substack.com/p/testing-results-non-toxic-cabinet
+    reason: discovery-http-403
+    checked_at: '2026-11-02T18:07:50+00:00'
+  https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/:
+    resolved_url: https://trialbyerror.org/2026/10/30/some-recent-observations-from-alem-matthees/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:50+00:00'
+  ? https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
+  : resolved_url: https://meassociation.org.uk/2026/10/new-study-finds-that-medication-may-reduce-the-risk-of-long-covid-in-some-high-risk-adults/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:53+00:00'
+  https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/:
+    resolved_url: https://thesicktimes.org/2026/10/30/long-covid-disabled-millions-of-workers-then-came-trump-2-0/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:55+00:00'
+  https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/:
+    resolved_url: https://meassociation.org.uk/2026/10/mea-research-ldn-did-not-improve-post-covid-me-cfs-in-canadian-clinical-trial/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:58+00:00'
+  https://www.painscience.com/blog/hypnosis-for-pain.html:
+    resolved_url: https://www.painscience.com/blog/hypnosis-for-pain.html
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:58+00:00'
+  https://blog.avas.space/my-pain/:
+    resolved_url: https://blog.avas.space/my-pain/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:07:58+00:00'
+  https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/:
+    resolved_url: https://meassociation.org.uk/2026/10/uk-me-cfs-biobank-is-sending-over-1300-samples-around-the-world/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:01+00:00'
+  https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/10/28/pathogen-t-cells-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:03+00:00'
+  https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
+    resolved_url: https://virology.ws/2026/10/27/trial-by-error-protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:04+00:00'
+  https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/:
+    resolved_url: https://trialbyerror.org/2026/10/26/protest-at-norwegian-parliament-over-upcoming-long-term-fatigue-guidelines/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:05+00:00'
+  ? https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+  : resolved_url: https://thesicktimes.org/2026/10/27/novel-drug-bezisterim-plans-for-further-study-in-long-covid-heres-how-the-phase-2-trial-came-together/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:05+00:00'
+  https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/:
+    resolved_url: https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:06+00:00'
+  https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/:
+    resolved_url: https://meassociation.org.uk/2026/10/update-me-association-investment-in-uk-me-cfs-biobank-exceeds-1m/
+    reason: no-endpoint
+    checked_at: '2026-11-02T18:08:09+00:00'
