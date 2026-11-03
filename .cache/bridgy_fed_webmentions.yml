@@ -6670,10 +6670,12 @@ posts:
       updated_at: '2026-11-02T18:07:45+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-02T18:07:45+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-03T16:04:54+00:00'
   more-than-350-sportspeople-sign-beth-dobbins-letter-to-the-prime-minister-callin-911531e95f:
     source_url: https://nuchronic.uk/item/more-than-350-sportspeople-sign-beth-dobbins-letter-to-the-prime-minister-callin-911531e95f/
     bridgy:
@@ -6682,7 +6684,33 @@ posts:
       updated_at: '2026-11-02T18:07:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-02T18:07:47+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-03T16:04:44+00:00'
+  let-life-be-easy-workshop-5f17c2972e:
+    source_url: https://nuchronic.uk/item/let-life-be-easy-workshop-5f17c2972e/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-03T16:04:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-03T16:04:41+00:00'
+      verified_targets:
+      - ap
+  national-covid-19-trends-november-3-d401bd9047:
+    source_url: https://nuchronic.uk/item/national-covid-19-trends-november-3-d401bd9047/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-03T16:04:43+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-03T16:04:44+00:00'
       verified_targets:
       - ap
