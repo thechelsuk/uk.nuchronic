@@ -1480,3 +1480,11 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/10/mea-research-recruiting-the-rosetta-stone-study-at-imperial-college-london/
     reason: no-endpoint
     checked_at: '2026-11-03T16:05:16+00:00'
+  https://www.healthrising.org/blog/2026/11/02/amatica-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/11/02/amatica-me-cfs-long-covid/
+    reason: no-endpoint
+    checked_at: '2026-11-03T21:40:39+00:00'
+  https://thesicktimes.org/2026/11/03/why-the-art-of-long-covid-and-me-can-be-hard-to-find/:
+    resolved_url: https://thesicktimes.org/2026/11/03/why-the-art-of-long-covid-and-me-can-be-hard-to-find/
+    reason: no-endpoint
+    checked_at: '2026-11-03T21:40:43+00:00'
