@@ -6726,10 +6726,12 @@ posts:
       updated_at: '2026-11-03T21:40:36+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-03T21:40:37+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-04T17:02:49+00:00'
   why-the-art-of-long-covid-and-me-can-be-hard-to-find-89a7af3426:
     source_url: https://nuchronic.uk/item/why-the-art-of-long-covid-and-me-can-be-hard-to-find-89a7af3426/
     bridgy:
@@ -6738,7 +6740,57 @@ posts:
       updated_at: '2026-11-03T21:40:39+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-03T21:40:43+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-04T17:02:45+00:00'
+  robot-or-not-knee-replacement-with-help-from-a-robot-arm-90s-9b0a4790ac:
+    source_url: https://nuchronic.uk/item/robot-or-not-knee-replacement-with-help-from-a-robot-arm-90s-9b0a4790ac/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-04T17:02:38+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-04T17:02:38+00:00'
+      verified_targets:
+      - ap
+  live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinica-10bdfa57f0:
+    source_url: https://nuchronic.uk/item/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinica-10bdfa57f0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-04T17:02:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-04T17:02:39+00:00'
+      verified_targets:
+      - ap
+  mascarpone-gnocchi-97b2c2f933:
+    source_url: https://nuchronic.uk/item/mascarpone-gnocchi-97b2c2f933/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-04T17:02:40+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-04T17:02:40+00:00'
+      verified_targets:
+      - ap
+  uk-me-cfs-biobank-joins-major-european-research-collaboration-9792d0a618:
+    source_url: https://nuchronic.uk/item/uk-me-cfs-biobank-joins-major-european-research-collaboration-9792d0a618/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-04T17:02:41+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-04T17:02:42+00:00'
       verified_targets:
       - ap
