@@ -6754,10 +6754,12 @@ posts:
       updated_at: '2026-11-04T17:02:38+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-04T17:02:38+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-05T03:23:40+00:00'
   live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinica-10bdfa57f0:
     source_url: https://nuchronic.uk/item/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinica-10bdfa57f0/
     bridgy:
@@ -6766,10 +6768,12 @@ posts:
       updated_at: '2026-11-04T17:02:39+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-04T17:02:39+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-05T03:23:38+00:00'
   mascarpone-gnocchi-97b2c2f933:
     source_url: https://nuchronic.uk/item/mascarpone-gnocchi-97b2c2f933/
     bridgy:
@@ -6778,10 +6782,12 @@ posts:
       updated_at: '2026-11-04T17:02:40+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-04T17:02:40+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-05T03:23:38+00:00'
   uk-me-cfs-biobank-joins-major-european-research-collaboration-9792d0a618:
     source_url: https://nuchronic.uk/item/uk-me-cfs-biobank-joins-major-european-research-collaboration-9792d0a618/
     bridgy:
@@ -6790,7 +6796,21 @@ posts:
       updated_at: '2026-11-04T17:02:41+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-04T17:02:42+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-05T03:23:37+00:00'
+  news-2026-nov-2-a14fbb9540:
+    source_url: https://nuchronic.uk/item/news-2026-nov-2-a14fbb9540/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-05T03:23:36+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-05T03:23:36+00:00'
       verified_targets:
       - ap
