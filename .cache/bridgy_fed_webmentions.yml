@@ -6824,10 +6824,12 @@ posts:
       updated_at: '2026-11-05T19:52:05+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-05T19:52:05+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-07T01:46:07+00:00'
   this-agent-goes-viral-e148d03d70:
     source_url: https://nuchronic.uk/item/this-agent-goes-viral-e148d03d70/
     bridgy:
@@ -6836,7 +6838,21 @@ posts:
       updated_at: '2026-11-05T19:52:06+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-05T19:52:06+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-07T01:46:06+00:00'
+  dr-novella-on-christina-applegates-misdiagnosis-of-ms-90s-855e1f3a97:
+    source_url: https://nuchronic.uk/item/dr-novella-on-christina-applegates-misdiagnosis-of-ms-90s-855e1f3a97/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-07T01:46:05+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-07T01:46:05+00:00'
       verified_targets:
       - ap
