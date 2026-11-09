@@ -6866,10 +6866,12 @@ posts:
       updated_at: '2026-11-09T11:15:52+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-09T11:15:52+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-09T22:13:12+00:00'
   what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosi-d4386b2817:
     source_url: https://nuchronic.uk/item/what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosi-d4386b2817/
     bridgy:
@@ -6878,10 +6880,12 @@ posts:
       updated_at: '2026-11-09T11:15:53+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-09T11:15:53+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-09T22:13:12+00:00'
   the-power-of-one-day-db84356828:
     source_url: https://nuchronic.uk/item/the-power-of-one-day-db84356828/
     bridgy:
@@ -6902,3 +6906,15 @@ posts:
       - bsky
       verified_at: '2026-11-09T11:15:54+00:00'
       status: success
+  the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-roy-d714925da1:
+    source_url: https://nuchronic.uk/item/the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-roy-d714925da1/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-09T22:13:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-09T22:13:10+00:00'
+      verified_targets:
+      - ap
