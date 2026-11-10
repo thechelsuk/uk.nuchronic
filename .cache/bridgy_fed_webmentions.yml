@@ -6928,10 +6928,12 @@ posts:
       updated_at: '2026-11-10T13:25:00+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T13:25:00+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-10T20:47:07+00:00'
   cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-i-04ad16024d:
     source_url: https://nuchronic.uk/item/cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-i-04ad16024d/
     bridgy:
@@ -6940,10 +6942,12 @@ posts:
       updated_at: '2026-11-10T13:25:01+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T13:25:01+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-10T20:47:06+00:00'
   part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-on-86a58d179e:
     source_url: https://nuchronic.uk/item/part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-on-86a58d179e/
     bridgy:
@@ -6952,7 +6956,45 @@ posts:
       updated_at: '2026-11-10T13:25:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T13:25:03+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-10T20:47:04+00:00'
+  inhibiting-energy-production-and-more-in-the-me-cfs-brain-wasf3-just-got-a-lot-m-ad83faf948:
+    source_url: https://nuchronic.uk/item/inhibiting-energy-production-and-more-in-the-me-cfs-brain-wasf3-just-got-a-lot-m-ad83faf948/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-10T20:46:59+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-10T20:46:59+00:00'
+      verified_targets:
+      - ap
+  nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques-4c73bc1169:
+    source_url: https://nuchronic.uk/item/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques-4c73bc1169/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-10T20:47:02+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-10T20:47:02+00:00'
+      verified_targets:
+      - ap
+  parsnip-leek-soup-97d19875b0:
+    source_url: https://nuchronic.uk/item/parsnip-leek-soup-97d19875b0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-10T20:47:03+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-10T20:47:04+00:00'
       verified_targets:
       - ap
