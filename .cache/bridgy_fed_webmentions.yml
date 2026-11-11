@@ -6970,10 +6970,12 @@ posts:
       updated_at: '2026-11-10T20:46:59+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T20:46:59+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-11T09:10:02+00:00'
   nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques-4c73bc1169:
     source_url: https://nuchronic.uk/item/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques-4c73bc1169/
     bridgy:
@@ -6982,10 +6984,12 @@ posts:
       updated_at: '2026-11-10T20:47:02+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T20:47:02+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-11T09:10:01+00:00'
   parsnip-leek-soup-97d19875b0:
     source_url: https://nuchronic.uk/item/parsnip-leek-soup-97d19875b0/
     bridgy:
@@ -6994,7 +6998,21 @@ posts:
       updated_at: '2026-11-10T20:47:03+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-10T20:47:04+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-11T09:10:01+00:00'
+  trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-researc-a827c5dff2:
+    source_url: https://nuchronic.uk/item/trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-researc-a827c5dff2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-11T09:10:00+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-11T09:10:00+00:00'
       verified_targets:
       - ap
