@@ -7040,7 +7040,21 @@ posts:
       updated_at: '2026-11-12T08:09:25+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-12T08:09:26+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-12T17:31:21+00:00'
+  manchester-half-marathon-2027-sunday-3rd-october-c1c114b15d:
+    source_url: https://nuchronic.uk/item/manchester-half-marathon-2027-sunday-3rd-october-c1c114b15d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-12T17:31:19+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-12T17:31:19+00:00'
       verified_targets:
       - ap
