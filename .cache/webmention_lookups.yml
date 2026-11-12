@@ -1860,82 +1860,6 @@ targets:
   : resolved_url: https://meassociation.org.uk/2026/11/more-than-350-sportspeople-sign-beth-dobbins-letter-to-the-prime-minister-calling-for-me-cfs-research-funding/
     endpoint: ''
     checked_at: '2026-11-10T13:25:41+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-11-11T09:10:00+00:00'
-  https://virology.ws/2026/11/11/trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/:
-    resolved_url: https://virology.ws/2026/11/11/trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:32+00:00'
-  ? https://lightscameracrohns.com/2026/11/10/part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-one-patient-wishes-she-knew/
-  : resolved_url: https://lightscameracrohns.com/2026/11/10/part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-one-patient-wishes-she-knew/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:33+00:00'
-  https://www.throughthefibrofog.com/parsnip-leek-soup/:
-    resolved_url: https://www.throughthefibrofog.com/parsnip-leek-soup/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:33+00:00'
-  https://thesicktimes.org/2026/11/10/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques/:
-    resolved_url: https://thesicktimes.org/2026/11/10/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:33+00:00'
-  https://www.healthrising.org/blog/2026/11/10/energy-production-wasf3-brain-me-cfs-long-covid/:
-    resolved_url: https://www.healthrising.org/blog/2026/11/10/energy-production-wasf3-brain-me-cfs-long-covid/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:35+00:00'
-  ? https://meassociation.org.uk/2026/11/cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-immune-responses-in-me-cfs-and-long-covid/
-  : resolved_url: https://meassociation.org.uk/2026/11/cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-immune-responses-in-me-cfs-and-long-covid/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:35+00:00'
-  https://www.youtube.com/watch?v=3UaP6csCZRY:
-    resolved_url: https://www.youtube.com/watch?v=3UaP6csCZRY
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:35+00:00'
-  ? https://lightscameracrohns.com/2026/11/09/what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosing-a-colectomy/
-  : resolved_url: https://lightscameracrohns.com/2026/11/09/what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosing-a-colectomy/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:36+00:00'
-  ? https://meassociation.org.uk/2026/11/the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-royal-victoria-infirmary/
-  : resolved_url: https://meassociation.org.uk/2026/11/the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-royal-victoria-infirmary/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:36+00:00'
-  https://alishawhittam.com/christmas-with-chronic-illness-tips/:
-    resolved_url: https://alishawhittam.com/christmas-with-chronic-illness-tips/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:47+00:00'
-  https://mhmiller.bearblog.dev/the-power-of-one-day/:
-    resolved_url: https://mhmiller.bearblog.dev/the-power-of-one-day/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:47+00:00'
-  https://blog.avas.space/chronic-illness-memes/:
-    resolved_url: https://blog.avas.space/chronic-illness-memes/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:47+00:00'
-  https://virology.ws/2026/11/05/this-agent-goes-viral/:
-    resolved_url: https://virology.ws/2026/11/05/this-agent-goes-viral/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:48+00:00'
-  https://despitepain.com/2026/11/05/how-to-find-balance-and-support-after-a-challenging-diagnosis-by-julia-merrill/:
-    resolved_url: https://despitepain.com/2026/11/05/how-to-find-balance-and-support-after-a-challenging-diagnosis-by-julia-merrill/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:48+00:00'
-  https://www.painscience.com/blog/dr-novella-on-christina-applegates-misdiagnosis-of-ms.html:
-    resolved_url: https://www.painscience.com/blog/dr-novella-on-christina-applegates-misdiagnosis-of-ms.html
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:48+00:00'
-  https://meassociation.org.uk/2026/11/uk-me-cfs-biobank-joins-major-european-research-collaboration/:
-    resolved_url: https://meassociation.org.uk/2026/11/uk-me-cfs-biobank-joins-major-european-research-collaboration/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:49+00:00'
-  https://www.throughthefibrofog.com/mascarpone-gnocchi/:
-    resolved_url: https://www.throughthefibrofog.com/mascarpone-gnocchi/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:49+00:00'
-  ? https://thesicktimes.org/2026/11/04/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinical-trials/
-  : resolved_url: https://thesicktimes.org/2026/11/04/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinical-trials/
-    endpoint: ''
-    checked_at: '2026-11-11T17:50:49+00:00'
   https://thesicktimes.org/2026/11/03/why-the-art-of-long-covid-and-me-can-be-hard-to-find/:
     resolved_url: https://thesicktimes.org/2026/11/03/why-the-art-of-long-covid-and-me-can-be-hard-to-find/
     endpoint: ''
@@ -1944,7 +1868,87 @@ targets:
     resolved_url: https://www.painscience.com/blog/robot-or-not-knee-replacement-with-help-from-a-robot-arm.html
     endpoint: ''
     checked_at: '2026-11-11T09:10:20+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-11-12T08:09:25+00:00'
+  https://www.painscience.com/blog/cherry-picking-double-standard.html:
+    resolved_url: https://www.painscience.com/blog/cherry-picking-double-standard.html
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:26+00:00'
+  https://virology.ws/2026/11/11/trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/:
+    resolved_url: https://virology.ws/2026/11/11/trial-by-error-olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:28+00:00'
   https://trialbyerror.org/2026/11/10/olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/:
     resolved_url: https://trialbyerror.org/2026/11/10/olympian-beth-dobbin-appeals-to-prime-minister-for-me-cfs-research/
     endpoint: ''
-    checked_at: '2026-11-11T17:50:31+00:00'
+    checked_at: '2026-11-12T08:09:28+00:00'
+  ? https://lightscameracrohns.com/2026/11/10/part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-one-patient-wishes-she-knew/
+  : resolved_url: https://lightscameracrohns.com/2026/11/10/part-2-life-after-ostomy-surgery-the-recovery-realities-lessons-and-surprises-one-patient-wishes-she-knew/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:28+00:00'
+  https://www.throughthefibrofog.com/parsnip-leek-soup/:
+    resolved_url: https://www.throughthefibrofog.com/parsnip-leek-soup/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:28+00:00'
+  https://thesicktimes.org/2026/11/10/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques/:
+    resolved_url: https://thesicktimes.org/2026/11/10/nih-officials-discuss-agencys-long-covid-clinical-trials-respond-to-critiques/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:29+00:00'
+  https://www.healthrising.org/blog/2026/11/10/energy-production-wasf3-brain-me-cfs-long-covid/:
+    resolved_url: https://www.healthrising.org/blog/2026/11/10/energy-production-wasf3-brain-me-cfs-long-covid/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:30+00:00'
+  ? https://meassociation.org.uk/2026/11/cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-immune-responses-in-me-cfs-and-long-covid/
+  : resolved_url: https://meassociation.org.uk/2026/11/cureme-update-on-the-hhv-6-study-advancing-understanding-of-viral-activity-and-immune-responses-in-me-cfs-and-long-covid/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:34+00:00'
+  https://www.youtube.com/watch?v=3UaP6csCZRY:
+    resolved_url: https://www.youtube.com/watch?v=3UaP6csCZRY
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:34+00:00'
+  ? https://lightscameracrohns.com/2026/11/09/what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosing-a-colectomy/
+  : resolved_url: https://lightscameracrohns.com/2026/11/09/what-i-wish-i-knew-before-ostomy-surgery-one-patient-advocates-journey-to-choosing-a-colectomy/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:34+00:00'
+  ? https://meassociation.org.uk/2026/11/the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-royal-victoria-infirmary/
+  : resolved_url: https://meassociation.org.uk/2026/11/the-me-association-hold-a-stall-aimed-at-medical-professionals-at-newcastles-royal-victoria-infirmary/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:38+00:00'
+  https://alishawhittam.com/christmas-with-chronic-illness-tips/:
+    resolved_url: https://alishawhittam.com/christmas-with-chronic-illness-tips/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:39+00:00'
+  https://mhmiller.bearblog.dev/the-power-of-one-day/:
+    resolved_url: https://mhmiller.bearblog.dev/the-power-of-one-day/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:40+00:00'
+  https://blog.avas.space/chronic-illness-memes/:
+    resolved_url: https://blog.avas.space/chronic-illness-memes/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:40+00:00'
+  https://virology.ws/2026/11/05/this-agent-goes-viral/:
+    resolved_url: https://virology.ws/2026/11/05/this-agent-goes-viral/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:41+00:00'
+  https://despitepain.com/2026/11/05/how-to-find-balance-and-support-after-a-challenging-diagnosis-by-julia-merrill/:
+    resolved_url: https://despitepain.com/2026/11/05/how-to-find-balance-and-support-after-a-challenging-diagnosis-by-julia-merrill/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:41+00:00'
+  https://www.painscience.com/blog/dr-novella-on-christina-applegates-misdiagnosis-of-ms.html:
+    resolved_url: https://www.painscience.com/blog/dr-novella-on-christina-applegates-misdiagnosis-of-ms.html
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:41+00:00'
+  https://meassociation.org.uk/2026/11/uk-me-cfs-biobank-joins-major-european-research-collaboration/:
+    resolved_url: https://meassociation.org.uk/2026/11/uk-me-cfs-biobank-joins-major-european-research-collaboration/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:44+00:00'
+  https://www.throughthefibrofog.com/mascarpone-gnocchi/:
+    resolved_url: https://www.throughthefibrofog.com/mascarpone-gnocchi/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:44+00:00'
+  ? https://thesicktimes.org/2026/11/04/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinical-trials/
+  : resolved_url: https://thesicktimes.org/2026/11/04/live-blog-recover-tlc-third-annual-workshop-shares-updates-on-long-covid-clinical-trials/
+    endpoint: ''
+    checked_at: '2026-11-12T08:09:44+00:00'

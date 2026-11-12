@@ -7026,7 +7026,21 @@ posts:
       updated_at: '2026-11-11T17:50:28+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-11T17:50:31+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-12T08:09:28+00:00'
+  cherry-picking-double-standard-1m-4a57c830c2:
+    source_url: https://nuchronic.uk/item/cherry-picking-double-standard-1m-4a57c830c2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-12T08:09:25+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-12T08:09:26+00:00'
       verified_targets:
       - ap
