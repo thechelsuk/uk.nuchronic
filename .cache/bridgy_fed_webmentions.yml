@@ -7060,3 +7060,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-11-12T17:39:01+00:00'
+  surgery-for-trigger-points-revisited-cutting-out-the-scare-tissue-6m-86b3640fce:
+    source_url: https://nuchronic.uk/item/surgery-for-trigger-points-revisited-cutting-out-the-scare-tissue-6m-86b3640fce/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-13T06:10:06+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-13T06:10:07+00:00'
+      verified_targets:
+      - ap
