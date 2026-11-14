@@ -7102,3 +7102,15 @@ posts:
       - ap
       - bsky
       verified_at: '2026-11-13T18:00:52+00:00'
+  what-i-read-this-week-week-46-2026-143fb407d0:
+    source_url: https://nuchronic.uk/item/what-i-read-this-week-week-46-2026-143fb407d0/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-14T21:17:13+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-14T21:17:13+00:00'
+      verified_targets:
+      - ap
