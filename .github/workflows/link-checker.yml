@@ -12,3 +12,6 @@ jobs:
     with:
       site_host: nuchronic\.uk
       ruby_version: "3.2"
+      # meassociation.org.uk serves a bot challenge ("One moment, please...")
+      # and answers a burst of requests with 404s, so its links can't be checked.
+      extra_args: --exclude 'meassociation\.org\.uk'
