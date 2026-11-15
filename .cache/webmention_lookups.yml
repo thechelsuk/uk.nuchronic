@@ -1972,3 +1972,7 @@ targets:
     resolved_url: https://virology.ws/2026/11/05/this-agent-goes-viral/
     endpoint: ''
     checked_at: '2026-11-14T21:17:25+00:00'
+  https://blog.avas.space/illness-me-time/:
+    resolved_url: https://blog.avas.space/illness-me-time/
+    endpoint: ''
+    checked_at: '2026-11-15T01:42:40+00:00'
