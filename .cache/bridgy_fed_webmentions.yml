@@ -7152,7 +7152,33 @@ posts:
       updated_at: '2026-11-16T09:22:07+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-16T09:22:07+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-16T20:13:48+00:00'
+  bbc-radio-solent-me-cfs-and-long-covid-in-children-21d5b51c6d:
+    source_url: https://nuchronic.uk/item/bbc-radio-solent-me-cfs-and-long-covid-in-children-21d5b51c6d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-16T20:13:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-16T20:13:46+00:00'
+      verified_targets:
+      - ap
+  important-court-judgement-relating-to-a-child-with-me-ec2cf923da:
+    source_url: https://nuchronic.uk/item/important-court-judgement-relating-to-a-child-with-me-ec2cf923da/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-16T20:13:47+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-16T20:13:47+00:00'
       verified_targets:
       - ap
