@@ -1,0 +1,20 @@
+{% comment %}
+    Google's "preferred source" link: a reader who follows it can pick nuchronic.uk so Google shows its posts to
+    them more often in Top stories. A plain link, so the page sends nothing to Google.
+    Docs: https://developers.google.com/search/docs/appearance/preferred-sources
+    include.variant "button": the small button at the right of a post's meta row (post.html).
+    Otherwise the line under the home feed (home.html). The footer link is in _config.yml.
+{% endcomment %}
+{% assign ps_domain = "nuchronic.uk" %}
+{% assign ps_url = "https://www.google.com/preferences/source?q=" | append: ps_domain %}
+{% if include.variant == "button" %}
+<a class="ps-button" href="{{ ps_url }}" aria-label="Add {{ ps_domain }} as a preferred source on Google">
+    <svg class="ps-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path
+            d="M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z" />
+    </svg>
+    Preferred source on Google</a>
+{% else %}
+<p class="preferred-source">See more of the chronically ill indie web in Google's Top stories:
+    <a href="{{ ps_url }}">add {{ ps_domain }} as a preferred source on Google</a>.</p>
+{% endif %}

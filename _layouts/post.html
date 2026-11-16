@@ -29,6 +29,7 @@ endcapture %}
     </span>
     <p class="entry-kicker"><a href="{{ '/' | relative_url }}">new</a></p>
     <h1 class="entry-title p-name">{{ page.title }}</h1>
+    <div class="entry-meta-row">
     <p class="entry-meta">
         <time class="dt-published"
             datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
@@ -41,6 +42,8 @@ endcapture %}
         source <a href="{{ page.link }}" title="{{ page.link }}">{{ source_host }}</a>
         {% endif %}
     </p>
+    {% include preferred-source.html variant="button" %}
+    </div>
     {% if has_article_body %}
     <div class="entry-body e-content">
         {% if body != "" %}

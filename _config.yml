@@ -60,6 +60,8 @@ footer_nav:
       url: "/privacy"
     - label: Sitemap
       url: "/sitemap.xml"
+    - label: Add to Google
+      url: "https://www.google.com/preferences/source?q=nuchronic.uk"
     - label: Sponsor
       url: "https://github.com/sponsors/thechelsuk"
     - label: Ko-fi
