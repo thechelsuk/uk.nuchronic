@@ -7138,7 +7138,21 @@ posts:
       updated_at: '2026-11-16T01:46:06+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-16T01:46:06+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-16T09:22:08+00:00'
+  bbc-radio-devon-alice-barrett-s-me-cfs-poem-fire-in-my-belly-29db58a91c:
+    source_url: https://nuchronic.uk/item/bbc-radio-devon-alice-barrett-s-me-cfs-poem-fire-in-my-belly-29db58a91c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-16T09:22:07+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-16T09:22:07+00:00'
       verified_targets:
       - ap
