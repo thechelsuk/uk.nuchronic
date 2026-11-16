@@ -1888,10 +1888,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/11/uk-me-cfs-biobank-joins-major-european-research-collaboration/
     endpoint: ''
     checked_at: '2026-11-13T06:10:19+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-11-14T21:17:13+00:00'
   https://virology.ws/2026/11/05/this-agent-goes-viral/:
     resolved_url: https://virology.ws/2026/11/05/this-agent-goes-viral/
     endpoint: ''
@@ -1976,3 +1972,11 @@ targets:
     resolved_url: https://blog.avas.space/chronic-illness-memes/
     endpoint: ''
     checked_at: '2026-11-16T00:58:56+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-11-16T01:46:06+00:00'
+  https://thechels.uk/1password-env-hang-in-vscode:
+    resolved_url: https://thechels.uk/1password-env-hang-in-vscode
+    endpoint: https://webmention.io/thechels.uk/webmention
+    checked_at: '2026-11-16T01:46:06+00:00'
