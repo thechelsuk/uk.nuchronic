@@ -7166,10 +7166,12 @@ posts:
       updated_at: '2026-11-16T20:13:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-16T20:13:46+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-17T03:38:14+00:00'
   important-court-judgement-relating-to-a-child-with-me-ec2cf923da:
     source_url: https://nuchronic.uk/item/important-court-judgement-relating-to-a-child-with-me-ec2cf923da/
     bridgy:
@@ -7178,7 +7180,21 @@ posts:
       updated_at: '2026-11-16T20:13:47+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-16T20:13:47+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-17T03:38:13+00:00'
+  very-high-dose-cromolyn-provides-relief-in-mcas-me-cfs-and-or-pots-6aa66ea37a:
+    source_url: https://nuchronic.uk/item/very-high-dose-cromolyn-provides-relief-in-mcas-me-cfs-and-or-pots-6aa66ea37a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-17T03:38:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-17T03:38:11+00:00'
       verified_targets:
       - ap
