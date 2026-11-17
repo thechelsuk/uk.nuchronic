@@ -58,6 +58,8 @@ footer_nav:
       url: "/terms"
     - label: Privacy
       url: "/privacy"
+    - label: Feedback
+      url: "https://github.com/thechelsuk/uk.nuchronic/issues/new/choose"
     - label: Sitemap
       url: "/sitemap.xml"
     - label: Add to Google

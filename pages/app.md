@@ -24,6 +24,16 @@ The Nuchronic printables, as an app. Check in with a few taps, see your year at 
 
 Everything stays on your phone. There's no account, no tracking and no analytics, and nothing is sent anywhere unless you choose to share it.
 
+## Questions
+
+### Found a bug or have an idea?
+
+Tell me on GitHub: [raise an issue](https://github.com/thechelsuk/uk.nuchronic/issues/new/choose) and choose the form for a bug, a feature request, a question or general feedback. You'll need a free GitHub account.
+
+### Can I just email you?
+
+Yes. Email [feedback@thechels.uk](mailto:feedback@thechels.uk?subject=Nuchronic) with Nuchronic in the subject.
+
 ## Not medical advice
 
 Nuchronic helps you keep your own records and plans. It doesn't diagnose, treat or tell you what to do. If your symptoms change or worry you, contact your doctor. In an emergency, contact your local emergency services.
