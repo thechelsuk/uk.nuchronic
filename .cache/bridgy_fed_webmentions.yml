@@ -7208,7 +7208,33 @@ posts:
       updated_at: '2026-11-17T13:00:55+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-17T13:00:55+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-17T19:26:46+00:00'
+  vegetable-rice-soup-cab68c3a93:
+    source_url: https://nuchronic.uk/item/vegetable-rice-soup-cab68c3a93/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-17T19:26:44+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-17T19:26:44+00:00'
+      verified_targets:
+      - ap
+  why-are-there-no-clinical-guidelines-for-kids-with-long-covid-1559f8ec14:
+    source_url: https://nuchronic.uk/item/why-are-there-no-clinical-guidelines-for-kids-with-long-covid-1559f8ec14/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-17T19:26:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-17T19:26:46+00:00'
       verified_targets:
       - ap
