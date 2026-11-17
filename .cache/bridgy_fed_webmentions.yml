@@ -7194,7 +7194,21 @@ posts:
       updated_at: '2026-11-17T03:38:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-17T03:38:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-17T13:00:57+00:00'
+  milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-i-5151a0dce6:
+    source_url: https://nuchronic.uk/item/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-i-5151a0dce6/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-17T13:00:55+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-17T13:00:55+00:00'
       verified_targets:
       - ap
