@@ -24,7 +24,7 @@ The Nuchronic printables, as an app. Check in with a few taps, see your year at 
 
 Everything stays on your phone. There's no account, no tracking and no analytics, and nothing is sent anywhere unless you choose to share it.
 
-## Questions
+## Frequently asked questions
 
 ### Found a bug or have an idea?
 
