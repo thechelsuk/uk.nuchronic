@@ -7222,10 +7222,12 @@ posts:
       updated_at: '2026-11-17T19:26:44+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-17T19:26:44+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-18T11:24:48+00:00'
   why-are-there-no-clinical-guidelines-for-kids-with-long-covid-1559f8ec14:
     source_url: https://nuchronic.uk/item/why-are-there-no-clinical-guidelines-for-kids-with-long-covid-1559f8ec14/
     bridgy:
@@ -7234,7 +7236,33 @@ posts:
       updated_at: '2026-11-17T19:26:46+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-17T19:26:46+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-18T11:24:47+00:00'
+  my-scoliosis-back-pain-and-possible-iliocostal-friction-syndrome-19bffe4697:
+    source_url: https://nuchronic.uk/item/my-scoliosis-back-pain-and-possible-iliocostal-friction-syndrome-19bffe4697/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-18T11:24:45+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-18T11:24:45+00:00'
+      verified_targets:
+      - ap
+  workplace-equality-f26619cd10:
+    source_url: https://nuchronic.uk/item/workplace-equality-f26619cd10/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-18T11:24:46+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-18T11:24:47+00:00'
       verified_targets:
       - ap
