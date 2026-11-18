@@ -7270,3 +7270,27 @@ posts:
       - ap
       - bsky
       verified_at: '2026-11-18T11:47:12+00:00'
+  have-you-tried-low-dose-naltrexone-it-works-for-me-4m-554c73677d:
+    source_url: https://nuchronic.uk/item/have-you-tried-low-dose-naltrexone-it-works-for-me-4m-554c73677d/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-18T21:18:10+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-18T21:18:10+00:00'
+      verified_targets:
+      - ap
+  research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs-a3020b886a:
+    source_url: https://nuchronic.uk/item/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs-a3020b886a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-18T21:18:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-18T21:18:11+00:00'
+      verified_targets:
+      - ap
