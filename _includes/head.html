@@ -55,6 +55,24 @@
 <meta name="apple-itunes-app" content="app-id=6817007686">
 {% endif %}
 <link rel="canonical" href="{{ canonical_url }}">
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ '/' | absolute_url | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "inLanguage": "en",
+  "publisher": {
+    "@type": "Person",
+    "name": "thechelsuk",
+    "url": "https://thechels.uk",
+    "sameAs": ["https://github.com/thechelsuk", "https://ko-fi.com/thechelsuk"]
+  }
+}
+</script>
+{% endif %}
 <link rel="manifest" href="{{ '/assets/icons/manifest.webmanifest' | relative_url }}">
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
 <link rel="icon" href="{{ '/assets/icons/icon.svg' | relative_url }}" type="image/svg+xml">
