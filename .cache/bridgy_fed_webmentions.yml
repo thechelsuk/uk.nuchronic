@@ -7278,10 +7278,12 @@ posts:
       updated_at: '2026-11-18T21:18:10+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-18T21:18:10+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-19T20:23:40+00:00'
   research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs-a3020b886a:
     source_url: https://nuchronic.uk/item/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs-a3020b886a/
     bridgy:
@@ -7290,7 +7292,21 @@ posts:
       updated_at: '2026-11-18T21:18:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-18T21:18:11+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-19T20:23:38+00:00'
+  olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign-285fbc841a:
+    source_url: https://nuchronic.uk/item/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign-285fbc841a/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-19T20:23:37+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-19T20:23:38+00:00'
       verified_targets:
       - ap
