@@ -7334,7 +7334,21 @@ posts:
       updated_at: '2026-11-20T19:54:44+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-20T19:54:45+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-21T09:31:39+00:00'
+  bbc-question-time-milburn-review-me-cfs-c5f09d3a68:
+    source_url: https://nuchronic.uk/item/bbc-question-time-milburn-review-me-cfs-c5f09d3a68/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-21T09:31:39+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-21T09:31:39+00:00'
       verified_targets:
       - ap
