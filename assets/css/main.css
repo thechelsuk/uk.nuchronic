@@ -304,44 +304,73 @@ pre code {
 
 /* Footer */
 .site-footer {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 14px 18px 18px;
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 3fr);
+  gap: 24px 32px;
+  padding: 24px 18px 28px;
   border-top: 1px solid var(--divider);
   color: var(--text-faint);
   font-family: var(--font-mono);
-  font-size: 0.76rem;
+  font-size: 0.8rem;
 }
 
 .site-footer p {
   margin: 0;
 }
 
-.footer-copy {
-  white-space: nowrap;
-}
-
-.footer-notice {
-  flex: 1;
-  text-align: center;
-}
-
-.footer-nav {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
-  justify-content: flex-end;
+.footer-brand {
+  display: grid;
+  align-content: start;
   gap: 6px;
 }
 
-.footer-nav a {
+.footer-copy {
+  color: var(--text-dim);
+}
+
+.footer-groups {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
+  gap: 20px 24px;
+}
+
+.footer-group {
+  min-width: 0;
+}
+
+.footer-heading {
+  margin: 0 0 6px;
+  color: var(--text-dim);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.footer-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-list a,
+.footer-brand a {
+  display: inline-block;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 2px 0;
+  overflow-wrap: anywhere;
+}
+
+.footer-list a {
   color: var(--accent-soft);
 }
 
-.footer-separator {
-  opacity: 0.48;
+.footer-list a:hover,
+.footer-list a:focus-visible {
+  text-decoration: underline;
 }
 
 /* Entries and pages */
@@ -790,18 +819,25 @@ pre code {
   }
 
   .site-footer {
-    align-items: flex-start;
-    flex-direction: column;
-    padding: 14px 12px 16px;
+    grid-template-columns: minmax(0, 1fr);
+    padding: 18px 12px 22px;
   }
 
-  .footer-notice {
-    text-align: left;
+  .footer-list a {
+    min-height: 40px;
+    display: inline-flex;
+    align-items: center;
   }
 
   .empty-state,
   .entry-card {
     padding: 24px 16px 28px;
+  }
+}
+
+@media (max-width: 420px) {
+  .footer-groups {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 

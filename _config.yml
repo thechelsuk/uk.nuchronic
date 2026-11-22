@@ -27,6 +27,7 @@ rel_me:
   - https://ko-fi.com/thechelsuk
   - https://thechels.uk
   - https://nuchronic.uk
+  - https://bsky.app/profile/nuchronic.uk
   - https://github.com/sponsors/thechelsuk
 header_nav:
   links:
@@ -48,25 +49,48 @@ footer_nav:
   copyright: Nuchronic
   notice: The Chronically Ill Webring
   year: 2026
-  links:
-    - label: About
-      url: "/about"
-    - label: App
-      url: "/app"
-    - label: Terms
-      url: "/terms"
-    - label: Privacy
-      url: "/privacy"
-    - label: Feedback
-      url: "https://github.com/thechelsuk/uk.nuchronic/issues/new/choose"
-    - label: Sitemap
-      url: "/sitemap.xml"
-    - label: Add to Google
-      url: "https://www.google.com/preferences/source?q=nuchronic.uk"
-    - label: Sponsor
-      url: "https://github.com/sponsors/thechelsuk"
-    - label: Ko-fi
-      url: "https://ko-fi.com/thechelsuk"
+  groups:
+    - title: Nuchronic
+      links:
+        - label: About
+          url: "/about"
+        - label: App
+          url: "/app"
+        - label: Printables
+          url: "/printables"
+        - label: Feedback
+          url: "https://github.com/thechelsuk/uk.nuchronic/issues/new/choose"
+    - title: Follow
+      links:
+        - label: Bluesky
+          url: "https://bsky.app/profile/nuchronic.uk"
+          rel: me
+        - label: Mastodon
+          url: "https://mastodon.social/@nuchronic.uk@nuchronic.uk"
+          rel: me
+        - label: Feed
+          url: "/feed.xml"
+        - label: GitHub
+          url: "https://github.com/thechelsuk"
+          rel: me
+    - title: Support
+      links:
+        - label: Sponsor
+          url: "https://github.com/sponsors/thechelsuk"
+          rel: me
+        - label: Ko-fi
+          url: "https://ko-fi.com/thechelsuk"
+          rel: me
+    - title: Legal
+      links:
+        - label: Terms
+          url: "/terms"
+        - label: Privacy
+          url: "/privacy"
+        - label: Sitemap
+          url: "/sitemap.xml"
+        - label: Add to Google
+          url: "https://www.google.com/preferences/source?q=nuchronic.uk"
 defaults:
   - scope:
       path: ""
