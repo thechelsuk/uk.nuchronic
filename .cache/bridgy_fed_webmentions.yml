@@ -7348,7 +7348,33 @@ posts:
       updated_at: '2026-11-21T09:31:39+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-21T09:31:39+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-22T11:04:12+00:00'
+  season-change-2026-living-with-myalgic-encephalomyelitis-d2393051b2:
+    source_url: https://nuchronic.uk/item/season-change-2026-living-with-myalgic-encephalomyelitis-d2393051b2/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-22T11:04:11+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-22T11:04:11+00:00'
+      verified_targets:
+      - ap
+  non-toxic-home-course-is-updated-time-limited-deal-ee3a5a4d0f:
+    source_url: https://nuchronic.uk/item/non-toxic-home-course-is-updated-time-limited-deal-ee3a5a4d0f/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-22T11:04:12+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-22T11:04:12+00:00'
       verified_targets:
       - ap

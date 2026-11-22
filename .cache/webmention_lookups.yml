@@ -1964,74 +1964,6 @@ targets:
     resolved_url: https://meassociation.org.uk/2026/11/manchester-half-marathon-2027-sunday-3rd-october/
     endpoint: ''
     checked_at: '2026-11-20T11:14:41+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-11-21T09:31:39+00:00'
-  https://www.youtube.com/watch?v=7LhiqjwdmOs:
-    resolved_url: https://www.youtube.com/watch?v=7LhiqjwdmOs
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:39+00:00'
-  https://www.eleanorsteinmd.ca/blog/creatine-pt2:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/creatine-pt2
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:40+00:00'
-  https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/:
-    resolved_url: https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:40+00:00'
-  https://blog.avas.space/workplace-equality/:
-    resolved_url: https://blog.avas.space/workplace-equality/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:40+00:00'
-  https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:46+00:00'
-  https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/:
-    resolved_url: https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:46+00:00'
-  https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/:
-    resolved_url: https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:46+00:00'
-  https://www.throughthefibrofog.com/vegetable-rice-soup/:
-    resolved_url: https://www.throughthefibrofog.com/vegetable-rice-soup/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:47+00:00'
-  ? https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
-  : resolved_url: https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:52+00:00'
-  https://www.painscience.com/blog/low-dose-naltrexone-for-long-covid.html:
-    resolved_url: https://www.painscience.com/blog/low-dose-naltrexone-for-long-covid.html
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:53+00:00'
-  https://www.healthrising.org/blog/2026/11/16/cromolyn-mcas-me-cfs-pots/:
-    resolved_url: https://www.healthrising.org/blog/2026/11/16/cromolyn-mcas-me-cfs-pots/
-    endpoint: ''
-    checked_at: '2026-11-21T09:31:54+00:00'
-  https://meassociation.org.uk/2026/11/important-court-judgement-relating-to-a-child-with-me/:
-    resolved_url: https://meassociation.org.uk/2026/11/important-court-judgement-relating-to-a-child-with-me/
-    endpoint: ''
-    checked_at: '2026-11-21T09:32:01+00:00'
-  https://www.youtube.com/watch?v=vBY7f1h60Ns:
-    resolved_url: https://www.youtube.com/watch?v=vBY7f1h60Ns
-    endpoint: ''
-    checked_at: '2026-11-21T09:32:01+00:00'
-  https://www.youtube.com/watch?v=1yHfgySL0XY:
-    resolved_url: https://www.youtube.com/watch?v=1yHfgySL0XY
-    endpoint: ''
-    checked_at: '2026-11-21T09:32:01+00:00'
-  https://blog.avas.space/what-i-read-46-2026/:
-    resolved_url: https://blog.avas.space/what-i-read-46-2026/
-    endpoint: ''
-    checked_at: '2026-11-21T09:32:01+00:00'
-  https://blog.avas.space/illness-me-time/:
-    resolved_url: https://blog.avas.space/illness-me-time/
-    endpoint: ''
-    checked_at: '2026-11-21T09:32:02+00:00'
   https://www.eleanorsteinmd.ca/blog/creatine:
     resolved_url: https://www.eleanorsteinmd.ca/blog/creatine
     endpoint: ''
@@ -2040,3 +1972,71 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=x__lKS9CV1o
     endpoint: ''
     checked_at: '2026-11-21T09:32:02+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-11-22T11:04:11+00:00'
+  https://www.youtube.com/watch?v=7LhiqjwdmOs:
+    resolved_url: https://www.youtube.com/watch?v=7LhiqjwdmOs
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:12+00:00'
+  https://www.eleanorsteinmd.ca/blog/creatine-pt2:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/creatine-pt2
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:13+00:00'
+  https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/:
+    resolved_url: https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:14+00:00'
+  https://blog.avas.space/workplace-equality/:
+    resolved_url: https://blog.avas.space/workplace-equality/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:15+00:00'
+  https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:15+00:00'
+  https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/:
+    resolved_url: https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:16+00:00'
+  https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/:
+    resolved_url: https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:16+00:00'
+  https://www.throughthefibrofog.com/vegetable-rice-soup/:
+    resolved_url: https://www.throughthefibrofog.com/vegetable-rice-soup/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:16+00:00'
+  ? https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
+  : resolved_url: https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:17+00:00'
+  https://www.painscience.com/blog/low-dose-naltrexone-for-long-covid.html:
+    resolved_url: https://www.painscience.com/blog/low-dose-naltrexone-for-long-covid.html
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:17+00:00'
+  https://www.healthrising.org/blog/2026/11/16/cromolyn-mcas-me-cfs-pots/:
+    resolved_url: https://www.healthrising.org/blog/2026/11/16/cromolyn-mcas-me-cfs-pots/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:19+00:00'
+  https://meassociation.org.uk/2026/11/important-court-judgement-relating-to-a-child-with-me/:
+    resolved_url: https://meassociation.org.uk/2026/11/important-court-judgement-relating-to-a-child-with-me/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:19+00:00'
+  https://www.youtube.com/watch?v=vBY7f1h60Ns:
+    resolved_url: https://www.youtube.com/watch?v=vBY7f1h60Ns
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:20+00:00'
+  https://www.youtube.com/watch?v=1yHfgySL0XY:
+    resolved_url: https://www.youtube.com/watch?v=1yHfgySL0XY
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:20+00:00'
+  https://blog.avas.space/what-i-read-46-2026/:
+    resolved_url: https://blog.avas.space/what-i-read-46-2026/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:20+00:00'
+  https://blog.avas.space/illness-me-time/:
+    resolved_url: https://blog.avas.space/illness-me-time/
+    endpoint: ''
+    checked_at: '2026-11-22T11:04:20+00:00'
