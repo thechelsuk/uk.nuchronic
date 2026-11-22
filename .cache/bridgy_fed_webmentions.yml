@@ -7362,10 +7362,12 @@ posts:
       updated_at: '2026-11-22T11:04:11+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-22T11:04:11+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-22T11:56:05+00:00'
   non-toxic-home-course-is-updated-time-limited-deal-ee3a5a4d0f:
     source_url: https://nuchronic.uk/item/non-toxic-home-course-is-updated-time-limited-deal-ee3a5a4d0f/
     bridgy:
@@ -7374,7 +7376,21 @@ posts:
       updated_at: '2026-11-22T11:04:12+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-22T11:04:12+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-22T11:56:04+00:00'
+  being-heumann-2026-review-why-are-disabled-people-still-fighting-for-the-right-t-eef29656cf:
+    source_url: https://nuchronic.uk/item/being-heumann-2026-review-why-are-disabled-people-still-fighting-for-the-right-t-eef29656cf/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-22T11:56:04+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-22T11:56:04+00:00'
       verified_targets:
       - ap
