@@ -12,10 +12,18 @@
                 <main class="content-main">
                     {% if page.url == '/' %}
                     <div class="visually-hidden site-h-card h-card">
-                        <a class="p-name u-url" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
-                        <img class="u-photo" src="{{ '/assets/icons/apple-touch-icon.png' | absolute_url }}"
+                        <a class="p-name u-url" rel="me" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
+                        <img class="u-photo" src="{{ '/assets/icons/icon-512.png' | absolute_url }}"
                             alt="{{ site.title }}">
-                        <p class="p-note">{{ site.description }}</p>
+                        <img class="u-featured" src="{{ '/assets/social/og-image.png' | absolute_url }}"
+                            alt="{{ site.title }}">
+                        <p class="p-note">{{ site.description }} The Nuchronic app for iPhone and iPad tracks energy and symptoms for ME/CFS, long COVID and chronic illness.</p>
+                        <a class="u-url" rel="me" href="{{ '/app' | absolute_url }}">Nuchronic app</a>
+                        <a class="u-url" rel="me" href="https://apps.apple.com/gb/app/nuchronic-energy-symptoms/id6817007686?pt=127889770&ct=marketing&mt=8">App Store</a>
+                        <a class="u-url" rel="me" href="https://web.brid.gy/nuchronic.uk">@nuchronic.uk</a>
+                        <a class="u-url" rel="me" href="https://thechels.uk">thechels.uk</a>
+                        <a class="u-url" rel="me" href="https://github.com/thechelsuk">GitHub</a>
+                        <a class="u-url" rel="me" href="https://ko-fi.com/thechelsuk">Ko-fi</a>
                     </div>
                     {% endif %}
                     {{ content }}
