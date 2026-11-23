@@ -7396,3 +7396,27 @@ posts:
       - ap
       - bsky
       verified_at: '2026-11-22T15:10:49+00:00'
+  december-writing-prompts-for-people-with-chronic-illness-disability-2026-edition-5e7a77f423:
+    source_url: https://nuchronic.uk/item/december-writing-prompts-for-people-with-chronic-illness-disability-2026-edition-5e7a77f423/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-23T21:07:21+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-23T21:07:21+00:00'
+      verified_targets:
+      - ap
+  what-i-read-this-week-week-47-2026-6b2bcf3f01:
+    source_url: https://nuchronic.uk/item/what-i-read-this-week-week-47-2026-6b2bcf3f01/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-23T21:07:22+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-23T21:07:22+00:00'
+      verified_targets:
+      - ap
