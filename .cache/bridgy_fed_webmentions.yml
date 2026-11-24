@@ -7432,7 +7432,57 @@ posts:
       updated_at: '2026-11-24T09:22:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-24T09:22:31+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-24T17:25:33+00:00'
+  10-high-fiber-smoothie-recipes-that-taste-great-44856f8c6c:
+    source_url: https://nuchronic.uk/item/10-high-fiber-smoothie-recipes-that-taste-great-44856f8c6c/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-24T17:25:23+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-24T17:25:23+00:00'
+      verified_targets:
+      - ap
+  is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care-8d6a12575b:
+    source_url: https://nuchronic.uk/item/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care-8d6a12575b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-24T17:25:24+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-24T17:25:26+00:00'
+      verified_targets:
+      - ap
+  mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-sc-602e3d9f04:
+    source_url: https://nuchronic.uk/item/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-sc-602e3d9f04/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-24T17:25:29+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-24T17:25:29+00:00'
+      verified_targets:
+      - ap
+  raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-nat-1436940f0b:
+    source_url: https://nuchronic.uk/item/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-nat-1436940f0b/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-24T17:25:31+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-24T17:25:32+00:00'
       verified_targets:
       - ap
