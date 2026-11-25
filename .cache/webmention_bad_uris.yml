@@ -1628,75 +1628,79 @@ targets:
     resolved_url: https://www.throughthefibrofog.com/vegetable-rice-soup/
     reason: no-endpoint
     checked_at: '2026-11-25T02:11:28+00:00'
-  https://meassociation.org.uk/2026/11/the-timms-reviews-final-report-has-been-published/:
-    resolved_url: https://meassociation.org.uk/2026/11/the-timms-reviews-final-report-has-been-published/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:28+00:00'
-  https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
-    resolved_url: https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:29+00:00'
-  ? https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
-  : resolved_url: https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:35+00:00'
-  ? https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
-  : resolved_url: https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:35+00:00'
-  https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
-    resolved_url: https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:35+00:00'
-  https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/:
-    resolved_url: https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:35+00:00'
-  https://blog.avas.space/what-i-read-47-2026/:
-    resolved_url: https://blog.avas.space/what-i-read-47-2026/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:35+00:00'
-  https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/:
-    resolved_url: https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:37+00:00'
-  https://alishawhittam.com/being-heumann-2026-review/:
-    resolved_url: https://alishawhittam.com/being-heumann-2026-review/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:38+00:00'
-  https://www.youtube.com/watch?v=7LhiqjwdmOs:
-    resolved_url: https://www.youtube.com/watch?v=7LhiqjwdmOs
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:38+00:00'
-  https://www.eleanorsteinmd.ca/blog/creatine-pt2:
-    resolved_url: https://www.eleanorsteinmd.ca/blog/creatine-pt2
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:39+00:00'
-  https://corinnesegura.substack.com/p/non-toxic-home-course-is-updated:
-    resolved_url: https://corinnesegura.substack.com/p/non-toxic-home-course-is-updated
-    reason: discovery-http-403
-    checked_at: '2026-11-25T12:29:39+00:00'
-  https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/:
-    resolved_url: https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:39+00:00'
-  https://blog.avas.space/workplace-equality/:
-    resolved_url: https://blog.avas.space/workplace-equality/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:39+00:00'
-  https://colleensteckelmeiccinfo.substack.com/p/season-change-2026-living-with-myalgic:
-    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/season-change-2026-living-with-myalgic
-    reason: discovery-http-403
-    checked_at: '2026-11-25T12:29:39+00:00'
-  https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/:
-    resolved_url: https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:44+00:00'
-  https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/:
-    resolved_url: https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/
-    reason: no-endpoint
-    checked_at: '2026-11-25T12:29:44+00:00'
   https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/:
     resolved_url: https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/
     reason: no-endpoint
     checked_at: '2026-11-25T12:29:44+00:00'
+  https://www.healthrising.org/blog/2026/11/25/melissa-venous-compression-me-cfs/:
+    resolved_url: https://www.healthrising.org/blog/2026/11/25/melissa-venous-compression-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:15+00:00'
+  https://meassociation.org.uk/2026/11/the-timms-reviews-final-report-has-been-published/:
+    resolved_url: https://meassociation.org.uk/2026/11/the-timms-reviews-final-report-has-been-published/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:23+00:00'
+  https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
+    resolved_url: https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:24+00:00'
+  ? https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
+  : resolved_url: https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:32+00:00'
+  ? https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
+  : resolved_url: https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:32+00:00'
+  https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
+    resolved_url: https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:32+00:00'
+  https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/:
+    resolved_url: https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:32+00:00'
+  https://blog.avas.space/what-i-read-47-2026/:
+    resolved_url: https://blog.avas.space/what-i-read-47-2026/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:32+00:00'
+  https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/:
+    resolved_url: https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:33+00:00'
+  https://alishawhittam.com/being-heumann-2026-review/:
+    resolved_url: https://alishawhittam.com/being-heumann-2026-review/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:33+00:00'
+  https://www.youtube.com/watch?v=7LhiqjwdmOs:
+    resolved_url: https://www.google.com/sorry/index?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7LhiqjwdmOs&q=EgQDKp2LGLG-ndgGIjCLN2o4GwwD9l6tk3pPJUuznPi0pndbNFk4t7Kpu5h7DBl4jMHskCm9KVFB9u85kvAyAnJSWgFDYM21yIG3w5T0YA
+    reason: discovery-http-429
+    checked_at: '2026-11-25T22:20:33+00:00'
+  https://www.eleanorsteinmd.ca/blog/creatine-pt2:
+    resolved_url: https://www.eleanorsteinmd.ca/blog/creatine-pt2
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:34+00:00'
+  https://corinnesegura.substack.com/p/non-toxic-home-course-is-updated:
+    resolved_url: https://corinnesegura.substack.com/p/non-toxic-home-course-is-updated
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:34+00:00'
+  https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/:
+    resolved_url: https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:34+00:00'
+  https://blog.avas.space/workplace-equality/:
+    resolved_url: https://blog.avas.space/workplace-equality/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:34+00:00'
+  https://colleensteckelmeiccinfo.substack.com/p/season-change-2026-living-with-myalgic:
+    resolved_url: https://colleensteckelmeiccinfo.substack.com/p/season-change-2026-living-with-myalgic
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:35+00:00'
+  https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/:
+    resolved_url: https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:44+00:00'
+  https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/:
+    resolved_url: https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/
+    reason: no-endpoint
+    checked_at: '2026-11-25T22:20:45+00:00'
