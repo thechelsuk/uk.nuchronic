@@ -7446,10 +7446,12 @@ posts:
       updated_at: '2026-11-24T17:25:23+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-24T17:25:23+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-25T02:11:21+00:00'
   is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care-8d6a12575b:
     source_url: https://nuchronic.uk/item/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care-8d6a12575b/
     bridgy:
@@ -7458,10 +7460,12 @@ posts:
       updated_at: '2026-11-24T17:25:24+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-24T17:25:26+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-25T02:11:21+00:00'
   mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-sc-602e3d9f04:
     source_url: https://nuchronic.uk/item/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-sc-602e3d9f04/
     bridgy:
@@ -7470,10 +7474,12 @@ posts:
       updated_at: '2026-11-24T17:25:29+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-24T17:25:29+00:00'
       verified_targets:
       - ap
+      - bsky
+      verified_at: '2026-11-25T02:11:20+00:00'
   raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-nat-1436940f0b:
     source_url: https://nuchronic.uk/item/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-nat-1436940f0b/
     bridgy:
@@ -7482,7 +7488,21 @@ posts:
       updated_at: '2026-11-24T17:25:31+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-24T17:25:32+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-25T02:11:19+00:00'
+  what-somatic-healing-in-chronic-illness-looks-like-putting-the-7-exercises-into-b243b9e844:
+    source_url: https://nuchronic.uk/item/what-somatic-healing-in-chronic-illness-looks-like-putting-the-7-exercises-into-b243b9e844/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-25T02:11:17+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-25T02:11:17+00:00'
       verified_targets:
       - ap

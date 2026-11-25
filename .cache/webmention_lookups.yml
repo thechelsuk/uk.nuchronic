@@ -1988,54 +1988,50 @@ targets:
     resolved_url: https://www.youtube.com/watch?v=1yHfgySL0XY
     endpoint: ''
     checked_at: '2026-11-23T21:07:35+00:00'
-  https://fed.brid.gy/:
-    resolved_url: https://fed.brid.gy/
-    endpoint: https://fed.brid.gy/webmention
-    checked_at: '2026-11-24T09:22:31+00:00'
   https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
     resolved_url: https://virology.ws/2026/11/24/trial-by-error-is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:34+00:00'
+    checked_at: '2026-11-25T02:11:19+00:00'
   https://blog.avas.space/what-i-read-47-2026/:
     resolved_url: https://blog.avas.space/what-i-read-47-2026/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:34+00:00'
+    checked_at: '2026-11-25T02:11:22+00:00'
   https://alishawhittam.com/being-heumann-2026-review/:
     resolved_url: https://alishawhittam.com/being-heumann-2026-review/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:36+00:00'
+    checked_at: '2026-11-25T02:11:23+00:00'
   https://www.youtube.com/watch?v=7LhiqjwdmOs:
     resolved_url: https://www.youtube.com/watch?v=7LhiqjwdmOs
     endpoint: ''
-    checked_at: '2026-11-24T17:25:36+00:00'
+    checked_at: '2026-11-25T02:11:23+00:00'
   https://www.eleanorsteinmd.ca/blog/creatine-pt2:
     resolved_url: https://www.eleanorsteinmd.ca/blog/creatine-pt2
     endpoint: ''
-    checked_at: '2026-11-24T17:25:37+00:00'
+    checked_at: '2026-11-25T02:11:24+00:00'
   https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/:
     resolved_url: https://thesicktimes.org/2026/11/19/olympic-sprinter-beth-dobbin-on-her-viral-me-research-campaign/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:37+00:00'
+    checked_at: '2026-11-25T02:11:24+00:00'
   https://blog.avas.space/workplace-equality/:
     resolved_url: https://blog.avas.space/workplace-equality/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:37+00:00'
+    checked_at: '2026-11-25T02:11:24+00:00'
   https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/:
     resolved_url: https://meassociation.org.uk/2026/11/research-update-feasibility-trial-vagus-nerve-stimulation-in-me-cfs/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:39+00:00'
+    checked_at: '2026-11-25T02:11:27+00:00'
   https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/:
     resolved_url: https://despitepain.com/2026/11/18/scoliosis-back-pain-iliocostal-friction-syndrome/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:39+00:00'
+    checked_at: '2026-11-25T02:11:28+00:00'
   https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/:
     resolved_url: https://thesicktimes.org/2026/11/17/why-are-there-no-clinical-guidelines-for-kids-with-long-covid/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:39+00:00'
+    checked_at: '2026-11-25T02:11:28+00:00'
   https://www.throughthefibrofog.com/vegetable-rice-soup/:
     resolved_url: https://www.throughthefibrofog.com/vegetable-rice-soup/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:40+00:00'
+    checked_at: '2026-11-25T02:11:28+00:00'
   ? https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
   : resolved_url: https://meassociation.org.uk/2026/11/milburn-report-published-new-report-sets-out-plans-to-address-young-people-not-in-education-employment-or-training/
     endpoint: ''
@@ -2059,16 +2055,24 @@ targets:
   https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/:
     resolved_url: https://www.throughthefibrofog.com/high-fiber-smoothie-recipes/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:23+00:00'
+    checked_at: '2026-11-25T02:11:21+00:00'
   https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/:
     resolved_url: https://trialbyerror.org/2026/11/23/is-rehabilitation-a-misnomer-in-me-cfs-and-long-covid-care/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:26+00:00'
+    checked_at: '2026-11-25T02:11:21+00:00'
   ? https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
   : resolved_url: https://thesicktimes.org/2026/11/24/mouse-models-could-be-the-next-step-toward-understanding-long-covid-heres-how-scientists-are-developing-them/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:31+00:00'
+    checked_at: '2026-11-25T02:11:20+00:00'
   ? https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
   : resolved_url: https://meassociation.org.uk/2026/11/raising-awareness-through-theatre-two-trustees-watch-a-powerful-play-set-for-national-tour/
     endpoint: ''
-    checked_at: '2026-11-24T17:25:33+00:00'
+    checked_at: '2026-11-25T02:11:20+00:00'
+  https://fed.brid.gy/:
+    resolved_url: https://fed.brid.gy/
+    endpoint: https://fed.brid.gy/webmention
+    checked_at: '2026-11-25T02:11:17+00:00'
+  https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/:
+    resolved_url: https://chronicillnesstraumastudies.com/somatic-healing-chronic-illness-example/
+    endpoint: ''
+    checked_at: '2026-11-25T02:11:18+00:00'
