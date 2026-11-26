@@ -7544,7 +7544,21 @@ posts:
       updated_at: '2026-11-26T14:55:47+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-26T14:55:47+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-26T23:40:37+00:00'
+  the-me-association-chairmans-statement-2026-2cd88a2b04:
+    source_url: https://nuchronic.uk/item/the-me-association-chairmans-statement-2026-2cd88a2b04/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-26T23:40:35+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-26T23:40:35+00:00'
       verified_targets:
       - ap
