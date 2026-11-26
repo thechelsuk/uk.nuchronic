@@ -7530,7 +7530,21 @@ posts:
       updated_at: '2026-11-25T22:20:13+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-25T22:20:14+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-26T14:55:47+00:00'
+  lbc-radio-long-covid-and-the-timms-review-of-pip-756e083faf:
+    source_url: https://nuchronic.uk/item/lbc-radio-long-covid-and-the-timms-review-of-pip-756e083faf/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-26T14:55:47+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-26T14:55:47+00:00'
       verified_targets:
       - ap
