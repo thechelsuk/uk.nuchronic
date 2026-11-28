@@ -7572,7 +7572,21 @@ posts:
       updated_at: '2026-11-28T01:19:27+00:00'
       endpoint: https://fed.brid.gy/webmention
       response_status: 202
-      status: accepted
+      status: success
       accepted_at: '2026-11-28T01:19:27+00:00'
+      verified_targets:
+      - ap
+      - bsky
+      verified_at: '2026-11-28T10:05:17+00:00'
+  bbc-radio-wales-very-severe-me-cfs-f3e1188c91:
+    source_url: https://nuchronic.uk/item/bbc-radio-wales-very-severe-me-cfs-f3e1188c91/
+    bridgy:
+      target_url: https://fed.brid.gy/
+      resolved_url: https://fed.brid.gy/
+      updated_at: '2026-11-28T10:05:16+00:00'
+      endpoint: https://fed.brid.gy/webmention
+      response_status: 202
+      status: accepted
+      accepted_at: '2026-11-28T10:05:17+00:00'
       verified_targets:
       - ap
